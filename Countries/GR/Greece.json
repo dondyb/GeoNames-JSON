@@ -1,0 +1,240 @@
+{
+    "country_name": "Greece",
+    "country_id": "GR",
+    "provinces": [
+        {
+            "province_name": "Mount Athos",
+            "cities": []
+        },
+        {
+            "province_name": "Attica",
+            "cities": [
+                {
+                    "city_name": "Nomos Attikis"
+                },
+                {
+                    "city_name": "Nomos Piraios"
+                },
+                {
+                    "city_name": "Nomarchia Anatolikis Attikis"
+                },
+                {
+                    "city_name": "Nomarchia Dytikis Attikis"
+                },
+                {
+                    "city_name": "Nomarchia Athinas"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Greece",
+            "cities": [
+                {
+                    "city_name": "Nomos Voiotias"
+                },
+                {
+                    "city_name": "Nomos Fthiotidos"
+                },
+                {
+                    "city_name": "Nomos Fokidos"
+                },
+                {
+                    "city_name": "Nomos Evvoias"
+                },
+                {
+                    "city_name": "Nomos Evrytanias"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Macedonia",
+            "cities": [
+                {
+                    "city_name": "Nomos Thessalonikis"
+                },
+                {
+                    "city_name": "Nomos Serron"
+                },
+                {
+                    "city_name": "Nomos Pierias"
+                },
+                {
+                    "city_name": "Nomos Pellis"
+                },
+                {
+                    "city_name": "Nomos Kilkis"
+                },
+                {
+                    "city_name": "Nomos Chalkidikis"
+                },
+                {
+                    "city_name": "Nomos Imathias"
+                }
+            ]
+        },
+        {
+            "province_name": "Crete",
+            "cities": [
+                {
+                    "city_name": "Nomos Rethymnis"
+                },
+                {
+                    "city_name": "Nomos Lasithiou"
+                },
+                {
+                    "city_name": "Nomos Chanias"
+                },
+                {
+                    "city_name": "Nomos Irakleiou"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Macedonia and Thrace",
+            "cities": [
+                {
+                    "city_name": "Nomos Xanthis"
+                },
+                {
+                    "city_name": "Nomos Rodopis"
+                },
+                {
+                    "city_name": "Nomos Kavalas"
+                },
+                {
+                    "city_name": "Nomos Evrou"
+                },
+                {
+                    "city_name": "Nomos Dramas"
+                }
+            ]
+        },
+        {
+            "province_name": "Epirus",
+            "cities": [
+                {
+                    "city_name": "Nomos Thesprotias"
+                },
+                {
+                    "city_name": "Nomos Prevezis"
+                },
+                {
+                    "city_name": "Nomos Ioanninon"
+                },
+                {
+                    "city_name": "Nomos Artas"
+                }
+            ]
+        },
+        {
+            "province_name": "Ionian Islands",
+            "cities": [
+                {
+                    "city_name": "Nomos Zakynthou"
+                },
+                {
+                    "city_name": "Lefkada"
+                },
+                {
+                    "city_name": "Nomos Kefallinias"
+                },
+                {
+                    "city_name": "Nomos Kerkyras"
+                }
+            ]
+        },
+        {
+            "province_name": "North Aegean",
+            "cities": [
+                {
+                    "city_name": "Nomos Samou"
+                },
+                {
+                    "city_name": "Nomos Lesvou"
+                },
+                {
+                    "city_name": "Chios"
+                }
+            ]
+        },
+        {
+            "province_name": "Peloponnese",
+            "cities": [
+                {
+                    "city_name": "Nomos Messinias"
+                },
+                {
+                    "city_name": "Nomos Lakonias"
+                },
+                {
+                    "city_name": "Nomos Korinthias"
+                },
+                {
+                    "city_name": "Nomos Arkadias"
+                },
+                {
+                    "city_name": "Nomos Argolidos"
+                }
+            ]
+        },
+        {
+            "province_name": "South Aegean",
+            "cities": [
+                {
+                    "city_name": "Nomos Kykladon"
+                },
+                {
+                    "city_name": "Dodecanese"
+                }
+            ]
+        },
+        {
+            "province_name": "Thessaly",
+            "cities": [
+                {
+                    "city_name": "Trikala"
+                },
+                {
+                    "city_name": "Nomos Magnisias"
+                },
+                {
+                    "city_name": "Nomos Larisis"
+                },
+                {
+                    "city_name": "Nomos Kardhitsas"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Greece",
+            "cities": [
+                {
+                    "city_name": "Nomos Ileias"
+                },
+                {
+                    "city_name": "Nomos Achaias"
+                },
+                {
+                    "city_name": "Nomos Aitolias kai Akarnanias"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Macedonia",
+            "cities": [
+                {
+                    "city_name": "Nomos Kozanis"
+                },
+                {
+                    "city_name": "Nomos Kastorias"
+                },
+                {
+                    "city_name": "Nomos Grevenon"
+                },
+                {
+                    "city_name": "Nomos Florinis"
+                }
+            ]
+        }
+    ]
+}

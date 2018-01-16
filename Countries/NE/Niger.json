@@ -1,0 +1,180 @@
+{
+    "country_name": "Niger",
+    "country_id": "NE",
+    "provinces": [
+        {
+            "province_name": "Zinder",
+            "cities": [
+                {
+                    "city_name": "Departement de Tanout"
+                },
+                {
+                    "city_name": "Departement de Mirria"
+                },
+                {
+                    "city_name": "Departement de Matameye"
+                },
+                {
+                    "city_name": "Departement de Magaria"
+                },
+                {
+                    "city_name": "Departement de Goure"
+                },
+                {
+                    "city_name": "Mirriah Department"
+                },
+                {
+                    "city_name": "Magaria Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Tahoua",
+            "cities": [
+                {
+                    "city_name": "Departement de Tchin-Tabaraden"
+                },
+                {
+                    "city_name": "Departement de Tahoua"
+                },
+                {
+                    "city_name": "Departement de Madaoua"
+                },
+                {
+                    "city_name": "Departement de Keita"
+                },
+                {
+                    "city_name": "Departement d' Illela"
+                },
+                {
+                    "city_name": "Departement de Bouza"
+                },
+                {
+                    "city_name": "Departement de Birni Nkonni"
+                },
+                {
+                    "city_name": "Abalak"
+                }
+            ]
+        },
+        {
+            "province_name": "Maradi",
+            "cities": [
+                {
+                    "city_name": "Departement de Tessaoua"
+                },
+                {
+                    "city_name": "Departement de Mayahi"
+                },
+                {
+                    "city_name": "Departement de Maradi"
+                },
+                {
+                    "city_name": "Departement de Dakoro"
+                },
+                {
+                    "city_name": "Guidan Roumdji Department"
+                },
+                {
+                    "city_name": "Departement d'Aguie"
+                },
+                {
+                    "city_name": "Madarounfa"
+                }
+            ]
+        },
+        {
+            "province_name": "Dosso Region",
+            "cities": [
+                {
+                    "city_name": "Departement de Loga"
+                },
+                {
+                    "city_name": "Departement de Gaya"
+                },
+                {
+                    "city_name": "Departement de Dosso"
+                },
+                {
+                    "city_name": "Departement de Dogondoutchi"
+                },
+                {
+                    "city_name": "Departement du Boboye"
+                },
+                {
+                    "city_name": "Boboye Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Diffa",
+            "cities": [
+                {
+                    "city_name": "Departement de Nguigmi"
+                },
+                {
+                    "city_name": "Departement de Maine-Soroa"
+                },
+                {
+                    "city_name": "Departement de Diffa"
+                }
+            ]
+        },
+        {
+            "province_name": "Agadez",
+            "cities": [
+                {
+                    "city_name": "Departement de Bilma"
+                },
+                {
+                    "city_name": "Departement d' Agadez"
+                },
+                {
+                    "city_name": "Arlit"
+                },
+                {
+                    "city_name": "Departement de Tchirozerine"
+                },
+                {
+                    "city_name": "El Mina"
+                }
+            ]
+        },
+        {
+            "province_name": "Tillaberi Region",
+            "cities": []
+        },
+        {
+            "province_name": "Niamey",
+            "cities": [
+                {
+                    "city_name": "Departement de Tillaberi"
+                },
+                {
+                    "city_name": "Departement de Tera"
+                },
+                {
+                    "city_name": "Departement de Say"
+                },
+                {
+                    "city_name": "Departement de Ouallam"
+                },
+                {
+                    "city_name": "Departement de Niamey"
+                },
+                {
+                    "city_name": "Departement de Filingue"
+                },
+                {
+                    "city_name": "Tillaberi Department"
+                },
+                {
+                    "city_name": "Tera Department"
+                },
+                {
+                    "city_name": "Kollo Department"
+                }
+            ]
+        }
+    ]
+}

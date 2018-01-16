@@ -1,0 +1,62 @@
+{
+    "country_name": "Saint Kitts and Nevis",
+    "country_id": "KN",
+    "provinces": [
+        {
+            "province_name": "Trinity Palmetto Point",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Thomas Middle Island",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Thomas Lowland",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Peter Basseterre",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Paul Charlestown",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Paul Capesterre",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Mary Cayon",
+            "cities": []
+        },
+        {
+            "province_name": "Saint John Figtree",
+            "cities": []
+        },
+        {
+            "province_name": "Saint John Capesterre",
+            "cities": []
+        },
+        {
+            "province_name": "Saint James Windward",
+            "cities": []
+        },
+        {
+            "province_name": "Saint George Gingerland",
+            "cities": []
+        },
+        {
+            "province_name": "Saint George Basseterre",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Anne Sandy Point",
+            "cities": []
+        },
+        {
+            "province_name": "Christ Church Nichola Town",
+            "cities": []
+        }
+    ]
+}

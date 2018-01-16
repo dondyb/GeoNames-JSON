@@ -1,0 +1,53 @@
+{
+    "country_name": "Solomon Islands",
+    "country_id": "SB",
+    "provinces": [
+        {
+            "province_name": "Western Province",
+            "cities": [
+                {
+                    "city_name": "Munda"
+                },
+                {
+                    "city_name": "Noro"
+                }
+            ]
+        },
+        {
+            "province_name": "Malaita Province",
+            "cities": []
+        },
+        {
+            "province_name": "Isabel Province",
+            "cities": []
+        },
+        {
+            "province_name": "Guadalcanal Province",
+            "cities": []
+        },
+        {
+            "province_name": "Central Province",
+            "cities": []
+        },
+        {
+            "province_name": "Temotu Province",
+            "cities": []
+        },
+        {
+            "province_name": "Makira-Ulawa Province",
+            "cities": []
+        },
+        {
+            "province_name": "Choiseul",
+            "cities": []
+        },
+        {
+            "province_name": "Rennell and Bellona",
+            "cities": []
+        },
+        {
+            "province_name": "Honiara",
+            "cities": []
+        }
+    ]
+}

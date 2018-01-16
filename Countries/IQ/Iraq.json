@@ -1,0 +1,516 @@
+{
+    "country_name": "Iraq",
+    "country_id": "IQ",
+    "provinces": [
+        {
+            "province_name": "Muhafazat al Basrah",
+            "cities": [
+                {
+                    "city_name": "Al-Zubair District"
+                },
+                {
+                    "city_name": "Al-Qurna District"
+                },
+                {
+                    "city_name": "Basrah District"
+                },
+                {
+                    "city_name": "Abu Al-Khaseeb District"
+                },
+                {
+                    "city_name": "Al-Faw District"
+                },
+                {
+                    "city_name": "Al-Midaina District"
+                },
+                {
+                    "city_name": "Qada' al Madinah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Wasit",
+            "cities": [
+                {
+                    "city_name": "Badra District"
+                },
+                {
+                    "city_name": "Al-Suwaira District"
+                },
+                {
+                    "city_name": "Kut District"
+                },
+                {
+                    "city_name": "Al-Hai District"
+                },
+                {
+                    "city_name": "Al-Na'maniya District"
+                },
+                {
+                    "city_name": "Qada Al-Azezia"
+                },
+                {
+                    "city_name": "Qada' al `Aziziyah"
+                },
+                {
+                    "city_name": "Qada' an Nu`maniyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Salah ad Din",
+            "cities": [
+                {
+                    "city_name": "Tikrit District"
+                },
+                {
+                    "city_name": "Qada' Samarra'"
+                },
+                {
+                    "city_name": "Al-Daur District"
+                },
+                {
+                    "city_name": "Al-Shirqat District"
+                },
+                {
+                    "city_name": "Balad District"
+                },
+                {
+                    "city_name": "Baiji District"
+                },
+                {
+                    "city_name": "Tooz District"
+                },
+                {
+                    "city_name": "Al-Faris"
+                },
+                {
+                    "city_name": "Al-Thethar District"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Ninawa",
+            "cities": [
+                {
+                    "city_name": "Tel Afar District"
+                },
+                {
+                    "city_name": "Shekhan District"
+                },
+                {
+                    "city_name": "Akre District"
+                },
+                {
+                    "city_name": "Hatra District"
+                },
+                {
+                    "city_name": "Al-Hamdaniya District"
+                },
+                {
+                    "city_name": "Al-Ba'aj District"
+                },
+                {
+                    "city_name": "Tel Keppe District"
+                },
+                {
+                    "city_name": "Sinjar"
+                },
+                {
+                    "city_name": "Mosul"
+                },
+                {
+                    "city_name": "Qada' Tallkayf"
+                },
+                {
+                    "city_name": "Qada' Ba`aj"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Maysan",
+            "cities": [
+                {
+                    "city_name": "Qada' Qal`at Salih"
+                },
+                {
+                    "city_name": "Al-Mejar Al-Kabi District"
+                },
+                {
+                    "city_name": "Ali Al-Gharbi District"
+                },
+                {
+                    "city_name": "Amara District"
+                },
+                {
+                    "city_name": "Al Kahla District"
+                },
+                {
+                    "city_name": "Al-Maimouna District"
+                },
+                {
+                    "city_name": "Qada' al Majar al Kabir"
+                },
+                {
+                    "city_name": "Qada' al Maymunah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Karbala'",
+            "cities": [
+                {
+                    "city_name": "Kerbala District"
+                },
+                {
+                    "city_name": "Al-Hindiya District"
+                },
+                {
+                    "city_name": "Ain Al-Tamur District"
+                },
+                {
+                    "city_name": "Qada' `Ayn Tamr"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Arbil",
+            "cities": [
+                {
+                    "city_name": "Makhmur District"
+                },
+                {
+                    "city_name": "Arbil"
+                },
+                {
+                    "city_name": "Mergasur District"
+                },
+                {
+                    "city_name": "Choman District"
+                },
+                {
+                    "city_name": "Koisnjaq district"
+                },
+                {
+                    "city_name": "Shaqlawa"
+                },
+                {
+                    "city_name": "Soran District"
+                },
+                {
+                    "city_name": "Qada' Jawman"
+                },
+                {
+                    "city_name": "Qada' Sawran"
+                },
+                {
+                    "city_name": "Qada' Shaqlawah"
+                },
+                {
+                    "city_name": "Qada' Khabat"
+                },
+                {
+                    "city_name": "Qeza-i Mergasur"
+                },
+                {
+                    "city_name": "Qada' Dashti Hawlayr"
+                },
+                {
+                    "city_name": "Qeza-i Ruwandiz"
+                }
+            ]
+        },
+        {
+            "province_name": "Diyala",
+            "cities": [
+                {
+                    "city_name": "Qada' Kifri"
+                },
+                {
+                    "city_name": "Khanaqin District"
+                },
+                {
+                    "city_name": "Ba'quba District"
+                },
+                {
+                    "city_name": "Al-Muqdadiya District"
+                },
+                {
+                    "city_name": "Al-Khalis District"
+                },
+                {
+                    "city_name": "Qada Balad Ruz"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Dhi Qar",
+            "cities": [
+                {
+                    "city_name": "Suq Al-Shoyokh District"
+                },
+                {
+                    "city_name": "Al-Shatra District"
+                },
+                {
+                    "city_name": "Al-Rifa'i District"
+                },
+                {
+                    "city_name": "Nassriya District"
+                },
+                {
+                    "city_name": "Al-Chibayish District"
+                }
+            ]
+        },
+        {
+            "province_name": "Dihok",
+            "cities": [
+                {
+                    "city_name": "Zakho District"
+                },
+                {
+                    "city_name": "Dohuk District"
+                },
+                {
+                    "city_name": "Adhamiyah"
+                },
+                {
+                    "city_name": "Semel District"
+                },
+                {
+                    "city_name": "Qeza-i Semel"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Baghdad",
+            "cities": [
+                {
+                    "city_name": "Baghdad"
+                },
+                {
+                    "city_name": "Mahmudiya District"
+                },
+                {
+                    "city_name": "Al-Kazimiyyah"
+                },
+                {
+                    "city_name": "Abu Ghraib District"
+                },
+                {
+                    "city_name": "Karkh"
+                },
+                {
+                    "city_name": "Sadr"
+                },
+                {
+                    "city_name": "Taji District"
+                },
+                {
+                    "city_name": "Al Tarmia District"
+                },
+                {
+                    "city_name": "Al Rusafa"
+                },
+                {
+                    "city_name": "Thawra"
+                },
+                {
+                    "city_name": "Al-Mada'in District"
+                },
+                {
+                    "city_name": "Qada' ar Rusafah"
+                },
+                {
+                    "city_name": "Qada' al A`zamiyah"
+                },
+                {
+                    "city_name": "Qada' Abu Ghurayb"
+                },
+                {
+                    "city_name": "Qada' al Mada'in"
+                },
+                {
+                    "city_name": "Qada' at Tarmiyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Babil",
+            "cities": [
+                {
+                    "city_name": "Al-Musayab District"
+                },
+                {
+                    "city_name": "Al-Hilla District"
+                },
+                {
+                    "city_name": "Hashimiya District"
+                },
+                {
+                    "city_name": "Al-Mahawil District"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Kirkuk",
+            "cities": [
+                {
+                    "city_name": "Kirkuk District"
+                },
+                {
+                    "city_name": "Al-Hawija District"
+                },
+                {
+                    "city_name": "Daquq District"
+                },
+                {
+                    "city_name": "Dabes"
+                },
+                {
+                    "city_name": "Qada' Dibis"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat as Sulaymaniyah",
+            "cities": [
+                {
+                    "city_name": "Sharbazher District"
+                },
+                {
+                    "city_name": "Rania District"
+                },
+                {
+                    "city_name": "Pshdar District"
+                },
+                {
+                    "city_name": "Qada' Halabchah"
+                },
+                {
+                    "city_name": "Chamchamal District"
+                },
+                {
+                    "city_name": "Qada' as Sulaymaniyah"
+                },
+                {
+                    "city_name": "Darbandokeh District"
+                },
+                {
+                    "city_name": "Dokan District"
+                },
+                {
+                    "city_name": "Kalar District"
+                },
+                {
+                    "city_name": "Penjwin District"
+                },
+                {
+                    "city_name": "Qada' Darbandikhan"
+                },
+                {
+                    "city_name": "Qeza-i Sharezur"
+                },
+                {
+                    "city_name": "Qeza-i Penciwen"
+                },
+                {
+                    "city_name": "Qeza-i Qeredagh"
+                },
+                {
+                    "city_name": "Qada' Sayyid Sadiq"
+                },
+                {
+                    "city_name": "Qada' Mawat"
+                }
+            ]
+        },
+        {
+            "province_name": "An Najaf",
+            "cities": [
+                {
+                    "city_name": "Najaf District"
+                },
+                {
+                    "city_name": "Al-Manathera District"
+                },
+                {
+                    "city_name": "Kufa"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Qadisiyah",
+            "cities": [
+                {
+                    "city_name": "Qada Al-Shamiya"
+                },
+                {
+                    "city_name": "Afaq District"
+                },
+                {
+                    "city_name": "Qada Diwaniya"
+                },
+                {
+                    "city_name": "Hamza District"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Muthanna",
+            "cities": [
+                {
+                    "city_name": "Al-Samawa District"
+                },
+                {
+                    "city_name": "Al-Salman District"
+                },
+                {
+                    "city_name": "Al-Rumaitha District"
+                },
+                {
+                    "city_name": "Al-Khidir District"
+                },
+                {
+                    "city_name": "Qada' ar Rumaythah"
+                },
+                {
+                    "city_name": "Qada' al Khidr"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Anbar",
+            "cities": [
+                {
+                    "city_name": "Al-Rutba District"
+                },
+                {
+                    "city_name": "Ramadi District"
+                },
+                {
+                    "city_name": "Anah District"
+                },
+                {
+                    "city_name": "Falluja District"
+                },
+                {
+                    "city_name": "Haditha District"
+                },
+                {
+                    "city_name": "Al-Ka'im District"
+                },
+                {
+                    "city_name": "Hit District"
+                },
+                {
+                    "city_name": "Rawah District"
+                },
+                {
+                    "city_name": "Qada' al Qa'im"
+                }
+            ]
+        }
+    ]
+}

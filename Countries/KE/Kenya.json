@@ -1,0 +1,314 @@
+{
+    "country_name": "Kenya",
+    "country_id": "KE",
+    "provinces": [
+        {
+            "province_name": "West Pokot District",
+            "cities": [
+                {
+                    "city_name": "West Potok"
+                }
+            ]
+        },
+        {
+            "province_name": "Wajir District",
+            "cities": []
+        },
+        {
+            "province_name": "Uasin Gishu",
+            "cities": []
+        },
+        {
+            "province_name": "Turkana District",
+            "cities": []
+        },
+        {
+            "province_name": "Trans Nzoia District",
+            "cities": []
+        },
+        {
+            "province_name": "Tharaka District",
+            "cities": [
+                {
+                    "city_name": "Meru South District"
+                }
+            ]
+        },
+        {
+            "province_name": "Tana River District",
+            "cities": []
+        },
+        {
+            "province_name": "Siaya District",
+            "cities": []
+        },
+        {
+            "province_name": "Samburu District",
+            "cities": []
+        },
+        {
+            "province_name": "Nairobi Province",
+            "cities": [
+                {
+                    "city_name": "Nairobi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Murang'a District",
+            "cities": [
+                {
+                    "city_name": "Maragua District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mombasa District",
+            "cities": []
+        },
+        {
+            "province_name": "Meru",
+            "cities": [
+                {
+                    "city_name": "Meru County"
+                },
+                {
+                    "city_name": "South Imenti"
+                }
+            ]
+        },
+        {
+            "province_name": "Marsabit District",
+            "cities": [
+                {
+                    "city_name": "Moyale District"
+                },
+                {
+                    "city_name": "Oloitokitok District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mandera District",
+            "cities": []
+        },
+        {
+            "province_name": "Laikipia District",
+            "cities": []
+        },
+        {
+            "province_name": "Kwale District",
+            "cities": []
+        },
+        {
+            "province_name": "Kitui District",
+            "cities": [
+                {
+                    "city_name": "Mwingi"
+                },
+                {
+                    "city_name": "Kyuso sub-county"
+                }
+            ]
+        },
+        {
+            "province_name": "Kisumu",
+            "cities": [
+                {
+                    "city_name": "Nyando District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kisii District",
+            "cities": [
+                {
+                    "city_name": "Gucha District"
+                },
+                {
+                    "city_name": "Central Kisii"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirinyaga District",
+            "cities": []
+        },
+        {
+            "province_name": "Kilifi District",
+            "cities": [
+                {
+                    "city_name": "Malindi District"
+                },
+                {
+                    "city_name": "Kisii Central"
+                }
+            ]
+        },
+        {
+            "province_name": "Kiambu District",
+            "cities": [
+                {
+                    "city_name": "Thika District"
+                },
+                {
+                    "city_name": "Kiambu County"
+                }
+            ]
+        },
+        {
+            "province_name": "Kericho District",
+            "cities": []
+        },
+        {
+            "province_name": "Kakamega District",
+            "cities": [
+                {
+                    "city_name": "Butere/Mumias District"
+                },
+                {
+                    "city_name": "Lugari District"
+                }
+            ]
+        },
+        {
+            "province_name": "Isiolo District",
+            "cities": [
+                {
+                    "city_name": "Meru North District"
+                }
+            ]
+        },
+        {
+            "province_name": "Garissa District",
+            "cities": [
+                {
+                    "city_name": "Ijara District"
+                }
+            ]
+        },
+        {
+            "province_name": "Embu District",
+            "cities": [
+                {
+                    "city_name": "Mbeere District"
+                }
+            ]
+        },
+        {
+            "province_name": "Busia District",
+            "cities": [
+                {
+                    "city_name": "Teso District"
+                }
+            ]
+        },
+        {
+            "province_name": "Bungoma District",
+            "cities": []
+        },
+        {
+            "province_name": "Baringo District",
+            "cities": []
+        },
+        {
+            "province_name": "Nyandarua District",
+            "cities": []
+        },
+        {
+            "province_name": "Vihiga District",
+            "cities": [
+                {
+                    "city_name": "Emuhaya"
+                }
+            ]
+        },
+        {
+            "province_name": "Lamu",
+            "cities": [
+                {
+                    "city_name": "Lamu District"
+                }
+            ]
+        },
+        {
+            "province_name": "Machakos District",
+            "cities": [
+                {
+                    "city_name": "Matungulu Location"
+                }
+            ]
+        },
+        {
+            "province_name": "Makueni District",
+            "cities": []
+        },
+        {
+            "province_name": "Marakwet District",
+            "cities": []
+        },
+        {
+            "province_name": "Taita Taveta District",
+            "cities": []
+        },
+        {
+            "province_name": "Kajiado District",
+            "cities": [
+                {
+                    "city_name": "Rarieda"
+                }
+            ]
+        },
+        {
+            "province_name": "Nyeri District",
+            "cities": []
+        },
+        {
+            "province_name": "Homa Bay District",
+            "cities": [
+                {
+                    "city_name": "Suba District"
+                },
+                {
+                    "city_name": "Rachuonyo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Bomet District",
+            "cities": []
+        },
+        {
+            "province_name": "Migori District",
+            "cities": [
+                {
+                    "city_name": "Kuria"
+                }
+            ]
+        },
+        {
+            "province_name": "Nakuru District",
+            "cities": []
+        },
+        {
+            "province_name": "Narok District",
+            "cities": [
+                {
+                    "city_name": "Trans Mara District"
+                }
+            ]
+        },
+        {
+            "province_name": "Nyamira District",
+            "cities": []
+        },
+        {
+            "province_name": "Nandi South District",
+            "cities": [
+                {
+                    "city_name": "Nandi North District"
+                }
+            ]
+        }
+    ]
+}

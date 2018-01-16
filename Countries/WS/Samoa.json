@@ -1,0 +1,96 @@
+{
+    "country_name": "Samoa",
+    "country_id": "WS",
+    "provinces": [
+        {
+            "province_name": "Vaisigano",
+            "cities": []
+        },
+        {
+            "province_name": "Va'a-o-Fonoti",
+            "cities": []
+        },
+        {
+            "province_name": "Tuamasaga",
+            "cities": [
+                {
+                    "city_name": "Faleata West"
+                },
+                {
+                    "city_name": "Sagaga le Falefa"
+                },
+                {
+                    "city_name": "Sagaga Le Usoga"
+                },
+                {
+                    "city_name": "Leauvaa"
+                },
+                {
+                    "city_name": "Faleata East"
+                },
+                {
+                    "city_name": "Vaimauga West"
+                },
+                {
+                    "city_name": "Vaimauga East"
+                }
+            ]
+        },
+        {
+            "province_name": "Satupa'itea",
+            "cities": []
+        },
+        {
+            "province_name": "Palauli",
+            "cities": []
+        },
+        {
+            "province_name": "Gagaifomauga",
+            "cities": []
+        },
+        {
+            "province_name": "Gaga'emauga",
+            "cities": []
+        },
+        {
+            "province_name": "Fa'asaleleaga",
+            "cities": []
+        },
+        {
+            "province_name": "Atua",
+            "cities": [
+                {
+                    "city_name": "Aleipata Itupa i Lalo"
+                },
+                {
+                    "city_name": "Aleipata Itupa i Luga"
+                },
+                {
+                    "city_name": "Lepa"
+                }
+            ]
+        },
+        {
+            "province_name": "Aiga-i-le-Tai",
+            "cities": [
+                {
+                    "city_name": "Aiga i le Tai"
+                }
+            ]
+        },
+        {
+            "province_name": "A'ana",
+            "cities": [
+                {
+                    "city_name": "Aana Alofi I"
+                },
+                {
+                    "city_name": "Aana Alofi II"
+                },
+                {
+                    "city_name": "Aana Alofi III"
+                }
+            ]
+        }
+    ]
+}

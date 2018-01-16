@@ -1,0 +1,131 @@
+{
+    "country_name": "Germany",
+    "country_id": "DE",
+    "provinces": [
+        {
+            "province_name": "Thuringia",
+            "cities": []
+        },
+        {
+            "province_name": "Schleswig-Holstein",
+            "cities": []
+        },
+        {
+            "province_name": "Saxony-Anhalt",
+            "cities": []
+        },
+        {
+            "province_name": "Saxony",
+            "cities": []
+        },
+        {
+            "province_name": "Saarland",
+            "cities": []
+        },
+        {
+            "province_name": "Rheinland-Pfalz",
+            "cities": []
+        },
+        {
+            "province_name": "Nordrhein-Westfalen",
+            "cities": [
+                {
+                    "city_name": "Regierungsbezirk Munster"
+                },
+                {
+                    "city_name": "Regierungsbezirk Koln"
+                },
+                {
+                    "city_name": "Regierungsbezirk Dusseldorf"
+                },
+                {
+                    "city_name": "Regierungsbezirk Detmold"
+                },
+                {
+                    "city_name": "Regierungsbezirk Arnsberg"
+                }
+            ]
+        },
+        {
+            "province_name": "Lower Saxony",
+            "cities": []
+        },
+        {
+            "province_name": "Mecklenburg-Western Pomerania",
+            "cities": []
+        },
+        {
+            "province_name": "Hessen",
+            "cities": [
+                {
+                    "city_name": "Regierungsbezirk Kassel"
+                },
+                {
+                    "city_name": "Regierungsbezirk Darmstadt"
+                },
+                {
+                    "city_name": "Regierungsbezirk Giessen"
+                }
+            ]
+        },
+        {
+            "province_name": "Free and Hanseatic City of Hamburg",
+            "cities": []
+        },
+        {
+            "province_name": "Bremen",
+            "cities": []
+        },
+        {
+            "province_name": "Brandenburg",
+            "cities": []
+        },
+        {
+            "province_name": "Land Berlin",
+            "cities": []
+        },
+        {
+            "province_name": "Bavaria",
+            "cities": [
+                {
+                    "city_name": "Regierungsbezirk Unterfranken"
+                },
+                {
+                    "city_name": "Swabia"
+                },
+                {
+                    "city_name": "Upper Palatinate"
+                },
+                {
+                    "city_name": "Upper Franconia"
+                },
+                {
+                    "city_name": "Upper Bavaria"
+                },
+                {
+                    "city_name": "Lower Bavaria"
+                },
+                {
+                    "city_name": "Regierungsbezirk Mittelfranken"
+                }
+            ]
+        },
+        {
+            "province_name": "Baden-Wuerttemberg Region",
+            "cities": [
+                {
+                    "city_name": "Freiburg Region"
+                },
+                {
+                    "city_name": "Karlsruhe Region"
+                },
+                {
+                    "city_name": "Regierungsbezirk Stuttgart"
+                },
+                {
+                    "city_name": "Tuebingen Region"
+                }
+            ]
+        }
+    ]
+}

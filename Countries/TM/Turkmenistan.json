@@ -1,0 +1,41 @@
+{
+    "country_name": "Turkmenistan",
+    "country_id": "TM",
+    "provinces": [
+        {
+            "province_name": "Balkan",
+            "cities": []
+        },
+        {
+            "province_name": "Ahal",
+            "cities": [
+                {
+                    "city_name": "Baharly District"
+                }
+            ]
+        },
+        {
+            "province_name": "Ashgabat",
+            "cities": []
+        },
+        {
+            "province_name": "Dasoguz Welayaty",
+            "cities": []
+        },
+        {
+            "province_name": "Mary",
+            "cities": [
+                {
+                    "city_name": "Tagtabazar Etrap"
+                },
+                {
+                    "city_name": "Gusgy Etrap"
+                }
+            ]
+        },
+        {
+            "province_name": "Lebap",
+            "cities": []
+        }
+    ]
+}

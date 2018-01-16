@@ -1,0 +1,853 @@
+{
+    "country_name": "South Korea",
+    "country_id": "KR",
+    "provinces": [
+        {
+            "province_name": "Ulsan",
+            "cities": [
+                {
+                    "city_name": "Ulju-gun"
+                },
+                {
+                    "city_name": "Nam-gu"
+                },
+                {
+                    "city_name": "Dong-gu"
+                },
+                {
+                    "city_name": "Jung-gu"
+                },
+                {
+                    "city_name": "Buk-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Daejeon",
+            "cities": [
+                {
+                    "city_name": "Daedeok-gu"
+                },
+                {
+                    "city_name": "Yuseong-gu"
+                },
+                {
+                    "city_name": "Seo-gu"
+                },
+                {
+                    "city_name": "Jung-gu"
+                },
+                {
+                    "city_name": "Dong-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Daegu",
+            "cities": [
+                {
+                    "city_name": "Dalseong-gun"
+                },
+                {
+                    "city_name": "Dalseo-gu"
+                },
+                {
+                    "city_name": "Seo-gu"
+                },
+                {
+                    "city_name": "Nam-gu"
+                },
+                {
+                    "city_name": "Jung-gu"
+                },
+                {
+                    "city_name": "Buk-gu"
+                },
+                {
+                    "city_name": "Dong-gu"
+                },
+                {
+                    "city_name": "Suseong-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Seoul",
+            "cities": [
+                {
+                    "city_name": "Yongsan-gu"
+                },
+                {
+                    "city_name": "Yeongdeungpo-gu"
+                },
+                {
+                    "city_name": "Eunpyeong-gu"
+                },
+                {
+                    "city_name": "Dongjak-gu"
+                },
+                {
+                    "city_name": "Dongdaemun-gu"
+                },
+                {
+                    "city_name": "Dobong-gu"
+                },
+                {
+                    "city_name": "Gangdong-gu"
+                },
+                {
+                    "city_name": "Gangbuk-gu"
+                },
+                {
+                    "city_name": "Seodaemun-gu"
+                },
+                {
+                    "city_name": "Mapo-gu"
+                },
+                {
+                    "city_name": "Gwanak-gu"
+                },
+                {
+                    "city_name": "Guro-gu"
+                },
+                {
+                    "city_name": "Gangseo-gu"
+                },
+                {
+                    "city_name": "Gangnam-gu"
+                },
+                {
+                    "city_name": "Jung-gu"
+                },
+                {
+                    "city_name": "Jongno-gu"
+                },
+                {
+                    "city_name": "Seongdong-gu"
+                },
+                {
+                    "city_name": "Gwangjin-gu"
+                },
+                {
+                    "city_name": "Jungnang-gu"
+                },
+                {
+                    "city_name": "Nowon-gu"
+                },
+                {
+                    "city_name": "Seongbuk-gu"
+                },
+                {
+                    "city_name": "Yangcheon-gu"
+                },
+                {
+                    "city_name": "Geumcheon-gu"
+                },
+                {
+                    "city_name": "Seocho-gu"
+                },
+                {
+                    "city_name": "Songpa-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Busan",
+            "cities": [
+                {
+                    "city_name": "Yeongdo-gu"
+                },
+                {
+                    "city_name": "Dongnae-gu"
+                },
+                {
+                    "city_name": "Dong-gu"
+                },
+                {
+                    "city_name": "Seo-gu"
+                },
+                {
+                    "city_name": "Jung-gu"
+                },
+                {
+                    "city_name": "Saha-gu"
+                },
+                {
+                    "city_name": "Sasang-gu"
+                },
+                {
+                    "city_name": "Yeonje-gu"
+                },
+                {
+                    "city_name": "Haeundae-gu"
+                },
+                {
+                    "city_name": "Gangseo-gu"
+                },
+                {
+                    "city_name": "Geumjeong-gu"
+                },
+                {
+                    "city_name": "Gijang-gun"
+                },
+                {
+                    "city_name": "Suyeong-gu"
+                },
+                {
+                    "city_name": "Busanjin-gu"
+                },
+                {
+                    "city_name": "Buk-gu"
+                },
+                {
+                    "city_name": "Nam-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Gyeongsangbuk-do",
+            "cities": [
+                {
+                    "city_name": "Yeongdeok-gun"
+                },
+                {
+                    "city_name": "Yeongcheon-si"
+                },
+                {
+                    "city_name": "Yecheon-gun"
+                },
+                {
+                    "city_name": "Gyeongju"
+                },
+                {
+                    "city_name": "Ulleung-gun"
+                },
+                {
+                    "city_name": "Uljin County"
+                },
+                {
+                    "city_name": "Uiseong-gun"
+                },
+                {
+                    "city_name": "Seongju-gun"
+                },
+                {
+                    "city_name": "Sangju-si"
+                },
+                {
+                    "city_name": "Bonghwa-gun"
+                },
+                {
+                    "city_name": "Pohang-si"
+                },
+                {
+                    "city_name": "Gyeongsan-si"
+                },
+                {
+                    "city_name": "Gunwi-gun"
+                },
+                {
+                    "city_name": "Gumi-si"
+                },
+                {
+                    "city_name": "Goryeong-gun"
+                },
+                {
+                    "city_name": "Yeongju-si"
+                },
+                {
+                    "city_name": "Cheongdo-gun"
+                },
+                {
+                    "city_name": "Chilgok-gun"
+                },
+                {
+                    "city_name": "Andong-si"
+                },
+                {
+                    "city_name": "Yeongyang-gun"
+                },
+                {
+                    "city_name": "Gimcheon-si"
+                },
+                {
+                    "city_name": "Mungyeong-si"
+                },
+                {
+                    "city_name": "Cheongsong-gun"
+                },
+                {
+                    "city_name": "Buk-gu"
+                },
+                {
+                    "city_name": "Nam-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Gyeonggi-do",
+            "cities": [
+                {
+                    "city_name": "Yongin-si"
+                },
+                {
+                    "city_name": "Yeoncheon-gun"
+                },
+                {
+                    "city_name": "Yeoju-si"
+                },
+                {
+                    "city_name": "Yangpyeong-gun"
+                },
+                {
+                    "city_name": "Uijeongbu-si"
+                },
+                {
+                    "city_name": "Dongducheon"
+                },
+                {
+                    "city_name": "Suwon-si"
+                },
+                {
+                    "city_name": "Seongnam-si"
+                },
+                {
+                    "city_name": "Siheung"
+                },
+                {
+                    "city_name": "Pyeongtaek"
+                },
+                {
+                    "city_name": "Bucheon-si"
+                },
+                {
+                    "city_name": "Pocheon-si"
+                },
+                {
+                    "city_name": "Paju-si"
+                },
+                {
+                    "city_name": "Namyangju-si"
+                },
+                {
+                    "city_name": "Gwangju-si"
+                },
+                {
+                    "city_name": "Gimpo-si"
+                },
+                {
+                    "city_name": "Goyang-si"
+                },
+                {
+                    "city_name": "Icheon-si"
+                },
+                {
+                    "city_name": "Anyang-si"
+                },
+                {
+                    "city_name": "Anseong"
+                },
+                {
+                    "city_name": "Hanam-si"
+                },
+                {
+                    "city_name": "Ansan-si"
+                },
+                {
+                    "city_name": "Gunpo-si"
+                },
+                {
+                    "city_name": "Gwangmyeong-si"
+                },
+                {
+                    "city_name": "Osan-si"
+                },
+                {
+                    "city_name": "Uiwang-si"
+                },
+                {
+                    "city_name": "Gwacheon-si"
+                },
+                {
+                    "city_name": "Guri-si"
+                },
+                {
+                    "city_name": "Yangju-si"
+                },
+                {
+                    "city_name": "Hwaseong-si"
+                },
+                {
+                    "city_name": "Gapyeong-gun"
+                },
+                {
+                    "city_name": "Suji-gu"
+                },
+                {
+                    "city_name": "Giheung-gu"
+                },
+                {
+                    "city_name": "Cheoin-gu"
+                },
+                {
+                    "city_name": "Ilsanseo-gu"
+                },
+                {
+                    "city_name": "Ilsandong-gu"
+                },
+                {
+                    "city_name": "Deogyang-gu"
+                },
+                {
+                    "city_name": "Danwon-gu"
+                },
+                {
+                    "city_name": "Sangnok-gu"
+                },
+                {
+                    "city_name": "Dongan-gu"
+                },
+                {
+                    "city_name": "Manan-gu"
+                },
+                {
+                    "city_name": "Bundang-gu"
+                },
+                {
+                    "city_name": "Jungwon-gu"
+                },
+                {
+                    "city_name": "Sujeong-gu"
+                },
+                {
+                    "city_name": "Yeongtong-gu"
+                },
+                {
+                    "city_name": "Paldal-gu"
+                },
+                {
+                    "city_name": "Gwonseon-gu"
+                },
+                {
+                    "city_name": "Jangan-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Gwangju",
+            "cities": [
+                {
+                    "city_name": "Gwangsan-gu"
+                },
+                {
+                    "city_name": "Seo-gu"
+                },
+                {
+                    "city_name": "Nam-gu"
+                },
+                {
+                    "city_name": "Buk-gu"
+                },
+                {
+                    "city_name": "Dong-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Gangwon-do",
+            "cities": [
+                {
+                    "city_name": "Yeongwol-gun"
+                },
+                {
+                    "city_name": "Yangyang-gun"
+                },
+                {
+                    "city_name": "Yanggu-gun"
+                },
+                {
+                    "city_name": "Wonju-si"
+                },
+                {
+                    "city_name": "Donghae-si"
+                },
+                {
+                    "city_name": "Sokcho-si"
+                },
+                {
+                    "city_name": "Pyeongchang-gun"
+                },
+                {
+                    "city_name": "Goseong-gun"
+                },
+                {
+                    "city_name": "Gangneung-si"
+                },
+                {
+                    "city_name": "Inje-gun"
+                },
+                {
+                    "city_name": "Hongcheon-gun"
+                },
+                {
+                    "city_name": "Hoengseong-gun"
+                },
+                {
+                    "city_name": "Chuncheon-si"
+                },
+                {
+                    "city_name": "Cheorwon-gun"
+                },
+                {
+                    "city_name": "Jeongseon-gun"
+                },
+                {
+                    "city_name": "Hwacheon-gun"
+                },
+                {
+                    "city_name": "Taebaek-si"
+                },
+                {
+                    "city_name": "Samcheok-si"
+                }
+            ]
+        },
+        {
+            "province_name": "Incheon",
+            "cities": [
+                {
+                    "city_name": "Ganghwa-gun"
+                },
+                {
+                    "city_name": "Seo-gu"
+                },
+                {
+                    "city_name": "Gyeyang-gu"
+                },
+                {
+                    "city_name": "Bupyeong-gu"
+                },
+                {
+                    "city_name": "Namdong-gu"
+                },
+                {
+                    "city_name": "Yeonsu-gu"
+                },
+                {
+                    "city_name": "Dong-gu"
+                },
+                {
+                    "city_name": "Ongjin-gun"
+                },
+                {
+                    "city_name": "Jung-gu"
+                },
+                {
+                    "city_name": "Nam-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Chungcheongnam-do",
+            "cities": [
+                {
+                    "city_name": "Yesan-gun"
+                },
+                {
+                    "city_name": "Dangjin-si"
+                },
+                {
+                    "city_name": "Seosan-si"
+                },
+                {
+                    "city_name": "Seocheon-gun"
+                },
+                {
+                    "city_name": "Buyeo-gun"
+                },
+                {
+                    "city_name": "Boryeong-si"
+                },
+                {
+                    "city_name": "Nonsan-si"
+                },
+                {
+                    "city_name": "Geumsan-gun"
+                },
+                {
+                    "city_name": "Gongju-si"
+                },
+                {
+                    "city_name": "Hongseong-gun"
+                },
+                {
+                    "city_name": "Cheongyang-gun"
+                },
+                {
+                    "city_name": "Cheonan-si"
+                },
+                {
+                    "city_name": "Asan-si"
+                },
+                {
+                    "city_name": "Taean-gun"
+                },
+                {
+                    "city_name": "Gyeryong-si"
+                },
+                {
+                    "city_name": "Seobuk-gu"
+                },
+                {
+                    "city_name": "Dongnam-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Chungcheongbuk-do",
+            "cities": [
+                {
+                    "city_name": "Yeongdong-gun"
+                },
+                {
+                    "city_name": "Eumseong-gun"
+                },
+                {
+                    "city_name": "Danyang-gun"
+                },
+                {
+                    "city_name": "Boeun-gun"
+                },
+                {
+                    "city_name": "Okcheon-gun"
+                },
+                {
+                    "city_name": "Goesan-gun"
+                },
+                {
+                    "city_name": "Chungju-si"
+                },
+                {
+                    "city_name": "Cheongju-si"
+                },
+                {
+                    "city_name": "Jincheon-gun"
+                },
+                {
+                    "city_name": "Jecheon-si"
+                },
+                {
+                    "city_name": "Jeungpyeong-gun"
+                },
+                {
+                    "city_name": "Heungdeok-gu"
+                },
+                {
+                    "city_name": "Sangdang-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Jeollanam-do",
+            "cities": [
+                {
+                    "city_name": "Yeonggwang-gun"
+                },
+                {
+                    "city_name": "Yeongam-gun"
+                },
+                {
+                    "city_name": "Yeosu-si"
+                },
+                {
+                    "city_name": "Wando-gun"
+                },
+                {
+                    "city_name": "Damyang-gun"
+                },
+                {
+                    "city_name": "Suncheon-si"
+                },
+                {
+                    "city_name": "Sinan-gun"
+                },
+                {
+                    "city_name": "Boseong-gun"
+                },
+                {
+                    "city_name": "Naju-si"
+                },
+                {
+                    "city_name": "Muan-gun"
+                },
+                {
+                    "city_name": "Mokpo-si"
+                },
+                {
+                    "city_name": "Gwangyang-si"
+                },
+                {
+                    "city_name": "Gurye-gun"
+                },
+                {
+                    "city_name": "Gokseong-gun"
+                },
+                {
+                    "city_name": "Goheung-gun"
+                },
+                {
+                    "city_name": "Gangjin-gun"
+                },
+                {
+                    "city_name": "Hwasun-gun"
+                },
+                {
+                    "city_name": "Hampyeong-gun"
+                },
+                {
+                    "city_name": "Haenam-gun"
+                },
+                {
+                    "city_name": "Jindo-gun"
+                },
+                {
+                    "city_name": "Jangseong-gun"
+                },
+                {
+                    "city_name": "Jangheung-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Jeollabuk-do",
+            "cities": [
+                {
+                    "city_name": "Sunchang-gun"
+                },
+                {
+                    "city_name": "Buan-gun"
+                },
+                {
+                    "city_name": "Namwon-si"
+                },
+                {
+                    "city_name": "Muju-gun"
+                },
+                {
+                    "city_name": "Gunsan-si"
+                },
+                {
+                    "city_name": "Gimje-si"
+                },
+                {
+                    "city_name": "Gochang-gun"
+                },
+                {
+                    "city_name": "Imsil-gun"
+                },
+                {
+                    "city_name": "Iksan-si"
+                },
+                {
+                    "city_name": "Jeonju-si"
+                },
+                {
+                    "city_name": "Jeongeup-si"
+                },
+                {
+                    "city_name": "Jinan-gun"
+                },
+                {
+                    "city_name": "Jangsu-gun"
+                },
+                {
+                    "city_name": "Wanju-gun"
+                },
+                {
+                    "city_name": "Deokjin-gu"
+                },
+                {
+                    "city_name": "Wansan-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Jeju-do",
+            "cities": [
+                {
+                    "city_name": "Seogwipo-si"
+                },
+                {
+                    "city_name": "Jeju-si"
+                }
+            ]
+        },
+        {
+            "province_name": "Gyeongsangnam-do",
+            "cities": [
+                {
+                    "city_name": "Yangsan-si"
+                },
+                {
+                    "city_name": "Uiryeong-gun"
+                },
+                {
+                    "city_name": "Sancheong-gun"
+                },
+                {
+                    "city_name": "Namhae-gun"
+                },
+                {
+                    "city_name": "Miryang-si"
+                },
+                {
+                    "city_name": "Goseong-gun"
+                },
+                {
+                    "city_name": "Geoje-si"
+                },
+                {
+                    "city_name": "Geochang-gun"
+                },
+                {
+                    "city_name": "Gimhae-si"
+                },
+                {
+                    "city_name": "Hapcheon-gun"
+                },
+                {
+                    "city_name": "Hamyang-gun"
+                },
+                {
+                    "city_name": "Haman-gun"
+                },
+                {
+                    "city_name": "Hadong-gun"
+                },
+                {
+                    "city_name": "Tongyeong-si"
+                },
+                {
+                    "city_name": "Jinju-si"
+                },
+                {
+                    "city_name": "Changwon-si"
+                },
+                {
+                    "city_name": "Changnyeong-gun"
+                },
+                {
+                    "city_name": "Sacheon-si"
+                }
+            ]
+        },
+        {
+            "province_name": "Sejong-si",
+            "cities": [
+                {
+                    "city_name": "Sejong-Si"
+                }
+            ]
+        }
+    ]
+}

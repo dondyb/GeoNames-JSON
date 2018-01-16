@@ -1,0 +1,278 @@
+{
+    "country_name": "Malta",
+    "country_id": "MT",
+    "provinces": [
+        {
+            "province_name": "Attard",
+            "cities": []
+        },
+        {
+            "province_name": "Balzan",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Birgu",
+            "cities": []
+        },
+        {
+            "province_name": "Birkirkara",
+            "cities": []
+        },
+        {
+            "province_name": "Birzebbuga",
+            "cities": []
+        },
+        {
+            "province_name": "Bormla",
+            "cities": []
+        },
+        {
+            "province_name": "Dingli",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Fgura",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Furjana",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Fontana",
+            "cities": []
+        },
+        {
+            "province_name": "Ghajnsielem",
+            "cities": []
+        },
+        {
+            "province_name": "L-Gharb",
+            "cities": []
+        },
+        {
+            "province_name": "Hal Gharghur",
+            "cities": []
+        },
+        {
+            "province_name": "L-Ghasri",
+            "cities": []
+        },
+        {
+            "province_name": "Hal Ghaxaq",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Gudja",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Gzira",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Hamrun",
+            "cities": []
+        },
+        {
+            "province_name": "L-Iklin",
+            "cities": []
+        },
+        {
+            "province_name": "L-Imdina",
+            "cities": []
+        },
+        {
+            "province_name": "L-Imgarr",
+            "cities": []
+        },
+        {
+            "province_name": "L-Imqabba",
+            "cities": []
+        },
+        {
+            "province_name": "L-Imsida",
+            "cities": []
+        },
+        {
+            "province_name": "L-Imtarfa",
+            "cities": []
+        },
+        {
+            "province_name": "L-Isla",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Kalkara",
+            "cities": []
+        },
+        {
+            "province_name": "Ta' Kercem",
+            "cities": []
+        },
+        {
+            "province_name": "Kirkop",
+            "cities": []
+        },
+        {
+            "province_name": "Lija",
+            "cities": []
+        },
+        {
+            "province_name": "Luqa",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Marsa",
+            "cities": []
+        },
+        {
+            "province_name": "Marsaskala",
+            "cities": []
+        },
+        {
+            "province_name": "Marsaxlokk",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Mellieha",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Mosta",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Munxar",
+            "cities": []
+        },
+        {
+            "province_name": "In-Nadur",
+            "cities": []
+        },
+        {
+            "province_name": "In-Naxxar",
+            "cities": []
+        },
+        {
+            "province_name": "Paola",
+            "cities": []
+        },
+        {
+            "province_name": "Pembroke",
+            "cities": []
+        },
+        {
+            "province_name": "Tal-Pieta",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Qala",
+            "cities": []
+        },
+        {
+            "province_name": "Qormi",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Qrendi",
+            "cities": []
+        },
+        {
+            "province_name": "Ir-Rabat",
+            "cities": []
+        },
+        {
+            "province_name": "Victoria",
+            "cities": []
+        },
+        {
+            "province_name": "Safi",
+            "cities": []
+        },
+        {
+            "province_name": "Saint John",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Julian's",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Lawrence",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Lucia",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Paul's Bay",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Venera",
+            "cities": []
+        },
+        {
+            "province_name": "Sannat",
+            "cities": []
+        },
+        {
+            "province_name": "Is-Siggiewi",
+            "cities": []
+        },
+        {
+            "province_name": "Tas-Sliema",
+            "cities": []
+        },
+        {
+            "province_name": "Is-Swieqi",
+            "cities": []
+        },
+        {
+            "province_name": "Tarxien",
+            "cities": []
+        },
+        {
+            "province_name": "Ta' Xbiex",
+            "cities": []
+        },
+        {
+            "province_name": "Ix-Xaghra",
+            "cities": []
+        },
+        {
+            "province_name": "Ix-Xewkija",
+            "cities": []
+        },
+        {
+            "province_name": "Ix-Xghajra",
+            "cities": []
+        },
+        {
+            "province_name": "Haz-Zabbar",
+            "cities": []
+        },
+        {
+            "province_name": "Haz-Zebbug",
+            "cities": []
+        },
+        {
+            "province_name": "Iz-Zebbug",
+            "cities": []
+        },
+        {
+            "province_name": "Iz-Zejtun",
+            "cities": []
+        },
+        {
+            "province_name": "Iz-Zurrieq",
+            "cities": []
+        },
+        {
+            "province_name": "Il-Belt Valletta",
+            "cities": []
+        }
+    ]
+}

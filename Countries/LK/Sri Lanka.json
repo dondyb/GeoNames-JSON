@@ -1,0 +1,126 @@
+{
+    "country_name": "Sri Lanka",
+    "country_id": "LK",
+    "provinces": [
+        {
+            "province_name": "Western Province",
+            "cities": [
+                {
+                    "city_name": "Kalutara District"
+                },
+                {
+                    "city_name": "Gampaha District"
+                },
+                {
+                    "city_name": "Colombo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Province of Uva",
+            "cities": [
+                {
+                    "city_name": "Moneragala District"
+                },
+                {
+                    "city_name": "Badulla District"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Province",
+            "cities": [
+                {
+                    "city_name": "Matara District"
+                },
+                {
+                    "city_name": "Hambantota District"
+                },
+                {
+                    "city_name": "Galle District"
+                }
+            ]
+        },
+        {
+            "province_name": "Province of Sabaragamuwa",
+            "cities": [
+                {
+                    "city_name": "Ratnapura District"
+                },
+                {
+                    "city_name": "Kegalle District"
+                }
+            ]
+        },
+        {
+            "province_name": "North Western Province",
+            "cities": [
+                {
+                    "city_name": "Puttalam District"
+                },
+                {
+                    "city_name": "Kurunegala District"
+                }
+            ]
+        },
+        {
+            "province_name": "North Central Province",
+            "cities": [
+                {
+                    "city_name": "Polonnaruwa District"
+                },
+                {
+                    "city_name": "Anuradhapura District"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Province",
+            "cities": [
+                {
+                    "city_name": "Nuwara Eliya District"
+                },
+                {
+                    "city_name": "Matale District"
+                },
+                {
+                    "city_name": "Kandy District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Province",
+            "cities": [
+                {
+                    "city_name": "Vavuniya District"
+                },
+                {
+                    "city_name": "Mullaitivu District"
+                },
+                {
+                    "city_name": "Mannar District"
+                },
+                {
+                    "city_name": "Kilinochchi District"
+                },
+                {
+                    "city_name": "Jaffna District"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Province",
+            "cities": [
+                {
+                    "city_name": "Trincomalee District"
+                },
+                {
+                    "city_name": "Batticaloa District"
+                },
+                {
+                    "city_name": "Ampara District"
+                }
+            ]
+        }
+    ]
+}

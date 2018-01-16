@@ -1,0 +1,630 @@
+{
+    "country_name": "Hungary",
+    "country_id": "HU",
+    "provinces": [
+        {
+            "province_name": "Szabolcs-Szatmar-Bereg",
+            "cities": [
+                {
+                    "city_name": "Tiszavasvari Jaras"
+                },
+                {
+                    "city_name": "Nyiregyhazi Jaras"
+                },
+                {
+                    "city_name": "Nagykalloi Jaras"
+                },
+                {
+                    "city_name": "Nyirbatori Jaras"
+                },
+                {
+                    "city_name": "Mateszalkai Jaras"
+                },
+                {
+                    "city_name": "Baktaloranthazai Jaras"
+                },
+                {
+                    "city_name": "Kemecsei Jaras"
+                },
+                {
+                    "city_name": "Kisvardai Jaras"
+                },
+                {
+                    "city_name": "Zahonyi Jaras"
+                },
+                {
+                    "city_name": "Vasarosnamenyi Jaras"
+                },
+                {
+                    "city_name": "Fehergyarmati Jaras"
+                },
+                {
+                    "city_name": "Csengeri Jaras"
+                },
+                {
+                    "city_name": "Ibranyi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Jasz-Nagykun-Szolnok",
+            "cities": [
+                {
+                    "city_name": "Jaszberenyi Jaras"
+                },
+                {
+                    "city_name": "Jaszapati Jaras"
+                },
+                {
+                    "city_name": "Szolnoki Jaras"
+                },
+                {
+                    "city_name": "Torokszentmiklosi Jaras"
+                },
+                {
+                    "city_name": "Kunszentmartoni Jaras"
+                },
+                {
+                    "city_name": "Mezoturi Jaras"
+                },
+                {
+                    "city_name": "Karcagi Jaras"
+                },
+                {
+                    "city_name": "Tiszafuredi Jaras"
+                },
+                {
+                    "city_name": "Kunhegyesi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Heves megye",
+            "cities": [
+                {
+                    "city_name": "Belapatfalvai Jaras"
+                },
+                {
+                    "city_name": "Egri Jaras"
+                },
+                {
+                    "city_name": "Fuzesabonyi Jaras"
+                },
+                {
+                    "city_name": "Gyongyosi Jaras"
+                },
+                {
+                    "city_name": "Hatvani Jaras"
+                },
+                {
+                    "city_name": "Hevesi Jaras"
+                },
+                {
+                    "city_name": "Petervasarai Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Hajdu-Bihar",
+            "cities": [
+                {
+                    "city_name": "Hajduhadhazi Jaras"
+                },
+                {
+                    "city_name": "Debreceni Jaras"
+                },
+                {
+                    "city_name": "Puspokladanyi Jaras"
+                },
+                {
+                    "city_name": "Berettyoujfalui Jaras"
+                },
+                {
+                    "city_name": "Hadjuszoboszloi Jaras"
+                },
+                {
+                    "city_name": "Balmazujvarosi Jaras"
+                },
+                {
+                    "city_name": "Hajduboszormenyi Jaras"
+                },
+                {
+                    "city_name": "Derecskei Jaras"
+                },
+                {
+                    "city_name": "Hajdunanasi Jaras"
+                },
+                {
+                    "city_name": "Nyiradonyi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Csongrad megye",
+            "cities": [
+                {
+                    "city_name": "Morahalmi Jaras"
+                },
+                {
+                    "city_name": "Szegedi Jaras"
+                },
+                {
+                    "city_name": "Makoi Jaras"
+                },
+                {
+                    "city_name": "Kisteleki Jaras"
+                },
+                {
+                    "city_name": "Hodmezovasarhelyi Jaras"
+                },
+                {
+                    "city_name": "Csongradi Jaras"
+                },
+                {
+                    "city_name": "Szentesi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Borsod-Abauj Zemplen county",
+            "cities": [
+                {
+                    "city_name": "Cigandi Jaras"
+                },
+                {
+                    "city_name": "Edelenyi Jaras"
+                },
+                {
+                    "city_name": "Encsi Jaras"
+                },
+                {
+                    "city_name": "Gonci Jaras"
+                },
+                {
+                    "city_name": "Kazincbarcikai Jaras"
+                },
+                {
+                    "city_name": "Mezocsati Jaras"
+                },
+                {
+                    "city_name": "Mezokovesdi Jaras"
+                },
+                {
+                    "city_name": "Miskolci Jaras"
+                },
+                {
+                    "city_name": "Ozdi Jaras"
+                },
+                {
+                    "city_name": "Putnoki Jaras"
+                },
+                {
+                    "city_name": "Sarospataki Jaras"
+                },
+                {
+                    "city_name": "Satoraljaujhelyi Jaras"
+                },
+                {
+                    "city_name": "Szerencsi Jaras"
+                },
+                {
+                    "city_name": "Szikszoi Jaras"
+                },
+                {
+                    "city_name": "Tiszaujvarosi Jaras"
+                },
+                {
+                    "city_name": "Tokaji Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Bekes County",
+            "cities": [
+                {
+                    "city_name": "Szeghalmi Jaras"
+                },
+                {
+                    "city_name": "Sarkadi Jaras"
+                },
+                {
+                    "city_name": "Gyulai Jaras"
+                },
+                {
+                    "city_name": "Mezokovacshazai Jaras"
+                },
+                {
+                    "city_name": "Oroshazi Jaras"
+                },
+                {
+                    "city_name": "Szarvasi Jaras"
+                },
+                {
+                    "city_name": "Bekesi Jaras"
+                },
+                {
+                    "city_name": "Bekescsabai Jaras"
+                },
+                {
+                    "city_name": "Gyomaendrodi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Zala megye",
+            "cities": [
+                {
+                    "city_name": "Zalaegerszegi Jaras"
+                },
+                {
+                    "city_name": "Lenti Jaras"
+                },
+                {
+                    "city_name": "Letenyei Jaras"
+                },
+                {
+                    "city_name": "Zalaszentgroti Jaras"
+                },
+                {
+                    "city_name": "Keszthelyi Jaras"
+                },
+                {
+                    "city_name": "Nagykanizsai Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Veszprem megye",
+            "cities": [
+                {
+                    "city_name": "Papai Jaras"
+                },
+                {
+                    "city_name": "Zirci Jaras"
+                },
+                {
+                    "city_name": "Varpalotai Jaras"
+                },
+                {
+                    "city_name": "Balatonalmadi Jaras"
+                },
+                {
+                    "city_name": "Balatonfuredi Jaras"
+                },
+                {
+                    "city_name": "Tapolcai Jaras"
+                },
+                {
+                    "city_name": "Sumegi Jaras"
+                },
+                {
+                    "city_name": "Ajkai Jaras"
+                },
+                {
+                    "city_name": "Devecseri Jaras"
+                },
+                {
+                    "city_name": "Veszpremi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Vas megye",
+            "cities": [
+                {
+                    "city_name": "Koszegi Jaras"
+                },
+                {
+                    "city_name": "Szombathelyi Jaras"
+                },
+                {
+                    "city_name": "Szentgotthardi Jaras"
+                },
+                {
+                    "city_name": "Kormendi Jaras"
+                },
+                {
+                    "city_name": "Vasvari Jaras"
+                },
+                {
+                    "city_name": "Sarvari Jaras"
+                },
+                {
+                    "city_name": "Celldomolki Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Tolna megye",
+            "cities": [
+                {
+                    "city_name": "Tamasi Jaras"
+                },
+                {
+                    "city_name": "Dombovari Jaras"
+                },
+                {
+                    "city_name": "Bonyhadi Jaras"
+                },
+                {
+                    "city_name": "Tolnai Jaras"
+                },
+                {
+                    "city_name": "Szekszardi Jaras"
+                },
+                {
+                    "city_name": "Paksi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Somogy megye",
+            "cities": [
+                {
+                    "city_name": "Barcsi Jaras"
+                },
+                {
+                    "city_name": "Nagyatadi Jaras"
+                },
+                {
+                    "city_name": "Csurgoi Jaras"
+                },
+                {
+                    "city_name": "Kaposvari Jaras"
+                },
+                {
+                    "city_name": "Marcali Jaras"
+                },
+                {
+                    "city_name": "Fonyodi Jaras"
+                },
+                {
+                    "city_name": "Siofoki Jaras"
+                },
+                {
+                    "city_name": "Tabi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Pest megye",
+            "cities": [
+                {
+                    "city_name": "Vaci Jaras"
+                },
+                {
+                    "city_name": "Aszodi Jaras"
+                },
+                {
+                    "city_name": "Budakeszi Jaras"
+                },
+                {
+                    "city_name": "Cegledi Jaras"
+                },
+                {
+                    "city_name": "Dabasi Jaras"
+                },
+                {
+                    "city_name": "Dunakeszi Jaras"
+                },
+                {
+                    "city_name": "Erdi Jaras"
+                },
+                {
+                    "city_name": "Godolloi Jaras"
+                },
+                {
+                    "city_name": "Gyali Jaras"
+                },
+                {
+                    "city_name": "Monori Jaras"
+                },
+                {
+                    "city_name": "Nagykatai Jaras"
+                },
+                {
+                    "city_name": "Szigetszentmiklosi Jaras"
+                },
+                {
+                    "city_name": "Rackevei Jaras"
+                },
+                {
+                    "city_name": "Szentendrei Jaras"
+                },
+                {
+                    "city_name": "Pilisvorosvari Jaras"
+                },
+                {
+                    "city_name": "Szobi Jaras"
+                },
+                {
+                    "city_name": "Vecsesi Jaras"
+                },
+                {
+                    "city_name": "Nagykorosi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Nograd megye",
+            "cities": [
+                {
+                    "city_name": "Balassagyarmati Jaras"
+                },
+                {
+                    "city_name": "Batonyterenyei Jaras"
+                },
+                {
+                    "city_name": "Pasztoi Jaras"
+                },
+                {
+                    "city_name": "Retsagi Jaras"
+                },
+                {
+                    "city_name": "Salgotarjani Jaras"
+                },
+                {
+                    "city_name": "Szecsenyi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Komarom-Esztergom",
+            "cities": [
+                {
+                    "city_name": "Esztergomi Jaras"
+                },
+                {
+                    "city_name": "Tatabanyai Jaras"
+                },
+                {
+                    "city_name": "Tatai Jaras"
+                },
+                {
+                    "city_name": "Komaromi Jaras"
+                },
+                {
+                    "city_name": "Kisberi Jaras"
+                },
+                {
+                    "city_name": "Oroszlanyi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Gyor-Moson-Sopron megye",
+            "cities": [
+                {
+                    "city_name": "Soproni Jaras"
+                },
+                {
+                    "city_name": "Kapuvari Jaras"
+                },
+                {
+                    "city_name": "Csornai Jaras"
+                },
+                {
+                    "city_name": "Mosonmagyarovari Jaras"
+                },
+                {
+                    "city_name": "Gyori Jaras"
+                },
+                {
+                    "city_name": "Teti Jaras"
+                },
+                {
+                    "city_name": "Pannonhalmi Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Fejer megye",
+            "cities": [
+                {
+                    "city_name": "Bicskei Jaras"
+                },
+                {
+                    "city_name": "Martonvasari Jaras"
+                },
+                {
+                    "city_name": "Gardonyi Jaras"
+                },
+                {
+                    "city_name": "Dunaujvarosi Jaras"
+                },
+                {
+                    "city_name": "Szekesfehervari Jaras"
+                },
+                {
+                    "city_name": "Sarbogardi Jaras"
+                },
+                {
+                    "city_name": "Polgardi Jaras"
+                },
+                {
+                    "city_name": "Enyingi Jaras"
+                },
+                {
+                    "city_name": "Mori Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Budapest",
+            "cities": []
+        },
+        {
+            "province_name": "Baranya county",
+            "cities": [
+                {
+                    "city_name": "Siklosi Jaras"
+                },
+                {
+                    "city_name": "Pecsi Jaras"
+                },
+                {
+                    "city_name": "Mohacsi Jaras"
+                },
+                {
+                    "city_name": "Bolyi Jaras"
+                },
+                {
+                    "city_name": "Pecsvaradi Jaras"
+                },
+                {
+                    "city_name": "Komloi Jaras"
+                },
+                {
+                    "city_name": "Hegyhati Jaras"
+                },
+                {
+                    "city_name": "Sellyei Jaras"
+                },
+                {
+                    "city_name": "Szigetvari Jaras"
+                },
+                {
+                    "city_name": "Szentlorinci Jaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Bacs-Kiskun county",
+            "cities": [
+                {
+                    "city_name": "Bajai Jaras"
+                },
+                {
+                    "city_name": "Bacsalmasi Jaras"
+                },
+                {
+                    "city_name": "Janoshalmai Jaras"
+                },
+                {
+                    "city_name": "Kiskunhalasi Jaras"
+                },
+                {
+                    "city_name": "Kiskunmajsai Jaras"
+                },
+                {
+                    "city_name": "Kalocsai Jaras"
+                },
+                {
+                    "city_name": "Kiskorosi Jaras"
+                },
+                {
+                    "city_name": "Kunszentmiklosi Jaras"
+                },
+                {
+                    "city_name": "Kecskemeti Jaras"
+                },
+                {
+                    "city_name": "Tiszakecskei Jaras"
+                },
+                {
+                    "city_name": "Kiskunfelegyhazi Jaras"
+                }
+            ]
+        }
+    ]
+}

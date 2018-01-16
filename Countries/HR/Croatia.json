@@ -1,0 +1,1857 @@
+{
+    "country_name": "Croatia",
+    "country_id": "HR",
+    "provinces": [
+        {
+            "province_name": "Bjelovarsko-Bilogorska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Grubisno Polje"
+                },
+                {
+                    "city_name": "Grad Garesnica"
+                },
+                {
+                    "city_name": "Grad Daruvar"
+                },
+                {
+                    "city_name": "Grad Cazma"
+                },
+                {
+                    "city_name": "Grad Bjelovar"
+                },
+                {
+                    "city_name": "Berek"
+                },
+                {
+                    "city_name": "Dezanovac"
+                },
+                {
+                    "city_name": "Hercegovac"
+                },
+                {
+                    "city_name": "Ivanska"
+                },
+                {
+                    "city_name": "Kapela"
+                },
+                {
+                    "city_name": "Koncanica"
+                },
+                {
+                    "city_name": "Nova Raca"
+                },
+                {
+                    "city_name": "Rovisce"
+                },
+                {
+                    "city_name": "Severin"
+                },
+                {
+                    "city_name": "Sirac"
+                },
+                {
+                    "city_name": "Sandrovac"
+                },
+                {
+                    "city_name": "Stefanje"
+                },
+                {
+                    "city_name": "Velika Pisanica"
+                },
+                {
+                    "city_name": "Velika Trnovitica"
+                },
+                {
+                    "city_name": "Veliki Grgevac"
+                },
+                {
+                    "city_name": "Veliko Trojstvo"
+                },
+                {
+                    "city_name": "Zrinski Topolovac"
+                },
+                {
+                    "city_name": "GJulovac"
+                }
+            ]
+        },
+        {
+            "province_name": "Brodsko-Posavska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Slavonski Brod"
+                },
+                {
+                    "city_name": "Grad Nova Gradiska"
+                },
+                {
+                    "city_name": "Bebrina"
+                },
+                {
+                    "city_name": "Brodski Stupnik"
+                },
+                {
+                    "city_name": "Bukovlje"
+                },
+                {
+                    "city_name": "Cernik"
+                },
+                {
+                    "city_name": "Davor"
+                },
+                {
+                    "city_name": "Donji Andrijevci"
+                },
+                {
+                    "city_name": "Dragalic"
+                },
+                {
+                    "city_name": "Garcin"
+                },
+                {
+                    "city_name": "Gornja Vrba"
+                },
+                {
+                    "city_name": "Gornji Bogicevci"
+                },
+                {
+                    "city_name": "Gundinci"
+                },
+                {
+                    "city_name": "Klakar"
+                },
+                {
+                    "city_name": "Nova Kapela"
+                },
+                {
+                    "city_name": "Okucani"
+                },
+                {
+                    "city_name": "Oprisavci"
+                },
+                {
+                    "city_name": "Oriovac"
+                },
+                {
+                    "city_name": "Podcrkavlje"
+                },
+                {
+                    "city_name": "Resetari"
+                },
+                {
+                    "city_name": "Sibinj"
+                },
+                {
+                    "city_name": "Sikirevci"
+                },
+                {
+                    "city_name": "Slavonski Samac"
+                },
+                {
+                    "city_name": "Stara Gradiska"
+                },
+                {
+                    "city_name": "Staro Petrovo Selo"
+                },
+                {
+                    "city_name": "Velika Kopanica"
+                },
+                {
+                    "city_name": "Vrbje"
+                },
+                {
+                    "city_name": "Vrpolje"
+                }
+            ]
+        },
+        {
+            "province_name": "Dubrovacko-Neretvanska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Ploce"
+                },
+                {
+                    "city_name": "Opcina Lastovo"
+                },
+                {
+                    "city_name": "Grad Korcula"
+                },
+                {
+                    "city_name": "Grad Dubrovnik"
+                },
+                {
+                    "city_name": "Blato"
+                },
+                {
+                    "city_name": "Zupa dubrovacka"
+                },
+                {
+                    "city_name": "Zazablje"
+                },
+                {
+                    "city_name": "Vela Luka"
+                },
+                {
+                    "city_name": "Trpanj"
+                },
+                {
+                    "city_name": "Ston"
+                },
+                {
+                    "city_name": "Smokvica"
+                },
+                {
+                    "city_name": "Slivno"
+                },
+                {
+                    "city_name": "Pojezerje"
+                },
+                {
+                    "city_name": "Orebic"
+                },
+                {
+                    "city_name": "Opuzen"
+                },
+                {
+                    "city_name": "Mljet"
+                },
+                {
+                    "city_name": "Metkovic"
+                },
+                {
+                    "city_name": "Lumbarda"
+                },
+                {
+                    "city_name": "Kula Norinska"
+                },
+                {
+                    "city_name": "Konavle"
+                },
+                {
+                    "city_name": "Janjina"
+                },
+                {
+                    "city_name": "Dubrovacko primorje"
+                }
+            ]
+        },
+        {
+            "province_name": "Istarska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Rovinj"
+                },
+                {
+                    "city_name": "Grad Pula"
+                },
+                {
+                    "city_name": "Grad Porec"
+                },
+                {
+                    "city_name": "Grad Pazin"
+                },
+                {
+                    "city_name": "Grad Labin"
+                },
+                {
+                    "city_name": "Grad Buzet"
+                },
+                {
+                    "city_name": "Grad Buje"
+                },
+                {
+                    "city_name": "Bale-Valle"
+                },
+                {
+                    "city_name": "Barban"
+                },
+                {
+                    "city_name": "Brtonigla-Verteneglio"
+                },
+                {
+                    "city_name": "Buje-Buie"
+                },
+                {
+                    "city_name": "Cerovlje"
+                },
+                {
+                    "city_name": "Fazana-Fasana"
+                },
+                {
+                    "city_name": "Funtana-Fontane"
+                },
+                {
+                    "city_name": "Gracisce"
+                },
+                {
+                    "city_name": "Groznjan-Grisignana"
+                },
+                {
+                    "city_name": "Kanfanar"
+                },
+                {
+                    "city_name": "Karojba"
+                },
+                {
+                    "city_name": "Krsan"
+                },
+                {
+                    "city_name": "Liznjan-Lisignano"
+                },
+                {
+                    "city_name": "Lupoglav"
+                },
+                {
+                    "city_name": "Marcana"
+                },
+                {
+                    "city_name": "Medulin"
+                },
+                {
+                    "city_name": "Motovun-Montona"
+                },
+                {
+                    "city_name": "Novigrad-Cittanova"
+                },
+                {
+                    "city_name": "Oprtalj-Portole"
+                },
+                {
+                    "city_name": "Pican"
+                },
+                {
+                    "city_name": "Porec-Parenzo"
+                },
+                {
+                    "city_name": "Pula-Pola"
+                },
+                {
+                    "city_name": "Rasa"
+                },
+                {
+                    "city_name": "Rovinj-Rovigno"
+                },
+                {
+                    "city_name": "Sveti Lovrec"
+                },
+                {
+                    "city_name": "Sveti Petar u Sumi"
+                },
+                {
+                    "city_name": "Svetvincenat"
+                },
+                {
+                    "city_name": "Tinjan"
+                },
+                {
+                    "city_name": "Umag-Umago"
+                },
+                {
+                    "city_name": "Visnjan-Visignano"
+                },
+                {
+                    "city_name": "Vizinada-Visinada"
+                },
+                {
+                    "city_name": "Vodnjan-Dignano"
+                },
+                {
+                    "city_name": "Vrsar-Orsera"
+                },
+                {
+                    "city_name": "Zminj"
+                },
+                {
+                    "city_name": "Kastelir-Labinci"
+                },
+                {
+                    "city_name": "Sveta Nedelja"
+                },
+                {
+                    "city_name": "Tar-Vabriga-Torre Abrega"
+                },
+                {
+                    "city_name": "Grad Umag"
+                },
+                {
+                    "city_name": "Grad Vodnjan"
+                },
+                {
+                    "city_name": "Opcina Vizinada"
+                },
+                {
+                    "city_name": "Opcina Visnjan"
+                },
+                {
+                    "city_name": "Opcina Lanisce"
+                }
+            ]
+        },
+        {
+            "province_name": "Karlovacka Zupanija",
+            "cities": [
+                {
+                    "city_name": "Opcina Vojnic"
+                },
+                {
+                    "city_name": "Grad Slunj"
+                },
+                {
+                    "city_name": "Grad Ozalj"
+                },
+                {
+                    "city_name": "Grad Ogulin"
+                },
+                {
+                    "city_name": "Grad Karlovac"
+                },
+                {
+                    "city_name": "Grad Duga Resa"
+                },
+                {
+                    "city_name": "Barilovic"
+                },
+                {
+                    "city_name": "Bosiljevo"
+                },
+                {
+                    "city_name": "Cetingrad"
+                },
+                {
+                    "city_name": "Draganic"
+                },
+                {
+                    "city_name": "Generalski Stol"
+                },
+                {
+                    "city_name": "Josipdol"
+                },
+                {
+                    "city_name": "Kamanje"
+                },
+                {
+                    "city_name": "Krnjak"
+                },
+                {
+                    "city_name": "Lasinja"
+                },
+                {
+                    "city_name": "Netretic"
+                },
+                {
+                    "city_name": "Plaski"
+                },
+                {
+                    "city_name": "Rakovica"
+                },
+                {
+                    "city_name": "Ribnik"
+                },
+                {
+                    "city_name": "Saborsko"
+                },
+                {
+                    "city_name": "Tounj"
+                },
+                {
+                    "city_name": "Zakanje"
+                }
+            ]
+        },
+        {
+            "province_name": "Koprivnicko-Krizevacka Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Krizevci"
+                },
+                {
+                    "city_name": "Grad Koprivnica"
+                },
+                {
+                    "city_name": "Grad GJurgevac"
+                },
+                {
+                    "city_name": "Drnje"
+                },
+                {
+                    "city_name": "Ferdinandovac"
+                },
+                {
+                    "city_name": "Gola"
+                },
+                {
+                    "city_name": "Gornja Rijeka"
+                },
+                {
+                    "city_name": "Hlebine"
+                },
+                {
+                    "city_name": "Kalinovac"
+                },
+                {
+                    "city_name": "Kalnik"
+                },
+                {
+                    "city_name": "Klostar Podravski"
+                },
+                {
+                    "city_name": "Koprivnicki Bregi"
+                },
+                {
+                    "city_name": "Koprivnicki Ivanec"
+                },
+                {
+                    "city_name": "Legrad"
+                },
+                {
+                    "city_name": "Molve"
+                },
+                {
+                    "city_name": "Novigrad Podravski"
+                },
+                {
+                    "city_name": "Novo Virje"
+                },
+                {
+                    "city_name": "Peteranec"
+                },
+                {
+                    "city_name": "Podravske Sesvete"
+                },
+                {
+                    "city_name": "Rasinja"
+                },
+                {
+                    "city_name": "Sokolovac"
+                },
+                {
+                    "city_name": "Sveti Ivan Zabno"
+                },
+                {
+                    "city_name": "Sveti Petar Orehovec"
+                },
+                {
+                    "city_name": "Virje"
+                },
+                {
+                    "city_name": "GJelekovec"
+                },
+                {
+                    "city_name": "GJurgevac"
+                }
+            ]
+        },
+        {
+            "province_name": "Krapinsko-Zagorska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Zlatar"
+                },
+                {
+                    "city_name": "Grad Zabok"
+                },
+                {
+                    "city_name": "Grad Krapina"
+                },
+                {
+                    "city_name": "Grad Klanjec"
+                },
+                {
+                    "city_name": "Grad Donja Stubica"
+                },
+                {
+                    "city_name": "Bedekovcina"
+                },
+                {
+                    "city_name": "Budinscina"
+                },
+                {
+                    "city_name": "Desinic"
+                },
+                {
+                    "city_name": "Gornja Stubica"
+                },
+                {
+                    "city_name": "Hrascina"
+                },
+                {
+                    "city_name": "Hum na Sutli"
+                },
+                {
+                    "city_name": "Jesenje"
+                },
+                {
+                    "city_name": "Konjscina"
+                },
+                {
+                    "city_name": "Kraljevec na Sutli"
+                },
+                {
+                    "city_name": "Krapinske Toplice"
+                },
+                {
+                    "city_name": "Kumrovec"
+                },
+                {
+                    "city_name": "Lobor"
+                },
+                {
+                    "city_name": "Mace"
+                },
+                {
+                    "city_name": "Mihovljan"
+                },
+                {
+                    "city_name": "Novi Golubovec"
+                },
+                {
+                    "city_name": "Petrovsko"
+                },
+                {
+                    "city_name": "Radoboj"
+                },
+                {
+                    "city_name": "Sveti Kriz Zacretje"
+                },
+                {
+                    "city_name": "Stubicke Toplice"
+                },
+                {
+                    "city_name": "Tuhelj"
+                },
+                {
+                    "city_name": "Veliko Trgovisce"
+                },
+                {
+                    "city_name": "Zagorska Sela"
+                },
+                {
+                    "city_name": "Zlatar Bistrica"
+                },
+                {
+                    "city_name": "Marija Bistrica"
+                },
+                {
+                    "city_name": "Oroslavje"
+                },
+                {
+                    "city_name": "Pregrada"
+                },
+                {
+                    "city_name": "GJurmanec"
+                }
+            ]
+        },
+        {
+            "province_name": "Licko-Senjska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Brinje"
+                },
+                {
+                    "city_name": "Donji Lapac"
+                },
+                {
+                    "city_name": "Gospic"
+                },
+                {
+                    "city_name": "Karlobag"
+                },
+                {
+                    "city_name": "Lovinac"
+                },
+                {
+                    "city_name": "Novalja"
+                },
+                {
+                    "city_name": "Otocac"
+                },
+                {
+                    "city_name": "Perusic"
+                },
+                {
+                    "city_name": "Plitvicka Jezera"
+                },
+                {
+                    "city_name": "Senj"
+                },
+                {
+                    "city_name": "Udbina"
+                },
+                {
+                    "city_name": "Vrhovine"
+                }
+            ]
+        },
+        {
+            "province_name": "Megimurska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Cakovec"
+                },
+                {
+                    "city_name": "Belica"
+                },
+                {
+                    "city_name": "Dekanovec"
+                },
+                {
+                    "city_name": "Domasinec"
+                },
+                {
+                    "city_name": "Donja Dubrava"
+                },
+                {
+                    "city_name": "Donji Kraljevec"
+                },
+                {
+                    "city_name": "Donji Vidovec"
+                },
+                {
+                    "city_name": "Gorican"
+                },
+                {
+                    "city_name": "Gornji Mihaljevec"
+                },
+                {
+                    "city_name": "Kotoriba"
+                },
+                {
+                    "city_name": "Mala Subotica"
+                },
+                {
+                    "city_name": "Mursko Sredisce"
+                },
+                {
+                    "city_name": "Nedelisce"
+                },
+                {
+                    "city_name": "Orehovica"
+                },
+                {
+                    "city_name": "Podturen"
+                },
+                {
+                    "city_name": "Prelog"
+                },
+                {
+                    "city_name": "Pribislavec"
+                },
+                {
+                    "city_name": "Selnica"
+                },
+                {
+                    "city_name": "Strahoninec"
+                },
+                {
+                    "city_name": "Sveta Marija"
+                },
+                {
+                    "city_name": "Sveti Juraj na Bregu"
+                },
+                {
+                    "city_name": "Sveti Martin na Muri"
+                },
+                {
+                    "city_name": "Senkovec"
+                },
+                {
+                    "city_name": "Strigova"
+                },
+                {
+                    "city_name": "Vratisinec"
+                }
+            ]
+        },
+        {
+            "province_name": "Osjecko-Baranjska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Valpovo"
+                },
+                {
+                    "city_name": "Grad Osijek"
+                },
+                {
+                    "city_name": "Grad Nasice"
+                },
+                {
+                    "city_name": "Grad Donji Miholjac"
+                },
+                {
+                    "city_name": "Grad GJakovo"
+                },
+                {
+                    "city_name": "Grad Beli Manastir"
+                },
+                {
+                    "city_name": "Antunovac"
+                },
+                {
+                    "city_name": "Belisce"
+                },
+                {
+                    "city_name": "Bilje"
+                },
+                {
+                    "city_name": "Bizovac"
+                },
+                {
+                    "city_name": "Ceminac"
+                },
+                {
+                    "city_name": "Cepin"
+                },
+                {
+                    "city_name": "Darda"
+                },
+                {
+                    "city_name": "Donja Moticina"
+                },
+                {
+                    "city_name": "Draz"
+                },
+                {
+                    "city_name": "Drenje"
+                },
+                {
+                    "city_name": "GJakovo"
+                },
+                {
+                    "city_name": "Erdut"
+                },
+                {
+                    "city_name": "Ernestinovo"
+                },
+                {
+                    "city_name": "Fericanci"
+                },
+                {
+                    "city_name": "Gorjani"
+                },
+                {
+                    "city_name": "Jagodnjak"
+                },
+                {
+                    "city_name": "Knezevi Vinogradi"
+                },
+                {
+                    "city_name": "Koska"
+                },
+                {
+                    "city_name": "Levanjska Varos"
+                },
+                {
+                    "city_name": "Magadenovac"
+                },
+                {
+                    "city_name": "Marijanci"
+                },
+                {
+                    "city_name": "Petlovac"
+                },
+                {
+                    "city_name": "Petrijevci"
+                },
+                {
+                    "city_name": "Podgorac"
+                },
+                {
+                    "city_name": "Podravska Moslavina"
+                },
+                {
+                    "city_name": "Popovac"
+                },
+                {
+                    "city_name": "Punitovci"
+                },
+                {
+                    "city_name": "Semeljci"
+                },
+                {
+                    "city_name": "Strizivojna"
+                },
+                {
+                    "city_name": "Sodolovci"
+                },
+                {
+                    "city_name": "Trnava"
+                },
+                {
+                    "city_name": "Viljevo"
+                },
+                {
+                    "city_name": "Viskovci"
+                },
+                {
+                    "city_name": "Vladislavci"
+                },
+                {
+                    "city_name": "Vuka"
+                },
+                {
+                    "city_name": "GJurgenovac"
+                },
+                {
+                    "city_name": "Satnica GJakovacka"
+                }
+            ]
+        },
+        {
+            "province_name": "Pozesko-Slavonska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Pozega"
+                },
+                {
+                    "city_name": "Grad Pakrac"
+                },
+                {
+                    "city_name": "Brestovac"
+                },
+                {
+                    "city_name": "Caglin"
+                },
+                {
+                    "city_name": "Jaksic"
+                },
+                {
+                    "city_name": "Kaptol"
+                },
+                {
+                    "city_name": "Kutjevo"
+                },
+                {
+                    "city_name": "Lipik"
+                },
+                {
+                    "city_name": "Pleternica"
+                },
+                {
+                    "city_name": "Velika"
+                }
+            ]
+        },
+        {
+            "province_name": "Primorsko-Goranska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Vrbovsko"
+                },
+                {
+                    "city_name": "Grad Rijeka"
+                },
+                {
+                    "city_name": "Grad Opatija"
+                },
+                {
+                    "city_name": "Grad Krk"
+                },
+                {
+                    "city_name": "Grad Delnice"
+                },
+                {
+                    "city_name": "Grad Crikvenica"
+                },
+                {
+                    "city_name": "Grad Cabar"
+                },
+                {
+                    "city_name": "Bakar"
+                },
+                {
+                    "city_name": "Baska"
+                },
+                {
+                    "city_name": "Brod Moravice"
+                },
+                {
+                    "city_name": "Cavle"
+                },
+                {
+                    "city_name": "Dobrinj"
+                },
+                {
+                    "city_name": "Fuzine"
+                },
+                {
+                    "city_name": "Jelenje"
+                },
+                {
+                    "city_name": "Kastav"
+                },
+                {
+                    "city_name": "Klana"
+                },
+                {
+                    "city_name": "Kostrena"
+                },
+                {
+                    "city_name": "Lokve"
+                },
+                {
+                    "city_name": "Lopar"
+                },
+                {
+                    "city_name": "Lovran"
+                },
+                {
+                    "city_name": "Mali Losinj"
+                },
+                {
+                    "city_name": "Matulji"
+                },
+                {
+                    "city_name": "Moscenicka Draga"
+                },
+                {
+                    "city_name": "Mrkopalj"
+                },
+                {
+                    "city_name": "Novi Vinodolski"
+                },
+                {
+                    "city_name": "Omisalj"
+                },
+                {
+                    "city_name": "Punat"
+                },
+                {
+                    "city_name": "Rab"
+                },
+                {
+                    "city_name": "Ravna Gora"
+                },
+                {
+                    "city_name": "Skrad"
+                },
+                {
+                    "city_name": "Viskovo"
+                },
+                {
+                    "city_name": "Vrbnik"
+                },
+                {
+                    "city_name": "Cres"
+                },
+                {
+                    "city_name": "Kraljevica"
+                },
+                {
+                    "city_name": "Vinodolska opcina"
+                },
+                {
+                    "city_name": "Malinska-Dubasnica"
+                }
+            ]
+        },
+        {
+            "province_name": "Sibensko-Kninska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Sibenik"
+                },
+                {
+                    "city_name": "Grad Drnis"
+                },
+                {
+                    "city_name": "Rogoznica Opcina"
+                },
+                {
+                    "city_name": "Biskupija"
+                },
+                {
+                    "city_name": "Civljane"
+                },
+                {
+                    "city_name": "Kijevo"
+                },
+                {
+                    "city_name": "Kistanje"
+                },
+                {
+                    "city_name": "Knin"
+                },
+                {
+                    "city_name": "Pirovac"
+                },
+                {
+                    "city_name": "Murter-Kornati"
+                },
+                {
+                    "city_name": "Primosten"
+                },
+                {
+                    "city_name": "Ruzic"
+                },
+                {
+                    "city_name": "Skradin"
+                },
+                {
+                    "city_name": "Tisno"
+                },
+                {
+                    "city_name": "Tribunj"
+                },
+                {
+                    "city_name": "Unesic"
+                },
+                {
+                    "city_name": "Vodice"
+                },
+                {
+                    "city_name": "Bilice"
+                },
+                {
+                    "city_name": "Ervenik"
+                },
+                {
+                    "city_name": "Promina"
+                }
+            ]
+        },
+        {
+            "province_name": "Sisacko-Moslavacka Zupanija",
+            "cities": [
+                {
+                    "city_name": "Opcina Gvozd"
+                },
+                {
+                    "city_name": "Grad Sisak"
+                },
+                {
+                    "city_name": "Grad Petrinja"
+                },
+                {
+                    "city_name": "Grad Novska"
+                },
+                {
+                    "city_name": "Grad Kutina"
+                },
+                {
+                    "city_name": "Grad Hrvatska Kostajnica"
+                },
+                {
+                    "city_name": "Grad Glina"
+                },
+                {
+                    "city_name": "Opcina Dvor"
+                },
+                {
+                    "city_name": "Donji Kukuruzari"
+                },
+                {
+                    "city_name": "Hrvatska Dubica"
+                },
+                {
+                    "city_name": "Jasenovac"
+                },
+                {
+                    "city_name": "Lekenik"
+                },
+                {
+                    "city_name": "Lipovljani"
+                },
+                {
+                    "city_name": "Majur"
+                },
+                {
+                    "city_name": "Martinska Ves"
+                },
+                {
+                    "city_name": "Popovaca"
+                },
+                {
+                    "city_name": "Sunja"
+                },
+                {
+                    "city_name": "Topusko"
+                },
+                {
+                    "city_name": "Velika Ludina"
+                }
+            ]
+        },
+        {
+            "province_name": "Splitsko-Dalmatinska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Vrgorac"
+                },
+                {
+                    "city_name": "Grad Vis"
+                },
+                {
+                    "city_name": "Grad Trogir"
+                },
+                {
+                    "city_name": "Grad Split"
+                },
+                {
+                    "city_name": "Grad Sinj"
+                },
+                {
+                    "city_name": "Grad Omis"
+                },
+                {
+                    "city_name": "Grad Makarska"
+                },
+                {
+                    "city_name": "Grad Imotski"
+                },
+                {
+                    "city_name": "Grad Hvar"
+                },
+                {
+                    "city_name": "Grad Supetar"
+                },
+                {
+                    "city_name": "Dugi Rat Opcina"
+                },
+                {
+                    "city_name": "Baska Voda"
+                },
+                {
+                    "city_name": "Bol"
+                },
+                {
+                    "city_name": "Brela"
+                },
+                {
+                    "city_name": "Cista Provo"
+                },
+                {
+                    "city_name": "Dicmo"
+                },
+                {
+                    "city_name": "Dugopolje"
+                },
+                {
+                    "city_name": "Gradac"
+                },
+                {
+                    "city_name": "Hrvace"
+                },
+                {
+                    "city_name": "Jelsa"
+                },
+                {
+                    "city_name": "Kastela"
+                },
+                {
+                    "city_name": "Klis"
+                },
+                {
+                    "city_name": "Komiza"
+                },
+                {
+                    "city_name": "Lecevica"
+                },
+                {
+                    "city_name": "Lokvicici"
+                },
+                {
+                    "city_name": "Lovrec"
+                },
+                {
+                    "city_name": "Marina"
+                },
+                {
+                    "city_name": "Milna"
+                },
+                {
+                    "city_name": "Muc"
+                },
+                {
+                    "city_name": "Nerezisca"
+                },
+                {
+                    "city_name": "Okrug"
+                },
+                {
+                    "city_name": "Podbablje"
+                },
+                {
+                    "city_name": "Podgora"
+                },
+                {
+                    "city_name": "Podstrana"
+                },
+                {
+                    "city_name": "Postira"
+                },
+                {
+                    "city_name": "Prgomet"
+                },
+                {
+                    "city_name": "Primorski Dolac"
+                },
+                {
+                    "city_name": "Prolozac"
+                },
+                {
+                    "city_name": "Pucisca"
+                },
+                {
+                    "city_name": "Runovici"
+                },
+                {
+                    "city_name": "Seget"
+                },
+                {
+                    "city_name": "Selca"
+                },
+                {
+                    "city_name": "Solin"
+                },
+                {
+                    "city_name": "Stari Grad"
+                },
+                {
+                    "city_name": "Sucuraj"
+                },
+                {
+                    "city_name": "Sutivan"
+                },
+                {
+                    "city_name": "Sestanovac"
+                },
+                {
+                    "city_name": "Solta"
+                },
+                {
+                    "city_name": "Trilj"
+                },
+                {
+                    "city_name": "Tucepi"
+                },
+                {
+                    "city_name": "Vrlika"
+                },
+                {
+                    "city_name": "Zadvarje"
+                },
+                {
+                    "city_name": "Zagvozd"
+                },
+                {
+                    "city_name": "Zmijavci"
+                },
+                {
+                    "city_name": "Otok"
+                }
+            ]
+        },
+        {
+            "province_name": "Varazdinska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Varazdin"
+                },
+                {
+                    "city_name": "Grad Novi Marof"
+                },
+                {
+                    "city_name": "Grad Ludbreg"
+                },
+                {
+                    "city_name": "Grad Ivanec"
+                },
+                {
+                    "city_name": "Bednja"
+                },
+                {
+                    "city_name": "Beretinec"
+                },
+                {
+                    "city_name": "Breznica"
+                },
+                {
+                    "city_name": "Breznicki Hum"
+                },
+                {
+                    "city_name": "Cestica"
+                },
+                {
+                    "city_name": "Donja Voca"
+                },
+                {
+                    "city_name": "Gornji Kneginec"
+                },
+                {
+                    "city_name": "Jalzabet"
+                },
+                {
+                    "city_name": "Klenovnik"
+                },
+                {
+                    "city_name": "Ljubescica"
+                },
+                {
+                    "city_name": "Lepoglava"
+                },
+                {
+                    "city_name": "Mali Bukovec"
+                },
+                {
+                    "city_name": "Martijanec"
+                },
+                {
+                    "city_name": "Marusevec"
+                },
+                {
+                    "city_name": "Petrijanec"
+                },
+                {
+                    "city_name": "Sracinec"
+                },
+                {
+                    "city_name": "Sveti Ilija"
+                },
+                {
+                    "city_name": "Trnovec Bartolovecki"
+                },
+                {
+                    "city_name": "Varazdinske Toplice"
+                },
+                {
+                    "city_name": "Veliki Bukovec"
+                },
+                {
+                    "city_name": "Vidovec"
+                },
+                {
+                    "city_name": "Vinica"
+                },
+                {
+                    "city_name": "Visoko"
+                },
+                {
+                    "city_name": "Sveti GJurg"
+                }
+            ]
+        },
+        {
+            "province_name": "Vukovarsko-Srijemska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Zupanja"
+                },
+                {
+                    "city_name": "Grad Vukovar"
+                },
+                {
+                    "city_name": "Grad Vinkovci"
+                },
+                {
+                    "city_name": "Andrijasevci"
+                },
+                {
+                    "city_name": "Babina Greda"
+                },
+                {
+                    "city_name": "Bogdanovci"
+                },
+                {
+                    "city_name": "Borovo"
+                },
+                {
+                    "city_name": "Bosnjaci"
+                },
+                {
+                    "city_name": "Cerna"
+                },
+                {
+                    "city_name": "Drenovci"
+                },
+                {
+                    "city_name": "Gradiste"
+                },
+                {
+                    "city_name": "Gunja"
+                },
+                {
+                    "city_name": "Ilok"
+                },
+                {
+                    "city_name": "Ivankovo"
+                },
+                {
+                    "city_name": "Jarmina"
+                },
+                {
+                    "city_name": "Lovas"
+                },
+                {
+                    "city_name": "Markusica"
+                },
+                {
+                    "city_name": "Negoslavci"
+                },
+                {
+                    "city_name": "Nijemci"
+                },
+                {
+                    "city_name": "Nustar"
+                },
+                {
+                    "city_name": "Stari Jankovci"
+                },
+                {
+                    "city_name": "Stari Mikanovci"
+                },
+                {
+                    "city_name": "Stitar"
+                },
+                {
+                    "city_name": "Tompojevci"
+                },
+                {
+                    "city_name": "Tordinci"
+                },
+                {
+                    "city_name": "Tovarnik"
+                },
+                {
+                    "city_name": "Trpinja"
+                },
+                {
+                    "city_name": "Voginci"
+                },
+                {
+                    "city_name": "Vrbanja"
+                },
+                {
+                    "city_name": "Otok"
+                },
+                {
+                    "city_name": "Privlaka"
+                }
+            ]
+        },
+        {
+            "province_name": "Zadarska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Biograd na Moru"
+                },
+                {
+                    "city_name": "Novigrad Opcina"
+                },
+                {
+                    "city_name": "Benkovac"
+                },
+                {
+                    "city_name": "Bibinje"
+                },
+                {
+                    "city_name": "Galovac"
+                },
+                {
+                    "city_name": "Gracac"
+                },
+                {
+                    "city_name": "Jasenice"
+                },
+                {
+                    "city_name": "Kali"
+                },
+                {
+                    "city_name": "Kolan"
+                },
+                {
+                    "city_name": "Kukljica"
+                },
+                {
+                    "city_name": "Lisane Ostrovicke"
+                },
+                {
+                    "city_name": "Nin"
+                },
+                {
+                    "city_name": "Obrovac"
+                },
+                {
+                    "city_name": "Pag"
+                },
+                {
+                    "city_name": "Pakostane"
+                },
+                {
+                    "city_name": "Pasman"
+                },
+                {
+                    "city_name": "Polaca"
+                },
+                {
+                    "city_name": "Policnik"
+                },
+                {
+                    "city_name": "Posedarje"
+                },
+                {
+                    "city_name": "Povljana"
+                },
+                {
+                    "city_name": "Preko"
+                },
+                {
+                    "city_name": "Privlaka"
+                },
+                {
+                    "city_name": "Razanac"
+                },
+                {
+                    "city_name": "Sali"
+                },
+                {
+                    "city_name": "Stankovci"
+                },
+                {
+                    "city_name": "Starigrad"
+                },
+                {
+                    "city_name": "Sukosan"
+                },
+                {
+                    "city_name": "Sveti Filip i Jakov"
+                },
+                {
+                    "city_name": "Skabrnja"
+                },
+                {
+                    "city_name": "Tkon"
+                },
+                {
+                    "city_name": "Vir"
+                },
+                {
+                    "city_name": "Vrsi"
+                },
+                {
+                    "city_name": "Zemunik Donji"
+                },
+                {
+                    "city_name": "Zadar"
+                }
+            ]
+        },
+        {
+            "province_name": "Zagreb County",
+            "cities": [
+                {
+                    "city_name": "Grad Sveti Ivan Zelina"
+                },
+                {
+                    "city_name": "Grad Zapresic"
+                },
+                {
+                    "city_name": "Grad Vrbovec"
+                },
+                {
+                    "city_name": "Grad Velika Gorica"
+                },
+                {
+                    "city_name": "Grad Samobor"
+                },
+                {
+                    "city_name": "Grad Jastrebarsko"
+                },
+                {
+                    "city_name": "Ivanic-Grad"
+                },
+                {
+                    "city_name": "Grad Dugo Selo"
+                },
+                {
+                    "city_name": "Opcina Dubrava"
+                },
+                {
+                    "city_name": "Bedenica"
+                },
+                {
+                    "city_name": "Brckovljani"
+                },
+                {
+                    "city_name": "Brdovec"
+                },
+                {
+                    "city_name": "Farkasevac"
+                },
+                {
+                    "city_name": "Dubravica"
+                },
+                {
+                    "city_name": "Gradec"
+                },
+                {
+                    "city_name": "Jakovlje"
+                },
+                {
+                    "city_name": "Klinca Sela"
+                },
+                {
+                    "city_name": "Klostar Ivanic"
+                },
+                {
+                    "city_name": "Krasic"
+                },
+                {
+                    "city_name": "Kravarsko"
+                },
+                {
+                    "city_name": "Kriz"
+                },
+                {
+                    "city_name": "Luka"
+                },
+                {
+                    "city_name": "Marija Gorica"
+                },
+                {
+                    "city_name": "Orle"
+                },
+                {
+                    "city_name": "Pisarovina"
+                },
+                {
+                    "city_name": "Pokupsko"
+                },
+                {
+                    "city_name": "Preseka"
+                },
+                {
+                    "city_name": "Pusca"
+                },
+                {
+                    "city_name": "Rakovec"
+                },
+                {
+                    "city_name": "Rugvica"
+                },
+                {
+                    "city_name": "Stupnik"
+                },
+                {
+                    "city_name": "Zumberak"
+                },
+                {
+                    "city_name": "Bistra"
+                },
+                {
+                    "city_name": "Sveta Nedelja"
+                }
+            ]
+        },
+        {
+            "province_name": "Grad Zagreb",
+            "cities": [
+                {
+                    "city_name": "Sesvete"
+                },
+                {
+                    "city_name": "Gradska cetvrt Donji grad"
+                },
+                {
+                    "city_name": "Gradska cetvrt Gornji Grad - Medvescak"
+                },
+                {
+                    "city_name": "Gradska cetvrt Trnje"
+                },
+                {
+                    "city_name": "Gradska cetvrt Maksimir"
+                },
+                {
+                    "city_name": "Gradska cetvrt Pescenica - Zitnjak"
+                },
+                {
+                    "city_name": "Gradska cetvrt Novi Zagreb - istok"
+                },
+                {
+                    "city_name": "Gradska cetvrt Novi Zagreb - zapad"
+                },
+                {
+                    "city_name": "Gradska cetvrt Tresnjevka - sjever"
+                },
+                {
+                    "city_name": "Gradska cetvrt Tresnjevka - jug"
+                },
+                {
+                    "city_name": "Gradska cetvrt Crnomerec"
+                },
+                {
+                    "city_name": "Gradska cetvrt Gornja Dubrava"
+                },
+                {
+                    "city_name": "Gradska cetvrt Donja Dubrava"
+                },
+                {
+                    "city_name": "Gradska cetvrt Stenjevec"
+                },
+                {
+                    "city_name": "Podsused - Vrapce"
+                },
+                {
+                    "city_name": "Gradska cetvrt Podsljeme"
+                },
+                {
+                    "city_name": "Gradska cetvrt Brezovica"
+                }
+            ]
+        },
+        {
+            "province_name": "Viroviticko-Podravska Zupanija",
+            "cities": [
+                {
+                    "city_name": "Grad Virovitica"
+                },
+                {
+                    "city_name": "Grad Slatina"
+                },
+                {
+                    "city_name": "Grad Orahovica"
+                },
+                {
+                    "city_name": "Crnac"
+                },
+                {
+                    "city_name": "Cacinci"
+                },
+                {
+                    "city_name": "Cagavica"
+                },
+                {
+                    "city_name": "Gradina"
+                },
+                {
+                    "city_name": "Lukac"
+                },
+                {
+                    "city_name": "Mikleus"
+                },
+                {
+                    "city_name": "Nova Bukovica"
+                },
+                {
+                    "city_name": "Pitomaca"
+                },
+                {
+                    "city_name": "Sopje"
+                },
+                {
+                    "city_name": "Suhopolje"
+                },
+                {
+                    "city_name": "Spisic Bukovica"
+                },
+                {
+                    "city_name": "Vocin"
+                },
+                {
+                    "city_name": "Zdenci"
+                }
+            ]
+        }
+    ]
+}

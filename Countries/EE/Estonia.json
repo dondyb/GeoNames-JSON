@@ -1,0 +1,318 @@
+{
+    "country_name": "Estonia",
+    "country_id": "EE",
+    "provinces": [
+        {
+            "province_name": "Vorumaa",
+            "cities": [
+                {
+                    "city_name": "Rouge vald"
+                },
+                {
+                    "city_name": "Antsla vald"
+                },
+                {
+                    "city_name": "Voru vald"
+                },
+                {
+                    "city_name": "Voru linn"
+                },
+                {
+                    "city_name": "Setomaa vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Viljandimaa",
+            "cities": [
+                {
+                    "city_name": "Viljandi linn"
+                },
+                {
+                    "city_name": "Viljandi vald"
+                },
+                {
+                    "city_name": "Mulgi vald"
+                },
+                {
+                    "city_name": "Pohja-Sakala vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Valgamaa",
+            "cities": [
+                {
+                    "city_name": "Otepaeae vald"
+                },
+                {
+                    "city_name": "Valga vald"
+                },
+                {
+                    "city_name": "Torva vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Tartumaa",
+            "cities": [
+                {
+                    "city_name": "Kambja vald"
+                },
+                {
+                    "city_name": "Luunja vald"
+                },
+                {
+                    "city_name": "Noo vald"
+                },
+                {
+                    "city_name": "Peipsiaeaere vald"
+                },
+                {
+                    "city_name": "Tartu vald"
+                },
+                {
+                    "city_name": "Tartu linn"
+                },
+                {
+                    "city_name": "Elva vald"
+                },
+                {
+                    "city_name": "Kastre vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Saaremaa",
+            "cities": [
+                {
+                    "city_name": "Muhu vald"
+                },
+                {
+                    "city_name": "Ruhnu vald"
+                },
+                {
+                    "city_name": "Saaremaa vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Raplamaa",
+            "cities": [
+                {
+                    "city_name": "Kehtna vald"
+                },
+                {
+                    "city_name": "Kohila vald"
+                },
+                {
+                    "city_name": "Maerjamaa vald"
+                },
+                {
+                    "city_name": "Rapla vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Polvamaa",
+            "cities": [
+                {
+                    "city_name": "Kanepi vald"
+                },
+                {
+                    "city_name": "Raepina vald"
+                },
+                {
+                    "city_name": "Polva vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Paernumaa",
+            "cities": [
+                {
+                    "city_name": "Paernu linn"
+                },
+                {
+                    "city_name": "Haeaedemeeste vald"
+                },
+                {
+                    "city_name": "Kihnu vald"
+                },
+                {
+                    "city_name": "Tori vald"
+                },
+                {
+                    "city_name": "Saarde vald"
+                },
+                {
+                    "city_name": "Laeaeneranna vald"
+                },
+                {
+                    "city_name": "Pohja-Paernumaa vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Laane-Virumaa",
+            "cities": [
+                {
+                    "city_name": "Haljala vald"
+                },
+                {
+                    "city_name": "Kadrina vald"
+                },
+                {
+                    "city_name": "Tapa vald"
+                },
+                {
+                    "city_name": "Rakvere vald"
+                },
+                {
+                    "city_name": "Rakvere linn"
+                },
+                {
+                    "city_name": "Vinni vald"
+                },
+                {
+                    "city_name": "Viru-Nigula vald"
+                },
+                {
+                    "city_name": "Vaeike-Maarja vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Laeaenemaa",
+            "cities": [
+                {
+                    "city_name": "Haapsalu linn"
+                },
+                {
+                    "city_name": "Vormsi vald"
+                },
+                {
+                    "city_name": "Laeaene-Nigula vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Jogevamaa",
+            "cities": [
+                {
+                    "city_name": "Jogeva vald"
+                },
+                {
+                    "city_name": "Poltsamaa vald"
+                },
+                {
+                    "city_name": "Mustvee vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Jarvamaa",
+            "cities": [
+                {
+                    "city_name": "Paide linn"
+                },
+                {
+                    "city_name": "Tueri vald"
+                },
+                {
+                    "city_name": "Jaerva vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Ida-Virumaa",
+            "cities": [
+                {
+                    "city_name": "Kohtla-Jaerve linn"
+                },
+                {
+                    "city_name": "Narva linn"
+                },
+                {
+                    "city_name": "Sillamaee linn"
+                },
+                {
+                    "city_name": "Johvi vald"
+                },
+                {
+                    "city_name": "Lueganuse vald"
+                },
+                {
+                    "city_name": "Narva-Joesuu linn"
+                },
+                {
+                    "city_name": "Toila vald"
+                },
+                {
+                    "city_name": "Alutaguse vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Hiiumaa",
+            "cities": [
+                {
+                    "city_name": "Hiiumaa vald"
+                }
+            ]
+        },
+        {
+            "province_name": "Harjumaa",
+            "cities": [
+                {
+                    "city_name": "Tallinn"
+                },
+                {
+                    "city_name": "Harku vald"
+                },
+                {
+                    "city_name": "Joelaehtme vald"
+                },
+                {
+                    "city_name": "Keila linn"
+                },
+                {
+                    "city_name": "Kiili vald"
+                },
+                {
+                    "city_name": "Kose vald"
+                },
+                {
+                    "city_name": "Loksa linn"
+                },
+                {
+                    "city_name": "Maardu linn"
+                },
+                {
+                    "city_name": "Saku vald"
+                },
+                {
+                    "city_name": "Raasiku vald"
+                },
+                {
+                    "city_name": "Rae vald"
+                },
+                {
+                    "city_name": "Saue vald"
+                },
+                {
+                    "city_name": "Kuusalu vald"
+                },
+                {
+                    "city_name": "Anija vald"
+                },
+                {
+                    "city_name": "Viimsi vald"
+                },
+                {
+                    "city_name": "Laeaene-Harju vald"
+                }
+            ]
+        }
+    ]
+}

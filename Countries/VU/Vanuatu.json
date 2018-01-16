@@ -1,0 +1,30 @@
+{
+    "country_name": "Vanuatu",
+    "country_id": "VU",
+    "provinces": [
+        {
+            "province_name": "Tafea Province",
+            "cities": []
+        },
+        {
+            "province_name": "Sanma Province",
+            "cities": []
+        },
+        {
+            "province_name": "Torba Province",
+            "cities": []
+        },
+        {
+            "province_name": "Malampa Province",
+            "cities": []
+        },
+        {
+            "province_name": "Penama Province",
+            "cities": []
+        },
+        {
+            "province_name": "Shefa Province",
+            "cities": []
+        }
+    ]
+}

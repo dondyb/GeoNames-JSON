@@ -1,0 +1,34 @@
+{
+    "country_name": "United Arab Emirates",
+    "country_id": "AE",
+    "provinces": [
+        {
+            "province_name": "Umm al Qaywayn",
+            "cities": []
+        },
+        {
+            "province_name": "Ra's al Khaymah",
+            "cities": []
+        },
+        {
+            "province_name": "Dubai",
+            "cities": []
+        },
+        {
+            "province_name": "Ash Shariqah",
+            "cities": []
+        },
+        {
+            "province_name": "Al Fujayrah",
+            "cities": []
+        },
+        {
+            "province_name": "`Ajman",
+            "cities": []
+        },
+        {
+            "province_name": "Abu Zaby",
+            "cities": []
+        }
+    ]
+}

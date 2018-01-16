@@ -1,0 +1,565 @@
+{
+    "country_name": "Mozambique",
+    "country_id": "MZ",
+    "provinces": [
+        {
+            "province_name": "Provincia de Zambezia",
+            "cities": [
+                {
+                    "city_name": "Concelho de Quelimane"
+                },
+                {
+                    "city_name": "Circunscricao de Mopeia"
+                },
+                {
+                    "city_name": "Circunscricao do Ile"
+                },
+                {
+                    "city_name": "Concelho do Chinde"
+                },
+                {
+                    "city_name": "Alto Molocue"
+                },
+                {
+                    "city_name": "Nicodala District"
+                },
+                {
+                    "city_name": "Gurue District"
+                },
+                {
+                    "city_name": "Morrumbala District"
+                },
+                {
+                    "city_name": "Gile District"
+                },
+                {
+                    "city_name": "Lugela District"
+                },
+                {
+                    "city_name": "Maganja da Costa District"
+                },
+                {
+                    "city_name": "Milange District"
+                },
+                {
+                    "city_name": "Namarroi District"
+                },
+                {
+                    "city_name": "Pebane District"
+                },
+                {
+                    "city_name": "Mocuba District"
+                },
+                {
+                    "city_name": "Inhassunge District"
+                },
+                {
+                    "city_name": "Namacurra District"
+                },
+                {
+                    "city_name": "Distrito de Mulevala"
+                },
+                {
+                    "city_name": "Distrito de Mocubela"
+                },
+                {
+                    "city_name": "Distrito de Derre"
+                },
+                {
+                    "city_name": "Distrito de Molumbo"
+                },
+                {
+                    "city_name": "Distrito de Luabo"
+                },
+                {
+                    "city_name": "Mopeia District"
+                }
+            ]
+        },
+        {
+            "province_name": "Tete",
+            "cities": [
+                {
+                    "city_name": "Circunscricao da Mutarara"
+                },
+                {
+                    "city_name": "Moatize"
+                },
+                {
+                    "city_name": "Circunscricao de Maravia"
+                },
+                {
+                    "city_name": "Circunscricao de Magoe"
+                },
+                {
+                    "city_name": "Circunscricao da Macanga"
+                },
+                {
+                    "city_name": "Circunscricao da Angonia"
+                },
+                {
+                    "city_name": "Tsangano District"
+                },
+                {
+                    "city_name": "Changara District"
+                },
+                {
+                    "city_name": "Chifunde District"
+                },
+                {
+                    "city_name": "Chiuta District"
+                },
+                {
+                    "city_name": "Cahora Bassa District"
+                },
+                {
+                    "city_name": "Cidade de Tete"
+                },
+                {
+                    "city_name": "Luenha"
+                },
+                {
+                    "city_name": "Zumbu"
+                },
+                {
+                    "city_name": "Distrito de Doa"
+                },
+                {
+                    "city_name": "Distrito de Marara"
+                },
+                {
+                    "city_name": "Angonia District"
+                }
+            ]
+        },
+        {
+            "province_name": "Sofala Province",
+            "cities": [
+                {
+                    "city_name": "Circunscricao de Marromeu"
+                },
+                {
+                    "city_name": "Gorongosa District"
+                },
+                {
+                    "city_name": "Concelho do Buzi"
+                },
+                {
+                    "city_name": "Concelho da Beira"
+                },
+                {
+                    "city_name": "Nhamatanda District"
+                },
+                {
+                    "city_name": "Chibabava District"
+                },
+                {
+                    "city_name": "Dondo District"
+                },
+                {
+                    "city_name": "Caia District"
+                },
+                {
+                    "city_name": "Chemba District"
+                },
+                {
+                    "city_name": "Muanza District"
+                },
+                {
+                    "city_name": "Maringue District"
+                },
+                {
+                    "city_name": "Machanga District"
+                },
+                {
+                    "city_name": "Cheringoma District"
+                }
+            ]
+        },
+        {
+            "province_name": "Niassa Province",
+            "cities": [
+                {
+                    "city_name": "Circunscricao de Sanga"
+                },
+                {
+                    "city_name": "Mecula"
+                },
+                {
+                    "city_name": "Circunscricao de Mandimba"
+                },
+                {
+                    "city_name": "Cuamba"
+                },
+                {
+                    "city_name": "Lichinga District"
+                },
+                {
+                    "city_name": "Majune District"
+                },
+                {
+                    "city_name": "Lago District"
+                },
+                {
+                    "city_name": "Maua District"
+                },
+                {
+                    "city_name": "Mecanhelas District"
+                },
+                {
+                    "city_name": "Metarica District"
+                },
+                {
+                    "city_name": "Muembe District"
+                },
+                {
+                    "city_name": "Ngauma District"
+                },
+                {
+                    "city_name": "Nipepe District"
+                },
+                {
+                    "city_name": "Marrupa District"
+                },
+                {
+                    "city_name": "Mavago"
+                },
+                {
+                    "city_name": "Cidade de Lichinga"
+                }
+            ]
+        },
+        {
+            "province_name": "Nampula",
+            "cities": [
+                {
+                    "city_name": "Distrito de Rapale"
+                },
+                {
+                    "city_name": "Circunscricao de Nacala-a-Velha"
+                },
+                {
+                    "city_name": "Circunscricao de Murrupula"
+                },
+                {
+                    "city_name": "Circunscricao de Mossuril"
+                },
+                {
+                    "city_name": "Concelho de Monapo"
+                },
+                {
+                    "city_name": "Distrito de Moma"
+                },
+                {
+                    "city_name": "Circunscricao de Mogovolas"
+                },
+                {
+                    "city_name": "Circunscricao do Mogincual"
+                },
+                {
+                    "city_name": "Memba"
+                },
+                {
+                    "city_name": "Meconta"
+                },
+                {
+                    "city_name": "Circunscricao do Erati"
+                },
+                {
+                    "city_name": "Malema"
+                },
+                {
+                    "city_name": "Ribaue"
+                },
+                {
+                    "city_name": "Nampula"
+                },
+                {
+                    "city_name": "Mecuburi"
+                },
+                {
+                    "city_name": "Cidade de Nampula"
+                },
+                {
+                    "city_name": "Angoche District"
+                },
+                {
+                    "city_name": "Lalaua District"
+                },
+                {
+                    "city_name": "Muecate District"
+                },
+                {
+                    "city_name": "Nacaroa District"
+                },
+                {
+                    "city_name": "Ilha de Mocambique"
+                },
+                {
+                    "city_name": "Distrito de Larde"
+                },
+                {
+                    "city_name": "Distrito de Liupo"
+                }
+            ]
+        },
+        {
+            "province_name": "Maputo Province",
+            "cities": [
+                {
+                    "city_name": "Concelho de Matola"
+                },
+                {
+                    "city_name": "Manhica"
+                },
+                {
+                    "city_name": "Matutiune District"
+                },
+                {
+                    "city_name": "Aeroporto"
+                },
+                {
+                    "city_name": "Distrito Municipal 1"
+                },
+                {
+                    "city_name": "Distrito Municipal 2"
+                },
+                {
+                    "city_name": "Distrito Municipal 3"
+                },
+                {
+                    "city_name": "Distrito Municipal 4"
+                },
+                {
+                    "city_name": "Distrito Municipal 5"
+                },
+                {
+                    "city_name": "Magude District"
+                },
+                {
+                    "city_name": "Moamba District"
+                },
+                {
+                    "city_name": "Boane District"
+                },
+                {
+                    "city_name": "Namaacha District"
+                },
+                {
+                    "city_name": "Marracuene District"
+                }
+            ]
+        },
+        {
+            "province_name": "Manica Province",
+            "cities": [
+                {
+                    "city_name": "Guro"
+                },
+                {
+                    "city_name": "Circunscricao de Mossurize"
+                },
+                {
+                    "city_name": "Concelho de Manica"
+                },
+                {
+                    "city_name": "Concelho do Chimoio"
+                },
+                {
+                    "city_name": "Barue District"
+                },
+                {
+                    "city_name": "Gondola District"
+                },
+                {
+                    "city_name": "Sussundenga District"
+                },
+                {
+                    "city_name": "Guro District"
+                },
+                {
+                    "city_name": "Machaze District"
+                },
+                {
+                    "city_name": "Macossa District"
+                },
+                {
+                    "city_name": "Tambara District"
+                },
+                {
+                    "city_name": "Distrito de Vanduzi"
+                },
+                {
+                    "city_name": "Distrito de Macate"
+                }
+            ]
+        },
+        {
+            "province_name": "Inhambane Province",
+            "cities": [
+                {
+                    "city_name": "Circunscricao do Govuro"
+                },
+                {
+                    "city_name": "Vilankulos District"
+                },
+                {
+                    "city_name": "Mabote"
+                },
+                {
+                    "city_name": "Zavala District"
+                },
+                {
+                    "city_name": "Massinga District"
+                },
+                {
+                    "city_name": "Funhalouro District"
+                },
+                {
+                    "city_name": "Inhassoro District"
+                },
+                {
+                    "city_name": "Inharrime District"
+                },
+                {
+                    "city_name": "Jangamo District"
+                },
+                {
+                    "city_name": "Homoine District"
+                },
+                {
+                    "city_name": "Morrumbene District"
+                },
+                {
+                    "city_name": "Maxixe"
+                },
+                {
+                    "city_name": "Cidade de Inhambane"
+                },
+                {
+                    "city_name": "Panda"
+                }
+            ]
+        },
+        {
+            "province_name": "Gaza Province",
+            "cities": [
+                {
+                    "city_name": "Mandlakaze"
+                },
+                {
+                    "city_name": "Distrito de Chibuto"
+                },
+                {
+                    "city_name": "Chicualacuala"
+                },
+                {
+                    "city_name": "Massingir"
+                },
+                {
+                    "city_name": "Massangena"
+                },
+                {
+                    "city_name": "Chigubo"
+                },
+                {
+                    "city_name": "Mabalane"
+                },
+                {
+                    "city_name": "Chokwe District"
+                },
+                {
+                    "city_name": "Bilene Macia District"
+                },
+                {
+                    "city_name": "Guija"
+                },
+                {
+                    "city_name": "Xai-Xai District"
+                },
+                {
+                    "city_name": "Cidade de Xai-Xai"
+                }
+            ]
+        },
+        {
+            "province_name": "Cabo Delgado Province",
+            "cities": [
+                {
+                    "city_name": "Circunscricao da Quissanga"
+                },
+                {
+                    "city_name": "Circunscricao de Palma"
+                },
+                {
+                    "city_name": "Mocimboa da Praia"
+                },
+                {
+                    "city_name": "Mecufi"
+                },
+                {
+                    "city_name": "Circunscricao de Macomia"
+                },
+                {
+                    "city_name": "Concelho do Ibo"
+                },
+                {
+                    "city_name": "Pemba"
+                },
+                {
+                    "city_name": "Balama District"
+                },
+                {
+                    "city_name": "Mueda District"
+                },
+                {
+                    "city_name": "Ancuabe District"
+                },
+                {
+                    "city_name": "Namuno District"
+                },
+                {
+                    "city_name": "Montepuez District"
+                },
+                {
+                    "city_name": "Meluco"
+                },
+                {
+                    "city_name": "Chiure"
+                },
+                {
+                    "city_name": "Muidumbe"
+                },
+                {
+                    "city_name": "Nangade"
+                }
+            ]
+        },
+        {
+            "province_name": "Cidade de Maputo",
+            "cities": [
+                {
+                    "city_name": "KaMubukwana"
+                },
+                {
+                    "city_name": "KaMavota"
+                },
+                {
+                    "city_name": "Nhlamankulo"
+                },
+                {
+                    "city_name": "KaMaxakeni"
+                },
+                {
+                    "city_name": "KaMpfumo"
+                },
+                {
+                    "city_name": "KaTembe"
+                },
+                {
+                    "city_name": "KaNyaka"
+                }
+            ]
+        }
+    ]
+}

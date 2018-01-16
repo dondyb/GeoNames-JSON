@@ -1,0 +1,10 @@
+{
+    "country_name": "Monaco",
+    "country_id": "MC",
+    "provinces": [
+        {
+            "province_name": "Commune de Monaco",
+            "cities": []
+        }
+    ]
+}

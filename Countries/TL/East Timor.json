@@ -1,0 +1,266 @@
+{
+    "country_name": "East Timor",
+    "country_id": "TL",
+    "provinces": [
+        {
+            "province_name": "Viqueque",
+            "cities": [
+                {
+                    "city_name": "Ossu"
+                },
+                {
+                    "city_name": "Lacluta"
+                },
+                {
+                    "city_name": "Viqueque"
+                },
+                {
+                    "city_name": "Uatolari"
+                },
+                {
+                    "city_name": "Uatocarabau"
+                }
+            ]
+        },
+        {
+            "province_name": "Manufahi",
+            "cities": [
+                {
+                    "city_name": "Alas"
+                },
+                {
+                    "city_name": "Same"
+                },
+                {
+                    "city_name": "Fatuberliu"
+                },
+                {
+                    "city_name": "Turiscai"
+                }
+            ]
+        },
+        {
+            "province_name": "Manatuto",
+            "cities": [
+                {
+                    "city_name": "Barique"
+                },
+                {
+                    "city_name": "Manatuto"
+                },
+                {
+                    "city_name": "Laclubar"
+                },
+                {
+                    "city_name": "Laleia"
+                },
+                {
+                    "city_name": "Soibada"
+                },
+                {
+                    "city_name": "Laclo"
+                }
+            ]
+        },
+        {
+            "province_name": "Liquica",
+            "cities": [
+                {
+                    "city_name": "Liquica"
+                },
+                {
+                    "city_name": "Maubara"
+                },
+                {
+                    "city_name": "Bazartete"
+                }
+            ]
+        },
+        {
+            "province_name": "Lautem",
+            "cities": [
+                {
+                    "city_name": "Lautem"
+                },
+                {
+                    "city_name": "Iliomar"
+                },
+                {
+                    "city_name": "Tutuala"
+                },
+                {
+                    "city_name": "Lospalos"
+                },
+                {
+                    "city_name": "Luro"
+                }
+            ]
+        },
+        {
+            "province_name": "Cova Lima",
+            "cities": [
+                {
+                    "city_name": "Fatululik"
+                },
+                {
+                    "city_name": "Zumalai"
+                },
+                {
+                    "city_name": "Suai"
+                },
+                {
+                    "city_name": "Fatumean"
+                },
+                {
+                    "city_name": "Maucatar"
+                },
+                {
+                    "city_name": "Tilomar"
+                },
+                {
+                    "city_name": "Fohorem"
+                }
+            ]
+        },
+        {
+            "province_name": "Ermera",
+            "cities": [
+                {
+                    "city_name": "Atsabe"
+                },
+                {
+                    "city_name": "Railaco"
+                },
+                {
+                    "city_name": "Ermera Villa"
+                },
+                {
+                    "city_name": "Letefoho"
+                },
+                {
+                    "city_name": "Hatulia"
+                }
+            ]
+        },
+        {
+            "province_name": "Dili",
+            "cities": [
+                {
+                    "city_name": "Vera Cruz"
+                },
+                {
+                    "city_name": "Cristo Rei"
+                },
+                {
+                    "city_name": "Dom Aleixo"
+                },
+                {
+                    "city_name": "Atauro"
+                },
+                {
+                    "city_name": "Metinaro"
+                },
+                {
+                    "city_name": "Nain Feto"
+                }
+            ]
+        },
+        {
+            "province_name": "Bobonaro",
+            "cities": [
+                {
+                    "city_name": "Maliana"
+                },
+                {
+                    "city_name": "Atabae"
+                },
+                {
+                    "city_name": "Balibo"
+                },
+                {
+                    "city_name": "Bobonaro"
+                },
+                {
+                    "city_name": "Cailaco"
+                },
+                {
+                    "city_name": "Lolotoe"
+                }
+            ]
+        },
+        {
+            "province_name": "Baucau",
+            "cities": [
+                {
+                    "city_name": "Baucau"
+                },
+                {
+                    "city_name": "Baguia"
+                },
+                {
+                    "city_name": "Laga"
+                },
+                {
+                    "city_name": "Quelicai"
+                },
+                {
+                    "city_name": "Vemasse"
+                },
+                {
+                    "city_name": "Venilale"
+                }
+            ]
+        },
+        {
+            "province_name": "Oecusse",
+            "cities": [
+                {
+                    "city_name": "Nitibe"
+                },
+                {
+                    "city_name": "Passabe"
+                },
+                {
+                    "city_name": "Oesilo"
+                },
+                {
+                    "city_name": "Pante Makasar"
+                }
+            ]
+        },
+        {
+            "province_name": "Ainaro",
+            "cities": [
+                {
+                    "city_name": "Maubisse"
+                },
+                {
+                    "city_name": "Hatobuilico"
+                },
+                {
+                    "city_name": "Ainaro"
+                },
+                {
+                    "city_name": "Hato-Udo"
+                }
+            ]
+        },
+        {
+            "province_name": "Aileu",
+            "cities": [
+                {
+                    "city_name": "Laulara"
+                },
+                {
+                    "city_name": "Aileu Villa"
+                },
+                {
+                    "city_name": "Lequidoe"
+                },
+                {
+                    "city_name": "Remexio"
+                }
+            ]
+        }
+    ]
+}

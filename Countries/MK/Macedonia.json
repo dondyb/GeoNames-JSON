@@ -1,0 +1,405 @@
+{
+    "country_name": "Macedonia",
+    "country_id": "MK",
+    "provinces": [
+        {
+            "province_name": "Valandovo",
+            "cities": []
+        },
+        {
+            "province_name": "Resen",
+            "cities": []
+        },
+        {
+            "province_name": "Kratovo",
+            "cities": [
+                {
+                    "city_name": "Kratovo Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Pehcevo",
+            "cities": []
+        },
+        {
+            "province_name": "Novo Selo",
+            "cities": []
+        },
+        {
+            "province_name": "Bosilovo",
+            "cities": []
+        },
+        {
+            "province_name": "Vasilevo",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Dojran",
+            "cities": []
+        },
+        {
+            "province_name": "Bogdanci",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Konce",
+            "cities": []
+        },
+        {
+            "province_name": "Makedonska Kamenica",
+            "cities": []
+        },
+        {
+            "province_name": "Zrnovci",
+            "cities": []
+        },
+        {
+            "province_name": "Karbinci",
+            "cities": []
+        },
+        {
+            "province_name": "Demir Kapija",
+            "cities": []
+        },
+        {
+            "province_name": "Rosoman",
+            "cities": []
+        },
+        {
+            "province_name": "Gradsko",
+            "cities": []
+        },
+        {
+            "province_name": "Lozovo",
+            "cities": []
+        },
+        {
+            "province_name": "Cesinovo-Oblesevo",
+            "cities": []
+        },
+        {
+            "province_name": "Novaci",
+            "cities": []
+        },
+        {
+            "province_name": "Berovo",
+            "cities": []
+        },
+        {
+            "province_name": "Bitola",
+            "cities": []
+        },
+        {
+            "province_name": "Mogila",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Aracinovo",
+            "cities": []
+        },
+        {
+            "province_name": "Bogovinje",
+            "cities": []
+        },
+        {
+            "province_name": "Brvenica",
+            "cities": []
+        },
+        {
+            "province_name": "Cair",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Caska",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Centar",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Centar Zupa",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Cucer-Sandevo",
+            "cities": []
+        },
+        {
+            "province_name": "Debar",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Delcevo",
+            "cities": []
+        },
+        {
+            "province_name": "Demir Hisar",
+            "cities": []
+        },
+        {
+            "province_name": "Dolneni",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Gjorce Petrov",
+            "cities": []
+        },
+        {
+            "province_name": "Drugovo",
+            "cities": []
+        },
+        {
+            "province_name": "Gazi Baba",
+            "cities": []
+        },
+        {
+            "province_name": "Gevgelija",
+            "cities": []
+        },
+        {
+            "province_name": "Gostivar",
+            "cities": []
+        },
+        {
+            "province_name": "Ilinden",
+            "cities": []
+        },
+        {
+            "province_name": "Jegunovce",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Karpos",
+            "cities": []
+        },
+        {
+            "province_name": "Kavadarci",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Kicevo",
+            "cities": []
+        },
+        {
+            "province_name": "Kisela Voda",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Kocani",
+            "cities": [
+                {
+                    "city_name": "Kocani Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Kriva Palanka",
+            "cities": [
+                {
+                    "city_name": "Kriva Palanka Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Krivogastani",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Krusevo",
+            "cities": [
+                {
+                    "city_name": "Krusevo Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Kumanovo",
+            "cities": [
+                {
+                    "city_name": "Kumanovo Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Lipkovo",
+            "cities": []
+        },
+        {
+            "province_name": "Makedonski Brod",
+            "cities": [
+                {
+                    "city_name": "Brod Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Negotino",
+            "cities": []
+        },
+        {
+            "province_name": "Ohrid",
+            "cities": [
+                {
+                    "city_name": "Ohrid Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Oslomej",
+            "cities": []
+        },
+        {
+            "province_name": "Petrovec",
+            "cities": [
+                {
+                    "city_name": "Petrovec"
+                }
+            ]
+        },
+        {
+            "province_name": "Plasnica",
+            "cities": []
+        },
+        {
+            "province_name": "Prilep",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Probistip",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Radovis",
+            "cities": [
+                {
+                    "city_name": "Radovis Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Rankovce",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Mavrovo i Rostusa",
+            "cities": []
+        },
+        {
+            "province_name": "Saraj",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Sopiste",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Staro Nagoricane",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Stip",
+            "cities": []
+        },
+        {
+            "province_name": "Struga",
+            "cities": [
+                {
+                    "city_name": "Lukovo"
+                },
+                {
+                    "city_name": "Labunista"
+                }
+            ]
+        },
+        {
+            "province_name": "Strumica",
+            "cities": [
+                {
+                    "city_name": "Strumica Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Studenicani",
+            "cities": []
+        },
+        {
+            "province_name": "Suto Orizari",
+            "cities": []
+        },
+        {
+            "province_name": "Sveti Nikole",
+            "cities": []
+        },
+        {
+            "province_name": "Tearce",
+            "cities": []
+        },
+        {
+            "province_name": "Tetovo",
+            "cities": [
+                {
+                    "city_name": "Tetovo Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Veles",
+            "cities": [
+                {
+                    "city_name": "Titov Veles Opstina"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Vevcani",
+            "cities": []
+        },
+        {
+            "province_name": "Vinica",
+            "cities": [
+                {
+                    "city_name": "Blatec"
+                }
+            ]
+        },
+        {
+            "province_name": "Opstina Vranestica",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Vrapciste",
+            "cities": []
+        },
+        {
+            "province_name": "Zajas",
+            "cities": []
+        },
+        {
+            "province_name": "Zelenikovo",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Zelino",
+            "cities": []
+        },
+        {
+            "province_name": "Aerodrom",
+            "cities": []
+        },
+        {
+            "province_name": "Butel",
+            "cities": []
+        },
+        {
+            "province_name": "Debarca",
+            "cities": []
+        },
+        {
+            "province_name": "Grad Skopje",
+            "cities": []
+        }
+    ]
+}

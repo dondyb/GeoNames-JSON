@@ -1,0 +1,137 @@
+{
+    "country_name": "Guinea-Bissau",
+    "country_id": "GW",
+    "provinces": [
+        {
+            "province_name": "Tombali",
+            "cities": [
+                {
+                    "city_name": "Bedanda"
+                },
+                {
+                    "city_name": "Quebo"
+                },
+                {
+                    "city_name": "Cacine"
+                }
+            ]
+        },
+        {
+            "province_name": "Quinara",
+            "cities": [
+                {
+                    "city_name": "Fulcunda"
+                },
+                {
+                    "city_name": "Buba"
+                },
+                {
+                    "city_name": "Empada"
+                },
+                {
+                    "city_name": "Tite"
+                }
+            ]
+        },
+        {
+            "province_name": "Oio Region",
+            "cities": [
+                {
+                    "city_name": "Mansaba Sector"
+                },
+                {
+                    "city_name": "Bissora Sector"
+                },
+                {
+                    "city_name": "Nhacra Sector"
+                },
+                {
+                    "city_name": "Farim Sector"
+                },
+                {
+                    "city_name": "Mansoa"
+                }
+            ]
+        },
+        {
+            "province_name": "Gabu",
+            "cities": [
+                {
+                    "city_name": "Sonaco Sector"
+                },
+                {
+                    "city_name": "Gabu Sector"
+                }
+            ]
+        },
+        {
+            "province_name": "Cacheu Region",
+            "cities": [
+                {
+                    "city_name": "Sao Domingos"
+                },
+                {
+                    "city_name": "Cacheu Sector"
+                },
+                {
+                    "city_name": "Bigene Sector"
+                },
+                {
+                    "city_name": "Caio Sector"
+                },
+                {
+                    "city_name": "Canchungo Sector"
+                },
+                {
+                    "city_name": "Bula"
+                }
+            ]
+        },
+        {
+            "province_name": "Bolama",
+            "cities": [
+                {
+                    "city_name": "Bubaque"
+                },
+                {
+                    "city_name": "Caravela"
+                }
+            ]
+        },
+        {
+            "province_name": "Bissau Region",
+            "cities": []
+        },
+        {
+            "province_name": "Biombo",
+            "cities": [
+                {
+                    "city_name": "Prabis Sector"
+                },
+                {
+                    "city_name": "Quinhamel Sector"
+                }
+            ]
+        },
+        {
+            "province_name": "Bafata",
+            "cities": [
+                {
+                    "city_name": "Xitole Sector"
+                },
+                {
+                    "city_name": "Gamamundo Sector"
+                },
+                {
+                    "city_name": "Galomaro Sector"
+                },
+                {
+                    "city_name": "Bafata Sector"
+                },
+                {
+                    "city_name": "Contuboel Sector"
+                }
+            ]
+        }
+    ]
+}

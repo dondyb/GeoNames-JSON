@@ -1,0 +1,46 @@
+{
+    "country_name": "Suriname",
+    "country_id": "SR",
+    "provinces": [
+        {
+            "province_name": "Distrikt Wanica",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Sipaliwini",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Saramacca",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Paramaribo",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Para",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Nickerie",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Marowijne",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Coronie",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Commewijne",
+            "cities": []
+        },
+        {
+            "province_name": "Distrikt Brokopondo",
+            "cities": []
+        }
+    ]
+}

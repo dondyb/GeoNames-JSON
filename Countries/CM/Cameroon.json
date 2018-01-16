@@ -1,0 +1,251 @@
+{
+    "country_name": "Cameroon",
+    "country_id": "CM",
+    "provinces": [
+        {
+            "province_name": "South-West Region",
+            "cities": [
+                {
+                    "city_name": "Ndian Division"
+                },
+                {
+                    "city_name": "Meme Division"
+                },
+                {
+                    "city_name": "Manyu Division"
+                },
+                {
+                    "city_name": "Fako Division"
+                },
+                {
+                    "city_name": "Koupe-Manengouba"
+                },
+                {
+                    "city_name": "Lebialem"
+                }
+            ]
+        },
+        {
+            "province_name": "South Region",
+            "cities": [
+                {
+                    "city_name": "Departement du Ntem"
+                },
+                {
+                    "city_name": "Departement de Kribi"
+                },
+                {
+                    "city_name": "Departement du Dja-et-Lobo"
+                },
+                {
+                    "city_name": "Mvila"
+                },
+                {
+                    "city_name": "Vallee-du-Ntem"
+                }
+            ]
+        },
+        {
+            "province_name": "West Region",
+            "cities": [
+                {
+                    "city_name": "Departement du Nde"
+                },
+                {
+                    "city_name": "Departement de Mifi"
+                },
+                {
+                    "city_name": "Departement de la Menoua"
+                },
+                {
+                    "city_name": "Departement du Haut-Nkam"
+                },
+                {
+                    "city_name": "Departement de Bamoun"
+                },
+                {
+                    "city_name": "Departement de Bamboutos"
+                },
+                {
+                    "city_name": "Hauts-Plateaux"
+                },
+                {
+                    "city_name": "Koung-Khi"
+                },
+                {
+                    "city_name": "Noun"
+                }
+            ]
+        },
+        {
+            "province_name": "North-West Region",
+            "cities": [
+                {
+                    "city_name": "Momo Division"
+                },
+                {
+                    "city_name": "Mezam Division"
+                },
+                {
+                    "city_name": "Metchum Division"
+                },
+                {
+                    "city_name": "Donga and Mantung Division"
+                },
+                {
+                    "city_name": "Bui Division"
+                },
+                {
+                    "city_name": "Boyo"
+                },
+                {
+                    "city_name": "Ngo-Ketunjia"
+                }
+            ]
+        },
+        {
+            "province_name": "North Region",
+            "cities": [
+                {
+                    "city_name": "Departement de la Benoue"
+                },
+                {
+                    "city_name": "Mayo-Rey"
+                },
+                {
+                    "city_name": "Mayo-Louti"
+                },
+                {
+                    "city_name": "Faro Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Littoral Region",
+            "cities": [
+                {
+                    "city_name": "Departement du Wouri"
+                },
+                {
+                    "city_name": "Departement de la Sanaga-Maritime"
+                },
+                {
+                    "city_name": "Departement du Nkam"
+                },
+                {
+                    "city_name": "Departement du Mungo"
+                }
+            ]
+        },
+        {
+            "province_name": "Far North Region",
+            "cities": [
+                {
+                    "city_name": "Departement du Mayo Danai"
+                },
+                {
+                    "city_name": "Departement du Margui-Wandala"
+                },
+                {
+                    "city_name": "Departement du Logone-et-Chari"
+                },
+                {
+                    "city_name": "Departement du Diamare"
+                },
+                {
+                    "city_name": "Departement du Mayo-Kani"
+                },
+                {
+                    "city_name": "Mayo-Sava"
+                },
+                {
+                    "city_name": "Mayo-Tsanaga"
+                }
+            ]
+        },
+        {
+            "province_name": "East Region",
+            "cities": [
+                {
+                    "city_name": "Departement du Lom-et-Kadei"
+                },
+                {
+                    "city_name": "Departement du Lom-et-Djerem"
+                },
+                {
+                    "city_name": "Departement de la Kadei"
+                },
+                {
+                    "city_name": "Departement du Haut-Nyong"
+                },
+                {
+                    "city_name": "Departement de la Boumba-Ngoko"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre Region",
+            "cities": [
+                {
+                    "city_name": "Departement du Nyong-et-Soo"
+                },
+                {
+                    "city_name": "Departement du Nyong-et-Mfoumou"
+                },
+                {
+                    "city_name": "Departement du Nyong-et-Kelle"
+                },
+                {
+                    "city_name": "Departement de la Mefou"
+                },
+                {
+                    "city_name": "Departement du Mbam"
+                },
+                {
+                    "city_name": "Departement de la Lekie"
+                },
+                {
+                    "city_name": "Departement de la Haute-Sanaga"
+                },
+                {
+                    "city_name": "Mbam-et-Kim"
+                },
+                {
+                    "city_name": "Mefou-et-Afamba"
+                },
+                {
+                    "city_name": "Mfoundi"
+                },
+                {
+                    "city_name": "Mefou-et-Akono"
+                },
+                {
+                    "city_name": "Mbam-Et-Inoubou"
+                }
+            ]
+        },
+        {
+            "province_name": "Adamaoua Region",
+            "cities": [
+                {
+                    "city_name": "Departement de l'Adamaoua"
+                },
+                {
+                    "city_name": "Djerem"
+                },
+                {
+                    "city_name": "Faro-et-Deo"
+                },
+                {
+                    "city_name": "Vina"
+                },
+                {
+                    "city_name": "Mbere Department"
+                },
+                {
+                    "city_name": "Mayo-Banyo"
+                }
+            ]
+        }
+    ]
+}

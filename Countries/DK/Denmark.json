@@ -1,0 +1,328 @@
+{
+    "country_name": "Denmark",
+    "country_id": "DK",
+    "provinces": [
+        {
+            "province_name": "Region Hovedstaden",
+            "cities": [
+                {
+                    "city_name": "Vallensbaek Kommune"
+                },
+                {
+                    "city_name": "Tarnby Kommune"
+                },
+                {
+                    "city_name": "Rodovre Kommune"
+                },
+                {
+                    "city_name": "Lyngby-Tarbaek Kommune"
+                },
+                {
+                    "city_name": "Kobenhavn"
+                },
+                {
+                    "city_name": "Ishoj Kommune"
+                },
+                {
+                    "city_name": "Hvidovre Kommune"
+                },
+                {
+                    "city_name": "Horsholm Kommune"
+                },
+                {
+                    "city_name": "Hillerod Kommune"
+                },
+                {
+                    "city_name": "Herlev Kommune"
+                },
+                {
+                    "city_name": "Helsingor Kommune"
+                },
+                {
+                    "city_name": "Glostrup Kommune"
+                },
+                {
+                    "city_name": "Gladsaxe Municipality"
+                },
+                {
+                    "city_name": "Gentofte Kommune"
+                },
+                {
+                    "city_name": "Frederikssund Kommune"
+                },
+                {
+                    "city_name": "Frederiksberg Kommune"
+                },
+                {
+                    "city_name": "Dragor Kommune"
+                },
+                {
+                    "city_name": "Christianso"
+                },
+                {
+                    "city_name": "Brondby Kommune"
+                },
+                {
+                    "city_name": "Bornholm Kommune"
+                },
+                {
+                    "city_name": "Ballerup Kommune"
+                },
+                {
+                    "city_name": "Allerod Kommune"
+                },
+                {
+                    "city_name": "Albertslund Kommune"
+                },
+                {
+                    "city_name": "Fureso Kommune"
+                },
+                {
+                    "city_name": "Hoje-Taastrup Kommune"
+                },
+                {
+                    "city_name": "Fredensborg Kommune"
+                },
+                {
+                    "city_name": "Halsnaes Kommune"
+                },
+                {
+                    "city_name": "Rudersdal Kommune"
+                },
+                {
+                    "city_name": "Gribskov Kommune"
+                },
+                {
+                    "city_name": "Egedal Kommune"
+                }
+            ]
+        },
+        {
+            "province_name": "Region Midtjylland",
+            "cities": [
+                {
+                    "city_name": "Viborg Kommune"
+                },
+                {
+                    "city_name": "Struer Kommune"
+                },
+                {
+                    "city_name": "Skive Kommune"
+                },
+                {
+                    "city_name": "Skanderborg Kommune"
+                },
+                {
+                    "city_name": "Silkeborg Kommune"
+                },
+                {
+                    "city_name": "Samso Kommune"
+                },
+                {
+                    "city_name": "Randers Kommune"
+                },
+                {
+                    "city_name": "Odder Kommune"
+                },
+                {
+                    "city_name": "Lemvig Kommune"
+                },
+                {
+                    "city_name": "Horsens Kommune"
+                },
+                {
+                    "city_name": "Holstebro Kommune"
+                },
+                {
+                    "city_name": "Herning Kommune"
+                },
+                {
+                    "city_name": "Hedensted Kommune"
+                },
+                {
+                    "city_name": "Arhus Kommune"
+                },
+                {
+                    "city_name": "Ringkobing-Skjern Kommune"
+                },
+                {
+                    "city_name": "Norddjurs Kommune"
+                },
+                {
+                    "city_name": "Ikast-Brande Kommune"
+                },
+                {
+                    "city_name": "Favrskov Kommune"
+                },
+                {
+                    "city_name": "Syddjurs Kommune"
+                }
+            ]
+        },
+        {
+            "province_name": "North Denmark Region",
+            "cities": [
+                {
+                    "city_name": "Thisted Kommune"
+                },
+                {
+                    "city_name": "Morso Kommune"
+                },
+                {
+                    "city_name": "Laeso Kommune"
+                },
+                {
+                    "city_name": "Hjorring Kommune"
+                },
+                {
+                    "city_name": "Frederikshavn Kommune"
+                },
+                {
+                    "city_name": "Bronderslev Kommune"
+                },
+                {
+                    "city_name": "Jammerbugt Kommune"
+                },
+                {
+                    "city_name": "Mariagerfjord Kommune"
+                },
+                {
+                    "city_name": "Alborg Kommune"
+                },
+                {
+                    "city_name": "Rebild Kommune"
+                },
+                {
+                    "city_name": "Vesthimmerland Kommune"
+                }
+            ]
+        },
+        {
+            "province_name": "Region Sjaelland",
+            "cities": [
+                {
+                    "city_name": "Vordingborg Kommune"
+                },
+                {
+                    "city_name": "Stevns Kommune"
+                },
+                {
+                    "city_name": "Soro Kommune"
+                },
+                {
+                    "city_name": "Solrod Kommune"
+                },
+                {
+                    "city_name": "Slagelse Kommune"
+                },
+                {
+                    "city_name": "Roskilde Kommune"
+                },
+                {
+                    "city_name": "Ringsted Kommune"
+                },
+                {
+                    "city_name": "Naestved Kommune"
+                },
+                {
+                    "city_name": "Lejre Kommune"
+                },
+                {
+                    "city_name": "Koge Kommune"
+                },
+                {
+                    "city_name": "Kalundborg Kommune"
+                },
+                {
+                    "city_name": "Holbaek Kommune"
+                },
+                {
+                    "city_name": "Greve Kommune"
+                },
+                {
+                    "city_name": "Odsherred Kommune"
+                },
+                {
+                    "city_name": "Faxe Kommune"
+                },
+                {
+                    "city_name": "Guldborgsund Kommune"
+                },
+                {
+                    "city_name": "Lolland Kommune"
+                }
+            ]
+        },
+        {
+            "province_name": "Region Syddanmark",
+            "cities": [
+                {
+                    "city_name": "Vejle Kommune"
+                },
+                {
+                    "city_name": "Vejen Kommune"
+                },
+                {
+                    "city_name": "Tonder Kommune"
+                },
+                {
+                    "city_name": "Svendborg Kommune"
+                },
+                {
+                    "city_name": "Sonderborg Kommune"
+                },
+                {
+                    "city_name": "Odense Kommune"
+                },
+                {
+                    "city_name": "Nyborg Kommune"
+                },
+                {
+                    "city_name": "Middelfart Kommune"
+                },
+                {
+                    "city_name": "Kolding Kommune"
+                },
+                {
+                    "city_name": "Kerteminde Kommune"
+                },
+                {
+                    "city_name": "Haderslev Kommune"
+                },
+                {
+                    "city_name": "Fredericia Kommune"
+                },
+                {
+                    "city_name": "Fano Kommune"
+                },
+                {
+                    "city_name": "Varde Kommune"
+                },
+                {
+                    "city_name": "Billund Kommune"
+                },
+                {
+                    "city_name": "Assens Kommune"
+                },
+                {
+                    "city_name": "Aabenraa Kommune"
+                },
+                {
+                    "city_name": "Esbjerg Kommune"
+                },
+                {
+                    "city_name": "Nordfyns Kommune"
+                },
+                {
+                    "city_name": "AEro Kommune"
+                },
+                {
+                    "city_name": "Faaborg-Midtfyn Kommune"
+                },
+                {
+                    "city_name": "Langeland Kommune"
+                }
+            ]
+        }
+    ]
+}

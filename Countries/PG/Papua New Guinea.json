@@ -1,0 +1,377 @@
+{
+    "country_name": "Papua New Guinea",
+    "country_id": "PG",
+    "provinces": [
+        {
+            "province_name": "West New Britain Province",
+            "cities": [
+                {
+                    "city_name": "Talasea"
+                },
+                {
+                    "city_name": "Kandrian Gloucester"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Province",
+            "cities": [
+                {
+                    "city_name": "Middle Fly"
+                },
+                {
+                    "city_name": "South Fly"
+                },
+                {
+                    "city_name": "North Fly"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Highlands Province",
+            "cities": [
+                {
+                    "city_name": "Hagen"
+                },
+                {
+                    "city_name": "Dei"
+                },
+                {
+                    "city_name": "Baiyer Mul"
+                },
+                {
+                    "city_name": "Tambul Nebilyer"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Highlands Province",
+            "cities": [
+                {
+                    "city_name": "Nipa Kutubu"
+                },
+                {
+                    "city_name": "Mendi"
+                },
+                {
+                    "city_name": "Ialibu Pangia"
+                },
+                {
+                    "city_name": "Kagua Erave"
+                },
+                {
+                    "city_name": "Imbonggu"
+                }
+            ]
+        },
+        {
+            "province_name": "West Sepik Province",
+            "cities": [
+                {
+                    "city_name": "Telefomin"
+                },
+                {
+                    "city_name": "Nuku"
+                },
+                {
+                    "city_name": "Vanimo Green"
+                },
+                {
+                    "city_name": "Aitape Lumi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bougainville",
+            "cities": [
+                {
+                    "city_name": "Central Bougainville"
+                },
+                {
+                    "city_name": "South Bougainville"
+                },
+                {
+                    "city_name": "North Bougainville"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Province",
+            "cities": [
+                {
+                    "city_name": "Sohe"
+                },
+                {
+                    "city_name": "Ijivitari"
+                }
+            ]
+        },
+        {
+            "province_name": "New Ireland Province",
+            "cities": [
+                {
+                    "city_name": "Namatanai"
+                },
+                {
+                    "city_name": "Kavieng"
+                }
+            ]
+        },
+        {
+            "province_name": "National Capital District",
+            "cities": [
+                {
+                    "city_name": "National Capital District"
+                }
+            ]
+        },
+        {
+            "province_name": "Morobe Province",
+            "cities": [
+                {
+                    "city_name": "Menyamya"
+                },
+                {
+                    "city_name": "Lae"
+                },
+                {
+                    "city_name": "Kabwum"
+                },
+                {
+                    "city_name": "Finschhafen"
+                },
+                {
+                    "city_name": "Bulolo"
+                },
+                {
+                    "city_name": "Huon Gulf"
+                },
+                {
+                    "city_name": "Nawae"
+                },
+                {
+                    "city_name": "Tewai Siassi"
+                },
+                {
+                    "city_name": "Markham"
+                }
+            ]
+        },
+        {
+            "province_name": "Manus Province",
+            "cities": [
+                {
+                    "city_name": "Manus"
+                }
+            ]
+        },
+        {
+            "province_name": "Madang Province",
+            "cities": [
+                {
+                    "city_name": "Bogia"
+                },
+                {
+                    "city_name": "Madang"
+                },
+                {
+                    "city_name": "Middle Ramu"
+                },
+                {
+                    "city_name": "Usino Bundi"
+                },
+                {
+                    "city_name": "Sumkar"
+                },
+                {
+                    "city_name": "Rai Coast"
+                }
+            ]
+        },
+        {
+            "province_name": "Gulf Province",
+            "cities": [
+                {
+                    "city_name": "Kikori"
+                },
+                {
+                    "city_name": "Kerema"
+                }
+            ]
+        },
+        {
+            "province_name": "Enga Province",
+            "cities": [
+                {
+                    "city_name": "Wapenamanda"
+                },
+                {
+                    "city_name": "Wabag"
+                },
+                {
+                    "city_name": "Kompiam Ambum"
+                },
+                {
+                    "city_name": "Kandep"
+                },
+                {
+                    "city_name": "Lagaip Porgera"
+                }
+            ]
+        },
+        {
+            "province_name": "East Sepik Province",
+            "cities": [
+                {
+                    "city_name": "Wewak"
+                },
+                {
+                    "city_name": "Maprik"
+                },
+                {
+                    "city_name": "Angoram"
+                },
+                {
+                    "city_name": "Ambunti Dreikikir"
+                },
+                {
+                    "city_name": "Wosera Gaui"
+                },
+                {
+                    "city_name": "Yangoru Saussia"
+                }
+            ]
+        },
+        {
+            "province_name": "East New Britain Province",
+            "cities": [
+                {
+                    "city_name": "Rabaul"
+                },
+                {
+                    "city_name": "Pomio"
+                },
+                {
+                    "city_name": "Kokopo"
+                },
+                {
+                    "city_name": "Gazelle"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Highlands Province",
+            "cities": [
+                {
+                    "city_name": "Okapa"
+                },
+                {
+                    "city_name": "Lufa"
+                },
+                {
+                    "city_name": "Kainantu"
+                },
+                {
+                    "city_name": "Henganofi"
+                },
+                {
+                    "city_name": "Goroka"
+                },
+                {
+                    "city_name": "Unggai Bena"
+                },
+                {
+                    "city_name": "Daulo"
+                },
+                {
+                    "city_name": "Obura Wonenara"
+                }
+            ]
+        },
+        {
+            "province_name": "Chimbu Province",
+            "cities": [
+                {
+                    "city_name": "Kerowagi"
+                },
+                {
+                    "city_name": "Karimui Nomane"
+                },
+                {
+                    "city_name": "Gumine"
+                },
+                {
+                    "city_name": "Chuave"
+                },
+                {
+                    "city_name": "Kundiawa"
+                },
+                {
+                    "city_name": "Sinasina Yonggamugl"
+                }
+            ]
+        },
+        {
+            "province_name": "Milne Bay Province",
+            "cities": [
+                {
+                    "city_name": "Esa'ala"
+                },
+                {
+                    "city_name": "Kiriwina Goodenough"
+                },
+                {
+                    "city_name": "Alotau"
+                },
+                {
+                    "city_name": "Samarai Murua"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Province",
+            "cities": [
+                {
+                    "city_name": "Rigo"
+                },
+                {
+                    "city_name": "Goilala"
+                },
+                {
+                    "city_name": "Abau"
+                },
+                {
+                    "city_name": "Kairuku-Hiri"
+                }
+            ]
+        },
+        {
+            "province_name": "Hela",
+            "cities": [
+                {
+                    "city_name": "Tari Pori"
+                },
+                {
+                    "city_name": "Koroba-Lake Kopiago"
+                },
+                {
+                    "city_name": "Komo Margarima"
+                }
+            ]
+        },
+        {
+            "province_name": "Jiwaka",
+            "cities": [
+                {
+                    "city_name": "Jimi"
+                },
+                {
+                    "city_name": "Angalimp South Wahgi"
+                },
+                {
+                    "city_name": "North Wahgi"
+                }
+            ]
+        }
+    ]
+}

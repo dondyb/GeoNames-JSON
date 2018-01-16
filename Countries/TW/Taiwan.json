@@ -1,0 +1,92 @@
+{
+    "country_name": "Taiwan",
+    "country_id": "TW",
+    "provinces": [
+        {
+            "province_name": "Fukien",
+            "cities": [
+                {
+                    "city_name": "Kinmen County"
+                },
+                {
+                    "city_name": "Lienchiang"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaohsiung",
+            "cities": [
+                {
+                    "city_name": "Kaohsiung"
+                }
+            ]
+        },
+        {
+            "province_name": "Taipei",
+            "cities": [
+                {
+                    "city_name": "Taipei"
+                }
+            ]
+        },
+        {
+            "province_name": "Taiwan",
+            "cities": [
+                {
+                    "city_name": "Yunlin"
+                },
+                {
+                    "city_name": "Taoyuan"
+                },
+                {
+                    "city_name": "Taitung"
+                },
+                {
+                    "city_name": "Taipei City"
+                },
+                {
+                    "city_name": "Tainan"
+                },
+                {
+                    "city_name": "Pingtung"
+                },
+                {
+                    "city_name": "Penghu"
+                },
+                {
+                    "city_name": "Nantou"
+                },
+                {
+                    "city_name": "Miaoli"
+                },
+                {
+                    "city_name": "Yilan"
+                },
+                {
+                    "city_name": "Hualien"
+                },
+                {
+                    "city_name": "Hsinchu"
+                },
+                {
+                    "city_name": "Hsinchu County"
+                },
+                {
+                    "city_name": "Chiayi"
+                },
+                {
+                    "city_name": "Chiayi County"
+                },
+                {
+                    "city_name": "Changhua"
+                },
+                {
+                    "city_name": "Keelung"
+                },
+                {
+                    "city_name": "Taichung City"
+                }
+            ]
+        }
+    ]
+}

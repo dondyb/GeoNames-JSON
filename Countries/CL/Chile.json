@@ -1,0 +1,243 @@
+{
+    "country_name": "Chile",
+    "country_id": "CL",
+    "provinces": [
+        {
+            "province_name": "Region de Valparaiso",
+            "cities": [
+                {
+                    "city_name": "Provincia de Valparaiso"
+                },
+                {
+                    "city_name": "Provincia de San Felipe"
+                },
+                {
+                    "city_name": "San Antonio Province"
+                },
+                {
+                    "city_name": "Provincia de Quillota"
+                },
+                {
+                    "city_name": "Petorca Province"
+                },
+                {
+                    "city_name": "Provincia de Los Andes"
+                },
+                {
+                    "city_name": "Provincia de Isla de Pascua"
+                },
+                {
+                    "city_name": "Provincia de Marga Marga"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Tarapaca",
+            "cities": [
+                {
+                    "city_name": "Provincia de Iquique"
+                },
+                {
+                    "city_name": "Provincia del Tamarugal"
+                }
+            ]
+        },
+        {
+            "province_name": "Region Metropolitana de Santiago",
+            "cities": [
+                {
+                    "city_name": "Provincia de Talagante"
+                },
+                {
+                    "city_name": "Provincia de Santiago"
+                },
+                {
+                    "city_name": "Provincia de Melipilla"
+                },
+                {
+                    "city_name": "Provincia de Maipo"
+                },
+                {
+                    "city_name": "Provincia de Cordillera"
+                },
+                {
+                    "city_name": "Provincia de Chacabuco"
+                }
+            ]
+        },
+        {
+            "province_name": "Maule",
+            "cities": [
+                {
+                    "city_name": "Provincia de Talca"
+                },
+                {
+                    "city_name": "Provincia de Linares"
+                },
+                {
+                    "city_name": "Provincia de Curico"
+                },
+                {
+                    "city_name": "Provincia de Cauquenes"
+                }
+            ]
+        },
+        {
+            "province_name": "Los Lagos",
+            "cities": [
+                {
+                    "city_name": "Provincia de Osorno"
+                },
+                {
+                    "city_name": "Provincia de Llanquihue"
+                },
+                {
+                    "city_name": "Provincia de Chiloe"
+                },
+                {
+                    "city_name": "Provincia de Palena"
+                }
+            ]
+        },
+        {
+            "province_name": "Region del Libertador General Bernardo O'Higgins",
+            "cities": [
+                {
+                    "city_name": "Provincia de Colchagua"
+                },
+                {
+                    "city_name": "Provincia de Cachapoal"
+                },
+                {
+                    "city_name": "Provincia de Cardenal Caro"
+                }
+            ]
+        },
+        {
+            "province_name": "Coquimbo",
+            "cities": [
+                {
+                    "city_name": "Provincia de Limari"
+                },
+                {
+                    "city_name": "Provincia de Elqui"
+                },
+                {
+                    "city_name": "Provincia de Choapa"
+                }
+            ]
+        },
+        {
+            "province_name": "Region del Biobio",
+            "cities": [
+                {
+                    "city_name": "Provincia de Nuble"
+                },
+                {
+                    "city_name": "Provincia de Concepcion"
+                },
+                {
+                    "city_name": "Provincia de Biobio"
+                },
+                {
+                    "city_name": "Provincia de Arauco"
+                }
+            ]
+        },
+        {
+            "province_name": "Atacama",
+            "cities": [
+                {
+                    "city_name": "Provincia de Huasco"
+                },
+                {
+                    "city_name": "Provincia de Copiapo"
+                },
+                {
+                    "city_name": "Provincia de Chanaral"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de la Araucania",
+            "cities": [
+                {
+                    "city_name": "Provincia de Malleco"
+                },
+                {
+                    "city_name": "Provincia de Cautin"
+                }
+            ]
+        },
+        {
+            "province_name": "Antofagasta",
+            "cities": [
+                {
+                    "city_name": "Provincia de Tocopilla"
+                },
+                {
+                    "city_name": "Provincia de El Loa"
+                },
+                {
+                    "city_name": "Provincia de Antofagasta"
+                }
+            ]
+        },
+        {
+            "province_name": "Aysen",
+            "cities": [
+                {
+                    "city_name": "Provincia General Carrera"
+                },
+                {
+                    "city_name": "Provincia Capitan Prat"
+                },
+                {
+                    "city_name": "Provincia de Aisen"
+                },
+                {
+                    "city_name": "Provincia de Coyhaique"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Magallanes y de la Antartica Chilena",
+            "cities": [
+                {
+                    "city_name": "Provincia de Ultima Esperanza"
+                },
+                {
+                    "city_name": "Provincia de Tierra del Fuego"
+                },
+                {
+                    "city_name": "Provincia de Magallanes"
+                },
+                {
+                    "city_name": "Provincia Antartica Chilena"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Arica y Parinacota",
+            "cities": [
+                {
+                    "city_name": "Provincia de Arica"
+                },
+                {
+                    "city_name": "Provincia de Parinacota"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Los Rios",
+            "cities": [
+                {
+                    "city_name": "Provincia de Valdivia"
+                },
+                {
+                    "city_name": "Provincia del Ranco"
+                }
+            ]
+        }
+    ]
+}

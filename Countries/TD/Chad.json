@@ -1,0 +1,237 @@
+{
+    "country_name": "Chad",
+    "country_id": "TD",
+    "provinces": [
+        {
+            "province_name": "Salamat Region",
+            "cities": [
+                {
+                    "city_name": "Haraze Mangueigne"
+                },
+                {
+                    "city_name": "Barh Azoum"
+                }
+            ]
+        },
+        {
+            "province_name": "Ouaddai Region",
+            "cities": [
+                {
+                    "city_name": "Ouara"
+                },
+                {
+                    "city_name": "Assoungha Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Wadi Fira Region",
+            "cities": [
+                {
+                    "city_name": "Kobe"
+                }
+            ]
+        },
+        {
+            "province_name": "Tandjile Region",
+            "cities": [
+                {
+                    "city_name": "Tandjile Est"
+                },
+                {
+                    "city_name": "Tandjile Ouest"
+                }
+            ]
+        },
+        {
+            "province_name": "Moyen-Chari Region",
+            "cities": [
+                {
+                    "city_name": "Barh Koeh"
+                },
+                {
+                    "city_name": "Mandoul Oriental"
+                },
+                {
+                    "city_name": "Koumra"
+                },
+                {
+                    "city_name": "Bessada"
+                },
+                {
+                    "city_name": "Bedaya"
+                },
+                {
+                    "city_name": "Djoli"
+                },
+                {
+                    "city_name": "Balimba"
+                },
+                {
+                    "city_name": "Sarh"
+                },
+                {
+                    "city_name": "Lac Iro"
+                },
+                {
+                    "city_name": "Grande Sido"
+                },
+                {
+                    "city_name": "Mandoul Occidental"
+                },
+                {
+                    "city_name": "Barh Sara"
+                }
+            ]
+        },
+        {
+            "province_name": "Mayo-Kebbi East Region",
+            "cities": [
+                {
+                    "city_name": "Mayo-Boneye"
+                }
+            ]
+        },
+        {
+            "province_name": "Logone Oriental Region",
+            "cities": [
+                {
+                    "city_name": "Monts de Lam"
+                },
+                {
+                    "city_name": "Nya Pende"
+                },
+                {
+                    "city_name": "Lanya"
+                },
+                {
+                    "city_name": "Pende"
+                },
+                {
+                    "city_name": "Doba"
+                },
+                {
+                    "city_name": "La Nya Pende"
+                },
+                {
+                    "city_name": "Mamdi Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Logone Occidental Region",
+            "cities": [
+                {
+                    "city_name": "Lac Wey"
+                },
+                {
+                    "city_name": "Dodje"
+                },
+                {
+                    "city_name": "Ngourkosso"
+                }
+            ]
+        },
+        {
+            "province_name": "Lac Region",
+            "cities": [
+                {
+                    "city_name": "Wayi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanem Region",
+            "cities": [
+                {
+                    "city_name": "Rig-Rig"
+                }
+            ]
+        },
+        {
+            "province_name": "Guera Region",
+            "cities": [
+                {
+                    "city_name": "Barh Signaka"
+                },
+                {
+                    "city_name": "Abtouyour"
+                }
+            ]
+        },
+        {
+            "province_name": "Chari-Baguirmi Region",
+            "cities": [
+                {
+                    "city_name": "Baguirmi"
+                },
+                {
+                    "city_name": "Dababa"
+                },
+                {
+                    "city_name": "Mansaba"
+                },
+                {
+                    "city_name": "Dagana District"
+                },
+                {
+                    "city_name": "Loug Chari"
+                },
+                {
+                    "city_name": "Chari"
+                }
+            ]
+        },
+        {
+            "province_name": "Batha Region",
+            "cities": [
+                {
+                    "city_name": "Batha"
+                },
+                {
+                    "city_name": "Fitri"
+                }
+            ]
+        },
+        {
+            "province_name": "Borkou Region",
+            "cities": []
+        },
+        {
+            "province_name": "Hadjer-Lamis",
+            "cities": []
+        },
+        {
+            "province_name": "Mandoul",
+            "cities": []
+        },
+        {
+            "province_name": "Mayo-Kebbi West Region",
+            "cities": []
+        },
+        {
+            "province_name": "Region de la Ville de N'Djamena",
+            "cities": []
+        },
+        {
+            "province_name": "Barh el Gazel",
+            "cities": []
+        },
+        {
+            "province_name": "Sila",
+            "cities": []
+        },
+        {
+            "province_name": "Tibesti Region",
+            "cities": []
+        },
+        {
+            "province_name": "Ennedi-Ouest",
+            "cities": []
+        },
+        {
+            "province_name": "Ennedi-Est",
+            "cities": []
+        }
+    ]
+}

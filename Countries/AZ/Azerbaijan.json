@@ -1,0 +1,359 @@
+{
+    "country_name": "Azerbaijan",
+    "country_id": "AZ",
+    "provinces": [
+        {
+            "province_name": "Beylagan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Zangilan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Yardymli Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Susa Rayonu",
+            "cities": []
+        },
+        {
+            "province_name": "Salyan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Sabirabad Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Saatly Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Bilasuvar Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Neftchala Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Nakhchivan Autonomous Republic",
+            "cities": [
+                {
+                    "city_name": "Shahbuz Rayon"
+                },
+                {
+                    "city_name": "Ordubad Rayon"
+                },
+                {
+                    "city_name": "Sharur Rayon"
+                },
+                {
+                    "city_name": "Julfa Rayon"
+                },
+                {
+                    "city_name": "Nakhchivan City"
+                },
+                {
+                    "city_name": "Sadarak Rayon"
+                },
+                {
+                    "city_name": "Babek Rayon"
+                },
+                {
+                    "city_name": "Kangarli Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Masally District",
+            "cities": []
+        },
+        {
+            "province_name": "Lerik Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Lankaran Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Lacin Rayonu",
+            "cities": []
+        },
+        {
+            "province_name": "Qubadli Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Imishli Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Fizuli Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Jabrayil District",
+            "cities": []
+        },
+        {
+            "province_name": "Jalilabad",
+            "cities": []
+        },
+        {
+            "province_name": "Astara District",
+            "cities": []
+        },
+        {
+            "province_name": "Xocali Rayonu",
+            "cities": []
+        },
+        {
+            "province_name": "Aghjabadi Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Aghdam Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Shirvan",
+            "cities": []
+        },
+        {
+            "province_name": "Lankaran Sahari",
+            "cities": []
+        },
+        {
+            "province_name": "Shusha",
+            "cities": []
+        },
+        {
+            "province_name": "Tartar Rayon",
+            "cities": [
+                {
+                    "city_name": "Mirbasir Rayonu"
+                }
+            ]
+        },
+        {
+            "province_name": "Xankandi Sahari",
+            "cities": []
+        },
+        {
+            "province_name": "Khojavend District",
+            "cities": []
+        },
+        {
+            "province_name": "Zardab Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Zaqatala Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Yevlakh Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Oghuz Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Ujar Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Tovuz Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Shamakhi Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Shaki Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Shamkir Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Kurdamir Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Qabala Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Qusar Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Quba Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Goygol Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Khachmaz Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Kalbajar District",
+            "cities": []
+        },
+        {
+            "province_name": "Qazakh Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Goranboy Rayon",
+            "cities": [
+                {
+                    "city_name": "Shaumyan Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Qakh Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Ismayilli Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Goychay Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Shabran Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Dashkasan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Balakan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Barda Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Baku City",
+            "cities": [
+                {
+                    "city_name": "Shaumyanovskiy Rayon"
+                },
+                {
+                    "city_name": "Ordzhonikidzevskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Nizaminskiy Rayon"
+                },
+                {
+                    "city_name": "Qaradag Rayonu"
+                },
+                {
+                    "city_name": "Imeni Dvadtsati Shesti Bakinskikh Komissarov Rayon"
+                },
+                {
+                    "city_name": "Khatai raion"
+                },
+                {
+                    "city_name": "Nizami Rayonu"
+                }
+            ]
+        },
+        {
+            "province_name": "Absheron Rayon",
+            "cities": [
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Aghsu Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Aghdash Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Gadabay Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Aghstafa Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Ganja City",
+            "cities": []
+        },
+        {
+            "province_name": "Mingacevir City",
+            "cities": []
+        },
+        {
+            "province_name": "Naftalan City",
+            "cities": []
+        },
+        {
+            "province_name": "Gobustan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Samukh Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Shaki city",
+            "cities": []
+        },
+        {
+            "province_name": "Siazan Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Sumqayit City",
+            "cities": []
+        },
+        {
+            "province_name": "Khizi Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Yevlakh City",
+            "cities": []
+        },
+        {
+            "province_name": "Hajigabul Rayon",
+            "cities": []
+        },
+        {
+            "province_name": "Nakhchivan",
+            "cities": []
+        }
+    ]
+}

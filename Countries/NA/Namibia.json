@@ -1,0 +1,214 @@
+{
+    "country_name": "Namibia",
+    "country_id": "NA",
+    "provinces": [
+        {
+            "province_name": "Zambezi Region",
+            "cities": [
+                {
+                    "city_name": "Linyanti"
+                }
+            ]
+        },
+        {
+            "province_name": "Khomas",
+            "cities": [
+                {
+                    "city_name": "Moses Garoeb"
+                },
+                {
+                    "city_name": "Samora Machel"
+                },
+                {
+                    "city_name": "Windhoek Rural"
+                },
+                {
+                    "city_name": "Windhoek East"
+                }
+            ]
+        },
+        {
+            "province_name": "Erongo",
+            "cities": [
+                {
+                    "city_name": "Daures Constituency"
+                },
+                {
+                    "city_name": "Arandis Constituency"
+                },
+                {
+                    "city_name": "Swakopmund Constituency"
+                },
+                {
+                    "city_name": "Walvis Bay Urban Constituency"
+                },
+                {
+                    "city_name": "Walvis Bay Rural Constituency"
+                }
+            ]
+        },
+        {
+            "province_name": "Hardap",
+            "cities": [
+                {
+                    "city_name": "Gibeon Constituency"
+                },
+                {
+                    "city_name": "Rehoboth Rural"
+                },
+                {
+                    "city_name": "Mariental Rural"
+                }
+            ]
+        },
+        {
+            "province_name": "Karas",
+            "cities": [
+                {
+                    "city_name": "Luderitz Constituency"
+                },
+                {
+                    "city_name": "Oranjemund Constituency"
+                },
+                {
+                    "city_name": "Karasburg Constituency"
+                }
+            ]
+        },
+        {
+            "province_name": "Kunene",
+            "cities": [
+                {
+                    "city_name": "Epupa Constituency"
+                },
+                {
+                    "city_name": "Opuwo Constituency"
+                },
+                {
+                    "city_name": "Sesfontein Constituency"
+                },
+                {
+                    "city_name": "Khorixas Constituency"
+                }
+            ]
+        },
+        {
+            "province_name": "Ohangwena",
+            "cities": [
+                {
+                    "city_name": "Epembe Constituency"
+                },
+                {
+                    "city_name": "Endola"
+                },
+                {
+                    "city_name": "Oshikango"
+                },
+                {
+                    "city_name": "Omuthiyagwiipundi"
+                }
+            ]
+        },
+        {
+            "province_name": "Omaheke",
+            "cities": [
+                {
+                    "city_name": "Otjombinde"
+                }
+            ]
+        },
+        {
+            "province_name": "Omusati",
+            "cities": [
+                {
+                    "city_name": "Tsandi"
+                },
+                {
+                    "city_name": "Etayi"
+                },
+                {
+                    "city_name": "Oshikuku"
+                },
+                {
+                    "city_name": "Anamulenge Constituency"
+                }
+            ]
+        },
+        {
+            "province_name": "Oshana",
+            "cities": [
+                {
+                    "city_name": "Oshakati East"
+                },
+                {
+                    "city_name": "Oshakati West"
+                },
+                {
+                    "city_name": "Okaku Constituency"
+                },
+                {
+                    "city_name": "Ongwediva"
+                },
+                {
+                    "city_name": "Uukwiyu"
+                }
+            ]
+        },
+        {
+            "province_name": "Oshikoto",
+            "cities": [
+                {
+                    "city_name": "Olukonda Constituency"
+                },
+                {
+                    "city_name": "Omuntele Constituency"
+                },
+                {
+                    "city_name": "Eengodi"
+                },
+                {
+                    "city_name": "Onayena"
+                }
+            ]
+        },
+        {
+            "province_name": "Otjozondjupa",
+            "cities": [
+                {
+                    "city_name": "Omatako Constituency"
+                },
+                {
+                    "city_name": "Okahandja Constituency"
+                },
+                {
+                    "city_name": "Otavi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kavango East Region",
+            "cities": [
+                {
+                    "city_name": "Rundu Rural West"
+                },
+                {
+                    "city_name": "Mashare"
+                },
+                {
+                    "city_name": "Rundu Urban"
+                }
+            ]
+        },
+        {
+            "province_name": "Kavango West Region",
+            "cities": [
+                {
+                    "city_name": "Kapako Constituency"
+                },
+                {
+                    "city_name": "Mpungu"
+                }
+            ]
+        }
+    ]
+}

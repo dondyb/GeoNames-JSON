@@ -1,0 +1,652 @@
+{
+    "country_name": "North Korea",
+    "country_id": "KP",
+    "provinces": [
+        {
+            "province_name": "Pyongyang",
+            "cities": [
+                {
+                    "city_name": "Ryongsong-guyok"
+                },
+                {
+                    "city_name": "Ryokp'o-guyok"
+                },
+                {
+                    "city_name": "Tongdaewon-guyok"
+                },
+                {
+                    "city_name": "Taesong-guyok"
+                },
+                {
+                    "city_name": "Taedonggang"
+                },
+                {
+                    "city_name": "Sungho-guyok"
+                },
+                {
+                    "city_name": "Sunan"
+                },
+                {
+                    "city_name": "Sosong-guyok"
+                },
+                {
+                    "city_name": "Son'gyo-guyok"
+                },
+                {
+                    "city_name": "Sangwon-gun"
+                },
+                {
+                    "city_name": "Samsok-kuyok"
+                },
+                {
+                    "city_name": "Sadong-guyok"
+                },
+                {
+                    "city_name": "P'yongch'on-guyok"
+                },
+                {
+                    "city_name": "Pot'onggang-guyok"
+                },
+                {
+                    "city_name": "Rangnang"
+                },
+                {
+                    "city_name": "Moranbong"
+                },
+                {
+                    "city_name": "Man'gyongdae"
+                },
+                {
+                    "city_name": "Kangnam-gun"
+                },
+                {
+                    "city_name": "Kangdong-gun"
+                },
+                {
+                    "city_name": "Hyongjesan-guyok"
+                },
+                {
+                    "city_name": "Chung"
+                },
+                {
+                    "city_name": "Chunghwa-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "P'yongan-namdo",
+            "cities": [
+                {
+                    "city_name": "Tokch'on-si"
+                },
+                {
+                    "city_name": "Kangso-guyok"
+                },
+                {
+                    "city_name": "Nyongwon-gun"
+                },
+                {
+                    "city_name": "Yonggang-gun"
+                },
+                {
+                    "city_name": "Yangdok-kun"
+                },
+                {
+                    "city_name": "Taedong-gun"
+                },
+                {
+                    "city_name": "Sunch'on-si"
+                },
+                {
+                    "city_name": "Sukch'on-gun"
+                },
+                {
+                    "city_name": "Songch'on-gun"
+                },
+                {
+                    "city_name": "Sinyang-gun"
+                },
+                {
+                    "city_name": "P'yongwon-gun"
+                },
+                {
+                    "city_name": "P'yongsong-si"
+                },
+                {
+                    "city_name": "Pukch'ang-gun"
+                },
+                {
+                    "city_name": "Onch'on-gun"
+                },
+                {
+                    "city_name": "Mundok-kun"
+                },
+                {
+                    "city_name": "Maengsan-gun"
+                },
+                {
+                    "city_name": "Kaech'on-si"
+                },
+                {
+                    "city_name": "Hoech'ang-gun"
+                },
+                {
+                    "city_name": "Chungsan-gun"
+                },
+                {
+                    "city_name": "Ch'ongnam-gu"
+                },
+                {
+                    "city_name": "Anju-si"
+                },
+                {
+                    "city_name": "Hanggu-guyok"
+                },
+                {
+                    "city_name": "Waudo-guyok"
+                },
+                {
+                    "city_name": "Taehung-gun"
+                },
+                {
+                    "city_name": "Unsan-gun"
+                },
+                {
+                    "city_name": "Ch'ollima-guyok"
+                },
+                {
+                    "city_name": "Taean-guyok"
+                }
+            ]
+        },
+        {
+            "province_name": "P'yongan-bukto",
+            "cities": [
+                {
+                    "city_name": "Yongch'on-gun"
+                },
+                {
+                    "city_name": "Nyongbyon-gun"
+                },
+                {
+                    "city_name": "Yomju-gun"
+                },
+                {
+                    "city_name": "Unjon-gun"
+                },
+                {
+                    "city_name": "Tongnim-gun"
+                },
+                {
+                    "city_name": "T'aech'on-gun"
+                },
+                {
+                    "city_name": "Sonch'on-gun"
+                },
+                {
+                    "city_name": "P'ihyon-gun"
+                },
+                {
+                    "city_name": "Pakch'on-gun"
+                },
+                {
+                    "city_name": "Kwaksan-gun"
+                },
+                {
+                    "city_name": "Kusong-si"
+                },
+                {
+                    "city_name": "Kujang-gun"
+                },
+                {
+                    "city_name": "Hyangsan-gun"
+                },
+                {
+                    "city_name": "Chongju-gun"
+                },
+                {
+                    "city_name": "Ch'olsan-gun"
+                },
+                {
+                    "city_name": "Unsan-gun"
+                },
+                {
+                    "city_name": "Uiju County"
+                },
+                {
+                    "city_name": "Tongch'ang-gun"
+                },
+                {
+                    "city_name": "Taegwan-gun"
+                },
+                {
+                    "city_name": "Sinuiju-si"
+                },
+                {
+                    "city_name": "Sakchu-gun"
+                },
+                {
+                    "city_name": "Pyoktong-gun"
+                },
+                {
+                    "city_name": "Ch'onma-gun"
+                },
+                {
+                    "city_name": "Ch'angsong-gun"
+                },
+                {
+                    "city_name": "Sindo-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Kangwon-do",
+            "cities": [
+                {
+                    "city_name": "Wonsan-si"
+                },
+                {
+                    "city_name": "T'ongch'on-gun"
+                },
+                {
+                    "city_name": "Sep'o-gun"
+                },
+                {
+                    "city_name": "P'yonggang-gun"
+                },
+                {
+                    "city_name": "Poptong-gun"
+                },
+                {
+                    "city_name": "P'an'gyo-gun"
+                },
+                {
+                    "city_name": "Munch'on-si"
+                },
+                {
+                    "city_name": "Kumgang-gun"
+                },
+                {
+                    "city_name": "Kosong-gun"
+                },
+                {
+                    "city_name": "Kosan-gun"
+                },
+                {
+                    "city_name": "Kimhwa-gun"
+                },
+                {
+                    "city_name": "Ich'on-gun"
+                },
+                {
+                    "city_name": "Hoeyang-gun"
+                },
+                {
+                    "city_name": "Ch'orwon-gun"
+                },
+                {
+                    "city_name": "Ch'onnae-gun"
+                },
+                {
+                    "city_name": "Ch'angdo-gun"
+                },
+                {
+                    "city_name": "Anbyon-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Hwanghae-namdo",
+            "cities": [
+                {
+                    "city_name": "Yonan-gun"
+                },
+                {
+                    "city_name": "Unch'on-gun"
+                },
+                {
+                    "city_name": "Ullyul-gun"
+                },
+                {
+                    "city_name": "T'aet'an-gun"
+                },
+                {
+                    "city_name": "Songhwa-gun"
+                },
+                {
+                    "city_name": "Sinwon-gun"
+                },
+                {
+                    "city_name": "Sinch'on-gun"
+                },
+                {
+                    "city_name": "Samch'on-gun"
+                },
+                {
+                    "city_name": "Pongch'on-gun"
+                },
+                {
+                    "city_name": "Pyoksong-gun"
+                },
+                {
+                    "city_name": "Paech'on-gun"
+                },
+                {
+                    "city_name": "Ongjin-gun"
+                },
+                {
+                    "city_name": "Kwail-gun"
+                },
+                {
+                    "city_name": "Kangnyong-gun"
+                },
+                {
+                    "city_name": "Kaesong-si"
+                },
+                {
+                    "city_name": "Kaep'ung-gun"
+                },
+                {
+                    "city_name": "Haeju-si"
+                },
+                {
+                    "city_name": "Ch'ongdan-gun"
+                },
+                {
+                    "city_name": "Changyon-gun"
+                },
+                {
+                    "city_name": "Changp'ung-gun"
+                },
+                {
+                    "city_name": "Chaeryong-gun"
+                },
+                {
+                    "city_name": "Anak-kun"
+                },
+                {
+                    "city_name": "Yongyon-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Hwanghae-bukto",
+            "cities": [
+                {
+                    "city_name": "Yont'an-gun"
+                },
+                {
+                    "city_name": "Yonsan-gun"
+                },
+                {
+                    "city_name": "Unp'a-gun"
+                },
+                {
+                    "city_name": "T'osan-gun"
+                },
+                {
+                    "city_name": "Suan-gun"
+                },
+                {
+                    "city_name": "Songnim-si"
+                },
+                {
+                    "city_name": "Sohung-gun"
+                },
+                {
+                    "city_name": "Sinp'yong-gun"
+                },
+                {
+                    "city_name": "Sin'gye-gun"
+                },
+                {
+                    "city_name": "Sariwon-si"
+                },
+                {
+                    "city_name": "P'yongsan-gun"
+                },
+                {
+                    "city_name": "Pongsan-gun"
+                },
+                {
+                    "city_name": "P'anmun-gun"
+                },
+                {
+                    "city_name": "Kumch'on-gun"
+                },
+                {
+                    "city_name": "Koksan-gun"
+                },
+                {
+                    "city_name": "Insan-gun"
+                },
+                {
+                    "city_name": "Hwangju-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Hamnam",
+            "cities": [
+                {
+                    "city_name": "Yodok-kun"
+                },
+                {
+                    "city_name": "Nagwon-gun"
+                },
+                {
+                    "city_name": "Kumya-gun"
+                },
+                {
+                    "city_name": "Kowon-gun"
+                },
+                {
+                    "city_name": "Hamju-gun"
+                },
+                {
+                    "city_name": "Hamhung-si"
+                },
+                {
+                    "city_name": "Chongpyong County"
+                },
+                {
+                    "city_name": "Yonggwang-gun"
+                },
+                {
+                    "city_name": "Toksong-gun"
+                },
+                {
+                    "city_name": "Tanch'on-gun"
+                },
+                {
+                    "city_name": "Sinp'o-si"
+                },
+                {
+                    "city_name": "Sinhung-gun"
+                },
+                {
+                    "city_name": "Pukch'ong-gun"
+                },
+                {
+                    "city_name": "Pujon-gun"
+                },
+                {
+                    "city_name": "Iwon-gun"
+                },
+                {
+                    "city_name": "Hongwon-gun"
+                },
+                {
+                    "city_name": "Hoch'on-gun"
+                },
+                {
+                    "city_name": "Changjin-gun"
+                },
+                {
+                    "city_name": "Sudong-gu"
+                }
+            ]
+        },
+        {
+            "province_name": "Ryanggang",
+            "cities": [
+                {
+                    "city_name": "Unhung-gun"
+                },
+                {
+                    "city_name": "Taehongdan-gun"
+                },
+                {
+                    "city_name": "Samsu-gun"
+                },
+                {
+                    "city_name": "Samjiyon-gun"
+                },
+                {
+                    "city_name": "P'ungso-gun"
+                },
+                {
+                    "city_name": "Kimhyonggwon-gun"
+                },
+                {
+                    "city_name": "Poch'on-gun"
+                },
+                {
+                    "city_name": "Paegam-gun"
+                },
+                {
+                    "city_name": "Kimjongsuk-kun"
+                },
+                {
+                    "city_name": "Kapsan-gun"
+                },
+                {
+                    "city_name": "Hyesan-si"
+                },
+                {
+                    "city_name": "Kimhyongjik-kun"
+                }
+            ]
+        },
+        {
+            "province_name": "Hambuk",
+            "cities": [
+                {
+                    "city_name": "Yonsa-gun"
+                },
+                {
+                    "city_name": "Undok-kun"
+                },
+                {
+                    "city_name": "Saebyol-gun"
+                },
+                {
+                    "city_name": "Puryong-gun"
+                },
+                {
+                    "city_name": "Orang-gun"
+                },
+                {
+                    "city_name": "Onsong-gun"
+                },
+                {
+                    "city_name": "Hwasong-gun"
+                },
+                {
+                    "city_name": "Myongch'on-gun"
+                },
+                {
+                    "city_name": "Musan-gun"
+                },
+                {
+                    "city_name": "Kyongsong-gun"
+                },
+                {
+                    "city_name": "Kimch'aek-si"
+                },
+                {
+                    "city_name": "Kilchu-gun"
+                },
+                {
+                    "city_name": "Hwadae-gun"
+                },
+                {
+                    "city_name": "Hoeryong-si"
+                },
+                {
+                    "city_name": "Ch'ongjin-si"
+                }
+            ]
+        },
+        {
+            "province_name": "Chagang-do",
+            "cities": [
+                {
+                    "city_name": "Yongnim-gun"
+                },
+                {
+                    "city_name": "Wiwon-gun"
+                },
+                {
+                    "city_name": "Usi-gun"
+                },
+                {
+                    "city_name": "Tongsin-gun"
+                },
+                {
+                    "city_name": "Songwon-gun"
+                },
+                {
+                    "city_name": "Songgan-gun"
+                },
+                {
+                    "city_name": "Sijung-gun"
+                },
+                {
+                    "city_name": "Nangnim-gun"
+                },
+                {
+                    "city_name": "Manp'o-si"
+                },
+                {
+                    "city_name": "Kop'ung-gun"
+                },
+                {
+                    "city_name": "Kanggye-si"
+                },
+                {
+                    "city_name": "Hwap'yong-gun"
+                },
+                {
+                    "city_name": "Huich'on-si"
+                },
+                {
+                    "city_name": "Chunggang-gun"
+                },
+                {
+                    "city_name": "Ch'osan-gun"
+                },
+                {
+                    "city_name": "Chonch'on-gun"
+                },
+                {
+                    "city_name": "Chasong-gun"
+                },
+                {
+                    "city_name": "Changgang-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Rason",
+            "cities": [
+                {
+                    "city_name": "Sonbong-gun"
+                },
+                {
+                    "city_name": "Rajin"
+                }
+            ]
+        }
+    ]
+}

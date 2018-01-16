@@ -1,0 +1,369 @@
+{
+    "country_name": "Somalia",
+    "country_id": "SO",
+    "provinces": [
+        {
+            "province_name": "Gobolka Woqooyi Galbeed",
+            "cities": [
+                {
+                    "city_name": "Berbera"
+                },
+                {
+                    "city_name": "Gebiley"
+                },
+                {
+                    "city_name": "Hargeysa"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Togdheer",
+            "cities": [
+                {
+                    "city_name": "Burao"
+                },
+                {
+                    "city_name": "Buuhoodle"
+                },
+                {
+                    "city_name": "Owdweyne"
+                },
+                {
+                    "city_name": "Sheikh"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Shabeellaha Hoose",
+            "cities": [
+                {
+                    "city_name": "Baraawe"
+                },
+                {
+                    "city_name": "Kurtunwaarey"
+                },
+                {
+                    "city_name": "Marka"
+                },
+                {
+                    "city_name": "Qoryooley"
+                },
+                {
+                    "city_name": "Sablaale"
+                },
+                {
+                    "city_name": "Wanla Weyn"
+                },
+                {
+                    "city_name": "Afgooye"
+                },
+                {
+                    "city_name": "Darkenley"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Shabeellaha Dhexe",
+            "cities": [
+                {
+                    "city_name": "Adan Yabaal"
+                },
+                {
+                    "city_name": "Balcad"
+                },
+                {
+                    "city_name": "Cadale"
+                },
+                {
+                    "city_name": "Jowhar"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Sanaag",
+            "cities": [
+                {
+                    "city_name": "Laasqoray"
+                },
+                {
+                    "city_name": "Ceel Afweyn"
+                },
+                {
+                    "city_name": "Ceerigaabo"
+                },
+                {
+                    "city_name": "Elafweyn"
+                },
+                {
+                    "city_name": "Badhan District"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Nugaal",
+            "cities": [
+                {
+                    "city_name": "Burtinle"
+                },
+                {
+                    "city_name": "Eyl"
+                },
+                {
+                    "city_name": "Garoowe"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Mudug",
+            "cities": [
+                {
+                    "city_name": "Xarardheere"
+                },
+                {
+                    "city_name": "Cadaado"
+                },
+                {
+                    "city_name": "Gaalkacyo"
+                },
+                {
+                    "city_name": "Galdogob"
+                },
+                {
+                    "city_name": "Hobyo"
+                },
+                {
+                    "city_name": "Jariiban"
+                },
+                {
+                    "city_name": "Xarfo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Jubbada Hoose",
+            "cities": [
+                {
+                    "city_name": "Degmada Badhaadhe"
+                },
+                {
+                    "city_name": "Afmadow"
+                },
+                {
+                    "city_name": "Jamaame"
+                },
+                {
+                    "city_name": "Kismaayo"
+                },
+                {
+                    "city_name": "Jamame"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Jubbada Dhexe",
+            "cities": [
+                {
+                    "city_name": "Bu'aale"
+                },
+                {
+                    "city_name": "Jilib"
+                },
+                {
+                    "city_name": "Saakow"
+                },
+                {
+                    "city_name": "Baardheere"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Hiiraan",
+            "cities": [
+                {
+                    "city_name": "Belet Weyne"
+                },
+                {
+                    "city_name": "Bulo Burto"
+                },
+                {
+                    "city_name": "Jalalaqsi"
+                },
+                {
+                    "city_name": "Beledweyne District"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Gedo",
+            "cities": [
+                {
+                    "city_name": "El Wak District"
+                },
+                {
+                    "city_name": "Belet Xaawo"
+                },
+                {
+                    "city_name": "Doolow"
+                },
+                {
+                    "city_name": "Garbahaarey"
+                },
+                {
+                    "city_name": "Luuq"
+                },
+                {
+                    "city_name": "Bula Hawa"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Galguduud",
+            "cities": [
+                {
+                    "city_name": "Cabudwaaq"
+                },
+                {
+                    "city_name": "Ceel Buur"
+                },
+                {
+                    "city_name": "Ceel Dheer"
+                },
+                {
+                    "city_name": "Dhuusamarreeb"
+                },
+                {
+                    "city_name": "Adado"
+                },
+                {
+                    "city_name": "Ceelbuur"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Bay",
+            "cities": [
+                {
+                    "city_name": "Qansax Dheere"
+                },
+                {
+                    "city_name": "Baydhaba"
+                },
+                {
+                    "city_name": "Buur Hakaba"
+                },
+                {
+                    "city_name": "Diinsoor"
+                },
+                {
+                    "city_name": "Baidoa"
+                },
+                {
+                    "city_name": "Dinsoor District"
+                },
+                {
+                    "city_name": "Burdhubo"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Bari",
+            "cities": [
+                {
+                    "city_name": "Bandarbeyla"
+                },
+                {
+                    "city_name": "Caluula"
+                },
+                {
+                    "city_name": "Iskushuban"
+                },
+                {
+                    "city_name": "Qandala"
+                },
+                {
+                    "city_name": "Qardho"
+                },
+                {
+                    "city_name": "Armo"
+                },
+                {
+                    "city_name": "Bossaso"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Banaadir",
+            "cities": [
+                {
+                    "city_name": "Banadir"
+                },
+                {
+                    "city_name": "Hodan"
+                },
+                {
+                    "city_name": "Daynile"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Bakool",
+            "cities": [
+                {
+                    "city_name": "Ceel Barde"
+                },
+                {
+                    "city_name": "Rab Dhuure"
+                },
+                {
+                    "city_name": "Tayeeglow"
+                },
+                {
+                    "city_name": "Waajid"
+                },
+                {
+                    "city_name": "Xudur"
+                },
+                {
+                    "city_name": "Hudur"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Awdal",
+            "cities": [
+                {
+                    "city_name": "Baki"
+                },
+                {
+                    "city_name": "Borama District"
+                },
+                {
+                    "city_name": "Lughaya District"
+                },
+                {
+                    "city_name": "Zeila District"
+                },
+                {
+                    "city_name": "Diila District"
+                }
+            ]
+        },
+        {
+            "province_name": "Gobolka Sool",
+            "cities": [
+                {
+                    "city_name": "Caynabo"
+                },
+                {
+                    "city_name": "Laas Caanood"
+                },
+                {
+                    "city_name": "Taleh District"
+                },
+                {
+                    "city_name": "Xudun District"
+                }
+            ]
+        }
+    ]
+}

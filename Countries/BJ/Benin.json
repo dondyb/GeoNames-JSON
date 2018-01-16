@@ -1,0 +1,297 @@
+{
+    "country_name": "Benin",
+    "country_id": "BJ",
+    "provinces": [
+        {
+            "province_name": "Zou Department",
+            "cities": [
+                {
+                    "city_name": "Commune of Cove"
+                },
+                {
+                    "city_name": "Commune of Ouinhi"
+                },
+                {
+                    "city_name": "Commune of Zangnanado"
+                },
+                {
+                    "city_name": "Commune of Bohicon"
+                },
+                {
+                    "city_name": "Commune of Za-Kpota"
+                },
+                {
+                    "city_name": "Commune of Zogbodome"
+                },
+                {
+                    "city_name": "Commune of Abomey"
+                },
+                {
+                    "city_name": "Commune of Agbangnizoun"
+                },
+                {
+                    "city_name": "Commune of Djidja"
+                }
+            ]
+        },
+        {
+            "province_name": "Departement de l'Oueme",
+            "cities": [
+                {
+                    "city_name": "Commune of Adjohoun"
+                },
+                {
+                    "city_name": "Bonou"
+                },
+                {
+                    "city_name": "Dangbo"
+                },
+                {
+                    "city_name": "Porto-novo"
+                },
+                {
+                    "city_name": "Aguegues"
+                },
+                {
+                    "city_name": "Seme-kpodji"
+                },
+                {
+                    "city_name": "Adjara"
+                },
+                {
+                    "city_name": "Akpro-Misserete"
+                },
+                {
+                    "city_name": "Avrankou"
+                }
+            ]
+        },
+        {
+            "province_name": "Mono",
+            "cities": [
+                {
+                    "city_name": "Lokossa"
+                },
+                {
+                    "city_name": "Commune of Athieme"
+                },
+                {
+                    "city_name": "Commune of Houeyogbe"
+                },
+                {
+                    "city_name": "Commune of Bopa"
+                },
+                {
+                    "city_name": "Grand-Popo"
+                },
+                {
+                    "city_name": "Come"
+                }
+            ]
+        },
+        {
+            "province_name": "Borgou Department",
+            "cities": [
+                {
+                    "city_name": "Commune of Tchaourou"
+                },
+                {
+                    "city_name": "Commune of Parakou"
+                },
+                {
+                    "city_name": "Ndali"
+                },
+                {
+                    "city_name": "Bembereke"
+                },
+                {
+                    "city_name": "Kalale"
+                },
+                {
+                    "city_name": "Perere"
+                },
+                {
+                    "city_name": "Nikki"
+                },
+                {
+                    "city_name": "Sinende"
+                }
+            ]
+        },
+        {
+            "province_name": "Atlantique Department",
+            "cities": [
+                {
+                    "city_name": "Commune of Ouidah"
+                },
+                {
+                    "city_name": "Commune of Kpomasse"
+                },
+                {
+                    "city_name": "Commune of Tori-Bossito"
+                },
+                {
+                    "city_name": "Commune of Abomey-Calavi"
+                },
+                {
+                    "city_name": "Commune of So-Ava"
+                },
+                {
+                    "city_name": "Commune of Allada"
+                },
+                {
+                    "city_name": "Commune of Toffo"
+                },
+                {
+                    "city_name": "Commune of Ze"
+                }
+            ]
+        },
+        {
+            "province_name": "Atakora Department",
+            "cities": [
+                {
+                    "city_name": "Kouande"
+                },
+                {
+                    "city_name": "Pehonko"
+                },
+                {
+                    "city_name": "Kerou"
+                },
+                {
+                    "city_name": "Natitingou"
+                },
+                {
+                    "city_name": "Tanguieta"
+                },
+                {
+                    "city_name": "Toukountouna"
+                },
+                {
+                    "city_name": "Materi"
+                },
+                {
+                    "city_name": "Cobly"
+                },
+                {
+                    "city_name": "Boukoumbe"
+                }
+            ]
+        },
+        {
+            "province_name": "Alibori",
+            "cities": [
+                {
+                    "city_name": "Commune of Banikoara"
+                },
+                {
+                    "city_name": "Karimama"
+                },
+                {
+                    "city_name": "Malanville"
+                },
+                {
+                    "city_name": "Kandi"
+                },
+                {
+                    "city_name": "Segbana"
+                },
+                {
+                    "city_name": "Gogounou"
+                }
+            ]
+        },
+        {
+            "province_name": "Collines Department",
+            "cities": [
+                {
+                    "city_name": "Commune of Glazoue"
+                },
+                {
+                    "city_name": "Commune of Bante"
+                },
+                {
+                    "city_name": "Commune of Dassa-Zoume"
+                },
+                {
+                    "city_name": "Commune of Ouesse"
+                },
+                {
+                    "city_name": "Commune of Savalou"
+                },
+                {
+                    "city_name": "Commune of Save"
+                }
+            ]
+        },
+        {
+            "province_name": "Kouffo Department",
+            "cities": [
+                {
+                    "city_name": "Dogbo Tota"
+                },
+                {
+                    "city_name": "Aplahoue"
+                },
+                {
+                    "city_name": "Djakotomey"
+                },
+                {
+                    "city_name": "Klouekanme"
+                },
+                {
+                    "city_name": "Lalo"
+                },
+                {
+                    "city_name": "Toviklin"
+                }
+            ]
+        },
+        {
+            "province_name": "Donga",
+            "cities": [
+                {
+                    "city_name": "Ouake"
+                },
+                {
+                    "city_name": "Copargo"
+                },
+                {
+                    "city_name": "Commune of Djougou"
+                },
+                {
+                    "city_name": "Bassila"
+                }
+            ]
+        },
+        {
+            "province_name": "Littoral",
+            "cities": [
+                {
+                    "city_name": "Cotonou"
+                }
+            ]
+        },
+        {
+            "province_name": "Plateau Department",
+            "cities": [
+                {
+                    "city_name": "Commune of Ketou"
+                },
+                {
+                    "city_name": "Commune of Pobe"
+                },
+                {
+                    "city_name": "Commune of Sakete"
+                },
+                {
+                    "city_name": "Adjaouere"
+                },
+                {
+                    "city_name": "Ifangni"
+                }
+            ]
+        }
+    ]
+}

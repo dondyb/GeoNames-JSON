@@ -1,0 +1,185 @@
+{
+    "country_name": "Kyrgyzstan",
+    "country_id": "KG",
+    "provinces": [
+        {
+            "province_name": "Osh Oblasty",
+            "cities": [
+                {
+                    "city_name": "Uzgen District"
+                },
+                {
+                    "city_name": "Aravan"
+                },
+                {
+                    "city_name": "Kara-Suu"
+                },
+                {
+                    "city_name": "Nookat"
+                },
+                {
+                    "city_name": "Alay District"
+                },
+                {
+                    "city_name": "Kara Kulja"
+                },
+                {
+                    "city_name": "Chon-Alayskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Batken",
+            "cities": [
+                {
+                    "city_name": "Leylekskiy Rayon"
+                },
+                {
+                    "city_name": "Kadamjaiskiy Raion"
+                },
+                {
+                    "city_name": "Batkenskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Talas",
+            "cities": [
+                {
+                    "city_name": "Talasskiy Rayon"
+                },
+                {
+                    "city_name": "Bakay-Atinskiy Rayon"
+                },
+                {
+                    "city_name": "Kara-Buurinskiy Rayon"
+                },
+                {
+                    "city_name": "Manas"
+                }
+            ]
+        },
+        {
+            "province_name": "Naryn oblast",
+            "cities": [
+                {
+                    "city_name": "Ak-Tala"
+                },
+                {
+                    "city_name": "Jumgal"
+                },
+                {
+                    "city_name": "Kochkor"
+                },
+                {
+                    "city_name": "At-Bashi"
+                },
+                {
+                    "city_name": "Naryn District"
+                }
+            ]
+        },
+        {
+            "province_name": "Issyk-Kul Region",
+            "cities": [
+                {
+                    "city_name": "Tup"
+                },
+                {
+                    "city_name": "Tong"
+                },
+                {
+                    "city_name": "Ysyk-Kol"
+                },
+                {
+                    "city_name": "Ak-Suu"
+                },
+                {
+                    "city_name": "Jeti-Oguz District"
+                }
+            ]
+        },
+        {
+            "province_name": "Gorod Bishkek",
+            "cities": [
+                {
+                    "city_name": "Sverdlovskiy Rayon"
+                },
+                {
+                    "city_name": "Pervomayskiy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Jalal-Abad oblast",
+            "cities": [
+                {
+                    "city_name": "Toktogul District"
+                },
+                {
+                    "city_name": "Suzak"
+                },
+                {
+                    "city_name": "Aksy"
+                },
+                {
+                    "city_name": "Chatkal"
+                },
+                {
+                    "city_name": "Bazar-Korgon"
+                },
+                {
+                    "city_name": "Ala-Buka"
+                },
+                {
+                    "city_name": "Nooken"
+                },
+                {
+                    "city_name": "Toguz-Toro"
+                }
+            ]
+        },
+        {
+            "province_name": "Chuyskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Sokulukskiy Rayon"
+                },
+                {
+                    "city_name": "Panfilovskiy Rayon"
+                },
+                {
+                    "city_name": "Keminskiy Rayon"
+                },
+                {
+                    "city_name": "Ysyk-Ata"
+                },
+                {
+                    "city_name": "Chuyskiy Rayon"
+                },
+                {
+                    "city_name": "Alamudunskiy Rayon"
+                },
+                {
+                    "city_name": "Moskovsky Raion"
+                },
+                {
+                    "city_name": "Jaiyl"
+                },
+                {
+                    "city_name": "Tokmok District"
+                }
+            ]
+        },
+        {
+            "province_name": "Osh City",
+            "cities": []
+        }
+    ]
+}

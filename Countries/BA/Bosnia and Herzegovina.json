@@ -1,0 +1,254 @@
+{
+    "country_name": "Bosnia and Herzegovina",
+    "country_id": "BA",
+    "provinces": [
+        {
+            "province_name": "Federation of Bosnia and Herzegovina",
+            "cities": [
+                {
+                    "city_name": "Unsko-Sanski Kanton"
+                },
+                {
+                    "city_name": "Posavski Kanton"
+                },
+                {
+                    "city_name": "Tuzlanski Kanton"
+                },
+                {
+                    "city_name": "Zenicko-Dobojski Kanton"
+                },
+                {
+                    "city_name": "Bosansko-Podrinjski Kanton Gorazde"
+                },
+                {
+                    "city_name": "Srednjobosanski Kanton"
+                },
+                {
+                    "city_name": "Hercegovacko-Neretvanski Kanton"
+                },
+                {
+                    "city_name": "Zapadnohercegovacki Kanton"
+                },
+                {
+                    "city_name": "Kanton Sarajevo"
+                },
+                {
+                    "city_name": "Kanton 10"
+                },
+                {
+                    "city_name": "Neretvljanski"
+                }
+            ]
+        },
+        {
+            "province_name": "Republika Srpska",
+            "cities": [
+                {
+                    "city_name": "Modrica"
+                },
+                {
+                    "city_name": "Opstina Bileca"
+                },
+                {
+                    "city_name": "Ljubinje"
+                },
+                {
+                    "city_name": "Gacko"
+                },
+                {
+                    "city_name": "Opstina Nevesinje"
+                },
+                {
+                    "city_name": "Kalinovik"
+                },
+                {
+                    "city_name": "Foca"
+                },
+                {
+                    "city_name": "Opstina Cajnice"
+                },
+                {
+                    "city_name": "Rudo"
+                },
+                {
+                    "city_name": "Opstina Visegrad"
+                },
+                {
+                    "city_name": "Opstina Pale"
+                },
+                {
+                    "city_name": "Rogatica"
+                },
+                {
+                    "city_name": "Srebrenica"
+                },
+                {
+                    "city_name": "Han Pijesak"
+                },
+                {
+                    "city_name": "Vlasenica"
+                },
+                {
+                    "city_name": "Opstina Teslic"
+                },
+                {
+                    "city_name": "Opstina Kotor Varos"
+                },
+                {
+                    "city_name": "Lopare"
+                },
+                {
+                    "city_name": "Opstina Ugljevik"
+                },
+                {
+                    "city_name": "Opstina Celinac"
+                },
+                {
+                    "city_name": "Banja Luka"
+                },
+                {
+                    "city_name": "Doboj"
+                },
+                {
+                    "city_name": "Bijeljina"
+                },
+                {
+                    "city_name": "Prnjavor"
+                },
+                {
+                    "city_name": "Opstina Laktasi"
+                },
+                {
+                    "city_name": "Prijedor"
+                },
+                {
+                    "city_name": "Derventa"
+                },
+                {
+                    "city_name": "Opstina Modrica"
+                },
+                {
+                    "city_name": "Srbac"
+                },
+                {
+                    "city_name": "Opstina Novi Grad"
+                },
+                {
+                    "city_name": "Opstina Samac"
+                },
+                {
+                    "city_name": "Opstina Gradiska"
+                },
+                {
+                    "city_name": "Opstina Brod"
+                },
+                {
+                    "city_name": "Opstina Krupa na Uni"
+                },
+                {
+                    "city_name": "Opstina Kozarska Dubica"
+                },
+                {
+                    "city_name": "Opstina Ostra Luka"
+                },
+                {
+                    "city_name": "Opstina Vukosavlje"
+                },
+                {
+                    "city_name": "Opcina Donji Zabar"
+                },
+                {
+                    "city_name": "Opstina Pelagicevo"
+                },
+                {
+                    "city_name": "Opcina Knezevo"
+                },
+                {
+                    "city_name": "Opstina Mrkonjic Grad"
+                },
+                {
+                    "city_name": "Opstina Sipovo"
+                },
+                {
+                    "city_name": "Opstina Petrovac"
+                },
+                {
+                    "city_name": "Istocni Drvar"
+                },
+                {
+                    "city_name": "Opstina Ribnik"
+                },
+                {
+                    "city_name": "Mrkonjic Grad Jug Opcina"
+                },
+                {
+                    "city_name": "Zvornik"
+                },
+                {
+                    "city_name": "Opstina Osmaci"
+                },
+                {
+                    "city_name": "Opstina Sekovici"
+                },
+                {
+                    "city_name": "Bratunac"
+                },
+                {
+                    "city_name": "Opstina Sokolac"
+                },
+                {
+                    "city_name": "Novo Gorazde"
+                },
+                {
+                    "city_name": "Istocni Stari Grad"
+                },
+                {
+                    "city_name": "Istocno Novo Sarajevo"
+                },
+                {
+                    "city_name": "Istocna Ilidza"
+                },
+                {
+                    "city_name": "Opstina Trnovo"
+                },
+                {
+                    "city_name": "Opstina Berkovici"
+                },
+                {
+                    "city_name": "Istocni Mostar"
+                },
+                {
+                    "city_name": "Jezero"
+                },
+                {
+                    "city_name": "Opstina Kupres"
+                },
+                {
+                    "city_name": "Kostajnica"
+                },
+                {
+                    "city_name": "Opstina Petrovo"
+                },
+                {
+                    "city_name": "Trebinje"
+                },
+                {
+                    "city_name": "Opstina Milici"
+                },
+                {
+                    "city_name": "Skelani Opstina"
+                },
+                {
+                    "city_name": "Grad Istocno Sarajevo"
+                },
+                {
+                    "city_name": "Stanari"
+                }
+            ]
+        },
+        {
+            "province_name": "Brcko",
+            "cities": []
+        }
+    ]
+}

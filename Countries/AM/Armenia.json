@@ -1,0 +1,85 @@
+{
+    "country_name": "Armenia",
+    "country_id": "AM",
+    "provinces": [
+        {
+            "province_name": "Ararati Marz",
+            "cities": []
+        },
+        {
+            "province_name": "Syunik'i Marz",
+            "cities": [
+                {
+                    "city_name": "Sisian"
+                }
+            ]
+        },
+        {
+            "province_name": "Vayots' Dzor",
+            "cities": [
+                {
+                    "city_name": "Vayk'i Shrjan"
+                }
+            ]
+        },
+        {
+            "province_name": "Yerevan",
+            "cities": [
+                {
+                    "city_name": "Spandaryanskiy Rayon"
+                },
+                {
+                    "city_name": "Arabkir"
+                },
+                {
+                    "city_name": "Shaumyanskiy Rayon"
+                },
+                {
+                    "city_name": "Ordzhonikidzevskiy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Imeni Dvadtsati Shesti Komissarov Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Aragatsotni Marz",
+            "cities": [
+                {
+                    "city_name": "Achtarak"
+                }
+            ]
+        },
+        {
+            "province_name": "Armaviri Marz",
+            "cities": []
+        },
+        {
+            "province_name": "Geghark'unik'i Marz",
+            "cities": [
+                {
+                    "city_name": "Martuni"
+                }
+            ]
+        },
+        {
+            "province_name": "Kotayk'i Marz",
+            "cities": []
+        },
+        {
+            "province_name": "Lorru Marz",
+            "cities": []
+        },
+        {
+            "province_name": "Shiraki Marz",
+            "cities": []
+        },
+        {
+            "province_name": "Tavushi Marz",
+            "cities": []
+        }
+    ]
+}

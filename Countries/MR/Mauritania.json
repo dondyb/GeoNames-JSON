@@ -1,0 +1,261 @@
+{
+    "country_name": "Mauritania",
+    "country_id": "MR",
+    "provinces": [
+        {
+            "province_name": "Wilaya du Trarza",
+            "cities": [
+                {
+                    "city_name": "Rosso Department"
+                },
+                {
+                    "city_name": "Nouakchott"
+                },
+                {
+                    "city_name": "Ouad Naga"
+                },
+                {
+                    "city_name": "Mederdra"
+                },
+                {
+                    "city_name": "Boutilimit"
+                },
+                {
+                    "city_name": "R'Kiz"
+                },
+                {
+                    "city_name": "Keur-Macene"
+                }
+            ]
+        },
+        {
+            "province_name": "Tiris Zemmour",
+            "cities": [
+                {
+                    "city_name": "F'Derik"
+                },
+                {
+                    "city_name": "Bir Moghrein"
+                },
+                {
+                    "city_name": "Zouerate"
+                }
+            ]
+        },
+        {
+            "province_name": "Tagant",
+            "cities": [
+                {
+                    "city_name": "Tidjikja"
+                },
+                {
+                    "city_name": "Tichitt"
+                },
+                {
+                    "city_name": "Moudjeria"
+                },
+                {
+                    "city_name": "Boumdeid"
+                }
+            ]
+        },
+        {
+            "province_name": "Inchiri",
+            "cities": [
+                {
+                    "city_name": "El Mina"
+                },
+                {
+                    "city_name": "Akjoujt"
+                }
+            ]
+        },
+        {
+            "province_name": "Hodh El Gharbi",
+            "cities": [
+                {
+                    "city_name": "Aioun"
+                },
+                {
+                    "city_name": "Tamchakett"
+                },
+                {
+                    "city_name": "Tintane"
+                },
+                {
+                    "city_name": "Kobenni"
+                },
+                {
+                    "city_name": "Ayoun el Atrous"
+                },
+                {
+                    "city_name": "Tamchekett"
+                },
+                {
+                    "city_name": "Djigueni"
+                }
+            ]
+        },
+        {
+            "province_name": "Hodh ech Chargui",
+            "cities": [
+                {
+                    "city_name": "Nema"
+                },
+                {
+                    "city_name": "Timbedra"
+                },
+                {
+                    "city_name": "Amourj"
+                },
+                {
+                    "city_name": "Djiguenni"
+                },
+                {
+                    "city_name": "Ouadane"
+                },
+                {
+                    "city_name": "Oualata"
+                },
+                {
+                    "city_name": "Bassiknou"
+                }
+            ]
+        },
+        {
+            "province_name": "Guidimaka",
+            "cities": [
+                {
+                    "city_name": "Selibaby"
+                },
+                {
+                    "city_name": "Ould Yenge"
+                }
+            ]
+        },
+        {
+            "province_name": "Gorgol",
+            "cities": [
+                {
+                    "city_name": "Maghama"
+                },
+                {
+                    "city_name": "Kaedi"
+                },
+                {
+                    "city_name": "M'Bout"
+                },
+                {
+                    "city_name": "Monguel"
+                }
+            ]
+        },
+        {
+            "province_name": "Dakhlet Nouadhibou",
+            "cities": [
+                {
+                    "city_name": "Nouadhibou"
+                }
+            ]
+        },
+        {
+            "province_name": "Brakna",
+            "cities": [
+                {
+                    "city_name": "Aleg"
+                },
+                {
+                    "city_name": "Aleg"
+                },
+                {
+                    "city_name": "Bogue Department"
+                },
+                {
+                    "city_name": "Bababe"
+                },
+                {
+                    "city_name": "M'Bagne"
+                },
+                {
+                    "city_name": "Magta-Lahjar"
+                }
+            ]
+        },
+        {
+            "province_name": "Assaba",
+            "cities": [
+                {
+                    "city_name": "Guerou"
+                },
+                {
+                    "city_name": "Kiffa"
+                },
+                {
+                    "city_name": "Kankossa"
+                },
+                {
+                    "city_name": "Barkeol"
+                },
+                {
+                    "city_name": "Aftout"
+                }
+            ]
+        },
+        {
+            "province_name": "Adrar",
+            "cities": [
+                {
+                    "city_name": "Aoujeft"
+                },
+                {
+                    "city_name": "Chinguetti"
+                },
+                {
+                    "city_name": "Atar"
+                }
+            ]
+        },
+        {
+            "province_name": "Nouakchott Ouest",
+            "cities": [
+                {
+                    "city_name": "Ksar"
+                },
+                {
+                    "city_name": "Sebkha"
+                },
+                {
+                    "city_name": "Tevragh Zeina"
+                }
+            ]
+        },
+        {
+            "province_name": "Nouakchott Nord",
+            "cities": [
+                {
+                    "city_name": "Dar Naim"
+                },
+                {
+                    "city_name": "Teyarett"
+                },
+                {
+                    "city_name": "Toujounine"
+                }
+            ]
+        },
+        {
+            "province_name": "Nouakchott Sud",
+            "cities": [
+                {
+                    "city_name": "Arafat"
+                },
+                {
+                    "city_name": "Riad"
+                },
+                {
+                    "city_name": "El Mina"
+                }
+            ]
+        }
+    ]
+}

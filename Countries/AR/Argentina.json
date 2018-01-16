@@ -1,0 +1,1710 @@
+{
+    "country_name": "Argentina",
+    "country_id": "AR",
+    "provinces": [
+        {
+            "province_name": "Misiones Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Veinticinco de Mayo"
+                },
+                {
+                    "city_name": "Departamento de San Pedro"
+                },
+                {
+                    "city_name": "Departamento de San Javier"
+                },
+                {
+                    "city_name": "Departamento de San Ignacio"
+                },
+                {
+                    "city_name": "Departamento de Obera"
+                },
+                {
+                    "city_name": "Departamento de Montecarlo"
+                },
+                {
+                    "city_name": "Departamento de Libertador General San Martin"
+                },
+                {
+                    "city_name": "Departamento de Leandro N. Alem"
+                },
+                {
+                    "city_name": "Departamento de Iguazu"
+                },
+                {
+                    "city_name": "Departamento de Guarani"
+                },
+                {
+                    "city_name": "Departamento de General Manuel Belgrano"
+                },
+                {
+                    "city_name": "Departamento de Eldorado"
+                },
+                {
+                    "city_name": "Departamento de Concepcion de la Sierra"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Candelaria"
+                },
+                {
+                    "city_name": "Departamento de Cainguas"
+                },
+                {
+                    "city_name": "Departamento de Apostoles"
+                }
+            ]
+        },
+        {
+            "province_name": "Formosa Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Pirane"
+                },
+                {
+                    "city_name": "Departamento de Pilcomayo"
+                },
+                {
+                    "city_name": "Departamento de Pilagas"
+                },
+                {
+                    "city_name": "Departamento de Patino"
+                },
+                {
+                    "city_name": "Departamento de Laishi"
+                },
+                {
+                    "city_name": "Departamento de Formosa"
+                },
+                {
+                    "city_name": "Departamento de Ramon Lista"
+                },
+                {
+                    "city_name": "Departamento de Matacos"
+                },
+                {
+                    "city_name": "Departamento de Bermejo"
+                }
+            ]
+        },
+        {
+            "province_name": "Ciudad Autonoma de Buenos Aires",
+            "cities": [
+                {
+                    "city_name": "Comuna 12"
+                },
+                {
+                    "city_name": "Comuna 3"
+                },
+                {
+                    "city_name": "Comuna 8"
+                },
+                {
+                    "city_name": "Comuna 4"
+                },
+                {
+                    "city_name": "Comuna 5"
+                },
+                {
+                    "city_name": "Comuna 13"
+                },
+                {
+                    "city_name": "Comuna 14"
+                },
+                {
+                    "city_name": "Comuna 1"
+                },
+                {
+                    "city_name": "Comuna 6"
+                },
+                {
+                    "city_name": "Comuna 2"
+                },
+                {
+                    "city_name": "Comuna 9"
+                },
+                {
+                    "city_name": "Comuna 7"
+                },
+                {
+                    "city_name": "Comuna 10"
+                },
+                {
+                    "city_name": "Comuna 11"
+                },
+                {
+                    "city_name": "Comuna 15"
+                }
+            ]
+        },
+        {
+            "province_name": "Entre Rios Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Villaguay"
+                },
+                {
+                    "city_name": "Departamento de Uruguay"
+                },
+                {
+                    "city_name": "Departamento de Tala"
+                },
+                {
+                    "city_name": "Departamento de Parana"
+                },
+                {
+                    "city_name": "Departamento de Nogoya"
+                },
+                {
+                    "city_name": "Departamento de La Paz"
+                },
+                {
+                    "city_name": "Departamento de Gualeguaychu"
+                },
+                {
+                    "city_name": "Departamento de Gualeguay"
+                },
+                {
+                    "city_name": "Departamento de Feliciano"
+                },
+                {
+                    "city_name": "Departamento de Federacion"
+                },
+                {
+                    "city_name": "Departamento de Concordia"
+                },
+                {
+                    "city_name": "Departamento de Colon"
+                },
+                {
+                    "city_name": "Departamento de Victoria"
+                },
+                {
+                    "city_name": "Departamento de Diamante"
+                },
+                {
+                    "city_name": "Departamento de Federal"
+                },
+                {
+                    "city_name": "Departamento de Islas del Ibicuy"
+                },
+                {
+                    "city_name": "Departamento de San Salvador"
+                }
+            ]
+        },
+        {
+            "province_name": "Corrientes Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Sauce"
+                },
+                {
+                    "city_name": "Departamento de Santo Tome"
+                },
+                {
+                    "city_name": "Departamento de San Roque"
+                },
+                {
+                    "city_name": "Departamento de San Miguel"
+                },
+                {
+                    "city_name": "Departamento de San Martin"
+                },
+                {
+                    "city_name": "Departamento de San Luis del Palmar"
+                },
+                {
+                    "city_name": "Departamento de San Cosme"
+                },
+                {
+                    "city_name": "Departamento de Saladas"
+                },
+                {
+                    "city_name": "Departamento de Paso de los Libres"
+                },
+                {
+                    "city_name": "Departamento de Monte Caseros"
+                },
+                {
+                    "city_name": "Departamento de Mercedes"
+                },
+                {
+                    "city_name": "Departamento de Mburucuya"
+                },
+                {
+                    "city_name": "Departamento de Lavalle"
+                },
+                {
+                    "city_name": "Departamento de Ituzaingo"
+                },
+                {
+                    "city_name": "Departamento de Itati"
+                },
+                {
+                    "city_name": "Departamento de Goya"
+                },
+                {
+                    "city_name": "Departamento de General Paz"
+                },
+                {
+                    "city_name": "Departamento de General Alvear"
+                },
+                {
+                    "city_name": "Departamento de Esquina"
+                },
+                {
+                    "city_name": "Departamento de Empedrado"
+                },
+                {
+                    "city_name": "Departamento de Curuzu Cuatia"
+                },
+                {
+                    "city_name": "Departamento de Concepcion"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Beron de Astrada"
+                },
+                {
+                    "city_name": "Departamento de Bella Vista"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Buenos Aires",
+            "cities": [
+                {
+                    "city_name": "Partido de Zarate"
+                },
+                {
+                    "city_name": "Partido de Vicente Lopez"
+                },
+                {
+                    "city_name": "Partido de Tres de Febrero"
+                },
+                {
+                    "city_name": "Partido de Tordillo"
+                },
+                {
+                    "city_name": "Partido de Tigre"
+                },
+                {
+                    "city_name": "Partido de Tandil"
+                },
+                {
+                    "city_name": "Partido de Suipacha"
+                },
+                {
+                    "city_name": "Partido de San Vicente"
+                },
+                {
+                    "city_name": "Partido de San Pedro"
+                },
+                {
+                    "city_name": "Partido de San Isidro"
+                },
+                {
+                    "city_name": "Partido de San Fernando"
+                },
+                {
+                    "city_name": "Partido de San Cayetano"
+                },
+                {
+                    "city_name": "San Antonio de Areco"
+                },
+                {
+                    "city_name": "Partido de San Andres de Giles"
+                },
+                {
+                    "city_name": "Partido de Saladillo"
+                },
+                {
+                    "city_name": "Partido de Roque Perez"
+                },
+                {
+                    "city_name": "Partido de Rauch"
+                },
+                {
+                    "city_name": "Partido de Quilmes"
+                },
+                {
+                    "city_name": "Partido de Pilar"
+                },
+                {
+                    "city_name": "Partido de Pila"
+                },
+                {
+                    "city_name": "Partido de Necochea"
+                },
+                {
+                    "city_name": "Partido de Navarro"
+                },
+                {
+                    "city_name": "Partido de Moron"
+                },
+                {
+                    "city_name": "Partido de Moreno"
+                },
+                {
+                    "city_name": "Partido de Monte"
+                },
+                {
+                    "city_name": "Partido de Merlo"
+                },
+                {
+                    "city_name": "Partido de Mercedes"
+                },
+                {
+                    "city_name": "Partido de La Matanza"
+                },
+                {
+                    "city_name": "Partido de Presidente Peron"
+                },
+                {
+                    "city_name": "Partido de Pinamar"
+                },
+                {
+                    "city_name": "Partido de Marcos Paz"
+                },
+                {
+                    "city_name": "Partido de Mar Chiquita"
+                },
+                {
+                    "city_name": "Partido de Maipu"
+                },
+                {
+                    "city_name": "Partido de Magdalena"
+                },
+                {
+                    "city_name": "Partido de Lujan"
+                },
+                {
+                    "city_name": "Partido de Lomas de Zamora"
+                },
+                {
+                    "city_name": "Partido de Lobos"
+                },
+                {
+                    "city_name": "Partido de Loberia"
+                },
+                {
+                    "city_name": "Partido de Las Flores"
+                },
+                {
+                    "city_name": "Partido de La Plata"
+                },
+                {
+                    "city_name": "Partido de Lanus"
+                },
+                {
+                    "city_name": "Partido de Benito Juarez"
+                },
+                {
+                    "city_name": "Partido de Jose C. Paz"
+                },
+                {
+                    "city_name": "Partido de Punta Indio"
+                },
+                {
+                    "city_name": "Partido de General San Martin"
+                },
+                {
+                    "city_name": "Partido de General Rodriguez"
+                },
+                {
+                    "city_name": "Partido de General Pueyrredon"
+                },
+                {
+                    "city_name": "Partido de General Paz"
+                },
+                {
+                    "city_name": "Partido de General Lavalle"
+                },
+                {
+                    "city_name": "Partido de General Las Heras"
+                },
+                {
+                    "city_name": "Partido de General Madariaga"
+                },
+                {
+                    "city_name": "Partido de General Guido"
+                },
+                {
+                    "city_name": "Partido de General Belgrano"
+                },
+                {
+                    "city_name": "Partido de General Alvarado"
+                },
+                {
+                    "city_name": "Partido de Florencio Varela"
+                },
+                {
+                    "city_name": "Partido de Exaltacion de la Cruz"
+                },
+                {
+                    "city_name": "Partido de Esteban Echeverria"
+                },
+                {
+                    "city_name": "Partido de Escobar"
+                },
+                {
+                    "city_name": "Partido de Ensenada"
+                },
+                {
+                    "city_name": "Partido de Dolores"
+                },
+                {
+                    "city_name": "Partido de Chivilcoy"
+                },
+                {
+                    "city_name": "Partido de Chascomus"
+                },
+                {
+                    "city_name": "Partido de Castelli"
+                },
+                {
+                    "city_name": "Partido de Carmen de Areco"
+                },
+                {
+                    "city_name": "Partido de Capitan Sarmiento"
+                },
+                {
+                    "city_name": "Partido de Canuelas"
+                },
+                {
+                    "city_name": "Partido de Campana"
+                },
+                {
+                    "city_name": "Partido de Brandsen"
+                },
+                {
+                    "city_name": "Partido de Berisso"
+                },
+                {
+                    "city_name": "Partido de Berazategui"
+                },
+                {
+                    "city_name": "Partido de Arrecifes"
+                },
+                {
+                    "city_name": "Partido de Baradero"
+                },
+                {
+                    "city_name": "Partido de Balcarce"
+                },
+                {
+                    "city_name": "Partido de Azul"
+                },
+                {
+                    "city_name": "Partido de Ayacucho"
+                },
+                {
+                    "city_name": "Partido de Avellaneda"
+                },
+                {
+                    "city_name": "Partido de Almirante Brown"
+                },
+                {
+                    "city_name": "Partido de Villarino"
+                },
+                {
+                    "city_name": "Partido de Veinticinco de Mayo"
+                },
+                {
+                    "city_name": "Partido de Tres Arroyos"
+                },
+                {
+                    "city_name": "Partido de Trenque Lauquen"
+                },
+                {
+                    "city_name": "Partido de Tornquist"
+                },
+                {
+                    "city_name": "Partido de Tapalque"
+                },
+                {
+                    "city_name": "Partido de San Nicolas"
+                },
+                {
+                    "city_name": "Partido de Salto"
+                },
+                {
+                    "city_name": "Partido de Salliquelo"
+                },
+                {
+                    "city_name": "Partido de Saavedra"
+                },
+                {
+                    "city_name": "Partido de Rojas"
+                },
+                {
+                    "city_name": "Partido de Rivadavia"
+                },
+                {
+                    "city_name": "Partido de Ramallo"
+                },
+                {
+                    "city_name": "Partido de Puan"
+                },
+                {
+                    "city_name": "Partido de Pergamino"
+                },
+                {
+                    "city_name": "Partido de Pellegrini"
+                },
+                {
+                    "city_name": "Partido de Pehuajo"
+                },
+                {
+                    "city_name": "Partido de Patagones"
+                },
+                {
+                    "city_name": "Partido de Olavarria"
+                },
+                {
+                    "city_name": "Partido de Nueve de Julio"
+                },
+                {
+                    "city_name": "Partido de Lincoln"
+                },
+                {
+                    "city_name": "Partido de Leandro N. Alem"
+                },
+                {
+                    "city_name": "Partido de Laprida"
+                },
+                {
+                    "city_name": "Partido de Junin"
+                },
+                {
+                    "city_name": "Partido de Hipolito Yrigoyen"
+                },
+                {
+                    "city_name": "Partido de Guamini"
+                },
+                {
+                    "city_name": "Partido de Adolfo Gonzalez Chaves"
+                },
+                {
+                    "city_name": "Partido de General Villegas"
+                },
+                {
+                    "city_name": "Partido de General Viamonte"
+                },
+                {
+                    "city_name": "Partido de General Pinto"
+                },
+                {
+                    "city_name": "Partido de General La Madrid"
+                },
+                {
+                    "city_name": "Partido de General Arenales"
+                },
+                {
+                    "city_name": "Partido de General Alvear"
+                },
+                {
+                    "city_name": "Partido de Coronel Suarez"
+                },
+                {
+                    "city_name": "Partido de Coronel Pringles"
+                },
+                {
+                    "city_name": "Partido de Coronel Dorrego"
+                },
+                {
+                    "city_name": "Partido de Coronel Rosales"
+                },
+                {
+                    "city_name": "Partido de Colon"
+                },
+                {
+                    "city_name": "Partido de Chacabuco"
+                },
+                {
+                    "city_name": "Partido de Daireaux"
+                },
+                {
+                    "city_name": "Partido de Carlos Tejedor"
+                },
+                {
+                    "city_name": "Partido de Carlos Casares"
+                },
+                {
+                    "city_name": "Partido de Bragado"
+                },
+                {
+                    "city_name": "Partido de Bolivar"
+                },
+                {
+                    "city_name": "Partido de Monte Hermoso"
+                },
+                {
+                    "city_name": "Partido de Bahia Blanca"
+                },
+                {
+                    "city_name": "Partido de Alberti"
+                },
+                {
+                    "city_name": "Partido de Adolfo Alsina"
+                },
+                {
+                    "city_name": "Partido de San Miguel"
+                },
+                {
+                    "city_name": "Partido de La Costa"
+                },
+                {
+                    "city_name": "Partido de Ezeiza"
+                },
+                {
+                    "city_name": "Partido de Florentino Ameghino"
+                },
+                {
+                    "city_name": "Partido de Hurlingham"
+                },
+                {
+                    "city_name": "Partido de Ituzaingo"
+                },
+                {
+                    "city_name": "Partido de Tres Lomas"
+                },
+                {
+                    "city_name": "Partido de Villa Gesell"
+                },
+                {
+                    "city_name": "Partido de Malvinas Argentinas"
+                },
+                {
+                    "city_name": "Partido de Lezama"
+                }
+            ]
+        },
+        {
+            "province_name": "Tucuman Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Trancas"
+                },
+                {
+                    "city_name": "Departamento de Rio Chico"
+                },
+                {
+                    "city_name": "Departamento de Monteros"
+                },
+                {
+                    "city_name": "Departamento de Leales"
+                },
+                {
+                    "city_name": "Departamento de Graneros"
+                },
+                {
+                    "city_name": "Departamento de Famailla"
+                },
+                {
+                    "city_name": "Departamento de Cruz Alta"
+                },
+                {
+                    "city_name": "Departamento de Chicligasta"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Burruyacu"
+                },
+                {
+                    "city_name": "Departamento de Tafi del Valle"
+                },
+                {
+                    "city_name": "Departamento de La Cocha"
+                },
+                {
+                    "city_name": "Departamento de Simoca"
+                },
+                {
+                    "city_name": "Departamento de Tafi Viejo"
+                },
+                {
+                    "city_name": "Departamento de Yerba Buena"
+                },
+                {
+                    "city_name": "Departamento de Lules"
+                },
+                {
+                    "city_name": "Departamento de Juan B. Alberdi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tierra del Fuego Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Ushuaia"
+                },
+                {
+                    "city_name": "Departamento de Rio Grande"
+                },
+                {
+                    "city_name": "Antartida Argentina"
+                },
+                {
+                    "city_name": "Islas del Atlantico Sur"
+                }
+            ]
+        },
+        {
+            "province_name": "Santiago del Estero Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Silipica"
+                },
+                {
+                    "city_name": "Departamento de Sarmiento"
+                },
+                {
+                    "city_name": "Departamento de San Martin"
+                },
+                {
+                    "city_name": "Departamento de Salavina"
+                },
+                {
+                    "city_name": "Departamento de Robles"
+                },
+                {
+                    "city_name": "Departamento de Rivadavia"
+                },
+                {
+                    "city_name": "Departamento de Rio Hondo"
+                },
+                {
+                    "city_name": "Departamento de Quebrachos"
+                },
+                {
+                    "city_name": "Departamento de Pellegrini"
+                },
+                {
+                    "city_name": "Departamento de Ojo de Agua"
+                },
+                {
+                    "city_name": "Departamento de Moreno"
+                },
+                {
+                    "city_name": "Departamento de Mitre"
+                },
+                {
+                    "city_name": "Departamento de Juan F. Ibarra"
+                },
+                {
+                    "city_name": "Departamento de Loreto"
+                },
+                {
+                    "city_name": "Departamento de Jimenez"
+                },
+                {
+                    "city_name": "Departamento de Guasayan"
+                },
+                {
+                    "city_name": "Departamento de General Taboada"
+                },
+                {
+                    "city_name": "Departamento de Figueroa"
+                },
+                {
+                    "city_name": "Departamento de Copo"
+                },
+                {
+                    "city_name": "Departamento de Choya"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Belgrano"
+                },
+                {
+                    "city_name": "Departamento de Banda"
+                },
+                {
+                    "city_name": "Departamento de Avellaneda"
+                },
+                {
+                    "city_name": "Departamento de Atamisqui"
+                },
+                {
+                    "city_name": "Departamento de Alberdi"
+                },
+                {
+                    "city_name": "Departamento de Aguirre"
+                }
+            ]
+        },
+        {
+            "province_name": "Santa Fe Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de San Javier"
+                },
+                {
+                    "city_name": "General Obligado Department"
+                },
+                {
+                    "city_name": "Departamento de Vera"
+                },
+                {
+                    "city_name": "Departamento de San Martin"
+                },
+                {
+                    "city_name": "Departamento de San Lorenzo"
+                },
+                {
+                    "city_name": "Departamento de San Justo"
+                },
+                {
+                    "city_name": "San Jeronimo Department"
+                },
+                {
+                    "city_name": "Departamento de San Cristobal"
+                },
+                {
+                    "city_name": "Rosario Department"
+                },
+                {
+                    "city_name": "Departamento de Nueve de Julio"
+                },
+                {
+                    "city_name": "Las Colonias Department"
+                },
+                {
+                    "city_name": "Departamento de La Capital"
+                },
+                {
+                    "city_name": "Iriondo Department"
+                },
+                {
+                    "city_name": "General Lopez Department"
+                },
+                {
+                    "city_name": "Garay Department"
+                },
+                {
+                    "city_name": "Departamento de Constitucion"
+                },
+                {
+                    "city_name": "Departamento de Castellanos"
+                },
+                {
+                    "city_name": "Departamento de Caseros"
+                },
+                {
+                    "city_name": "Departamento de Belgrano"
+                }
+            ]
+        },
+        {
+            "province_name": "Santa Cruz Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Rio Chico"
+                },
+                {
+                    "city_name": "Departamento de Magallanes"
+                },
+                {
+                    "city_name": "Departamento de Lago Buenos Aires"
+                },
+                {
+                    "city_name": "Departamento de Lago Argentino"
+                },
+                {
+                    "city_name": "Departamento de Gueer Aike"
+                },
+                {
+                    "city_name": "Departamento de Deseado"
+                },
+                {
+                    "city_name": "Departamento de Corpen Aike"
+                }
+            ]
+        },
+        {
+            "province_name": "San Luis Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Libertador General San Martin"
+                },
+                {
+                    "city_name": "Coronel Pringles"
+                },
+                {
+                    "city_name": "Departamento de Junin"
+                },
+                {
+                    "city_name": "Departamento de Gobernador Vicente Dupuy"
+                },
+                {
+                    "city_name": "Departamento de General Pedernera"
+                },
+                {
+                    "city_name": "Departamento de Chacabuco"
+                },
+                {
+                    "city_name": "Departamento de Belgrano"
+                },
+                {
+                    "city_name": "Departamento de Ayacucho"
+                },
+                {
+                    "city_name": "Juan Martin de Pueyrredon"
+                }
+            ]
+        },
+        {
+            "province_name": "San Juan Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Zonda"
+                },
+                {
+                    "city_name": "Departamento de Veinticinco de Mayo"
+                },
+                {
+                    "city_name": "Departamento de Valle Fertil"
+                },
+                {
+                    "city_name": "Departamento de Ullum"
+                },
+                {
+                    "city_name": "Departamento de Sarmiento"
+                },
+                {
+                    "city_name": "Departamento de Santa Lucia"
+                },
+                {
+                    "city_name": "Departamento de San Martin"
+                },
+                {
+                    "city_name": "Departamento de Rivadavia"
+                },
+                {
+                    "city_name": "Departamento de Rawson"
+                },
+                {
+                    "city_name": "Departamento de Pocito"
+                },
+                {
+                    "city_name": "Departamento de Nueve de Julio"
+                },
+                {
+                    "city_name": "Departamento de Jachal"
+                },
+                {
+                    "city_name": "Departamento de Iglesia"
+                },
+                {
+                    "city_name": "Departamento de Chimbas"
+                },
+                {
+                    "city_name": "Departamento de Caucete"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Calingasta"
+                },
+                {
+                    "city_name": "Departamento de Angaco"
+                },
+                {
+                    "city_name": "Departamento de Albardon"
+                }
+            ]
+        },
+        {
+            "province_name": "Salta Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Santa Victoria"
+                },
+                {
+                    "city_name": "Departamento de San Carlos"
+                },
+                {
+                    "city_name": "Departamento de Rosario de Lerma"
+                },
+                {
+                    "city_name": "Departamento de Rosario de la Frontera"
+                },
+                {
+                    "city_name": "Departamento de Rivadavia"
+                },
+                {
+                    "city_name": "Departamento de Oran"
+                },
+                {
+                    "city_name": "Departamento de Molinos"
+                },
+                {
+                    "city_name": "Departamento de Metan"
+                },
+                {
+                    "city_name": "Departamento de Los Andes"
+                },
+                {
+                    "city_name": "Departamento de La Vina"
+                },
+                {
+                    "city_name": "Departamento de La Poma"
+                },
+                {
+                    "city_name": "Departamento de Iruya"
+                },
+                {
+                    "city_name": "Departamento de Guachipas"
+                },
+                {
+                    "city_name": "Departamento de General Gueemes"
+                },
+                {
+                    "city_name": "Departamento de General Jose de San Martin"
+                },
+                {
+                    "city_name": "Departamento de Chicoana"
+                },
+                {
+                    "city_name": "Departamento de Cerrillos"
+                },
+                {
+                    "city_name": "Departamento Capital"
+                },
+                {
+                    "city_name": "La Caldera"
+                },
+                {
+                    "city_name": "Cafayate"
+                },
+                {
+                    "city_name": "Departamento de Cachi"
+                },
+                {
+                    "city_name": "Departamento de Anta"
+                },
+                {
+                    "city_name": "La Candelaria"
+                }
+            ]
+        },
+        {
+            "province_name": "Rio Negro Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Veinticinco de Mayo"
+                },
+                {
+                    "city_name": "Departamento de Valcheta"
+                },
+                {
+                    "city_name": "Departamento de San Antonio"
+                },
+                {
+                    "city_name": "Departamento de Pilcaniyeu"
+                },
+                {
+                    "city_name": "Departamento de Pichi Mahuida"
+                },
+                {
+                    "city_name": "Departamento de Nueve de Julio"
+                },
+                {
+                    "city_name": "Departamento de Norquinco"
+                },
+                {
+                    "city_name": "Departamento de General Roca"
+                },
+                {
+                    "city_name": "Departamento de El Cuy"
+                },
+                {
+                    "city_name": "Departamento de Conesa"
+                },
+                {
+                    "city_name": "Departamento de Bariloche"
+                },
+                {
+                    "city_name": "Departamento de Avellaneda"
+                },
+                {
+                    "city_name": "Departamento de Adolfo Alsina"
+                }
+            ]
+        },
+        {
+            "province_name": "Neuquen Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Zapala"
+                },
+                {
+                    "city_name": "Departamento de Picun Leufu"
+                },
+                {
+                    "city_name": "Departamento de Picunches"
+                },
+                {
+                    "city_name": "Departamento de Pehuenches"
+                },
+                {
+                    "city_name": "Departamento de Norquin"
+                },
+                {
+                    "city_name": "Departamento de Minas"
+                },
+                {
+                    "city_name": "Departamento de Los Lagos"
+                },
+                {
+                    "city_name": "Departamento de Loncopue"
+                },
+                {
+                    "city_name": "Departamento de Lacar"
+                },
+                {
+                    "city_name": "Departamento de Huiliches"
+                },
+                {
+                    "city_name": "Departamento de Confluencia"
+                },
+                {
+                    "city_name": "Departamento de Collon-Cura"
+                },
+                {
+                    "city_name": "Departamento de Chos-Malal"
+                },
+                {
+                    "city_name": "Departamento de Catan-Lil"
+                },
+                {
+                    "city_name": "Departamento de Anelo"
+                },
+                {
+                    "city_name": "Departamento de Alumine"
+                }
+            ]
+        },
+        {
+            "province_name": "Mendoza Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Tupungato"
+                },
+                {
+                    "city_name": "Departamento de Tunuyan"
+                },
+                {
+                    "city_name": "Departamento de Santa Rosa"
+                },
+                {
+                    "city_name": "Departamento de San Rafael"
+                },
+                {
+                    "city_name": "Departamento de San Martin"
+                },
+                {
+                    "city_name": "Departamento de San Carlos"
+                },
+                {
+                    "city_name": "Departamento de Rivadavia"
+                },
+                {
+                    "city_name": "Departamento de Malarguee"
+                },
+                {
+                    "city_name": "Departamento de Maipu"
+                },
+                {
+                    "city_name": "Departamento de Lujan"
+                },
+                {
+                    "city_name": "Departamento de Lavalle"
+                },
+                {
+                    "city_name": "Departamento de Las Heras"
+                },
+                {
+                    "city_name": "Departamento de La Paz"
+                },
+                {
+                    "city_name": "Departamento de Junin"
+                },
+                {
+                    "city_name": "Departamento de Guaymallen"
+                },
+                {
+                    "city_name": "Departamento de Godoy Cruz"
+                },
+                {
+                    "city_name": "Departamento de General Alvear"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                }
+            ]
+        },
+        {
+            "province_name": "La Rioja Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de General Angel Penaloza"
+                },
+                {
+                    "city_name": "Departamento de San Blas de los Sauces"
+                },
+                {
+                    "city_name": "Departamento de Sanagasta"
+                },
+                {
+                    "city_name": "Departamento de General Juan F. Quiroga"
+                },
+                {
+                    "city_name": "Departamento de Independencia"
+                },
+                {
+                    "city_name": "Departamento de Chamical"
+                },
+                {
+                    "city_name": "Departamento de Vinchina"
+                },
+                {
+                    "city_name": "Departamento de General San Martin"
+                },
+                {
+                    "city_name": "Departamento de Rosario Vera Penaloza"
+                },
+                {
+                    "city_name": "Departamento de General Ocampo"
+                },
+                {
+                    "city_name": "Departamento de Coronel Felipe Varela"
+                },
+                {
+                    "city_name": "Departamento de General Lamadrid"
+                },
+                {
+                    "city_name": "Departamento de General Belgrano"
+                },
+                {
+                    "city_name": "Departamento de Famatina"
+                },
+                {
+                    "city_name": "Departamento de Chilecito"
+                },
+                {
+                    "city_name": "Departamento de Castro Barros"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Arauco"
+                }
+            ]
+        },
+        {
+            "province_name": "La Pampa Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Utracan"
+                },
+                {
+                    "city_name": "Departamento de Trenel"
+                },
+                {
+                    "city_name": "Departamento de Toay"
+                },
+                {
+                    "city_name": "Departamento de Realico"
+                },
+                {
+                    "city_name": "Departamento de Rancul"
+                },
+                {
+                    "city_name": "Departamento de Quemu Quemu"
+                },
+                {
+                    "city_name": "Departamento de Puelen"
+                },
+                {
+                    "city_name": "Departamento de Maraco"
+                },
+                {
+                    "city_name": "Departamento de Limay Mahuida"
+                },
+                {
+                    "city_name": "Departamento de Lihuel-Calel"
+                },
+                {
+                    "city_name": "Departamento de Loventue"
+                },
+                {
+                    "city_name": "Departamento de Hucal"
+                },
+                {
+                    "city_name": "Departamento de Guatrache"
+                },
+                {
+                    "city_name": "Departamento de Curaco"
+                },
+                {
+                    "city_name": "Departamento de Conhelo"
+                },
+                {
+                    "city_name": "Departamento de Chical-Co"
+                },
+                {
+                    "city_name": "Departamento de Chapaleufu"
+                },
+                {
+                    "city_name": "Departamento de Chalileo"
+                },
+                {
+                    "city_name": "Departamento de Catrilo"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Caleu-Caleu"
+                },
+                {
+                    "city_name": "Departamento de Atreuco"
+                }
+            ]
+        },
+        {
+            "province_name": "Jujuy Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Yavi"
+                },
+                {
+                    "city_name": "Departamento de Valle Grande"
+                },
+                {
+                    "city_name": "Departamento de Tumbaya"
+                },
+                {
+                    "city_name": "Departamento de Tilcara"
+                },
+                {
+                    "city_name": "Departamento de Susques"
+                },
+                {
+                    "city_name": "Departamento de Santa Catalina"
+                },
+                {
+                    "city_name": "Departamento de Santa Barbara"
+                },
+                {
+                    "city_name": "Departamento de San Pedro"
+                },
+                {
+                    "city_name": "Departamento de San Antonio"
+                },
+                {
+                    "city_name": "Departamento de Rinconada"
+                },
+                {
+                    "city_name": "Departamento de Ledesma"
+                },
+                {
+                    "city_name": "Departamento de Humahuaca"
+                },
+                {
+                    "city_name": "Departamento de El Carmen"
+                },
+                {
+                    "city_name": "Departamento de Cochinoca"
+                },
+                {
+                    "city_name": "Departamento de Doctor Manuel Belgrano"
+                },
+                {
+                    "city_name": "Departamento de Palpala"
+                }
+            ]
+        },
+        {
+            "province_name": "Cordoba Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Union"
+                },
+                {
+                    "city_name": "Departamento de Tulumba"
+                },
+                {
+                    "city_name": "Departamento de Totoral"
+                },
+                {
+                    "city_name": "Departamento de Tercero Arriba"
+                },
+                {
+                    "city_name": "Departamento de Sobremonte"
+                },
+                {
+                    "city_name": "Departamento de Santa Maria"
+                },
+                {
+                    "city_name": "Departamento de San Justo"
+                },
+                {
+                    "city_name": "Departamento de San Javier"
+                },
+                {
+                    "city_name": "Departamento de San Alberto"
+                },
+                {
+                    "city_name": "Departamento de Rio Segundo"
+                },
+                {
+                    "city_name": "Departamento de Rio Seco"
+                },
+                {
+                    "city_name": "Departamento de Rio Primero"
+                },
+                {
+                    "city_name": "Departamento de Rio Cuarto"
+                },
+                {
+                    "city_name": "Departamento de Punilla"
+                },
+                {
+                    "city_name": "Departamento de Presidente Roque Saenz Pena"
+                },
+                {
+                    "city_name": "Departamento de Pocho"
+                },
+                {
+                    "city_name": "Departamento de Minas"
+                },
+                {
+                    "city_name": "Departamento de Marcos Juarez"
+                },
+                {
+                    "city_name": "Departamento de Juarez Celman"
+                },
+                {
+                    "city_name": "Departamento de Ischilin"
+                },
+                {
+                    "city_name": "Departamento de General San Martin"
+                },
+                {
+                    "city_name": "Departamento de General Roca"
+                },
+                {
+                    "city_name": "Departamento de Cruz del Eje"
+                },
+                {
+                    "city_name": "Departamento de Colon"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Calamuchita"
+                }
+            ]
+        },
+        {
+            "province_name": "Chubut Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Telsen"
+                },
+                {
+                    "city_name": "Departamento de Tehuelches"
+                },
+                {
+                    "city_name": "Departamento de Sarmiento"
+                },
+                {
+                    "city_name": "Departamento de Rio Senguerr"
+                },
+                {
+                    "city_name": "Departamento de Rawson"
+                },
+                {
+                    "city_name": "Departamento de Paso de Indios"
+                },
+                {
+                    "city_name": "Departamento de Martires"
+                },
+                {
+                    "city_name": "Departamento de Languineo"
+                },
+                {
+                    "city_name": "Departamento de Gastre"
+                },
+                {
+                    "city_name": "Departamento de Gaiman"
+                },
+                {
+                    "city_name": "Departamento de Futaleufu"
+                },
+                {
+                    "city_name": "Departamento de Florentino Ameghino"
+                },
+                {
+                    "city_name": "Departamento de Escalante"
+                },
+                {
+                    "city_name": "Departamento de Cushamen"
+                },
+                {
+                    "city_name": "Departamento de Biedma"
+                }
+            ]
+        },
+        {
+            "province_name": "Chaco Province",
+            "cities": [
+                {
+                    "city_name": "Veinticinco de Mayo"
+                },
+                {
+                    "city_name": "Departamento de Tapenaga"
+                },
+                {
+                    "city_name": "Departamento de Sargento Cabral"
+                },
+                {
+                    "city_name": "Departamento de San Fernando"
+                },
+                {
+                    "city_name": "Departamento del Primero de Mayo"
+                },
+                {
+                    "city_name": "Departamento de Presidencia de la Plaza"
+                },
+                {
+                    "city_name": "Departamento de Libertador General San Martin"
+                },
+                {
+                    "city_name": "Departamento de Libertad"
+                },
+                {
+                    "city_name": "Departamento de General Donovan"
+                },
+                {
+                    "city_name": "Departamento de Bermejo"
+                },
+                {
+                    "city_name": "Departamento de San Lorenzo"
+                },
+                {
+                    "city_name": "Departamento de Quitilipi"
+                },
+                {
+                    "city_name": "Departamento de O'Higgins"
+                },
+                {
+                    "city_name": "Departamento de Nueve de Julio"
+                },
+                {
+                    "city_name": "Departamento de Mayor Luis J. Fontana"
+                },
+                {
+                    "city_name": "Departamento de Maipu"
+                },
+                {
+                    "city_name": "Departamento de Independencia"
+                },
+                {
+                    "city_name": "Departamento de General Gueemes"
+                },
+                {
+                    "city_name": "Departamento de General Belgrano"
+                },
+                {
+                    "city_name": "Fray Justo Santa Maria de Oro"
+                },
+                {
+                    "city_name": "Departamento de Doce de Octubre"
+                },
+                {
+                    "city_name": "Departamento de Comandante Fernandez"
+                },
+                {
+                    "city_name": "Chacabuco"
+                },
+                {
+                    "city_name": "Departamento de Almirante Brown"
+                },
+                {
+                    "city_name": "Departamento de Dos de Abril"
+                }
+            ]
+        },
+        {
+            "province_name": "Catamarca Province",
+            "cities": [
+                {
+                    "city_name": "Departamento de Valle Viejo"
+                },
+                {
+                    "city_name": "Departamento de Tinogasta"
+                },
+                {
+                    "city_name": "Departamento de Santa Rosa"
+                },
+                {
+                    "city_name": "Departamento de Santa Maria"
+                },
+                {
+                    "city_name": "Departamento de Poman"
+                },
+                {
+                    "city_name": "Departamento de Paclin"
+                },
+                {
+                    "city_name": "Departamento de La Paz"
+                },
+                {
+                    "city_name": "Departamento de Fray Mamerto Esquiu"
+                },
+                {
+                    "city_name": "Departamento de El Alto"
+                },
+                {
+                    "city_name": "Departamento de Capital"
+                },
+                {
+                    "city_name": "Departamento de Capayan"
+                },
+                {
+                    "city_name": "Departamento de Belen"
+                },
+                {
+                    "city_name": "Departamento de Antofagasta de la Sierra"
+                },
+                {
+                    "city_name": "Departamento de Andalgala"
+                },
+                {
+                    "city_name": "Departamento de Ancasti"
+                },
+                {
+                    "city_name": "Departamento de Ambato"
+                }
+            ]
+        }
+    ]
+}

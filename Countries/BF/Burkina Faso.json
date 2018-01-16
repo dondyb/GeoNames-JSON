@@ -1,0 +1,206 @@
+{
+    "country_name": "Burkina Faso",
+    "country_id": "BF",
+    "provinces": [
+        {
+            "province_name": "Boucle du Mouhoun Region",
+            "cities": [
+                {
+                    "city_name": "Province du Sourou"
+                },
+                {
+                    "city_name": "Province du Mouhoun"
+                },
+                {
+                    "city_name": "Province de la Kossi"
+                },
+                {
+                    "city_name": "Province des Bale"
+                },
+                {
+                    "city_name": "Province des Banwa"
+                },
+                {
+                    "city_name": "Province du Nayala"
+                }
+            ]
+        },
+        {
+            "province_name": "Cascades Region",
+            "cities": [
+                {
+                    "city_name": "Province de la Comoe"
+                },
+                {
+                    "city_name": "Province de la Leraba"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre",
+            "cities": [
+                {
+                    "city_name": "Kadiogo Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre-Est",
+            "cities": [
+                {
+                    "city_name": "Kouritenga Province"
+                },
+                {
+                    "city_name": "Province du Boulgou"
+                },
+                {
+                    "city_name": "Province du Koulpelogo"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre-Nord",
+            "cities": [
+                {
+                    "city_name": "Province du Sanmatenga"
+                },
+                {
+                    "city_name": "Province du Namentenga"
+                },
+                {
+                    "city_name": "Province du Bam"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre-Ouest",
+            "cities": [
+                {
+                    "city_name": "Province de la Sissili"
+                },
+                {
+                    "city_name": "Province du Sanguie"
+                },
+                {
+                    "city_name": "Province du Boulkiemde"
+                },
+                {
+                    "city_name": "Province du Ziro"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre-Sud",
+            "cities": [
+                {
+                    "city_name": "Zoundweogo Province"
+                },
+                {
+                    "city_name": "Nahouri Province"
+                },
+                {
+                    "city_name": "Bazega Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Est",
+            "cities": [
+                {
+                    "city_name": "Province de la Tapoa"
+                },
+                {
+                    "city_name": "Province du Gourma"
+                },
+                {
+                    "city_name": "Gnagna Province"
+                },
+                {
+                    "city_name": "Province de la Komandjoari"
+                },
+                {
+                    "city_name": "Province de la Kompienga"
+                }
+            ]
+        },
+        {
+            "province_name": "High-Basins Region",
+            "cities": [
+                {
+                    "city_name": "Province du Kenedougou"
+                },
+                {
+                    "city_name": "Province du Houet"
+                },
+                {
+                    "city_name": "Province du Tuy"
+                }
+            ]
+        },
+        {
+            "province_name": "Nord",
+            "cities": [
+                {
+                    "city_name": "Province du Yatenga"
+                },
+                {
+                    "city_name": "Province du Passore"
+                },
+                {
+                    "city_name": "Province du Loroum"
+                },
+                {
+                    "city_name": "Province du Zondoma"
+                }
+            ]
+        },
+        {
+            "province_name": "Plateau-Central",
+            "cities": [
+                {
+                    "city_name": "Province d'Oubritenga"
+                },
+                {
+                    "city_name": "Province du Ganzourgou"
+                },
+                {
+                    "city_name": "Province du Kourweogo"
+                }
+            ]
+        },
+        {
+            "province_name": "Sahel",
+            "cities": [
+                {
+                    "city_name": "Province du Soum"
+                },
+                {
+                    "city_name": "Province du Seno"
+                },
+                {
+                    "city_name": "Province de l'Oudalan"
+                },
+                {
+                    "city_name": "Province du Yagha"
+                }
+            ]
+        },
+        {
+            "province_name": "Southwest Region",
+            "cities": [
+                {
+                    "city_name": "Province du Poni"
+                },
+                {
+                    "city_name": "Province de la Bougouriba"
+                },
+                {
+                    "city_name": "Province du Ioba"
+                },
+                {
+                    "city_name": "Province du Noumbiel"
+                }
+            ]
+        }
+    ]
+}

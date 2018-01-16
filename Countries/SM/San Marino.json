@@ -1,0 +1,42 @@
+{
+    "country_name": "San Marino",
+    "country_id": "SM",
+    "provinces": [
+        {
+            "province_name": "Serravalle",
+            "cities": []
+        },
+        {
+            "province_name": "Chiesanuova",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di San Marino Citta",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di Acquaviva",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di Borgo Maggiore",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di Domagnano",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di Faetano",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di Fiorentino",
+            "cities": []
+        },
+        {
+            "province_name": "Castello di Montegiardino",
+            "cities": []
+        }
+    ]
+}

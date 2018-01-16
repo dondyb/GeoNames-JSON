@@ -1,0 +1,1249 @@
+{
+    "country_name": "China",
+    "country_id": "CN",
+    "provinces": [
+        {
+            "province_name": "Tibet Autonomous Region",
+            "cities": [
+                {
+                    "city_name": "Rikaze Diqu"
+                },
+                {
+                    "city_name": "Shannan Diqu"
+                },
+                {
+                    "city_name": "Qamdo Shi"
+                },
+                {
+                    "city_name": "Nyingchi Prefecture"
+                },
+                {
+                    "city_name": "Ngari Diqu"
+                },
+                {
+                    "city_name": "Nagqu Diqu"
+                },
+                {
+                    "city_name": "Lhasa Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Qinghai Sheng",
+            "cities": [
+                {
+                    "city_name": "Yushu Zangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Haixi Mengguzu Zangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Golog Tibetan Autonomous Prefecture"
+                },
+                {
+                    "city_name": "Xining Shi"
+                },
+                {
+                    "city_name": "Huangnan Zangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Hainan Zangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Haidong Diqu"
+                },
+                {
+                    "city_name": "Haibei Zangzu Zizhizhou"
+                }
+            ]
+        },
+        {
+            "province_name": "Xinjiang Uygur Zizhiqu",
+            "cities": [
+                {
+                    "city_name": "Shache Xian"
+                },
+                {
+                    "city_name": "Kizilsu Kirgiz Zizhizhou"
+                },
+                {
+                    "city_name": "Kaxgar Diqu"
+                },
+                {
+                    "city_name": "Hotan Diqu"
+                },
+                {
+                    "city_name": "Urumqi Shi"
+                },
+                {
+                    "city_name": "Turpan Diqu"
+                },
+                {
+                    "city_name": "Tacheng Diqu"
+                },
+                {
+                    "city_name": "Karamay Shi"
+                },
+                {
+                    "city_name": "Ili Kazak Zizhizhou"
+                },
+                {
+                    "city_name": "Kumul Diqu"
+                },
+                {
+                    "city_name": "Changji Huizu Zizhizhou"
+                },
+                {
+                    "city_name": "Bortala Mongol Zizhizhou"
+                },
+                {
+                    "city_name": "Bayingolin Mongol Zizhizhou"
+                },
+                {
+                    "city_name": "Altay Diqu"
+                },
+                {
+                    "city_name": "Aksu Diqu"
+                }
+            ]
+        },
+        {
+            "province_name": "Zhejiang Sheng",
+            "cities": [
+                {
+                    "city_name": "Zhoushan Shi"
+                },
+                {
+                    "city_name": "Wenzhou Shi"
+                },
+                {
+                    "city_name": "Taizhou Shi"
+                },
+                {
+                    "city_name": "Shaoxing Shi"
+                },
+                {
+                    "city_name": "Quzhou Shi"
+                },
+                {
+                    "city_name": "Ningbo Shi"
+                },
+                {
+                    "city_name": "Lishui Shi"
+                },
+                {
+                    "city_name": "Jinhua Shi"
+                },
+                {
+                    "city_name": "Jiaxing Shi"
+                },
+                {
+                    "city_name": "Huzhou Shi"
+                },
+                {
+                    "city_name": "Hangzhou Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Yunnan Sheng",
+            "cities": [
+                {
+                    "city_name": "Nujiang Lisuzu Zizhizhou"
+                },
+                {
+                    "city_name": "Deqen Tibetan Autonomous Prefecture"
+                },
+                {
+                    "city_name": "Dehong Daizu Jingpozu Zizhizhou"
+                },
+                {
+                    "city_name": "Baoshan Shi"
+                },
+                {
+                    "city_name": "Zhaotong Shi"
+                },
+                {
+                    "city_name": "Zhaotong Diqu"
+                },
+                {
+                    "city_name": "Yuxi Shi"
+                },
+                {
+                    "city_name": "Xishuangbanna Daizu Zizhizhou"
+                },
+                {
+                    "city_name": "Wenshan Zhuangzu Miaozu Zizhizhou"
+                },
+                {
+                    "city_name": "Pu'er City"
+                },
+                {
+                    "city_name": "Qujing Shi"
+                },
+                {
+                    "city_name": "Lincang Shi"
+                },
+                {
+                    "city_name": "Lijiang Shi"
+                },
+                {
+                    "city_name": "Kunming Shi"
+                },
+                {
+                    "city_name": "Honghe Hanizu Yizu Zizhizhou"
+                },
+                {
+                    "city_name": "Dali Baizu Zizhizhou"
+                },
+                {
+                    "city_name": "Chuxiong Yizu Zizhizhou"
+                }
+            ]
+        },
+        {
+            "province_name": "Tianjin Shi",
+            "cities": []
+        },
+        {
+            "province_name": "Sichuan Sheng",
+            "cities": [
+                {
+                    "city_name": "Zigong Shi"
+                },
+                {
+                    "city_name": "Yibin Shi"
+                },
+                {
+                    "city_name": "Ya'an Shi"
+                },
+                {
+                    "city_name": "Panzhihua Shi"
+                },
+                {
+                    "city_name": "Neijiang Shi"
+                },
+                {
+                    "city_name": "Nanchong Shi"
+                },
+                {
+                    "city_name": "Mianyang Shi"
+                },
+                {
+                    "city_name": "Luzhou Shi"
+                },
+                {
+                    "city_name": "Liangshan Yizu Zizhizhou"
+                },
+                {
+                    "city_name": "Leshan Shi"
+                },
+                {
+                    "city_name": "Garze Zangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Dazhou Shi"
+                },
+                {
+                    "city_name": "Chengdu Shi"
+                },
+                {
+                    "city_name": "Aba Zangzu Qiangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Deyang Shi"
+                },
+                {
+                    "city_name": "Guangyuan Shi"
+                },
+                {
+                    "city_name": "Guang'an Shi"
+                },
+                {
+                    "city_name": "Suining Shi"
+                },
+                {
+                    "city_name": "Bazhong Shi"
+                },
+                {
+                    "city_name": "Meishan Shi"
+                },
+                {
+                    "city_name": "Ziyang Shi"
+                },
+                {
+                    "city_name": "Chongqing"
+                },
+                {
+                    "city_name": "Wuxi County"
+                }
+            ]
+        },
+        {
+            "province_name": "Shanxi Sheng",
+            "cities": [
+                {
+                    "city_name": "Yuncheng Shi"
+                },
+                {
+                    "city_name": "Yangquan Shi"
+                },
+                {
+                    "city_name": "Taiyuan Shi"
+                },
+                {
+                    "city_name": "Lueliang"
+                },
+                {
+                    "city_name": "Linfen Shi"
+                },
+                {
+                    "city_name": "Jinzhong Shi"
+                },
+                {
+                    "city_name": "Jincheng Shi"
+                },
+                {
+                    "city_name": "Changzhi Shi"
+                },
+                {
+                    "city_name": "Yanbei Diqu"
+                },
+                {
+                    "city_name": "Datong Shi"
+                },
+                {
+                    "city_name": "Shuozhou Shi"
+                },
+                {
+                    "city_name": "Xinzhou Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Shanghai Shi",
+            "cities": [
+                {
+                    "city_name": "Wusong Qu"
+                },
+                {
+                    "city_name": "Shanghai Xian"
+                },
+                {
+                    "city_name": "Nanshi Qu"
+                }
+            ]
+        },
+        {
+            "province_name": "Shandong Sheng",
+            "cities": [
+                {
+                    "city_name": "Zibo Shi"
+                },
+                {
+                    "city_name": "Zaozhuang Shi"
+                },
+                {
+                    "city_name": "Yantai Shi"
+                },
+                {
+                    "city_name": "Weihai Shi"
+                },
+                {
+                    "city_name": "Weifang Shi"
+                },
+                {
+                    "city_name": "Tai'an Shi"
+                },
+                {
+                    "city_name": "Rizhao Shi"
+                },
+                {
+                    "city_name": "Qingdao Shi"
+                },
+                {
+                    "city_name": "Linyi Shi"
+                },
+                {
+                    "city_name": "Liaocheng Shi"
+                },
+                {
+                    "city_name": "Laiwu Shi"
+                },
+                {
+                    "city_name": "Jining Shi"
+                },
+                {
+                    "city_name": "Jinan Shi"
+                },
+                {
+                    "city_name": "Huimin Diqu"
+                },
+                {
+                    "city_name": "Heze Shi"
+                },
+                {
+                    "city_name": "Dongying Shi"
+                },
+                {
+                    "city_name": "Dezhou Shi"
+                },
+                {
+                    "city_name": "Binzhou Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Shaanxi",
+            "cities": [
+                {
+                    "city_name": "Yulin Shi"
+                },
+                {
+                    "city_name": "Yan'an Shi"
+                },
+                {
+                    "city_name": "Xianyang Shi"
+                },
+                {
+                    "city_name": "Xi'an Shi"
+                },
+                {
+                    "city_name": "Weinan Shi"
+                },
+                {
+                    "city_name": "Tongchuan Shi"
+                },
+                {
+                    "city_name": "Shangluo Shi"
+                },
+                {
+                    "city_name": "Hanzhong Shi"
+                },
+                {
+                    "city_name": "Baoji Shi"
+                },
+                {
+                    "city_name": "Ankang Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Ningxia Huizu Zizhiqu",
+            "cities": [
+                {
+                    "city_name": "Wuzhong Shi"
+                },
+                {
+                    "city_name": "Yinchuan Shi"
+                },
+                {
+                    "city_name": "Shizuishan Shi"
+                },
+                {
+                    "city_name": "Guyuan Shi"
+                },
+                {
+                    "city_name": "Zhongwei Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Jiangxi Sheng",
+            "cities": [
+                {
+                    "city_name": "Yingtan Shi"
+                },
+                {
+                    "city_name": "Yichun Shi"
+                },
+                {
+                    "city_name": "Shangrao Shi"
+                },
+                {
+                    "city_name": "Pingxiang Shi"
+                },
+                {
+                    "city_name": "Nanchang Shi"
+                },
+                {
+                    "city_name": "Jiujiang Shi"
+                },
+                {
+                    "city_name": "Jingdezhen Shi"
+                },
+                {
+                    "city_name": "Ji'an Shi"
+                },
+                {
+                    "city_name": "Ganzhou Shi"
+                },
+                {
+                    "city_name": "Fuzhou Shi"
+                },
+                {
+                    "city_name": "Xinyu"
+                }
+            ]
+        },
+        {
+            "province_name": "Jiangsu Sheng",
+            "cities": [
+                {
+                    "city_name": "Zhenjiang Shi"
+                },
+                {
+                    "city_name": "Yangzhou Shi"
+                },
+                {
+                    "city_name": "Yancheng Shi"
+                },
+                {
+                    "city_name": "Xuzhou"
+                },
+                {
+                    "city_name": "Wuxi Shi"
+                },
+                {
+                    "city_name": "Taizhou Shi"
+                },
+                {
+                    "city_name": "Suqian Shi"
+                },
+                {
+                    "city_name": "Nantong Shi"
+                },
+                {
+                    "city_name": "Nanjing Shi"
+                },
+                {
+                    "city_name": "Lianyungang Shi"
+                },
+                {
+                    "city_name": "Huai'an Shi"
+                },
+                {
+                    "city_name": "Changzhou Shi"
+                },
+                {
+                    "city_name": "Suzhou Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Hunan Sheng",
+            "cities": [
+                {
+                    "city_name": "Zhuzhou Shi"
+                },
+                {
+                    "city_name": "Yueyang Shi"
+                },
+                {
+                    "city_name": "Yiyang Shi"
+                },
+                {
+                    "city_name": "Xiangxi Tujiazu Miaozu Zizhizhou"
+                },
+                {
+                    "city_name": "Xiangtan Shi"
+                },
+                {
+                    "city_name": "Shaoyang County"
+                },
+                {
+                    "city_name": "Loudi Shi"
+                },
+                {
+                    "city_name": "Lingling Diqu"
+                },
+                {
+                    "city_name": "Huaihua Prefecture"
+                },
+                {
+                    "city_name": "Hengyang Shi"
+                },
+                {
+                    "city_name": "Zhangjiajie Shi"
+                },
+                {
+                    "city_name": "Prefecture of Chenzhou"
+                },
+                {
+                    "city_name": "Changsha Shi"
+                },
+                {
+                    "city_name": "Changde Shi"
+                },
+                {
+                    "city_name": "Xiangxi Tujia and Miao"
+                },
+                {
+                    "city_name": "Yongzhou"
+                }
+            ]
+        },
+        {
+            "province_name": "Hubei Sheng",
+            "cities": [
+                {
+                    "city_name": "Yichangshi"
+                },
+                {
+                    "city_name": "Xiaogan"
+                },
+                {
+                    "city_name": "Xianning Prefecture"
+                },
+                {
+                    "city_name": "Xiangyang"
+                },
+                {
+                    "city_name": "Wuhan Shi"
+                },
+                {
+                    "city_name": "Suizhou Shi"
+                },
+                {
+                    "city_name": "Shiyan Shi"
+                },
+                {
+                    "city_name": "Shennongjia"
+                },
+                {
+                    "city_name": "Jingzhou Shi"
+                },
+                {
+                    "city_name": "Jingmen Shi"
+                },
+                {
+                    "city_name": "Huangshi Shi"
+                },
+                {
+                    "city_name": "Huanggang Shi"
+                },
+                {
+                    "city_name": "Ezhou Shi"
+                },
+                {
+                    "city_name": "Enshi Tujiazu Miaozu Zizhizhou"
+                }
+            ]
+        },
+        {
+            "province_name": "Henan Sheng",
+            "cities": [
+                {
+                    "city_name": "Zhumadian Shi"
+                },
+                {
+                    "city_name": "Zhoukou Shi"
+                },
+                {
+                    "city_name": "Zhengzhou Shi"
+                },
+                {
+                    "city_name": "Xuchang Shi"
+                },
+                {
+                    "city_name": "Xinyang Shi"
+                },
+                {
+                    "city_name": "Xinyang Diqu"
+                },
+                {
+                    "city_name": "Xinxiang Shi"
+                },
+                {
+                    "city_name": "Shangqiu Shi"
+                },
+                {
+                    "city_name": "Shangqiu Diqu"
+                },
+                {
+                    "city_name": "Sanmenxia Shi"
+                },
+                {
+                    "city_name": "Pingdingshan Shi"
+                },
+                {
+                    "city_name": "Nanyang Shi"
+                },
+                {
+                    "city_name": "Luoyang Shi"
+                },
+                {
+                    "city_name": "Luohe Shi"
+                },
+                {
+                    "city_name": "Kaifeng Shi"
+                },
+                {
+                    "city_name": "Jiaozuo Shi"
+                },
+                {
+                    "city_name": "Hebi Shi"
+                },
+                {
+                    "city_name": "Anyang Shi"
+                },
+                {
+                    "city_name": "Puyang Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Hebei Sheng",
+            "cities": [
+                {
+                    "city_name": "Xingtai County"
+                },
+                {
+                    "city_name": "Tangshan Shi"
+                },
+                {
+                    "city_name": "Shijiazhuang Shi"
+                },
+                {
+                    "city_name": "Qinhuangdao Shi"
+                },
+                {
+                    "city_name": "Langfang Shi"
+                },
+                {
+                    "city_name": "Hengshui Shi"
+                },
+                {
+                    "city_name": "Handan Shi"
+                },
+                {
+                    "city_name": "Handan Diqu"
+                },
+                {
+                    "city_name": "Cangzhou Shi"
+                },
+                {
+                    "city_name": "Cangzhou Diqu"
+                },
+                {
+                    "city_name": "Baoding Shi"
+                },
+                {
+                    "city_name": "Baoding Diqu"
+                },
+                {
+                    "city_name": "Zhangjiakou Shi"
+                },
+                {
+                    "city_name": "Chengde Prefecture"
+                }
+            ]
+        },
+        {
+            "province_name": "Hainan Sheng",
+            "cities": [
+                {
+                    "city_name": "Wanning Shi"
+                },
+                {
+                    "city_name": "Sanya Shi"
+                },
+                {
+                    "city_name": "Qionghai County"
+                },
+                {
+                    "city_name": "Haikou Shi"
+                },
+                {
+                    "city_name": "Sansha"
+                }
+            ]
+        },
+        {
+            "province_name": "Guizhou Sheng",
+            "cities": [
+                {
+                    "city_name": "Zunyi Shi"
+                },
+                {
+                    "city_name": "Tongren Diqu"
+                },
+                {
+                    "city_name": "Qianxinan Bouyeizu Miaozu Zizhizhou"
+                },
+                {
+                    "city_name": "Qiannan Bouyeizu Miaozu Zizhizhou"
+                },
+                {
+                    "city_name": "Qiandongnan Miao and Dong Autonomous Prefecture"
+                },
+                {
+                    "city_name": "Lupanshui Shi"
+                },
+                {
+                    "city_name": "Guiyang Shi"
+                },
+                {
+                    "city_name": "Bijie Diqu"
+                },
+                {
+                    "city_name": "Anshun Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Guangxi Zhuangzu Zizhiqu",
+            "cities": [
+                {
+                    "city_name": "Yulin Diqu"
+                },
+                {
+                    "city_name": "Wuzhou Shi"
+                },
+                {
+                    "city_name": "Qinzhou Shi"
+                },
+                {
+                    "city_name": "Nanning Shi"
+                },
+                {
+                    "city_name": "Liuzhou Shi"
+                },
+                {
+                    "city_name": "Hechi Shi"
+                },
+                {
+                    "city_name": "Guilin Shi"
+                },
+                {
+                    "city_name": "Baise Shi"
+                },
+                {
+                    "city_name": "Beihai Shi"
+                },
+                {
+                    "city_name": "Guigang Shi"
+                },
+                {
+                    "city_name": "Chongzuo Shi"
+                },
+                {
+                    "city_name": "Laibin Shi"
+                },
+                {
+                    "city_name": "Fangchenggang Shi"
+                },
+                {
+                    "city_name": "Hezhou Shi"
+                },
+                {
+                    "city_name": "Yulin Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Guangdong Sheng",
+            "cities": [
+                {
+                    "city_name": "Zhuhai Shi"
+                },
+                {
+                    "city_name": "Zhongshan Prefecture"
+                },
+                {
+                    "city_name": "Zhaoqing Shi"
+                },
+                {
+                    "city_name": "Zhanjiang Shi"
+                },
+                {
+                    "city_name": "Yunfu Shi"
+                },
+                {
+                    "city_name": "Yangjiang Shi"
+                },
+                {
+                    "city_name": "Shenzhen"
+                },
+                {
+                    "city_name": "Shaoguan Shi"
+                },
+                {
+                    "city_name": "Shantou Shi"
+                },
+                {
+                    "city_name": "Qingyuan Shi"
+                },
+                {
+                    "city_name": "Meizhou Shi"
+                },
+                {
+                    "city_name": "Maoming Shi"
+                },
+                {
+                    "city_name": "Jieyang Shi"
+                },
+                {
+                    "city_name": "Jiangmen Shi"
+                },
+                {
+                    "city_name": "Huizhou Shi"
+                },
+                {
+                    "city_name": "Heyuan Shi"
+                },
+                {
+                    "city_name": "Guangzhou Shi"
+                },
+                {
+                    "city_name": "Foshan Shi"
+                },
+                {
+                    "city_name": "Dongguan Shi"
+                },
+                {
+                    "city_name": "Chaozhou Shi"
+                },
+                {
+                    "city_name": "Shanwei Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Gansu Sheng",
+            "cities": [
+                {
+                    "city_name": "Jiuquan Shi"
+                },
+                {
+                    "city_name": "Jiayuguan Shi"
+                },
+                {
+                    "city_name": "Zhangye Shi"
+                },
+                {
+                    "city_name": "Wuwei Shi"
+                },
+                {
+                    "city_name": "Tianshui Shi"
+                },
+                {
+                    "city_name": "Qingyang Shi"
+                },
+                {
+                    "city_name": "Pingliang Shi"
+                },
+                {
+                    "city_name": "Longnan Shi"
+                },
+                {
+                    "city_name": "Linxia Huizu Zizhizhou"
+                },
+                {
+                    "city_name": "Lanzhou Shi"
+                },
+                {
+                    "city_name": "Jinchang Shi"
+                },
+                {
+                    "city_name": "Gannan Zangzu Zizhizhou"
+                },
+                {
+                    "city_name": "Dingxi Shi"
+                },
+                {
+                    "city_name": "Baiyin Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Fujian Sheng",
+            "cities": [
+                {
+                    "city_name": "Zhangzhou Shi"
+                },
+                {
+                    "city_name": "Xiamen Shi"
+                },
+                {
+                    "city_name": "Sanming Shi"
+                },
+                {
+                    "city_name": "Quanzhou Shi"
+                },
+                {
+                    "city_name": "Putian Shi"
+                },
+                {
+                    "city_name": "Ningde Shi"
+                },
+                {
+                    "city_name": "Nanping Shi"
+                },
+                {
+                    "city_name": "Longyan Shi"
+                },
+                {
+                    "city_name": "Fuzhou Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Chongqing Shi",
+            "cities": [
+                {
+                    "city_name": "Chongqing"
+                }
+            ]
+        },
+        {
+            "province_name": "Anhui Sheng",
+            "cities": [
+                {
+                    "city_name": "Xuancheng Shi"
+                },
+                {
+                    "city_name": "Wuhu Shi"
+                },
+                {
+                    "city_name": "Tongling Shi"
+                },
+                {
+                    "city_name": "Suzhou Shi"
+                },
+                {
+                    "city_name": "Ma'anshan Shi"
+                },
+                {
+                    "city_name": "Lu'an Shi"
+                },
+                {
+                    "city_name": "Huangshan Shi"
+                },
+                {
+                    "city_name": "Huainan Shi"
+                },
+                {
+                    "city_name": "Huaibei Shi"
+                },
+                {
+                    "city_name": "Hefei Shi"
+                },
+                {
+                    "city_name": "Fuyang Shi"
+                },
+                {
+                    "city_name": "Chuzhou Shi"
+                },
+                {
+                    "city_name": "Chaohu Shi"
+                },
+                {
+                    "city_name": "Bengbu Shi"
+                },
+                {
+                    "city_name": "Anqing Shi"
+                },
+                {
+                    "city_name": "Chizhou Shi"
+                },
+                {
+                    "city_name": "Haozhou Shi"
+                },
+                {
+                    "city_name": "Bozhou"
+                }
+            ]
+        },
+        {
+            "province_name": "Inner Mongolia Autonomous Region",
+            "cities": [
+                {
+                    "city_name": "Wuhai Shi"
+                },
+                {
+                    "city_name": "Ordos Shi"
+                },
+                {
+                    "city_name": "Alxa Meng"
+                },
+                {
+                    "city_name": "Xilin Gol Meng"
+                },
+                {
+                    "city_name": "Wulanchabu Shi"
+                },
+                {
+                    "city_name": "Tongliao Shi"
+                },
+                {
+                    "city_name": "Hulunbuir Region"
+                },
+                {
+                    "city_name": "Hohhot Shi"
+                },
+                {
+                    "city_name": "Hinggan Meng"
+                },
+                {
+                    "city_name": "Chifeng Shi"
+                },
+                {
+                    "city_name": "Bayannur Shi"
+                },
+                {
+                    "city_name": "Baotou Shi"
+                },
+                {
+                    "city_name": "Alxa Left Banner"
+                },
+                {
+                    "city_name": "Ejina Banner"
+                },
+                {
+                    "city_name": "Alxa Right Banner"
+                },
+                {
+                    "city_name": "Jiagedaqi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Liaoning Sheng",
+            "cities": [
+                {
+                    "city_name": "Dalian Shi"
+                },
+                {
+                    "city_name": "Yingkou"
+                },
+                {
+                    "city_name": "Tieling Shi"
+                },
+                {
+                    "city_name": "Shenyang Shi"
+                },
+                {
+                    "city_name": "Panjin Shi"
+                },
+                {
+                    "city_name": "Liaoyang Shi"
+                },
+                {
+                    "city_name": "Jinzhou Shi"
+                },
+                {
+                    "city_name": "Huludao Shi"
+                },
+                {
+                    "city_name": "Fuxin Shi"
+                },
+                {
+                    "city_name": "Fushun Shi"
+                },
+                {
+                    "city_name": "Dandong Shi"
+                },
+                {
+                    "city_name": "Chaoyang Shi"
+                },
+                {
+                    "city_name": "Benxi Shi"
+                },
+                {
+                    "city_name": "Anshan Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Jilin Sheng",
+            "cities": [
+                {
+                    "city_name": "Yanbian Chaoxianzu Zizhizhou"
+                },
+                {
+                    "city_name": "Tonghua Shi"
+                },
+                {
+                    "city_name": "Siping Shi"
+                },
+                {
+                    "city_name": "Liaoyuan Shi"
+                },
+                {
+                    "city_name": "Jilin Shi"
+                },
+                {
+                    "city_name": "Baishan Shi"
+                },
+                {
+                    "city_name": "Changchun Shi"
+                },
+                {
+                    "city_name": "Baicheng Shi"
+                },
+                {
+                    "city_name": "Songyuan Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Heilongjiang Sheng",
+            "cities": [
+                {
+                    "city_name": "Yichun Shi"
+                },
+                {
+                    "city_name": "Suihua Shi"
+                },
+                {
+                    "city_name": "Songhuajiang Diqu"
+                },
+                {
+                    "city_name": "Shuangyashan Shi"
+                },
+                {
+                    "city_name": "Qitaihe Shi"
+                },
+                {
+                    "city_name": "Qiqihar Shi"
+                },
+                {
+                    "city_name": "Mudanjiang Shi"
+                },
+                {
+                    "city_name": "Jixi Shi"
+                },
+                {
+                    "city_name": "Jiamusi Shi"
+                },
+                {
+                    "city_name": "Heihe Shi"
+                },
+                {
+                    "city_name": "Hegang Shi"
+                },
+                {
+                    "city_name": "Harbin Shi"
+                },
+                {
+                    "city_name": "Daqing Shi"
+                },
+                {
+                    "city_name": "Dahingganling Diqu"
+                }
+            ]
+        },
+        {
+            "province_name": "Beijing Shi",
+            "cities": [
+                {
+                    "city_name": "Xicheng District"
+                },
+                {
+                    "city_name": "Dongcheng District"
+                }
+            ]
+        }
+    ]
+}

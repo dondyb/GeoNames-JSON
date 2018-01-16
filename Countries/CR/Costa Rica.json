@@ -1,0 +1,284 @@
+{
+    "country_name": "Costa Rica",
+    "country_id": "CR",
+    "provinces": [
+        {
+            "province_name": "Provincia de San Jose",
+            "cities": [
+                {
+                    "city_name": "Vazquez de Coronado"
+                },
+                {
+                    "city_name": "Turrubares"
+                },
+                {
+                    "city_name": "Tibas"
+                },
+                {
+                    "city_name": "Tarrazu"
+                },
+                {
+                    "city_name": "Santa Ana"
+                },
+                {
+                    "city_name": "San Jose"
+                },
+                {
+                    "city_name": "Puriscal"
+                },
+                {
+                    "city_name": "Perez Zeledon"
+                },
+                {
+                    "city_name": "Moravia"
+                },
+                {
+                    "city_name": "Mora"
+                },
+                {
+                    "city_name": "Montes de Oca"
+                },
+                {
+                    "city_name": "Leon Cortes"
+                },
+                {
+                    "city_name": "Goicoechea"
+                },
+                {
+                    "city_name": "Escazu"
+                },
+                {
+                    "city_name": "Dota"
+                },
+                {
+                    "city_name": "Desamparados"
+                },
+                {
+                    "city_name": "Curridabat"
+                },
+                {
+                    "city_name": "Aserri"
+                },
+                {
+                    "city_name": "Alajuelita"
+                },
+                {
+                    "city_name": "Acosta"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Puntarenas",
+            "cities": [
+                {
+                    "city_name": "Puntarenas"
+                },
+                {
+                    "city_name": "Parrita"
+                },
+                {
+                    "city_name": "Osa"
+                },
+                {
+                    "city_name": "Montes de Oro"
+                },
+                {
+                    "city_name": "Golfito"
+                },
+                {
+                    "city_name": "Esparza"
+                },
+                {
+                    "city_name": "Coto Brus"
+                },
+                {
+                    "city_name": "Corredores"
+                },
+                {
+                    "city_name": "Buenos Aires"
+                },
+                {
+                    "city_name": "Quepos"
+                },
+                {
+                    "city_name": "Garabito"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Limon",
+            "cities": [
+                {
+                    "city_name": "Talamanca"
+                },
+                {
+                    "city_name": "Siquirres"
+                },
+                {
+                    "city_name": "Pococi"
+                },
+                {
+                    "city_name": "Matina"
+                },
+                {
+                    "city_name": "Limon"
+                },
+                {
+                    "city_name": "Guacimo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Heredia",
+            "cities": [
+                {
+                    "city_name": "Sarapiqui"
+                },
+                {
+                    "city_name": "Santo Domingo"
+                },
+                {
+                    "city_name": "Santa Barbara"
+                },
+                {
+                    "city_name": "San Rafael"
+                },
+                {
+                    "city_name": "San Pablo"
+                },
+                {
+                    "city_name": "San Isidro"
+                },
+                {
+                    "city_name": "Heredia"
+                },
+                {
+                    "city_name": "Flores"
+                },
+                {
+                    "city_name": "Belen"
+                },
+                {
+                    "city_name": "Barva"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Guanacaste",
+            "cities": [
+                {
+                    "city_name": "Tilaran"
+                },
+                {
+                    "city_name": "Santa Cruz"
+                },
+                {
+                    "city_name": "Nicoya"
+                },
+                {
+                    "city_name": "Nandayure"
+                },
+                {
+                    "city_name": "Liberia"
+                },
+                {
+                    "city_name": "La Cruz"
+                },
+                {
+                    "city_name": "Hojancha"
+                },
+                {
+                    "city_name": "Carrillo"
+                },
+                {
+                    "city_name": "Canas"
+                },
+                {
+                    "city_name": "Bagaces"
+                },
+                {
+                    "city_name": "Abangares"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Cartago",
+            "cities": [
+                {
+                    "city_name": "Turrialba"
+                },
+                {
+                    "city_name": "Paraiso"
+                },
+                {
+                    "city_name": "Oreamuno"
+                },
+                {
+                    "city_name": "La Union"
+                },
+                {
+                    "city_name": "Jimenez"
+                },
+                {
+                    "city_name": "El Guarco"
+                },
+                {
+                    "city_name": "Cartago"
+                },
+                {
+                    "city_name": "Alvarado"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Alajuela",
+            "cities": [
+                {
+                    "city_name": "Valverde Vega"
+                },
+                {
+                    "city_name": "Upala"
+                },
+                {
+                    "city_name": "San Mateo"
+                },
+                {
+                    "city_name": "San Carlos"
+                },
+                {
+                    "city_name": "Poas"
+                },
+                {
+                    "city_name": "Palmares"
+                },
+                {
+                    "city_name": "Orotina"
+                },
+                {
+                    "city_name": "Naranjo"
+                },
+                {
+                    "city_name": "Los Chiles"
+                },
+                {
+                    "city_name": "Guatuso"
+                },
+                {
+                    "city_name": "Grecia"
+                },
+                {
+                    "city_name": "Atenas"
+                },
+                {
+                    "city_name": "Zarcero"
+                },
+                {
+                    "city_name": "Alajuela"
+                },
+                {
+                    "city_name": "San Ramon"
+                }
+            ]
+        }
+    ]
+}

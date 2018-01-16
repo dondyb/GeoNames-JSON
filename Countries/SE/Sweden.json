@@ -1,0 +1,981 @@
+{
+    "country_name": "Sweden",
+    "country_id": "SE",
+    "provinces": [
+        {
+            "province_name": "Norrbotten",
+            "cities": [
+                {
+                    "city_name": "Pitea Kommun"
+                },
+                {
+                    "city_name": "Pajala Kommun"
+                },
+                {
+                    "city_name": "Overtornea Kommun"
+                },
+                {
+                    "city_name": "Overkalix Kommun"
+                },
+                {
+                    "city_name": "Lulea kommun"
+                },
+                {
+                    "city_name": "Kalix Kommun"
+                },
+                {
+                    "city_name": "Haparanda Kommun"
+                },
+                {
+                    "city_name": "Gaellivare kommun"
+                },
+                {
+                    "city_name": "Bodens Kommun"
+                },
+                {
+                    "city_name": "Alvsbyns Kommun"
+                },
+                {
+                    "city_name": "Kiruna Kommun"
+                },
+                {
+                    "city_name": "Jokkmokks Kommun"
+                },
+                {
+                    "city_name": "Arvidsjaurs Kommun"
+                },
+                {
+                    "city_name": "Arjeplogs Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Vaestmanlands laen",
+            "cities": [
+                {
+                    "city_name": "Vasteras"
+                },
+                {
+                    "city_name": "Surahammars Kommun"
+                },
+                {
+                    "city_name": "Skinnskattebergs Kommun"
+                },
+                {
+                    "city_name": "Sala kommun"
+                },
+                {
+                    "city_name": "Norbergs Kommun"
+                },
+                {
+                    "city_name": "Kungsoers kommun"
+                },
+                {
+                    "city_name": "Kopings Kommun"
+                },
+                {
+                    "city_name": "Hallstahammars Kommun"
+                },
+                {
+                    "city_name": "Fagersta Kommun"
+                },
+                {
+                    "city_name": "Arboga Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Vaesternorrlands laen",
+            "cities": [
+                {
+                    "city_name": "Timra Kommun"
+                },
+                {
+                    "city_name": "Sundsvalls Kommun"
+                },
+                {
+                    "city_name": "Solleftea Kommun"
+                },
+                {
+                    "city_name": "OErnskoeldsviks Kommun"
+                },
+                {
+                    "city_name": "Kramfors Kommun"
+                },
+                {
+                    "city_name": "Haernoesands Kommun"
+                },
+                {
+                    "city_name": "Ange kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Vaesterbottens laen",
+            "cities": [
+                {
+                    "city_name": "Umea Kommun"
+                },
+                {
+                    "city_name": "Skelleftea Kommun"
+                },
+                {
+                    "city_name": "Robertsfors Kommun"
+                },
+                {
+                    "city_name": "Vindelns Kommun"
+                },
+                {
+                    "city_name": "Vilhelmina Kommun"
+                },
+                {
+                    "city_name": "Vannas Kommun"
+                },
+                {
+                    "city_name": "Storumans Kommun"
+                },
+                {
+                    "city_name": "Sorsele Kommun"
+                },
+                {
+                    "city_name": "Norsjo Kommun"
+                },
+                {
+                    "city_name": "Nordmalings Kommun"
+                },
+                {
+                    "city_name": "Mala Kommun"
+                },
+                {
+                    "city_name": "Lycksele kommun"
+                },
+                {
+                    "city_name": "Dorotea Kommun"
+                },
+                {
+                    "city_name": "Bjurholms Kommun"
+                },
+                {
+                    "city_name": "Asele Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Vaermlands laen",
+            "cities": [
+                {
+                    "city_name": "Torsby Kommun"
+                },
+                {
+                    "city_name": "Sunne Kommun"
+                },
+                {
+                    "city_name": "Storfors Kommun"
+                },
+                {
+                    "city_name": "Saffle Kommun"
+                },
+                {
+                    "city_name": "Munkfors Kommun"
+                },
+                {
+                    "city_name": "Kristinehamns Kommun"
+                },
+                {
+                    "city_name": "Kils Kommun"
+                },
+                {
+                    "city_name": "Karlstads Kommun"
+                },
+                {
+                    "city_name": "Hammaro Kommun"
+                },
+                {
+                    "city_name": "Hagfors Kommun"
+                },
+                {
+                    "city_name": "Grums Kommun"
+                },
+                {
+                    "city_name": "Forshaga Kommun"
+                },
+                {
+                    "city_name": "Filipstads Kommun"
+                },
+                {
+                    "city_name": "Eda kommun"
+                },
+                {
+                    "city_name": "Arvika Kommun"
+                },
+                {
+                    "city_name": "Arjangs Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Uppsala",
+            "cities": [
+                {
+                    "city_name": "Uppsala Kommun"
+                },
+                {
+                    "city_name": "Tierps kommun"
+                },
+                {
+                    "city_name": "Osthammars Kommun"
+                },
+                {
+                    "city_name": "Heby kommun"
+                },
+                {
+                    "city_name": "Habo kommun"
+                },
+                {
+                    "city_name": "Enkopings Kommun"
+                },
+                {
+                    "city_name": "Alvkarleby Kommun"
+                },
+                {
+                    "city_name": "Knivsta Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Stockholm",
+            "cities": [
+                {
+                    "city_name": "Vaxholms Kommun"
+                },
+                {
+                    "city_name": "Varmdo Kommun"
+                },
+                {
+                    "city_name": "Vallentuna Kommun"
+                },
+                {
+                    "city_name": "Upplands Vaesby kommun"
+                },
+                {
+                    "city_name": "Upplands-Bro Kommun"
+                },
+                {
+                    "city_name": "Tyreso Kommun"
+                },
+                {
+                    "city_name": "Taby Kommun"
+                },
+                {
+                    "city_name": "Sundbybergs Kommun"
+                },
+                {
+                    "city_name": "Stockholms Kommun"
+                },
+                {
+                    "city_name": "Solna Kommun"
+                },
+                {
+                    "city_name": "Sollentuna Kommun"
+                },
+                {
+                    "city_name": "Sodertalje Kommun"
+                },
+                {
+                    "city_name": "Sigtuna Kommun"
+                },
+                {
+                    "city_name": "Salems Kommun"
+                },
+                {
+                    "city_name": "Osterakers Kommun"
+                },
+                {
+                    "city_name": "Nynaeshamns kommun"
+                },
+                {
+                    "city_name": "Norrtalje Kommun"
+                },
+                {
+                    "city_name": "Nacka Kommun"
+                },
+                {
+                    "city_name": "Lidingo"
+                },
+                {
+                    "city_name": "Jaerfaella kommun"
+                },
+                {
+                    "city_name": "Huddinge Kommun"
+                },
+                {
+                    "city_name": "Haninge Kommun"
+                },
+                {
+                    "city_name": "Ekero Kommun"
+                },
+                {
+                    "city_name": "Danderyds Kommun"
+                },
+                {
+                    "city_name": "Botkyrka Kommun"
+                },
+                {
+                    "city_name": "Nykvarns Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Soedermanlands laen",
+            "cities": [
+                {
+                    "city_name": "Vingakers Kommun"
+                },
+                {
+                    "city_name": "Strangnas Kommun"
+                },
+                {
+                    "city_name": "Oxelosunds Kommun"
+                },
+                {
+                    "city_name": "Nykopings Kommun"
+                },
+                {
+                    "city_name": "Katrineholms Kommun"
+                },
+                {
+                    "city_name": "Flens Kommun"
+                },
+                {
+                    "city_name": "Eskilstuna Kommun"
+                },
+                {
+                    "city_name": "Gnesta Kommun"
+                },
+                {
+                    "city_name": "Trosa Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "OEstergoetlands laen",
+            "cities": [
+                {
+                    "city_name": "Ydre Kommun"
+                },
+                {
+                    "city_name": "Valdemarsviks Kommun"
+                },
+                {
+                    "city_name": "Vadstena Kommun"
+                },
+                {
+                    "city_name": "Soderkopings Kommun"
+                },
+                {
+                    "city_name": "Odeshogs Kommun"
+                },
+                {
+                    "city_name": "Norrkopings Kommun"
+                },
+                {
+                    "city_name": "Motala Kommun"
+                },
+                {
+                    "city_name": "Mjolby Kommun"
+                },
+                {
+                    "city_name": "Linkopings Kommun"
+                },
+                {
+                    "city_name": "Kinda Kommun"
+                },
+                {
+                    "city_name": "Finspangs Kommun"
+                },
+                {
+                    "city_name": "Boxholms Kommun"
+                },
+                {
+                    "city_name": "Atvidabergs Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "OErebro laen",
+            "cities": [
+                {
+                    "city_name": "Orebro Kommun"
+                },
+                {
+                    "city_name": "Nora Kommun"
+                },
+                {
+                    "city_name": "Ljusnarsbergs Kommun"
+                },
+                {
+                    "city_name": "Lindesbergs Kommun"
+                },
+                {
+                    "city_name": "Laxa Kommun"
+                },
+                {
+                    "city_name": "Kumla Kommun"
+                },
+                {
+                    "city_name": "Karlskoga Kommun"
+                },
+                {
+                    "city_name": "Hallsbergs Kommun"
+                },
+                {
+                    "city_name": "Hallefors Kommun"
+                },
+                {
+                    "city_name": "Degerfors Kommun"
+                },
+                {
+                    "city_name": "Askersunds Kommun"
+                },
+                {
+                    "city_name": "Lekebergs Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Kronoberg",
+            "cities": [
+                {
+                    "city_name": "Vaxjo Kommun"
+                },
+                {
+                    "city_name": "Uppvidinge Kommun"
+                },
+                {
+                    "city_name": "Tingsryds Kommun"
+                },
+                {
+                    "city_name": "Markaryds Kommun"
+                },
+                {
+                    "city_name": "Ljungby Kommun"
+                },
+                {
+                    "city_name": "Lessebo Kommun"
+                },
+                {
+                    "city_name": "Alvesta Kommun"
+                },
+                {
+                    "city_name": "Almhults Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Dalarna",
+            "cities": [
+                {
+                    "city_name": "Vansbro Kommun"
+                },
+                {
+                    "city_name": "Smedjebackens Kommun"
+                },
+                {
+                    "city_name": "Saters Kommun"
+                },
+                {
+                    "city_name": "Rattviks Kommun"
+                },
+                {
+                    "city_name": "Orsa Kommun"
+                },
+                {
+                    "city_name": "Mora Kommun"
+                },
+                {
+                    "city_name": "Malung-Saelens kommun"
+                },
+                {
+                    "city_name": "Ludvika Kommun"
+                },
+                {
+                    "city_name": "Leksands kommun"
+                },
+                {
+                    "city_name": "Hedemora Kommun"
+                },
+                {
+                    "city_name": "Gagnefs Kommun"
+                },
+                {
+                    "city_name": "Falu kommun"
+                },
+                {
+                    "city_name": "Borlange Kommun"
+                },
+                {
+                    "city_name": "Avesta Kommun"
+                },
+                {
+                    "city_name": "AElvdalens kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Kalmar",
+            "cities": [
+                {
+                    "city_name": "Vimmerby Kommun"
+                },
+                {
+                    "city_name": "Vasterviks Kommun"
+                },
+                {
+                    "city_name": "Torsas Kommun"
+                },
+                {
+                    "city_name": "Oskarshamns Kommun"
+                },
+                {
+                    "city_name": "Nybro Kommun"
+                },
+                {
+                    "city_name": "Morbylanga Kommun"
+                },
+                {
+                    "city_name": "Monsteras Kommun"
+                },
+                {
+                    "city_name": "Kalmar Kommun"
+                },
+                {
+                    "city_name": "Hultsfreds Kommun"
+                },
+                {
+                    "city_name": "Hogsby Kommun"
+                },
+                {
+                    "city_name": "Emmaboda Kommun"
+                },
+                {
+                    "city_name": "Borgholms Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Joenkoepings laen",
+            "cities": [
+                {
+                    "city_name": "Vetlanda kommun"
+                },
+                {
+                    "city_name": "Varnamo Kommun"
+                },
+                {
+                    "city_name": "Vaggeryds Kommun"
+                },
+                {
+                    "city_name": "Tranas Kommun"
+                },
+                {
+                    "city_name": "Savsjo Kommun"
+                },
+                {
+                    "city_name": "Nassjo Kommun"
+                },
+                {
+                    "city_name": "Mullsjoe kommun"
+                },
+                {
+                    "city_name": "Jonkopings Kommun"
+                },
+                {
+                    "city_name": "Habo Kommun"
+                },
+                {
+                    "city_name": "Gnosjo Kommun"
+                },
+                {
+                    "city_name": "Gislaveds Kommun"
+                },
+                {
+                    "city_name": "Eksjo Kommun"
+                },
+                {
+                    "city_name": "Aneby Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Jaemtlands laen",
+            "cities": [
+                {
+                    "city_name": "Stroemsunds kommun"
+                },
+                {
+                    "city_name": "Ragunda Kommun"
+                },
+                {
+                    "city_name": "Staare"
+                },
+                {
+                    "city_name": "Krokoms Kommun"
+                },
+                {
+                    "city_name": "Haerjedalens kommun"
+                },
+                {
+                    "city_name": "Braecke Kommun"
+                },
+                {
+                    "city_name": "Bergs Kommun"
+                },
+                {
+                    "city_name": "Are kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Halland",
+            "cities": [
+                {
+                    "city_name": "Varbergs Kommun"
+                },
+                {
+                    "city_name": "Laholms Kommun"
+                },
+                {
+                    "city_name": "Kungsbacka Kommun"
+                },
+                {
+                    "city_name": "Hylte Kommun"
+                },
+                {
+                    "city_name": "Halmstads Kommun"
+                },
+                {
+                    "city_name": "Falkenbergs Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Gotland",
+            "cities": [
+                {
+                    "city_name": "Gotland"
+                }
+            ]
+        },
+        {
+            "province_name": "Gaevleborgs laen",
+            "cities": [
+                {
+                    "city_name": "Soderhamns Kommun"
+                },
+                {
+                    "city_name": "Sandvikens Kommun"
+                },
+                {
+                    "city_name": "Ovanakers Kommun"
+                },
+                {
+                    "city_name": "Ockelbo Kommun"
+                },
+                {
+                    "city_name": "Nordanstigs kommun"
+                },
+                {
+                    "city_name": "Ljusdals Kommun"
+                },
+                {
+                    "city_name": "Hudiksvalls Kommun"
+                },
+                {
+                    "city_name": "Hofors Kommun"
+                },
+                {
+                    "city_name": "Gavle Kommun"
+                },
+                {
+                    "city_name": "Bollnas Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Blekinge",
+            "cities": [
+                {
+                    "city_name": "Soelvesborgs kommun"
+                },
+                {
+                    "city_name": "Ronneby Kommun"
+                },
+                {
+                    "city_name": "Olofstroms Kommun"
+                },
+                {
+                    "city_name": "Karlskrona Kommun"
+                },
+                {
+                    "city_name": "Karlshamns kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Skane laen",
+            "cities": [
+                {
+                    "city_name": "Ystads Kommun"
+                },
+                {
+                    "city_name": "Vellinge Kommun"
+                },
+                {
+                    "city_name": "Trelleborgs Kommun"
+                },
+                {
+                    "city_name": "Tomelilla Kommun"
+                },
+                {
+                    "city_name": "Svedala Kommun"
+                },
+                {
+                    "city_name": "Svalovs Kommun"
+                },
+                {
+                    "city_name": "Staffanstorps Kommun"
+                },
+                {
+                    "city_name": "Skurups Kommun"
+                },
+                {
+                    "city_name": "Sjobo Kommun"
+                },
+                {
+                    "city_name": "Simrishamns kommun"
+                },
+                {
+                    "city_name": "Perstorps Kommun"
+                },
+                {
+                    "city_name": "Ostra Goinge Kommun"
+                },
+                {
+                    "city_name": "Osby kommun"
+                },
+                {
+                    "city_name": "Orkelljunga Kommun"
+                },
+                {
+                    "city_name": "Malmo"
+                },
+                {
+                    "city_name": "Lunds Kommun"
+                },
+                {
+                    "city_name": "Lomma Kommun"
+                },
+                {
+                    "city_name": "Landskrona"
+                },
+                {
+                    "city_name": "Kristianstads kommun"
+                },
+                {
+                    "city_name": "Klippans Kommun"
+                },
+                {
+                    "city_name": "Kavlinge Kommun"
+                },
+                {
+                    "city_name": "Horby Kommun"
+                },
+                {
+                    "city_name": "Hoors Kommun"
+                },
+                {
+                    "city_name": "Hoganas Kommun"
+                },
+                {
+                    "city_name": "Helsingborg"
+                },
+                {
+                    "city_name": "Hassleholms Kommun"
+                },
+                {
+                    "city_name": "Eslovs Kommun"
+                },
+                {
+                    "city_name": "Burlovs Kommun"
+                },
+                {
+                    "city_name": "Bromolla Kommun"
+                },
+                {
+                    "city_name": "Bjuvs Kommun"
+                },
+                {
+                    "city_name": "Bastads Kommun"
+                },
+                {
+                    "city_name": "Astorps Kommun"
+                },
+                {
+                    "city_name": "Angelholms Kommun"
+                }
+            ]
+        },
+        {
+            "province_name": "Vaestra Goetalands laen",
+            "cities": [
+                {
+                    "city_name": "Vargarda Kommun"
+                },
+                {
+                    "city_name": "Vara Kommun"
+                },
+                {
+                    "city_name": "Vanersborgs Kommun"
+                },
+                {
+                    "city_name": "Ulricehamns Kommun"
+                },
+                {
+                    "city_name": "Uddevalla Kommun"
+                },
+                {
+                    "city_name": "Trollhattan"
+                },
+                {
+                    "city_name": "Tranemo Kommun"
+                },
+                {
+                    "city_name": "Toreboda Kommun"
+                },
+                {
+                    "city_name": "Tjorns Kommun"
+                },
+                {
+                    "city_name": "Tidaholms kommun"
+                },
+                {
+                    "city_name": "Tibro Kommun"
+                },
+                {
+                    "city_name": "Tanums Kommun"
+                },
+                {
+                    "city_name": "Svenljunga Kommun"
+                },
+                {
+                    "city_name": "Stromstads Kommun"
+                },
+                {
+                    "city_name": "Stenungsunds Kommun"
+                },
+                {
+                    "city_name": "Sotenas Kommun"
+                },
+                {
+                    "city_name": "Skovde Kommun"
+                },
+                {
+                    "city_name": "Skara Kommun"
+                },
+                {
+                    "city_name": "Partille Kommun"
+                },
+                {
+                    "city_name": "Orust"
+                },
+                {
+                    "city_name": "Ockero Kommun"
+                },
+                {
+                    "city_name": "Munkedals Kommun"
+                },
+                {
+                    "city_name": "Moelndals kommun"
+                },
+                {
+                    "city_name": "Melleruds Kommun"
+                },
+                {
+                    "city_name": "Marks Kommun"
+                },
+                {
+                    "city_name": "Mariestads Kommun"
+                },
+                {
+                    "city_name": "Lysekils Kommun"
+                },
+                {
+                    "city_name": "Lilla Edets Kommun"
+                },
+                {
+                    "city_name": "Lidkopings Kommun"
+                },
+                {
+                    "city_name": "Lerums Kommun"
+                },
+                {
+                    "city_name": "Kungalvs Kommun"
+                },
+                {
+                    "city_name": "Karlsborgs Kommun"
+                },
+                {
+                    "city_name": "Hjo Kommun"
+                },
+                {
+                    "city_name": "Herrljunga Kommun"
+                },
+                {
+                    "city_name": "Harryda Kommun"
+                },
+                {
+                    "city_name": "Gullspangs Kommun"
+                },
+                {
+                    "city_name": "Grastorps Kommun"
+                },
+                {
+                    "city_name": "Gotene Kommun"
+                },
+                {
+                    "city_name": "Goeteborgs stad"
+                },
+                {
+                    "city_name": "Fargelanda Kommun"
+                },
+                {
+                    "city_name": "Falkopings Kommun"
+                },
+                {
+                    "city_name": "Essunga Kommun"
+                },
+                {
+                    "city_name": "Dals-Ed Kommun"
+                },
+                {
+                    "city_name": "Boras"
+                },
+                {
+                    "city_name": "Bengtsfors Kommun"
+                },
+                {
+                    "city_name": "Amals Kommun"
+                },
+                {
+                    "city_name": "Alingsas Kommun"
+                },
+                {
+                    "city_name": "Ale Kommun"
+                },
+                {
+                    "city_name": "Bollebygds Kommun"
+                }
+            ]
+        }
+    ]
+}

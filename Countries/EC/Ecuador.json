@@ -1,0 +1,789 @@
+{
+    "country_name": "Ecuador",
+    "country_id": "EC",
+    "provinces": [
+        {
+            "province_name": "Provincia de Zamora-Chinchipe",
+            "cities": [
+                {
+                    "city_name": "Canton Zamora"
+                },
+                {
+                    "city_name": "Canton Yantzaza"
+                },
+                {
+                    "city_name": "Canton Yacuambi"
+                },
+                {
+                    "city_name": "Canton Chinchipe"
+                },
+                {
+                    "city_name": "Nangaritza"
+                },
+                {
+                    "city_name": "El Pangui"
+                },
+                {
+                    "city_name": "Centinela Del Condor"
+                },
+                {
+                    "city_name": "Palanda"
+                },
+                {
+                    "city_name": "Paquisha"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Tungurahua",
+            "cities": [
+                {
+                    "city_name": "Canton Quero"
+                },
+                {
+                    "city_name": "Canton Pillaro"
+                },
+                {
+                    "city_name": "Canton Pelileo"
+                },
+                {
+                    "city_name": "Canton Patate"
+                },
+                {
+                    "city_name": "Canton Banos"
+                },
+                {
+                    "city_name": "Canton Ambato"
+                },
+                {
+                    "city_name": "Cevallos"
+                },
+                {
+                    "city_name": "Mocha"
+                },
+                {
+                    "city_name": "Tisaleo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Pichincha",
+            "cities": [
+                {
+                    "city_name": "Canton Ruminahui"
+                },
+                {
+                    "city_name": "Canton Quito"
+                },
+                {
+                    "city_name": "Canton Pedro Moncayo"
+                },
+                {
+                    "city_name": "Canton Mejia"
+                },
+                {
+                    "city_name": "Canton Cayambe"
+                },
+                {
+                    "city_name": "Canton Pedro Vicente Maldonado"
+                },
+                {
+                    "city_name": "San Miguel De Los Bancos"
+                },
+                {
+                    "city_name": "Puerto Quito"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Pastaza",
+            "cities": [
+                {
+                    "city_name": "Canton Pastaza"
+                },
+                {
+                    "city_name": "Canton Mera"
+                },
+                {
+                    "city_name": "Arajuno"
+                },
+                {
+                    "city_name": "Santa Clara"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Napo",
+            "cities": [
+                {
+                    "city_name": "Canton Tena"
+                },
+                {
+                    "city_name": "Canton Quijos"
+                },
+                {
+                    "city_name": "Canton Archidona"
+                },
+                {
+                    "city_name": "Canton Chaco"
+                },
+                {
+                    "city_name": "Carlos Julio Arosemena Tola"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Morona-Santiago",
+            "cities": [
+                {
+                    "city_name": "Canton Sucua"
+                },
+                {
+                    "city_name": "Santiago de Mendez"
+                },
+                {
+                    "city_name": "Canton Palora"
+                },
+                {
+                    "city_name": "Canton Morona"
+                },
+                {
+                    "city_name": "Canton Limon Indanza"
+                },
+                {
+                    "city_name": "Canton Gualaquiza"
+                },
+                {
+                    "city_name": "Huamboya"
+                },
+                {
+                    "city_name": "San Juan Bosco"
+                },
+                {
+                    "city_name": "Taisha"
+                },
+                {
+                    "city_name": "Logrono"
+                },
+                {
+                    "city_name": "Tiwintza"
+                },
+                {
+                    "city_name": "Pablo Sexto"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Manabi",
+            "cities": [
+                {
+                    "city_name": "Canton Veinticuatro de Mayo"
+                },
+                {
+                    "city_name": "Canton Sucre"
+                },
+                {
+                    "city_name": "Canton Santa Ana"
+                },
+                {
+                    "city_name": "Canton Rocafuerte"
+                },
+                {
+                    "city_name": "Canton Portoviejo"
+                },
+                {
+                    "city_name": "Canton Pajan"
+                },
+                {
+                    "city_name": "Canton Montecristi"
+                },
+                {
+                    "city_name": "Canton Manta"
+                },
+                {
+                    "city_name": "Canton Junin"
+                },
+                {
+                    "city_name": "Canton Jipijapa"
+                },
+                {
+                    "city_name": "Canton El Carmen"
+                },
+                {
+                    "city_name": "Canton Chone"
+                },
+                {
+                    "city_name": "Canton Bolivar"
+                },
+                {
+                    "city_name": "Canton Pedernales"
+                },
+                {
+                    "city_name": "Pichincha"
+                },
+                {
+                    "city_name": "Tosagua"
+                },
+                {
+                    "city_name": "Olmedo"
+                },
+                {
+                    "city_name": "Puerto Lopez"
+                },
+                {
+                    "city_name": "Jama"
+                },
+                {
+                    "city_name": "Jaramijo"
+                },
+                {
+                    "city_name": "Flavio Alfaro"
+                },
+                {
+                    "city_name": "San Vicente"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Los Rios",
+            "cities": [
+                {
+                    "city_name": "Canton Vinces"
+                },
+                {
+                    "city_name": "Canton Ventanas"
+                },
+                {
+                    "city_name": "Canton Urdaneta"
+                },
+                {
+                    "city_name": "Canton Quevedo"
+                },
+                {
+                    "city_name": "Canton Puebloviejo"
+                },
+                {
+                    "city_name": "Canton Babahoyo"
+                },
+                {
+                    "city_name": "Canton Baba"
+                },
+                {
+                    "city_name": "Canton Valencia"
+                },
+                {
+                    "city_name": "Canton Buena Fe"
+                },
+                {
+                    "city_name": "Mocache"
+                },
+                {
+                    "city_name": "Montalvo"
+                },
+                {
+                    "city_name": "Palenque"
+                },
+                {
+                    "city_name": "Quinsaloma"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Loja",
+            "cities": [
+                {
+                    "city_name": "Canton Sozoranga"
+                },
+                {
+                    "city_name": "Canton Saraguro"
+                },
+                {
+                    "city_name": "Canton Puyango"
+                },
+                {
+                    "city_name": "Canton Paltas"
+                },
+                {
+                    "city_name": "Canton Macara"
+                },
+                {
+                    "city_name": "Canton Loja"
+                },
+                {
+                    "city_name": "Canton Gonzanama"
+                },
+                {
+                    "city_name": "Canton Espindola"
+                },
+                {
+                    "city_name": "Canton Celica"
+                },
+                {
+                    "city_name": "Canton Catamayo"
+                },
+                {
+                    "city_name": "Canton Calvas"
+                },
+                {
+                    "city_name": "Chaguarpamba"
+                },
+                {
+                    "city_name": "Zapotillo"
+                },
+                {
+                    "city_name": "Pindal"
+                },
+                {
+                    "city_name": "Quilanga"
+                },
+                {
+                    "city_name": "Olmedo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Imbabura",
+            "cities": [
+                {
+                    "city_name": "Canton Pimampiro"
+                },
+                {
+                    "city_name": "Canton Otavalo"
+                },
+                {
+                    "city_name": "Ibarra"
+                },
+                {
+                    "city_name": "Canton Cotacachi"
+                },
+                {
+                    "city_name": "Canton Antonio Ante"
+                },
+                {
+                    "city_name": "San Miguel de Urcuqui Canton"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Guayas",
+            "cities": [
+                {
+                    "city_name": "Canton Yaguachi"
+                },
+                {
+                    "city_name": "Canton Salitre"
+                },
+                {
+                    "city_name": "Canton Samborondon"
+                },
+                {
+                    "city_name": "Canton Naranjito"
+                },
+                {
+                    "city_name": "Canton Naranjal"
+                },
+                {
+                    "city_name": "Canton Milagro"
+                },
+                {
+                    "city_name": "Canton Guayaquil"
+                },
+                {
+                    "city_name": "Canton El Empalme"
+                },
+                {
+                    "city_name": "Canton Daule"
+                },
+                {
+                    "city_name": "Canton Balzar"
+                },
+                {
+                    "city_name": "Canton Colimes"
+                },
+                {
+                    "city_name": "Alfredo Baquerizo Moreno (Jujan)"
+                },
+                {
+                    "city_name": "Balao"
+                },
+                {
+                    "city_name": "Duran"
+                },
+                {
+                    "city_name": "El Triunfo"
+                },
+                {
+                    "city_name": "Palestina"
+                },
+                {
+                    "city_name": "Pedro Carbo"
+                },
+                {
+                    "city_name": "Santa Lucia"
+                },
+                {
+                    "city_name": "Coronel Marcelino Mariduena"
+                },
+                {
+                    "city_name": "Lomas De Sargentillo"
+                },
+                {
+                    "city_name": "Playas"
+                },
+                {
+                    "city_name": "Simon Bolivar"
+                },
+                {
+                    "city_name": "Nobol"
+                },
+                {
+                    "city_name": "General Antonio Elizalde"
+                },
+                {
+                    "city_name": "Isidro Ayora"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Galapagos",
+            "cities": [
+                {
+                    "city_name": "Canton Santa Cruz"
+                },
+                {
+                    "city_name": "Canton San Cristobal"
+                },
+                {
+                    "city_name": "Canton Isabela"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Esmeraldas",
+            "cities": [
+                {
+                    "city_name": "Canton San Lorenzo"
+                },
+                {
+                    "city_name": "Canton Quininde"
+                },
+                {
+                    "city_name": "Canton Muisne"
+                },
+                {
+                    "city_name": "Canton Esmeraldas"
+                },
+                {
+                    "city_name": "Canton Eloy Alfaro"
+                },
+                {
+                    "city_name": "Rio Verde"
+                },
+                {
+                    "city_name": "Atacames"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de El Oro",
+            "cities": [
+                {
+                    "city_name": "Canton Zaruma"
+                },
+                {
+                    "city_name": "Canton Santa Rosa"
+                },
+                {
+                    "city_name": "Canton Portovelo"
+                },
+                {
+                    "city_name": "Canton Pinas"
+                },
+                {
+                    "city_name": "Canton Pasaje"
+                },
+                {
+                    "city_name": "Canton Machala"
+                },
+                {
+                    "city_name": "Canton Huaquillas"
+                },
+                {
+                    "city_name": "Canton Guabo"
+                },
+                {
+                    "city_name": "Canton Arenillas"
+                },
+                {
+                    "city_name": "Atahualpa"
+                },
+                {
+                    "city_name": "Chilla"
+                },
+                {
+                    "city_name": "Marcabeli"
+                },
+                {
+                    "city_name": "Las Lajas"
+                },
+                {
+                    "city_name": "Balsas"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Cotopaxi",
+            "cities": [
+                {
+                    "city_name": "Canton Salcedo"
+                },
+                {
+                    "city_name": "Canton Pujili"
+                },
+                {
+                    "city_name": "Canton Pangua"
+                },
+                {
+                    "city_name": "Canton Latacunga"
+                },
+                {
+                    "city_name": "Canton Sigchos"
+                },
+                {
+                    "city_name": "La Mana"
+                },
+                {
+                    "city_name": "Saquisili"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Chimborazo",
+            "cities": [
+                {
+                    "city_name": "Canton Riobamba"
+                },
+                {
+                    "city_name": "Canton Guano"
+                },
+                {
+                    "city_name": "Canton Guamote"
+                },
+                {
+                    "city_name": "Canton Colta"
+                },
+                {
+                    "city_name": "Canton Chunchi"
+                },
+                {
+                    "city_name": "Canton Alausi"
+                },
+                {
+                    "city_name": "Cumanda"
+                },
+                {
+                    "city_name": "Pallatanga"
+                },
+                {
+                    "city_name": "Penipe"
+                },
+                {
+                    "city_name": "Chambo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Carchi",
+            "cities": [
+                {
+                    "city_name": "Canton Tulcan"
+                },
+                {
+                    "city_name": "Canton Montufar"
+                },
+                {
+                    "city_name": "Canton Mira"
+                },
+                {
+                    "city_name": "Canton Espejo"
+                },
+                {
+                    "city_name": "Canton Bolivar"
+                },
+                {
+                    "city_name": "San Pedro De Huaca"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Canar",
+            "cities": [
+                {
+                    "city_name": "Canton Canar"
+                },
+                {
+                    "city_name": "Canton Biblian"
+                },
+                {
+                    "city_name": "Canton Azogues"
+                },
+                {
+                    "city_name": "Canton El Tambo"
+                },
+                {
+                    "city_name": "La Troncal"
+                },
+                {
+                    "city_name": "Deleg"
+                },
+                {
+                    "city_name": "Suscal"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Bolivar",
+            "cities": [
+                {
+                    "city_name": "Canton San Miguel"
+                },
+                {
+                    "city_name": "Canton Guaranda"
+                },
+                {
+                    "city_name": "Canton Chimbo"
+                },
+                {
+                    "city_name": "Canton Chillanes"
+                },
+                {
+                    "city_name": "Canton Caluma"
+                },
+                {
+                    "city_name": "Canton Echeandia"
+                },
+                {
+                    "city_name": "Canton Las Naves"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Azuay",
+            "cities": [
+                {
+                    "city_name": "Canton Sigsig"
+                },
+                {
+                    "city_name": "Canton Santa Isabel"
+                },
+                {
+                    "city_name": "Canton Paute"
+                },
+                {
+                    "city_name": "Canton Gualaceo"
+                },
+                {
+                    "city_name": "Canton Giron"
+                },
+                {
+                    "city_name": "Canton Cuenca"
+                },
+                {
+                    "city_name": "Canton San Fernando"
+                },
+                {
+                    "city_name": "Canton Nabon"
+                },
+                {
+                    "city_name": "Chordeleg"
+                },
+                {
+                    "city_name": "El Pan"
+                },
+                {
+                    "city_name": "Sevilla De Oro"
+                },
+                {
+                    "city_name": "Guachapala"
+                },
+                {
+                    "city_name": "Pucara"
+                },
+                {
+                    "city_name": "Ona"
+                },
+                {
+                    "city_name": "Camilo Ponce Enriquez"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Sucumbios",
+            "cities": [
+                {
+                    "city_name": "Canton Sucumbios"
+                },
+                {
+                    "city_name": "Canton Putumayo"
+                },
+                {
+                    "city_name": "Canton Lago Agrio"
+                },
+                {
+                    "city_name": "Cascales"
+                },
+                {
+                    "city_name": "Cuyabeno"
+                },
+                {
+                    "city_name": "Gonzalo Pizarro"
+                },
+                {
+                    "city_name": "Shushufindi"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Francisco de Orellana",
+            "cities": [
+                {
+                    "city_name": "Francisco de Orellana Canton"
+                },
+                {
+                    "city_name": "Canton Aguarico"
+                },
+                {
+                    "city_name": "Loreto Canton"
+                },
+                {
+                    "city_name": "La Joya De Los Sachas"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Santo Domingo de los Tsachilas",
+            "cities": [
+                {
+                    "city_name": "Canton Santo Domingo de los Colorados"
+                },
+                {
+                    "city_name": "La Concordia"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Santa Elena",
+            "cities": [
+                {
+                    "city_name": "Canton Santa Elena"
+                },
+                {
+                    "city_name": "Canton Salinas"
+                },
+                {
+                    "city_name": "La Libertad"
+                }
+            ]
+        }
+    ]
+}

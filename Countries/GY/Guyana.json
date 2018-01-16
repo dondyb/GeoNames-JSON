@@ -1,0 +1,46 @@
+{
+    "country_name": "Guyana",
+    "country_id": "GY",
+    "provinces": [
+        {
+            "province_name": "Upper Takutu-Upper Essequibo Region",
+            "cities": []
+        },
+        {
+            "province_name": "Upper Demerara-Berbice Region",
+            "cities": []
+        },
+        {
+            "province_name": "Potaro-Siparuni Region",
+            "cities": []
+        },
+        {
+            "province_name": "Pomeroon-Supenaam Region",
+            "cities": []
+        },
+        {
+            "province_name": "Mahaica-Berbice Region",
+            "cities": []
+        },
+        {
+            "province_name": "Essequibo Islands-West Demerara Region",
+            "cities": []
+        },
+        {
+            "province_name": "East Berbice-Corentyne Region",
+            "cities": []
+        },
+        {
+            "province_name": "Demerara-Mahaica Region",
+            "cities": []
+        },
+        {
+            "province_name": "Cuyuni-Mazaruni Region",
+            "cities": []
+        },
+        {
+            "province_name": "Barima-Waini Region",
+            "cities": []
+        }
+    ]
+}

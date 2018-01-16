@@ -1,0 +1,359 @@
+{
+    "country_name": "France",
+    "country_id": "FR",
+    "provinces": [
+        {
+            "province_name": "Provence-Alpes-Cote d'Azur",
+            "cities": [
+                {
+                    "city_name": "Departement du Vaucluse"
+                },
+                {
+                    "city_name": "Departement du Var"
+                },
+                {
+                    "city_name": "Departement des Hautes-Alpes"
+                },
+                {
+                    "city_name": "Departement des Bouches-du-Rhone"
+                },
+                {
+                    "city_name": "Departement des Alpes-Maritimes"
+                },
+                {
+                    "city_name": "Departement des Alpes-de-Haute-Provence"
+                }
+            ]
+        },
+        {
+            "province_name": "Pays de la Loire",
+            "cities": [
+                {
+                    "city_name": "Departement de la Vendee"
+                },
+                {
+                    "city_name": "Departement de la Sarthe"
+                },
+                {
+                    "city_name": "Departement de la Mayenne"
+                },
+                {
+                    "city_name": "Departement de Maine-et-Loire"
+                },
+                {
+                    "city_name": "Departement de la Loire-Atlantique"
+                }
+            ]
+        },
+        {
+            "province_name": "Ile-de-France",
+            "cities": [
+                {
+                    "city_name": "Departement des Yvelines"
+                },
+                {
+                    "city_name": "Paris"
+                },
+                {
+                    "city_name": "Departement du Val-d'Oise"
+                },
+                {
+                    "city_name": "Departement du Val-de-Marne"
+                },
+                {
+                    "city_name": "Departement de Seine-Saint-Denis"
+                },
+                {
+                    "city_name": "Departement de Seine-et-Marne"
+                },
+                {
+                    "city_name": "Departement des Hauts-de-Seine"
+                },
+                {
+                    "city_name": "Departement de l'Essonne"
+                }
+            ]
+        },
+        {
+            "province_name": "Corse",
+            "cities": [
+                {
+                    "city_name": "Departement de la Haute-Corse"
+                },
+                {
+                    "city_name": "Departement de la Corse-du-Sud"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre-Val de Loire",
+            "cities": [
+                {
+                    "city_name": "Departement du Loir-et-Cher"
+                },
+                {
+                    "city_name": "Departement du Loiret"
+                },
+                {
+                    "city_name": "Departement d'Indre-et-Loire"
+                },
+                {
+                    "city_name": "Departement de l'Indre"
+                },
+                {
+                    "city_name": "Departement d'Eure-et-Loir"
+                },
+                {
+                    "city_name": "Departement du Cher"
+                }
+            ]
+        },
+        {
+            "province_name": "Bretagne",
+            "cities": [
+                {
+                    "city_name": "Departement du Morbihan"
+                },
+                {
+                    "city_name": "Departement d'Ille-et-Vilaine"
+                },
+                {
+                    "city_name": "Departement du Finistere"
+                },
+                {
+                    "city_name": "Departement des Cotes-d'Armor"
+                }
+            ]
+        },
+        {
+            "province_name": "Bourgogne-Franche-Comte",
+            "cities": [
+                {
+                    "city_name": "Departement de l'Yonne"
+                },
+                {
+                    "city_name": "Departement de Saone-et-Loire"
+                },
+                {
+                    "city_name": "Departement de la Nievre"
+                },
+                {
+                    "city_name": "Departement du Jura"
+                },
+                {
+                    "city_name": "Departement de la Haute-Saone"
+                },
+                {
+                    "city_name": "Departement du Doubs"
+                },
+                {
+                    "city_name": "Departement de la Cote-d'Or"
+                },
+                {
+                    "city_name": "Territoire de Belfort"
+                }
+            ]
+        },
+        {
+            "province_name": "Nouvelle-Aquitaine",
+            "cities": [
+                {
+                    "city_name": "Departement de la Vienne"
+                },
+                {
+                    "city_name": "Departement des Pyrenees-Atlantiques"
+                },
+                {
+                    "city_name": "Departement du Lot-et-Garonne"
+                },
+                {
+                    "city_name": "Departement des Landes"
+                },
+                {
+                    "city_name": "Departement de la Haute-Vienne"
+                },
+                {
+                    "city_name": "Departement de la Gironde"
+                },
+                {
+                    "city_name": "Departement de la Dordogne"
+                },
+                {
+                    "city_name": "Departement des Deux-Sevres"
+                },
+                {
+                    "city_name": "Departement de la Creuse"
+                },
+                {
+                    "city_name": "Departement de la Correze"
+                },
+                {
+                    "city_name": "Departement de la Charente-Maritime"
+                },
+                {
+                    "city_name": "Departement de la Charente"
+                }
+            ]
+        },
+        {
+            "province_name": "Normandy",
+            "cities": [
+                {
+                    "city_name": "Departement de la Seine-Maritime"
+                },
+                {
+                    "city_name": "Departement de l'Orne"
+                },
+                {
+                    "city_name": "Departement de la Manche"
+                },
+                {
+                    "city_name": "Departement de l'Eure"
+                },
+                {
+                    "city_name": "Departement du Calvados"
+                }
+            ]
+        },
+        {
+            "province_name": "Grand-Est",
+            "cities": [
+                {
+                    "city_name": "Departement des Vosges"
+                },
+                {
+                    "city_name": "Departement de la Moselle"
+                },
+                {
+                    "city_name": "Departement de la Meuse"
+                },
+                {
+                    "city_name": "Departement de Meurthe-et-Moselle"
+                },
+                {
+                    "city_name": "Departement de la Marne"
+                },
+                {
+                    "city_name": "Departement du Haut-Rhin"
+                },
+                {
+                    "city_name": "Departement de la Haute-Marne"
+                },
+                {
+                    "city_name": "Departement du Bas-Rhin"
+                },
+                {
+                    "city_name": "Departement de l'Aube"
+                },
+                {
+                    "city_name": "Departement des Ardennes"
+                }
+            ]
+        },
+        {
+            "province_name": "Occitanie",
+            "cities": [
+                {
+                    "city_name": "Departement du Tarn-et-Garonne"
+                },
+                {
+                    "city_name": "Departement du Tarn"
+                },
+                {
+                    "city_name": "Departement des Pyrenees-Orientales"
+                },
+                {
+                    "city_name": "Departement de la Lozere"
+                },
+                {
+                    "city_name": "Departement du Lot"
+                },
+                {
+                    "city_name": "Departement de l'Herault"
+                },
+                {
+                    "city_name": "Departement des Hautes-Pyrenees"
+                },
+                {
+                    "city_name": "Departement de la Haute-Garonne"
+                },
+                {
+                    "city_name": "Departement du Gers"
+                },
+                {
+                    "city_name": "Departement du Gard"
+                },
+                {
+                    "city_name": "Departement de l'Aveyron"
+                },
+                {
+                    "city_name": "Departement de l'Aude"
+                },
+                {
+                    "city_name": "Departement de l'Ariege"
+                }
+            ]
+        },
+        {
+            "province_name": "Hauts-de-France",
+            "cities": [
+                {
+                    "city_name": "Departement de la Somme"
+                },
+                {
+                    "city_name": "Departement du Pas-de-Calais"
+                },
+                {
+                    "city_name": "Departement de l'Oise"
+                },
+                {
+                    "city_name": "Departement du Nord"
+                },
+                {
+                    "city_name": "Departement de l'Aisne"
+                }
+            ]
+        },
+        {
+            "province_name": "Auvergne-Rhone-Alpes",
+            "cities": [
+                {
+                    "city_name": "Departement de la Savoie"
+                },
+                {
+                    "city_name": "Departement du Puy-de-Dome"
+                },
+                {
+                    "city_name": "Departement du Rhone"
+                },
+                {
+                    "city_name": "Departement de la Loire"
+                },
+                {
+                    "city_name": "Departement de l'Isere"
+                },
+                {
+                    "city_name": "Departement de la Haute-Savoie"
+                },
+                {
+                    "city_name": "Departement de la Haute-Loire"
+                },
+                {
+                    "city_name": "Departement de la Drome"
+                },
+                {
+                    "city_name": "Departement du Cantal"
+                },
+                {
+                    "city_name": "Departement de l'Ardeche"
+                },
+                {
+                    "city_name": "Departement de l'Allier"
+                },
+                {
+                    "city_name": "Departement de l'Ain"
+                }
+            ]
+        }
+    ]
+}

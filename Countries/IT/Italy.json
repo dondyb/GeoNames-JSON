@@ -1,0 +1,427 @@
+{
+    "country_name": "Italy",
+    "country_id": "IT",
+    "provinces": [
+        {
+            "province_name": "Sicilia",
+            "cities": [
+                {
+                    "city_name": "Trapani"
+                },
+                {
+                    "city_name": "Provincia di Siracusa"
+                },
+                {
+                    "city_name": "Ragusa"
+                },
+                {
+                    "city_name": "Palermo"
+                },
+                {
+                    "city_name": "Messina"
+                },
+                {
+                    "city_name": "Enna"
+                },
+                {
+                    "city_name": "Catania"
+                },
+                {
+                    "city_name": "Provincia di Caltanissetta"
+                },
+                {
+                    "city_name": "Agrigento"
+                }
+            ]
+        },
+        {
+            "province_name": "Sardegna",
+            "cities": [
+                {
+                    "city_name": "Provincia di Oristano"
+                },
+                {
+                    "city_name": "Provincia di Cagliari"
+                },
+                {
+                    "city_name": "Provincia di Sassari"
+                },
+                {
+                    "city_name": "Provincia di Nuoro"
+                },
+                {
+                    "city_name": "Provincia del Sud Sardegna"
+                }
+            ]
+        },
+        {
+            "province_name": "Calabria",
+            "cities": [
+                {
+                    "city_name": "Provincia di Reggio Calabria"
+                },
+                {
+                    "city_name": "Provincia di Cosenza"
+                },
+                {
+                    "city_name": "Provincia di Catanzaro"
+                },
+                {
+                    "city_name": "Provincia di Vibo-Valentia"
+                },
+                {
+                    "city_name": "Provincia di Crotone"
+                }
+            ]
+        },
+        {
+            "province_name": "Veneto",
+            "cities": [
+                {
+                    "city_name": "Provincia di Vicenza"
+                },
+                {
+                    "city_name": "Provincia di Verona"
+                },
+                {
+                    "city_name": "Provincia di Venezia"
+                },
+                {
+                    "city_name": "Provincia di Treviso"
+                },
+                {
+                    "city_name": "Provincia di Rovigo"
+                },
+                {
+                    "city_name": "Provincia di Padova"
+                },
+                {
+                    "city_name": "Provincia di Belluno"
+                }
+            ]
+        },
+        {
+            "province_name": "Regione Autonoma Valle d'Aosta",
+            "cities": [
+                {
+                    "city_name": "Valle d'Aosta"
+                }
+            ]
+        },
+        {
+            "province_name": "Umbria",
+            "cities": [
+                {
+                    "city_name": "Provincia di Terni"
+                },
+                {
+                    "city_name": "Provincia di Perugia"
+                }
+            ]
+        },
+        {
+            "province_name": "Trentino-Alto Adige",
+            "cities": [
+                {
+                    "city_name": "Provincia di Trento"
+                },
+                {
+                    "city_name": "Bolzano"
+                }
+            ]
+        },
+        {
+            "province_name": "Toscana",
+            "cities": [
+                {
+                    "city_name": "Provincia di Siena"
+                },
+                {
+                    "city_name": "Provincia di Pistoia"
+                },
+                {
+                    "city_name": "Province of Pisa"
+                },
+                {
+                    "city_name": "Provincia di Massa-Carrara"
+                },
+                {
+                    "city_name": "Provincia di Lucca"
+                },
+                {
+                    "city_name": "Provincia di Livorno"
+                },
+                {
+                    "city_name": "Provincia di Grosseto"
+                },
+                {
+                    "city_name": "Province of Florence"
+                },
+                {
+                    "city_name": "Province of Arezzo"
+                },
+                {
+                    "city_name": "Provincia di Prato"
+                }
+            ]
+        },
+        {
+            "province_name": "Puglia",
+            "cities": [
+                {
+                    "city_name": "Provincia di Taranto"
+                },
+                {
+                    "city_name": "Provincia di Lecce"
+                },
+                {
+                    "city_name": "Provincia di Foggia"
+                },
+                {
+                    "city_name": "Provincia di Brindisi"
+                },
+                {
+                    "city_name": "Provincia di Bari"
+                },
+                {
+                    "city_name": "Provincia di Barletta - Andria - Trani"
+                }
+            ]
+        },
+        {
+            "province_name": "Piemonte",
+            "cities": [
+                {
+                    "city_name": "Provincia di Vercelli"
+                },
+                {
+                    "city_name": "Provincia Verbano-Cusio-Ossola"
+                },
+                {
+                    "city_name": "Provincia di Torino"
+                },
+                {
+                    "city_name": "Provincia di Novara"
+                },
+                {
+                    "city_name": "Provincia di Cuneo"
+                },
+                {
+                    "city_name": "Provincia di Asti"
+                },
+                {
+                    "city_name": "Provincia di Alessandria"
+                },
+                {
+                    "city_name": "Provincia di Biella"
+                }
+            ]
+        },
+        {
+            "province_name": "Molise",
+            "cities": [
+                {
+                    "city_name": "Provincia di Isernia"
+                },
+                {
+                    "city_name": "Provincia di Campobasso"
+                }
+            ]
+        },
+        {
+            "province_name": "Marche",
+            "cities": [
+                {
+                    "city_name": "Provincia di Pesaro e Urbino"
+                },
+                {
+                    "city_name": "Provincia di Macerata"
+                },
+                {
+                    "city_name": "Provincia di Ascoli Piceno"
+                },
+                {
+                    "city_name": "Provincia di Ancona"
+                },
+                {
+                    "city_name": "Province of Fermo"
+                }
+            ]
+        },
+        {
+            "province_name": "Lombardia",
+            "cities": [
+                {
+                    "city_name": "Provincia di Varese"
+                },
+                {
+                    "city_name": "Provincia di Sondrio"
+                },
+                {
+                    "city_name": "Provincia di Pavia"
+                },
+                {
+                    "city_name": "Citta metropolitana di Milano"
+                },
+                {
+                    "city_name": "Provincia di Mantova"
+                },
+                {
+                    "city_name": "Provincia di Cremona"
+                },
+                {
+                    "city_name": "Provincia di Como"
+                },
+                {
+                    "city_name": "Provincia di Brescia"
+                },
+                {
+                    "city_name": "Provincia di Bergamo"
+                },
+                {
+                    "city_name": "Provincia di Lecco"
+                },
+                {
+                    "city_name": "Provincia di Lodi"
+                },
+                {
+                    "city_name": "Provincia di Monza e Brianza"
+                }
+            ]
+        },
+        {
+            "province_name": "Liguria",
+            "cities": [
+                {
+                    "city_name": "Provincia di Savona"
+                },
+                {
+                    "city_name": "Provincia di La Spezia"
+                },
+                {
+                    "city_name": "Provincia di Imperia"
+                },
+                {
+                    "city_name": "Provincia di Genova"
+                }
+            ]
+        },
+        {
+            "province_name": "Lazio",
+            "cities": [
+                {
+                    "city_name": "Provincia di Viterbo"
+                },
+                {
+                    "city_name": "Citta metropolitana di Roma Capitale"
+                },
+                {
+                    "city_name": "Provincia di Rieti"
+                },
+                {
+                    "city_name": "Provincia di Latina"
+                },
+                {
+                    "city_name": "Provincia di Frosinone"
+                }
+            ]
+        },
+        {
+            "province_name": "Friuli Venezia Giulia",
+            "cities": [
+                {
+                    "city_name": "Provincia di Udine"
+                },
+                {
+                    "city_name": "Provincia di Trieste"
+                },
+                {
+                    "city_name": "Provincia di Pordenone"
+                },
+                {
+                    "city_name": "Provincia di Gorizia"
+                }
+            ]
+        },
+        {
+            "province_name": "Emilia-Romagna",
+            "cities": [
+                {
+                    "city_name": "Provincia di Reggio Emilia"
+                },
+                {
+                    "city_name": "Provincia di Ravenna"
+                },
+                {
+                    "city_name": "Provincia di Piacenza"
+                },
+                {
+                    "city_name": "Provincia di Parma"
+                },
+                {
+                    "city_name": "Provincia di Modena"
+                },
+                {
+                    "city_name": "Provincia di Forli-Cesena"
+                },
+                {
+                    "city_name": "Provincia di Ferrara"
+                },
+                {
+                    "city_name": "Provincia di Bologna"
+                },
+                {
+                    "city_name": "Provincia di Rimini"
+                }
+            ]
+        },
+        {
+            "province_name": "Campania",
+            "cities": [
+                {
+                    "city_name": "Provincia di Salerno"
+                },
+                {
+                    "city_name": "Provincia di Napoli"
+                },
+                {
+                    "city_name": "Provincia di Caserta"
+                },
+                {
+                    "city_name": "Provincia di Benevento"
+                },
+                {
+                    "city_name": "Provincia di Avellino"
+                }
+            ]
+        },
+        {
+            "province_name": "Basilicata",
+            "cities": [
+                {
+                    "city_name": "Provincia di Potenza"
+                },
+                {
+                    "city_name": "Provincia di Matera"
+                }
+            ]
+        },
+        {
+            "province_name": "Abruzzo",
+            "cities": [
+                {
+                    "city_name": "Provincia di Teramo"
+                },
+                {
+                    "city_name": "Provincia di Pescara"
+                },
+                {
+                    "city_name": "Provincia dell' Aquila"
+                },
+                {
+                    "city_name": "Provincia di Chieti"
+                }
+            ]
+        }
+    ]
+}

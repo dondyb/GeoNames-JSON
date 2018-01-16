@@ -1,0 +1,98 @@
+{
+    "country_name": "Montenegro",
+    "country_id": "ME",
+    "provinces": [
+        {
+            "province_name": "Opstina Rozaje",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Zabljak",
+            "cities": []
+        },
+        {
+            "province_name": "Ulcinj",
+            "cities": []
+        },
+        {
+            "province_name": "Tivat",
+            "cities": []
+        },
+        {
+            "province_name": "Podgorica",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Savnik",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Pluzine",
+            "cities": []
+        },
+        {
+            "province_name": "Pljevlja",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Plav",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Niksic",
+            "cities": []
+        },
+        {
+            "province_name": "Mojkovac",
+            "cities": []
+        },
+        {
+            "province_name": "Kotor",
+            "cities": []
+        },
+        {
+            "province_name": "Opstina Kolasin",
+            "cities": []
+        },
+        {
+            "province_name": "Berane",
+            "cities": []
+        },
+        {
+            "province_name": "Herceg Novi",
+            "cities": []
+        },
+        {
+            "province_name": "Danilovgrad",
+            "cities": []
+        },
+        {
+            "province_name": "Cetinje",
+            "cities": []
+        },
+        {
+            "province_name": "Budva",
+            "cities": []
+        },
+        {
+            "province_name": "Bijelo Polje",
+            "cities": []
+        },
+        {
+            "province_name": "Bar",
+            "cities": []
+        },
+        {
+            "province_name": "Andrijevica",
+            "cities": []
+        },
+        {
+            "province_name": "Gusinje",
+            "cities": []
+        },
+        {
+            "province_name": "Petnjica",
+            "cities": []
+        }
+    ]
+}

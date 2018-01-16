@@ -1,0 +1,94 @@
+{
+    "country_name": "Fiji",
+    "country_id": "FJ",
+    "provinces": [
+        {
+            "province_name": "Western Division",
+            "cities": [
+                {
+                    "city_name": "Ra Province"
+                },
+                {
+                    "city_name": "Nandronga and Navosa Province"
+                },
+                {
+                    "city_name": "Ba Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Division",
+            "cities": [
+                {
+                    "city_name": "Cakaudrove Province"
+                },
+                {
+                    "city_name": "Bua Province"
+                },
+                {
+                    "city_name": "Macuata Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Division",
+            "cities": [
+                {
+                    "city_name": "Tailevu Province"
+                },
+                {
+                    "city_name": "Serua Province"
+                },
+                {
+                    "city_name": "Rewa Province"
+                },
+                {
+                    "city_name": "Namosi Province"
+                },
+                {
+                    "city_name": "Naitasiri Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Division",
+            "cities": [
+                {
+                    "city_name": "Lomaiviti Province"
+                },
+                {
+                    "city_name": "Lau Province"
+                },
+                {
+                    "city_name": "Kadavu Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Rotuma",
+            "cities": [
+                {
+                    "city_name": "Malhaha"
+                },
+                {
+                    "city_name": "Pepjei"
+                },
+                {
+                    "city_name": "Noa'tau"
+                },
+                {
+                    "city_name": "Oinafa"
+                },
+                {
+                    "city_name": "Itu'ti'u"
+                },
+                {
+                    "city_name": "Juju"
+                },
+                {
+                    "city_name": "Itu'muta"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,257 @@
+{
+    "country_name": "Spain",
+    "country_id": "ES",
+    "provinces": [
+        {
+            "province_name": "Region de Murcia",
+            "cities": [
+                {
+                    "city_name": "Murcia"
+                }
+            ]
+        },
+        {
+            "province_name": "Ceuta",
+            "cities": [
+                {
+                    "city_name": "Ceuta"
+                }
+            ]
+        },
+        {
+            "province_name": "Comunitat Autonoma de les Illes Balears",
+            "cities": [
+                {
+                    "city_name": "Illes Balears"
+                }
+            ]
+        },
+        {
+            "province_name": "Andalucia",
+            "cities": [
+                {
+                    "city_name": "Provincia de Sevilla"
+                },
+                {
+                    "city_name": "Provincia de Malaga"
+                },
+                {
+                    "city_name": "Provincia de Jaen"
+                },
+                {
+                    "city_name": "Provincia de Huelva"
+                },
+                {
+                    "city_name": "Provincia de Granada"
+                },
+                {
+                    "city_name": "Province of Cordoba"
+                },
+                {
+                    "city_name": "Provincia de Cadiz"
+                },
+                {
+                    "city_name": "Almeria"
+                }
+            ]
+        },
+        {
+            "province_name": "Canary Islands",
+            "cities": [
+                {
+                    "city_name": "Provincia de Santa Cruz de Tenerife"
+                },
+                {
+                    "city_name": "Provincia de Las Palmas"
+                }
+            ]
+        },
+        {
+            "province_name": "Castilla-La Mancha",
+            "cities": [
+                {
+                    "city_name": "Province of Toledo"
+                },
+                {
+                    "city_name": "Provincia de Cuenca"
+                },
+                {
+                    "city_name": "Provincia de Ciudad Real"
+                },
+                {
+                    "city_name": "Provincia de Albacete"
+                },
+                {
+                    "city_name": "Provincia de Guadalajara"
+                }
+            ]
+        },
+        {
+            "province_name": "Extremadura",
+            "cities": [
+                {
+                    "city_name": "Provincia de Caceres"
+                },
+                {
+                    "city_name": "Provincia de Badajoz"
+                }
+            ]
+        },
+        {
+            "province_name": "Comunitat Valenciana",
+            "cities": [
+                {
+                    "city_name": "Provincia de Valencia"
+                },
+                {
+                    "city_name": "Provincia de Alicante"
+                },
+                {
+                    "city_name": "Provincia de Castello"
+                }
+            ]
+        },
+        {
+            "province_name": "Principality of Asturias",
+            "cities": [
+                {
+                    "city_name": "Province of Asturias"
+                }
+            ]
+        },
+        {
+            "province_name": "Navarra",
+            "cities": [
+                {
+                    "city_name": "Provincia de Navarra"
+                }
+            ]
+        },
+        {
+            "province_name": "Comunidad de Madrid",
+            "cities": [
+                {
+                    "city_name": "Provincia de Madrid"
+                }
+            ]
+        },
+        {
+            "province_name": "La Rioja",
+            "cities": [
+                {
+                    "city_name": "Provincia de La Rioja"
+                }
+            ]
+        },
+        {
+            "province_name": "Cantabria",
+            "cities": [
+                {
+                    "city_name": "Provincia de Cantabria"
+                }
+            ]
+        },
+        {
+            "province_name": "Aragon",
+            "cities": [
+                {
+                    "city_name": "Provincia de Zaragoza"
+                },
+                {
+                    "city_name": "Provincia de Teruel"
+                },
+                {
+                    "city_name": "Provincia de Huesca"
+                }
+            ]
+        },
+        {
+            "province_name": "Castilla y Leon",
+            "cities": [
+                {
+                    "city_name": "Provincia de Zamora"
+                },
+                {
+                    "city_name": "Provincia de Valladolid"
+                },
+                {
+                    "city_name": "Provincia de Soria"
+                },
+                {
+                    "city_name": "Provincia de Segovia"
+                },
+                {
+                    "city_name": "Provincia de Salamanca"
+                },
+                {
+                    "city_name": "Provincia de Palencia"
+                },
+                {
+                    "city_name": "Provincia de Leon"
+                },
+                {
+                    "city_name": "Provincia de Burgos"
+                },
+                {
+                    "city_name": "Provincia de Avila"
+                }
+            ]
+        },
+        {
+            "province_name": "Catalunya",
+            "cities": [
+                {
+                    "city_name": "Provincia de Tarragona"
+                },
+                {
+                    "city_name": "Provincia de Barcelona"
+                },
+                {
+                    "city_name": "Provincia de Girona"
+                },
+                {
+                    "city_name": "Provincia de Lleida"
+                }
+            ]
+        },
+        {
+            "province_name": "Galicia",
+            "cities": [
+                {
+                    "city_name": "Provincia de Pontevedra"
+                },
+                {
+                    "city_name": "Provincia de Ourense"
+                },
+                {
+                    "city_name": "Provincia de Lugo"
+                },
+                {
+                    "city_name": "Provincia da Coruna"
+                }
+            ]
+        },
+        {
+            "province_name": "Euskal Autonomia Erkidegoa",
+            "cities": [
+                {
+                    "city_name": "Bizkaia"
+                },
+                {
+                    "city_name": "Provincia de Guipuzcoa"
+                },
+                {
+                    "city_name": "Provincia de Alava"
+                }
+            ]
+        },
+        {
+            "province_name": "Melilla",
+            "cities": [
+                {
+                    "city_name": "Melilla"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,586 @@
+{
+    "country_name": "Cuba",
+    "country_id": "CU",
+    "provinces": [
+        {
+            "province_name": "Provincia de Villa Clara",
+            "cities": [
+                {
+                    "city_name": "Municipio de Santo Domingo"
+                },
+                {
+                    "city_name": "Municipio de Santa Clara"
+                },
+                {
+                    "city_name": "Municipio de San Juan de los Remedios"
+                },
+                {
+                    "city_name": "Municipio de Sagua la Grande"
+                },
+                {
+                    "city_name": "Municipio de Ranchuelo"
+                },
+                {
+                    "city_name": "Municipio de Quemado de Gueines"
+                },
+                {
+                    "city_name": "Municipio de Placetas"
+                },
+                {
+                    "city_name": "Municipio de Encrucijada"
+                },
+                {
+                    "city_name": "Municipio de Corralillo"
+                },
+                {
+                    "city_name": "Municipio de Cifuentes"
+                },
+                {
+                    "city_name": "Municipio de Camajuani"
+                },
+                {
+                    "city_name": "Municipio de Caibarien"
+                },
+                {
+                    "city_name": "Manicaragua"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Santiago de Cuba",
+            "cities": [
+                {
+                    "city_name": "Municipio de Santiago de Cuba"
+                },
+                {
+                    "city_name": "Municipio de San Luis"
+                },
+                {
+                    "city_name": "Municipio de Palma Soriano"
+                },
+                {
+                    "city_name": "Contramaestre"
+                },
+                {
+                    "city_name": "Guama"
+                },
+                {
+                    "city_name": "Mella"
+                },
+                {
+                    "city_name": "Segundo Frente"
+                },
+                {
+                    "city_name": "Tercer Frente"
+                },
+                {
+                    "city_name": "Songo - La Maya"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Sancti Spiritus",
+            "cities": [
+                {
+                    "city_name": "Municipio de Yaguajay"
+                },
+                {
+                    "city_name": "Municipio de Trinidad"
+                },
+                {
+                    "city_name": "Municipio de Sancti Spiritus"
+                },
+                {
+                    "city_name": "Municipio de Jatibonico"
+                },
+                {
+                    "city_name": "Municipio de Fomento"
+                },
+                {
+                    "city_name": "Municipio de Cabaiguan"
+                },
+                {
+                    "city_name": "La Sierpe"
+                },
+                {
+                    "city_name": "Taguasco"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Pinar del Rio",
+            "cities": [
+                {
+                    "city_name": "Municipio de Vinales"
+                },
+                {
+                    "city_name": "Municipio de San Luis"
+                },
+                {
+                    "city_name": "Municipio de San Juan y Martinez"
+                },
+                {
+                    "city_name": "Municipio de Pinar del Rio"
+                },
+                {
+                    "city_name": "Municipio de Mantua"
+                },
+                {
+                    "city_name": "Municipio de Los Palacios"
+                },
+                {
+                    "city_name": "Municipio de La Palma"
+                },
+                {
+                    "city_name": "Municipio de Guane"
+                },
+                {
+                    "city_name": "Municipio de Consolacion del Sur"
+                },
+                {
+                    "city_name": "Sandino"
+                },
+                {
+                    "city_name": "Minas De Matahambre"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Matanzas",
+            "cities": [
+                {
+                    "city_name": "Municipio de Union de Reyes"
+                },
+                {
+                    "city_name": "Municipio de Perico"
+                },
+                {
+                    "city_name": "Municipio de Pedro Betancourt"
+                },
+                {
+                    "city_name": "Municipio de Matanzas"
+                },
+                {
+                    "city_name": "Municipio de Marti"
+                },
+                {
+                    "city_name": "Municipio de Los Arabos"
+                },
+                {
+                    "city_name": "Limonar"
+                },
+                {
+                    "city_name": "Municipio de Jovellanos"
+                },
+                {
+                    "city_name": "Municipio de Jagueey Grande"
+                },
+                {
+                    "city_name": "Municipio de Colon"
+                },
+                {
+                    "city_name": "Municipio de Cardenas"
+                },
+                {
+                    "city_name": "Calimete"
+                },
+                {
+                    "city_name": "Cienaga De Zapata"
+                }
+            ]
+        },
+        {
+            "province_name": "Las Tunas",
+            "cities": [
+                {
+                    "city_name": "Municipio de Puerto Padre"
+                },
+                {
+                    "city_name": "Municipio de Las Tunas"
+                },
+                {
+                    "city_name": "Municipio de Jobabo"
+                },
+                {
+                    "city_name": "Municipio de Manati"
+                },
+                {
+                    "city_name": "Municipio de Jesus Menendez"
+                },
+                {
+                    "city_name": "Amancio"
+                },
+                {
+                    "city_name": "Colombia"
+                },
+                {
+                    "city_name": "Majibacoa"
+                }
+            ]
+        },
+        {
+            "province_name": "Municipio Especial Isla de la Juventud",
+            "cities": []
+        },
+        {
+            "province_name": "Provincia de Holguin",
+            "cities": [
+                {
+                    "city_name": "Municipio de Sagua de Tanamo"
+                },
+                {
+                    "city_name": "Municipio de Mayari"
+                },
+                {
+                    "city_name": "Municipio de Holguin"
+                },
+                {
+                    "city_name": "Municipio de Gibara"
+                },
+                {
+                    "city_name": "Municipio de Banes"
+                },
+                {
+                    "city_name": "Municipio de Antilla"
+                },
+                {
+                    "city_name": "Municipio de Calixto Garcia"
+                },
+                {
+                    "city_name": "Baguanos"
+                },
+                {
+                    "city_name": "Cacocum"
+                },
+                {
+                    "city_name": "Frank Pais"
+                },
+                {
+                    "city_name": "Moa"
+                },
+                {
+                    "city_name": "Urbano Noris"
+                },
+                {
+                    "city_name": "Rafael Freyre"
+                },
+                {
+                    "city_name": "Cueto"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Guantanamo",
+            "cities": [
+                {
+                    "city_name": "Municipio de Yateras"
+                },
+                {
+                    "city_name": "Municipio de Guantanamo"
+                },
+                {
+                    "city_name": "Municipio de Baracoa"
+                },
+                {
+                    "city_name": "Caimanera"
+                },
+                {
+                    "city_name": "El Salvador"
+                },
+                {
+                    "city_name": "Imias"
+                },
+                {
+                    "city_name": "Maisi"
+                },
+                {
+                    "city_name": "Manuel Tames"
+                },
+                {
+                    "city_name": "Niceto Perez"
+                },
+                {
+                    "city_name": "San Antonio Del Sur"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia Granma",
+            "cities": [
+                {
+                    "city_name": "Municipio de Niquero"
+                },
+                {
+                    "city_name": "Municipio de Manzanillo"
+                },
+                {
+                    "city_name": "Municipio de Jiguani"
+                },
+                {
+                    "city_name": "Municipio de Campechuela"
+                },
+                {
+                    "city_name": "Municipio de Bayamo"
+                },
+                {
+                    "city_name": "Municipio de Rio Cauto"
+                },
+                {
+                    "city_name": "Bartolome Maso"
+                },
+                {
+                    "city_name": "Buey Arriba"
+                },
+                {
+                    "city_name": "Cauto Cristo"
+                },
+                {
+                    "city_name": "Guisa"
+                },
+                {
+                    "city_name": "Media Luna"
+                },
+                {
+                    "city_name": "Pilon"
+                },
+                {
+                    "city_name": "Yara"
+                }
+            ]
+        },
+        {
+            "province_name": "La Habana",
+            "cities": [
+                {
+                    "city_name": "Municipio de Regla"
+                },
+                {
+                    "city_name": "Municipio de Marianao"
+                },
+                {
+                    "city_name": "Municipio de Guanabacoa"
+                },
+                {
+                    "city_name": "Arroyo Naranjo"
+                },
+                {
+                    "city_name": "Boyeros"
+                },
+                {
+                    "city_name": "Centro Habana"
+                },
+                {
+                    "city_name": "Cerro"
+                },
+                {
+                    "city_name": "Cotorro"
+                },
+                {
+                    "city_name": "Diez De Octubre"
+                },
+                {
+                    "city_name": "La Habana Del Este"
+                },
+                {
+                    "city_name": "La Habana Vieja"
+                },
+                {
+                    "city_name": "La Lisa"
+                },
+                {
+                    "city_name": "Plaza De La Revolucion"
+                },
+                {
+                    "city_name": "San Miguel Del Padron"
+                },
+                {
+                    "city_name": "Playa"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Cienfuegos",
+            "cities": [
+                {
+                    "city_name": "Municipio de Santa Isabel de las Lajas"
+                },
+                {
+                    "city_name": "Municipio de Rodas"
+                },
+                {
+                    "city_name": "Municipio de Palmira"
+                },
+                {
+                    "city_name": "Municipio de Cruces"
+                },
+                {
+                    "city_name": "Municipio de Cienfuegos"
+                },
+                {
+                    "city_name": "Municipio de Aguada de Pasajeros"
+                },
+                {
+                    "city_name": "Municipio de Abreus"
+                },
+                {
+                    "city_name": "Cumanayagua"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Ciego de Avila",
+            "cities": [
+                {
+                    "city_name": "Municipio de Moron"
+                },
+                {
+                    "city_name": "Municipio de Ciego de Avila"
+                },
+                {
+                    "city_name": "Municipio de Baragua"
+                },
+                {
+                    "city_name": "Municipio de Ciro Redondo"
+                },
+                {
+                    "city_name": "Municipio de Chambas"
+                },
+                {
+                    "city_name": "Bolivia"
+                },
+                {
+                    "city_name": "Florencia"
+                },
+                {
+                    "city_name": "Majagua"
+                },
+                {
+                    "city_name": "Primero De Enero"
+                },
+                {
+                    "city_name": "Venezuela"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Camagueey",
+            "cities": [
+                {
+                    "city_name": "Municipio de Santa Cruz del Sur"
+                },
+                {
+                    "city_name": "Municipio de Nuevitas"
+                },
+                {
+                    "city_name": "Municipio de Guaimaro"
+                },
+                {
+                    "city_name": "Municipio de Florida"
+                },
+                {
+                    "city_name": "Municipio de Esmeralda"
+                },
+                {
+                    "city_name": "Municipio de Camagueey"
+                },
+                {
+                    "city_name": "Jimaguayu"
+                },
+                {
+                    "city_name": "Minas"
+                },
+                {
+                    "city_name": "Sibanicu"
+                },
+                {
+                    "city_name": "Sierra De Cubitas"
+                },
+                {
+                    "city_name": "Vertientes"
+                },
+                {
+                    "city_name": "Carlos Manuel De Cespedes"
+                },
+                {
+                    "city_name": "Najasa"
+                }
+            ]
+        },
+        {
+            "province_name": "Artemisa",
+            "cities": [
+                {
+                    "city_name": "Municipio de San Cristobal"
+                },
+                {
+                    "city_name": "Municipio de San Antonio de los Banos"
+                },
+                {
+                    "city_name": "Municipio de Mariel"
+                },
+                {
+                    "city_name": "Municipio de Gueira de Melena"
+                },
+                {
+                    "city_name": "Municipio de Guanajay"
+                },
+                {
+                    "city_name": "Municipio de Candelaria"
+                },
+                {
+                    "city_name": "Municipio de Caimito"
+                },
+                {
+                    "city_name": "Municipio de Bauta"
+                },
+                {
+                    "city_name": "Municipio de Artemisa"
+                },
+                {
+                    "city_name": "Municipio de Alquizar"
+                },
+                {
+                    "city_name": "Bahia Honda"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia Mayabeque",
+            "cities": [
+                {
+                    "city_name": "Municipio de Santa Cruz del Norte"
+                },
+                {
+                    "city_name": "Municipio de San Nicolas"
+                },
+                {
+                    "city_name": "Municipio de San Jose de las Lajas"
+                },
+                {
+                    "city_name": "Municipio de Quivican"
+                },
+                {
+                    "city_name": "Municipio de Nueva Paz"
+                },
+                {
+                    "city_name": "Municipio de Melena del Sur"
+                },
+                {
+                    "city_name": "Municipio de Madruga"
+                },
+                {
+                    "city_name": "Municipio de Jaruco"
+                },
+                {
+                    "city_name": "Municipio de Gueines"
+                },
+                {
+                    "city_name": "Municipio de Bejucal"
+                },
+                {
+                    "city_name": "Municipio de Batabano"
+                }
+            ]
+        }
+    ]
+}

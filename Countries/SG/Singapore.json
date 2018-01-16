@@ -1,0 +1,26 @@
+{
+    "country_name": "Singapore",
+    "country_id": "SG",
+    "provinces": [
+        {
+            "province_name": "Central Singapore Community Development Council",
+            "cities": []
+        },
+        {
+            "province_name": "North East Community Development Region",
+            "cities": []
+        },
+        {
+            "province_name": "South East Community Development Council",
+            "cities": []
+        },
+        {
+            "province_name": "South West Community Development Council",
+            "cities": []
+        },
+        {
+            "province_name": "North West Community Development Council",
+            "cities": []
+        }
+    ]
+}

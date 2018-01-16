@@ -1,0 +1,154 @@
+{
+    "country_name": "Moldova",
+    "country_id": "MD",
+    "provinces": [
+        {
+            "province_name": "Raionul Edinet",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Ungheni",
+            "cities": []
+        },
+        {
+            "province_name": "Telenesti",
+            "cities": []
+        },
+        {
+            "province_name": "Taraclia",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Stefan Voda",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Straseni",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Soroca",
+            "cities": []
+        },
+        {
+            "province_name": "Riscani",
+            "cities": []
+        },
+        {
+            "province_name": "Rezina",
+            "cities": []
+        },
+        {
+            "province_name": "Orhei",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Ocnita",
+            "cities": []
+        },
+        {
+            "province_name": "Anenii Noi",
+            "cities": []
+        },
+        {
+            "province_name": "Nisporeni",
+            "cities": []
+        },
+        {
+            "province_name": "Leova",
+            "cities": []
+        },
+        {
+            "province_name": "Singerei",
+            "cities": []
+        },
+        {
+            "province_name": "Criuleni",
+            "cities": []
+        },
+        {
+            "province_name": "Ialoveni",
+            "cities": []
+        },
+        {
+            "province_name": "Municipiul Chisinau",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Causeni",
+            "cities": []
+        },
+        {
+            "province_name": "Cantemir",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Calarasi",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Cahul",
+            "cities": []
+        },
+        {
+            "province_name": "Glodeni",
+            "cities": []
+        },
+        {
+            "province_name": "Floresti",
+            "cities": []
+        },
+        {
+            "province_name": "Falesti",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Dubasari",
+            "cities": []
+        },
+        {
+            "province_name": "Raionul Drochia",
+            "cities": []
+        },
+        {
+            "province_name": "Donduseni",
+            "cities": []
+        },
+        {
+            "province_name": "Cimislia",
+            "cities": []
+        },
+        {
+            "province_name": "Briceni",
+            "cities": []
+        },
+        {
+            "province_name": "Basarabeasca",
+            "cities": []
+        },
+        {
+            "province_name": "Hincesti",
+            "cities": []
+        },
+        {
+            "province_name": "Soldanesti",
+            "cities": []
+        },
+        {
+            "province_name": "Unitatea Teritoriala din Stinga Nistrului",
+            "cities": []
+        },
+        {
+            "province_name": "Gagauzia",
+            "cities": []
+        },
+        {
+            "province_name": "Municipiul Bender",
+            "cities": []
+        },
+        {
+            "province_name": "Municipiul Balti",
+            "cities": []
+        }
+    ]
+}

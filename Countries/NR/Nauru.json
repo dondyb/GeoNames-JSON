@@ -1,0 +1,62 @@
+{
+    "country_name": "Nauru",
+    "country_id": "NR",
+    "provinces": [
+        {
+            "province_name": "Yaren",
+            "cities": []
+        },
+        {
+            "province_name": "Uaboe District",
+            "cities": []
+        },
+        {
+            "province_name": "Nibok District",
+            "cities": []
+        },
+        {
+            "province_name": "Meneng District",
+            "cities": []
+        },
+        {
+            "province_name": "Ijuw District",
+            "cities": []
+        },
+        {
+            "province_name": "Ewa District",
+            "cities": []
+        },
+        {
+            "province_name": "Denigomodu District",
+            "cities": []
+        },
+        {
+            "province_name": "Buada District",
+            "cities": []
+        },
+        {
+            "province_name": "Boe District",
+            "cities": []
+        },
+        {
+            "province_name": "Baiti District",
+            "cities": []
+        },
+        {
+            "province_name": "Anibare District",
+            "cities": []
+        },
+        {
+            "province_name": "Anetan District",
+            "cities": []
+        },
+        {
+            "province_name": "Anabar District",
+            "cities": []
+        },
+        {
+            "province_name": "Aiwo District",
+            "cities": []
+        }
+    ]
+}

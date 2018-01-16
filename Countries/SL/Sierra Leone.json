@@ -1,0 +1,68 @@
+{
+    "country_name": "Sierra Leone",
+    "country_id": "SL",
+    "provinces": [
+        {
+            "province_name": "Western Area",
+            "cities": [
+                {
+                    "city_name": "Western Area Urban"
+                },
+                {
+                    "city_name": "Western Area Rural"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Province",
+            "cities": [
+                {
+                    "city_name": "Pujehun District"
+                },
+                {
+                    "city_name": "Moyamba District"
+                },
+                {
+                    "city_name": "Bonthe District"
+                },
+                {
+                    "city_name": "Bo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Province",
+            "cities": [
+                {
+                    "city_name": "Tonkolili District"
+                },
+                {
+                    "city_name": "Port Loko District"
+                },
+                {
+                    "city_name": "Koinadugu District"
+                },
+                {
+                    "city_name": "Kambia District"
+                },
+                {
+                    "city_name": "Bombali District"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Province",
+            "cities": [
+                {
+                    "city_name": "Kono District"
+                },
+                {
+                    "city_name": "Kenema District"
+                },
+                {
+                    "city_name": "Kailahun District"
+                }
+            ]
+        }
+    ]
+}

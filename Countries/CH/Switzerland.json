@@ -1,0 +1,580 @@
+{
+    "country_name": "Switzerland",
+    "country_id": "CH",
+    "provinces": [
+        {
+            "province_name": "Kanton Zurich",
+            "cities": [
+                {
+                    "city_name": "Bezirk Meilen"
+                },
+                {
+                    "city_name": "Bezirk Andelfingen"
+                },
+                {
+                    "city_name": "Bezirk Uster"
+                },
+                {
+                    "city_name": "Bezirk Dietikon"
+                },
+                {
+                    "city_name": "Bezirk Hinwil"
+                },
+                {
+                    "city_name": "Bezirk Zuerich"
+                },
+                {
+                    "city_name": "Bezirk Winterthur"
+                },
+                {
+                    "city_name": "Bezirk Affoltern"
+                },
+                {
+                    "city_name": "Bezirk Horgen"
+                },
+                {
+                    "city_name": "Bezirk Pfaeffikon"
+                },
+                {
+                    "city_name": "Bezirk Dielsdorf"
+                },
+                {
+                    "city_name": "Bezirk Buelach"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Zug",
+            "cities": [
+                {
+                    "city_name": "Zug"
+                }
+            ]
+        },
+        {
+            "province_name": "Canton de Vaud",
+            "cities": [
+                {
+                    "city_name": "Morges District"
+                },
+                {
+                    "city_name": "Lausanne District"
+                },
+                {
+                    "city_name": "Aigle District"
+                },
+                {
+                    "city_name": "Broye-Vully District"
+                },
+                {
+                    "city_name": "Gros-de-Vaud District"
+                },
+                {
+                    "city_name": "Jura-Nord vaudois District"
+                },
+                {
+                    "city_name": "Lavaux-Oron District"
+                },
+                {
+                    "city_name": "Nyon District"
+                },
+                {
+                    "city_name": "Ouest Lausannois District"
+                },
+                {
+                    "city_name": "Riviera-Pays-d'Enhaut District"
+                }
+            ]
+        },
+        {
+            "province_name": "Canton du Valais",
+            "cities": [
+                {
+                    "city_name": "Raron District"
+                },
+                {
+                    "city_name": "Martigny District"
+                },
+                {
+                    "city_name": "Sion District"
+                },
+                {
+                    "city_name": "Leuk District"
+                },
+                {
+                    "city_name": "Goms District"
+                },
+                {
+                    "city_name": "Entremont District"
+                },
+                {
+                    "city_name": "Sierre District"
+                },
+                {
+                    "city_name": "Brig District"
+                },
+                {
+                    "city_name": "Saint-Maurice District"
+                },
+                {
+                    "city_name": "Visp District"
+                },
+                {
+                    "city_name": "Monthey District"
+                },
+                {
+                    "city_name": "Conthey District"
+                },
+                {
+                    "city_name": "Herens District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Uri",
+            "cities": [
+                {
+                    "city_name": "Uri"
+                }
+            ]
+        },
+        {
+            "province_name": "Ticino",
+            "cities": [
+                {
+                    "city_name": "Vallemaggia District"
+                },
+                {
+                    "city_name": "Locarno District"
+                },
+                {
+                    "city_name": "Riviera District"
+                },
+                {
+                    "city_name": "Lugano District"
+                },
+                {
+                    "city_name": "Blenio District"
+                },
+                {
+                    "city_name": "Bellinzona District"
+                },
+                {
+                    "city_name": "Mendrisio District"
+                },
+                {
+                    "city_name": "Leventina District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Thurgau",
+            "cities": [
+                {
+                    "city_name": "Frauenfeld District"
+                },
+                {
+                    "city_name": "Arbon District"
+                },
+                {
+                    "city_name": "Muenchwilen District"
+                },
+                {
+                    "city_name": "Kreuzlingen District"
+                },
+                {
+                    "city_name": "Weinfelden District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Solothurn",
+            "cities": [
+                {
+                    "city_name": "Bezirk Thierstein"
+                },
+                {
+                    "city_name": "Bezirk Gaeu"
+                },
+                {
+                    "city_name": "Bezirk Solothurn"
+                },
+                {
+                    "city_name": "Bezirk Lebern"
+                },
+                {
+                    "city_name": "Bezirk Bucheggberg"
+                },
+                {
+                    "city_name": "Bezirk Thal"
+                },
+                {
+                    "city_name": "Bezirk Goesgen"
+                },
+                {
+                    "city_name": "Bezirk Wasseramt"
+                },
+                {
+                    "city_name": "Bezirk Olten"
+                },
+                {
+                    "city_name": "Bezirk Dorneck"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Schwyz",
+            "cities": [
+                {
+                    "city_name": "Bezirk Schwyz"
+                },
+                {
+                    "city_name": "Bezirk March"
+                },
+                {
+                    "city_name": "Bezirk Gersau"
+                },
+                {
+                    "city_name": "Bezirk Kuessnacht"
+                },
+                {
+                    "city_name": "Bezirk Hoefe"
+                },
+                {
+                    "city_name": "Bezirk Einsiedeln"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Schaffhausen",
+            "cities": [
+                {
+                    "city_name": "Bezirk Schleitheim"
+                },
+                {
+                    "city_name": "Bezirk Stein"
+                },
+                {
+                    "city_name": "Bezirk Oberklettgau"
+                },
+                {
+                    "city_name": "Bezirk Unterklettgau"
+                },
+                {
+                    "city_name": "Bezirk Schaffhausen"
+                },
+                {
+                    "city_name": "Bezirk Reiat"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton St. Gallen",
+            "cities": [
+                {
+                    "city_name": "Wahlkreis Sarganserland"
+                },
+                {
+                    "city_name": "Wahlkreis St. Gallen"
+                },
+                {
+                    "city_name": "Wahlkreis Rorschach"
+                },
+                {
+                    "city_name": "Wahlkreis Wil"
+                },
+                {
+                    "city_name": "Wahlkreis Werdenberg"
+                },
+                {
+                    "city_name": "Wahlkreis Rheintal"
+                },
+                {
+                    "city_name": "Wahlkreis Toggenburg"
+                },
+                {
+                    "city_name": "Wahlkreis See-Gaster"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Obwalden",
+            "cities": [
+                {
+                    "city_name": "Obwalden"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Nidwalden",
+            "cities": [
+                {
+                    "city_name": "Nidwalden"
+                }
+            ]
+        },
+        {
+            "province_name": "Neuchatel",
+            "cities": [
+                {
+                    "city_name": "Le Locle District"
+                },
+                {
+                    "city_name": "Val-de-Ruz District"
+                },
+                {
+                    "city_name": "Boudry District"
+                },
+                {
+                    "city_name": "La Chaux-de-Fonds District"
+                },
+                {
+                    "city_name": "Val-de-Travers District"
+                },
+                {
+                    "city_name": "Neuchatel District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Luzern",
+            "cities": [
+                {
+                    "city_name": "Lucerne-Land District"
+                },
+                {
+                    "city_name": "Lucerne-Stadt District"
+                },
+                {
+                    "city_name": "Entlebuch District"
+                },
+                {
+                    "city_name": "Hochdorf District"
+                },
+                {
+                    "city_name": "Sursee District"
+                },
+                {
+                    "city_name": "Willisau District"
+                }
+            ]
+        },
+        {
+            "province_name": "Jura",
+            "cities": [
+                {
+                    "city_name": "Delemont District"
+                },
+                {
+                    "city_name": "Porrentruy District"
+                },
+                {
+                    "city_name": "Franches-Montagnes District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Graubunden",
+            "cities": [
+                {
+                    "city_name": "Region Surselva"
+                },
+                {
+                    "city_name": "Region Viamala"
+                },
+                {
+                    "city_name": "Region Engiadina Bassa / Val Muestair"
+                },
+                {
+                    "city_name": "Region Plessur"
+                },
+                {
+                    "city_name": "Region Imboden"
+                },
+                {
+                    "city_name": "Region Albula"
+                },
+                {
+                    "city_name": "Region Praettigau / Davos"
+                },
+                {
+                    "city_name": "Region Landquart"
+                },
+                {
+                    "city_name": "Region Bernina"
+                },
+                {
+                    "city_name": "Region Moesa"
+                },
+                {
+                    "city_name": "Region Maloja"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Glarus",
+            "cities": [
+                {
+                    "city_name": "Glarus"
+                }
+            ]
+        },
+        {
+            "province_name": "Geneve",
+            "cities": [
+                {
+                    "city_name": "Geneva"
+                }
+            ]
+        },
+        {
+            "province_name": "Canton de Fribourg",
+            "cities": [
+                {
+                    "city_name": "Glane District"
+                },
+                {
+                    "city_name": "Broye District"
+                },
+                {
+                    "city_name": "Sarine District"
+                },
+                {
+                    "city_name": "Gruyere District"
+                },
+                {
+                    "city_name": "Lake District"
+                },
+                {
+                    "city_name": "Veveyse District"
+                },
+                {
+                    "city_name": "Sense District"
+                }
+            ]
+        },
+        {
+            "province_name": "Canton de Berne",
+            "cities": [
+                {
+                    "city_name": "Emmental District"
+                },
+                {
+                    "city_name": "Obersimmental-Saanen District"
+                },
+                {
+                    "city_name": "Frutigen-Niedersimmental District"
+                },
+                {
+                    "city_name": "Biel/Bienne District"
+                },
+                {
+                    "city_name": "Seeland District"
+                },
+                {
+                    "city_name": "Thun District"
+                },
+                {
+                    "city_name": "Interlaken-Oberhasli District"
+                },
+                {
+                    "city_name": "Jura bernois"
+                },
+                {
+                    "city_name": "Oberaargau"
+                },
+                {
+                    "city_name": "Bern-Mittelland District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Basel-Stadt",
+            "cities": [
+                {
+                    "city_name": "Basel-Stadt"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Basel-Landschaft",
+            "cities": [
+                {
+                    "city_name": "Bezirk Waldenburg"
+                },
+                {
+                    "city_name": "Bezirk Sissach"
+                },
+                {
+                    "city_name": "Bezirk Laufen"
+                },
+                {
+                    "city_name": "Bezirk Arlesheim"
+                },
+                {
+                    "city_name": "Bezirk Liestal"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Appenzell Ausserrhoden",
+            "cities": [
+                {
+                    "city_name": "Bezirk Mittelland"
+                },
+                {
+                    "city_name": "Bezirk Hinterland"
+                },
+                {
+                    "city_name": "Bezirk Vorderland"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Appenzell Innerrhoden",
+            "cities": [
+                {
+                    "city_name": "Appenzell Inner Rhodes"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanton Aargau",
+            "cities": [
+                {
+                    "city_name": "Bezirk Zofingen"
+                },
+                {
+                    "city_name": "Bezirk Kulm"
+                },
+                {
+                    "city_name": "Bezirk Bremgarten"
+                },
+                {
+                    "city_name": "Bezirk Zurzach"
+                },
+                {
+                    "city_name": "Bezirk Lenzburg"
+                },
+                {
+                    "city_name": "Bezirk Baden"
+                },
+                {
+                    "city_name": "Bezirk Brugg"
+                },
+                {
+                    "city_name": "Bezirk Aarau"
+                },
+                {
+                    "city_name": "Bezirk Rheinfelden"
+                },
+                {
+                    "city_name": "Bezirk Laufenburg"
+                },
+                {
+                    "city_name": "Bezirk Muri"
+                }
+            ]
+        }
+    ]
+}

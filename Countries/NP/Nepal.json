@@ -1,0 +1,73 @@
+{
+    "country_name": "Nepal",
+    "country_id": "NP",
+    "provinces": [
+        {
+            "province_name": "Sudur Pashchimanchal",
+            "cities": [
+                {
+                    "city_name": "Seti Zone"
+                },
+                {
+                    "city_name": "Mahakali Zone"
+                }
+            ]
+        },
+        {
+            "province_name": "Madhya Pashchimanchal",
+            "cities": [
+                {
+                    "city_name": "Rapti Zone"
+                },
+                {
+                    "city_name": "Karnali Zone"
+                },
+                {
+                    "city_name": "Bheri Zone"
+                }
+            ]
+        },
+        {
+            "province_name": "Madhyamanchal",
+            "cities": [
+                {
+                    "city_name": "Narayani Zone"
+                },
+                {
+                    "city_name": "Janakpur Zone"
+                },
+                {
+                    "city_name": "Bagmati Zone"
+                }
+            ]
+        },
+        {
+            "province_name": "Purwanchal",
+            "cities": [
+                {
+                    "city_name": "Sagarmatha Zone"
+                },
+                {
+                    "city_name": "Mechi Zone"
+                },
+                {
+                    "city_name": "Kosi Zone"
+                }
+            ]
+        },
+        {
+            "province_name": "Pashchimanchal",
+            "cities": [
+                {
+                    "city_name": "Lumbini Zone"
+                },
+                {
+                    "city_name": "Gandaki Zone"
+                },
+                {
+                    "city_name": "Dhawalagiri Zone"
+                }
+            ]
+        }
+    ]
+}

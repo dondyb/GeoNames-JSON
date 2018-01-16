@@ -1,0 +1,268 @@
+{
+    "country_name": "Iceland",
+    "country_id": "IS",
+    "provinces": [
+        {
+            "province_name": "Nordurland Vestra",
+            "cities": [
+                {
+                    "city_name": "Akrahreppur"
+                },
+                {
+                    "city_name": "Sveitarfelagid Skagafjoerdur"
+                },
+                {
+                    "city_name": "Skagabyggd"
+                },
+                {
+                    "city_name": "Bloenduosbaer"
+                },
+                {
+                    "city_name": "Hunathing Vestra"
+                },
+                {
+                    "city_name": "Sveitarfelagid Skagastroend"
+                },
+                {
+                    "city_name": "Hunavatnshreppur"
+                }
+            ]
+        },
+        {
+            "province_name": "Nordurland Eystra",
+            "cities": [
+                {
+                    "city_name": "Tjoerneshreppur"
+                },
+                {
+                    "city_name": "Svalbardsstrandarhreppur"
+                },
+                {
+                    "city_name": "Svalbardshreppur"
+                },
+                {
+                    "city_name": "Skutustadahreppur"
+                },
+                {
+                    "city_name": "Grytubakkahreppur"
+                },
+                {
+                    "city_name": "Dalvikurbyggd"
+                },
+                {
+                    "city_name": "Akureyrarkaupstadur"
+                },
+                {
+                    "city_name": "Eyjafjardarsveit"
+                },
+                {
+                    "city_name": "THingeyjarsveit"
+                },
+                {
+                    "city_name": "Langanesbyggd"
+                },
+                {
+                    "city_name": "Nordurthing"
+                },
+                {
+                    "city_name": "Hoergarsveit"
+                },
+                {
+                    "city_name": "Fjallabyggd"
+                }
+            ]
+        },
+        {
+            "province_name": "Austurland",
+            "cities": [
+                {
+                    "city_name": "Vopnafjardarhreppur"
+                },
+                {
+                    "city_name": "Seydisfjardarkaupstadur"
+                },
+                {
+                    "city_name": "Fljotsdalshreppur"
+                },
+                {
+                    "city_name": "Breiddalshreppur"
+                },
+                {
+                    "city_name": "Borgarfjardarhreppur"
+                },
+                {
+                    "city_name": "Djupavogshreppur"
+                },
+                {
+                    "city_name": "Fjardabyggd"
+                },
+                {
+                    "city_name": "Sveitarfelagid Hornafjoerdur"
+                },
+                {
+                    "city_name": "Fljotsdalsherad"
+                }
+            ]
+        },
+        {
+            "province_name": "Sudurland",
+            "cities": [
+                {
+                    "city_name": "Skaftarhreppur"
+                },
+                {
+                    "city_name": "Myrdalshreppur"
+                },
+                {
+                    "city_name": "Rangarthing Eystra"
+                },
+                {
+                    "city_name": "Rangarthing Ytra"
+                },
+                {
+                    "city_name": "Skeida- og Gnupverjahreppur"
+                },
+                {
+                    "city_name": "Vestmannaeyjabaer"
+                },
+                {
+                    "city_name": "Sveitarfelagid OElfus"
+                },
+                {
+                    "city_name": "Hveragerdisbaer"
+                },
+                {
+                    "city_name": "Hrunamannahreppur"
+                },
+                {
+                    "city_name": "Asahreppur"
+                },
+                {
+                    "city_name": "Blaskogabyggd"
+                },
+                {
+                    "city_name": "Grimsnes- og Grafningshreppur"
+                },
+                {
+                    "city_name": "Sveitarfelagid Arborg"
+                },
+                {
+                    "city_name": "Floahreppur"
+                }
+            ]
+        },
+        {
+            "province_name": "Hoefudborgarsvaedi",
+            "cities": [
+                {
+                    "city_name": "Seltjarnarneskaupstadur"
+                },
+                {
+                    "city_name": "Reykjavikurborg"
+                },
+                {
+                    "city_name": "Mosfellsbaer"
+                },
+                {
+                    "city_name": "Kopavogsbaer"
+                },
+                {
+                    "city_name": "Kjosarhreppur"
+                },
+                {
+                    "city_name": "Hafnarfjardarkaupstadur"
+                },
+                {
+                    "city_name": "Gardabaer"
+                }
+            ]
+        },
+        {
+            "province_name": "Sudurnes",
+            "cities": [
+                {
+                    "city_name": "Reykjanesbaer"
+                },
+                {
+                    "city_name": "Sandgerdisbaer"
+                },
+                {
+                    "city_name": "Sveitarfelagid Gardur"
+                },
+                {
+                    "city_name": "Sveitarfelagid Vogar"
+                },
+                {
+                    "city_name": "Grindavikurbaer"
+                }
+            ]
+        },
+        {
+            "province_name": "Vesturland",
+            "cities": [
+                {
+                    "city_name": "Skorradalshreppur"
+                },
+                {
+                    "city_name": "Helgafellssveit"
+                },
+                {
+                    "city_name": "Eyja- og Miklaholtshreppur"
+                },
+                {
+                    "city_name": "Borgarbyggd"
+                },
+                {
+                    "city_name": "Akraneskaupstadur"
+                },
+                {
+                    "city_name": "Dalabyggd"
+                },
+                {
+                    "city_name": "Grundarfjardarbaer"
+                },
+                {
+                    "city_name": "Snaefellsbaer"
+                },
+                {
+                    "city_name": "Hvalfjardarsveit"
+                },
+                {
+                    "city_name": "Stykkisholmsbaer"
+                }
+            ]
+        },
+        {
+            "province_name": "Vestfirdir",
+            "cities": [
+                {
+                    "city_name": "Talknafjardarhreppur"
+                },
+                {
+                    "city_name": "Sudavikurhreppur"
+                },
+                {
+                    "city_name": "Reykholahreppur"
+                },
+                {
+                    "city_name": "Kaldrananeshreppur"
+                },
+                {
+                    "city_name": "Isafjardarbaer"
+                },
+                {
+                    "city_name": "Arneshreppur"
+                },
+                {
+                    "city_name": "Bolungarvikurkaupstadur"
+                },
+                {
+                    "city_name": "Vesturbyggd"
+                },
+                {
+                    "city_name": "Strandabyggd"
+                }
+            ]
+        }
+    ]
+}

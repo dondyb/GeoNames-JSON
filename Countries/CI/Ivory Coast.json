@@ -1,0 +1,173 @@
+{
+    "country_name": "Ivory Coast",
+    "country_id": "CI",
+    "provinces": [
+        {
+            "province_name": "Yamoussoukro Autonomous District",
+            "cities": []
+        },
+        {
+            "province_name": "Bas-Sassandra",
+            "cities": [
+                {
+                    "city_name": "Gbokle"
+                },
+                {
+                    "city_name": "Nawa"
+                },
+                {
+                    "city_name": "San-Pedro"
+                }
+            ]
+        },
+        {
+            "province_name": "Comoe",
+            "cities": [
+                {
+                    "city_name": "Indenie-Djuablin"
+                },
+                {
+                    "city_name": "Sud-Comoe"
+                }
+            ]
+        },
+        {
+            "province_name": "Denguele",
+            "cities": [
+                {
+                    "city_name": "Folon"
+                },
+                {
+                    "city_name": "Kabadougou"
+                }
+            ]
+        },
+        {
+            "province_name": "Goh-Djiboua",
+            "cities": [
+                {
+                    "city_name": "Goh"
+                },
+                {
+                    "city_name": "Loh-Djiboua"
+                }
+            ]
+        },
+        {
+            "province_name": "Lacs",
+            "cities": [
+                {
+                    "city_name": "Belier"
+                },
+                {
+                    "city_name": "Iffou"
+                },
+                {
+                    "city_name": "Moronou"
+                },
+                {
+                    "city_name": "N'Zi"
+                }
+            ]
+        },
+        {
+            "province_name": "Lagunes",
+            "cities": [
+                {
+                    "city_name": "Agneby-Tiassa"
+                },
+                {
+                    "city_name": "Grands-Ponts"
+                },
+                {
+                    "city_name": "La Me"
+                },
+                {
+                    "city_name": "Region de La Me"
+                }
+            ]
+        },
+        {
+            "province_name": "Montagnes",
+            "cities": [
+                {
+                    "city_name": "Cavally"
+                },
+                {
+                    "city_name": "Guemon"
+                },
+                {
+                    "city_name": "Tonkpi"
+                }
+            ]
+        },
+        {
+            "province_name": "Sassandra-Marahoue",
+            "cities": [
+                {
+                    "city_name": "Haut-Sassandra"
+                },
+                {
+                    "city_name": "Marahoue"
+                }
+            ]
+        },
+        {
+            "province_name": "Savanes",
+            "cities": [
+                {
+                    "city_name": "Bagoue"
+                },
+                {
+                    "city_name": "Poro"
+                },
+                {
+                    "city_name": "Tchologo"
+                }
+            ]
+        },
+        {
+            "province_name": "Vallee du Bandama",
+            "cities": [
+                {
+                    "city_name": "Gbeke"
+                },
+                {
+                    "city_name": "Hambol"
+                }
+            ]
+        },
+        {
+            "province_name": "Woroba",
+            "cities": [
+                {
+                    "city_name": "Bafing"
+                },
+                {
+                    "city_name": "Bere"
+                },
+                {
+                    "city_name": "Worodougou"
+                },
+                {
+                    "city_name": "Region du Bere"
+                }
+            ]
+        },
+        {
+            "province_name": "Zanzan",
+            "cities": [
+                {
+                    "city_name": "Bounkani"
+                },
+                {
+                    "city_name": "Gontougo"
+                }
+            ]
+        },
+        {
+            "province_name": "Abidjan",
+            "cities": []
+        }
+    ]
+}

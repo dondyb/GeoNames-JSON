@@ -1,0 +1,362 @@
+{
+    "country_name": "Uganda",
+    "country_id": "UG",
+    "provinces": [
+        {
+            "province_name": "Central Region",
+            "cities": [
+                {
+                    "city_name": "Mpigi District"
+                },
+                {
+                    "city_name": "Kalangala District"
+                },
+                {
+                    "city_name": "Kampala District"
+                },
+                {
+                    "city_name": "Kiboga District"
+                },
+                {
+                    "city_name": "Luwero District"
+                },
+                {
+                    "city_name": "Mubende District"
+                },
+                {
+                    "city_name": "Mukono District"
+                },
+                {
+                    "city_name": "Rakai District"
+                },
+                {
+                    "city_name": "Nakasongola District"
+                },
+                {
+                    "city_name": "Sembabule District"
+                },
+                {
+                    "city_name": "Kayunga District"
+                },
+                {
+                    "city_name": "Wakiso District"
+                },
+                {
+                    "city_name": "Lyantonde District"
+                },
+                {
+                    "city_name": "Mityana District"
+                },
+                {
+                    "city_name": "Nakaseke District"
+                },
+                {
+                    "city_name": "Kalungu District"
+                },
+                {
+                    "city_name": "Butambala District"
+                },
+                {
+                    "city_name": "Buvuma District"
+                },
+                {
+                    "city_name": "Buikwe District"
+                },
+                {
+                    "city_name": "Gomba District"
+                },
+                {
+                    "city_name": "Bukomansimbi District"
+                },
+                {
+                    "city_name": "Lwengo District"
+                },
+                {
+                    "city_name": "Kyankwanzi District"
+                },
+                {
+                    "city_name": "Masaka District"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Region",
+            "cities": [
+                {
+                    "city_name": "Namutumba District"
+                },
+                {
+                    "city_name": "Bukedea District"
+                },
+                {
+                    "city_name": "Iganga District"
+                },
+                {
+                    "city_name": "Jinja District"
+                },
+                {
+                    "city_name": "Kamuli District"
+                },
+                {
+                    "city_name": "Kapchorwa District"
+                },
+                {
+                    "city_name": "Kumi District"
+                },
+                {
+                    "city_name": "Mbale District"
+                },
+                {
+                    "city_name": "Pallisa District"
+                },
+                {
+                    "city_name": "Soroti District"
+                },
+                {
+                    "city_name": "Tororo District"
+                },
+                {
+                    "city_name": "Bugiri District"
+                },
+                {
+                    "city_name": "Busia District"
+                },
+                {
+                    "city_name": "Katakwi District"
+                },
+                {
+                    "city_name": "Kaberamaido District"
+                },
+                {
+                    "city_name": "Mayuge District"
+                },
+                {
+                    "city_name": "Sironko District"
+                },
+                {
+                    "city_name": "Amuria District"
+                },
+                {
+                    "city_name": "Budaka District"
+                },
+                {
+                    "city_name": "Bududa District"
+                },
+                {
+                    "city_name": "Butaleja District"
+                },
+                {
+                    "city_name": "Kaliro District"
+                },
+                {
+                    "city_name": "Manafwa District"
+                },
+                {
+                    "city_name": "Bukwa District"
+                },
+                {
+                    "city_name": "Serere District"
+                },
+                {
+                    "city_name": "Ngora District"
+                },
+                {
+                    "city_name": "Buyende District"
+                },
+                {
+                    "city_name": "Kibuku District"
+                },
+                {
+                    "city_name": "Bulambuli District"
+                },
+                {
+                    "city_name": "Kween District"
+                },
+                {
+                    "city_name": "Namayingo District"
+                },
+                {
+                    "city_name": "Luuka District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Region",
+            "cities": [
+                {
+                    "city_name": "Apac District"
+                },
+                {
+                    "city_name": "Arua District"
+                },
+                {
+                    "city_name": "Gulu District"
+                },
+                {
+                    "city_name": "Kitgum District"
+                },
+                {
+                    "city_name": "Kotido District"
+                },
+                {
+                    "city_name": "Lira District"
+                },
+                {
+                    "city_name": "Moroto District"
+                },
+                {
+                    "city_name": "Moyo District"
+                },
+                {
+                    "city_name": "Nebbi District"
+                },
+                {
+                    "city_name": "Adjumani District"
+                },
+                {
+                    "city_name": "Nakapiripirit District"
+                },
+                {
+                    "city_name": "Pader District"
+                },
+                {
+                    "city_name": "Yumbe District"
+                },
+                {
+                    "city_name": "Abim District"
+                },
+                {
+                    "city_name": "Amolatar District"
+                },
+                {
+                    "city_name": "Amuru District"
+                },
+                {
+                    "city_name": "Dokolo District"
+                },
+                {
+                    "city_name": "Kaabong District"
+                },
+                {
+                    "city_name": "Koboko District"
+                },
+                {
+                    "city_name": "Maracha District"
+                },
+                {
+                    "city_name": "Oyam District"
+                },
+                {
+                    "city_name": "Nwoya District"
+                },
+                {
+                    "city_name": "Amudat District"
+                },
+                {
+                    "city_name": "Napak District"
+                },
+                {
+                    "city_name": "Lamwo District"
+                },
+                {
+                    "city_name": "Zombo District"
+                },
+                {
+                    "city_name": "Kole District"
+                },
+                {
+                    "city_name": "Agago District"
+                },
+                {
+                    "city_name": "Otuke District"
+                },
+                {
+                    "city_name": "Alebtong District"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Region",
+            "cities": [
+                {
+                    "city_name": "Bundibugyo District"
+                },
+                {
+                    "city_name": "Bushenyi District"
+                },
+                {
+                    "city_name": "Hoima District"
+                },
+                {
+                    "city_name": "Kabale District"
+                },
+                {
+                    "city_name": "Kabarole District"
+                },
+                {
+                    "city_name": "Kasese District"
+                },
+                {
+                    "city_name": "Kibale District"
+                },
+                {
+                    "city_name": "Kisoro District"
+                },
+                {
+                    "city_name": "Masindi District"
+                },
+                {
+                    "city_name": "Mbarara District"
+                },
+                {
+                    "city_name": "Ntungamo District"
+                },
+                {
+                    "city_name": "Rukungiri District"
+                },
+                {
+                    "city_name": "Kamwenge District"
+                },
+                {
+                    "city_name": "Kanungu District"
+                },
+                {
+                    "city_name": "Kyenjojo District"
+                },
+                {
+                    "city_name": "Bulisa District"
+                },
+                {
+                    "city_name": "Ibanda District"
+                },
+                {
+                    "city_name": "Isingiro District"
+                },
+                {
+                    "city_name": "Kiruhura District"
+                },
+                {
+                    "city_name": "Kiryandongo District"
+                },
+                {
+                    "city_name": "Kyegegwa District"
+                },
+                {
+                    "city_name": "Ntoroko District"
+                },
+                {
+                    "city_name": "Rubirizi District"
+                },
+                {
+                    "city_name": "Buhweju District"
+                },
+                {
+                    "city_name": "Mitoma District"
+                },
+                {
+                    "city_name": "Sheema District"
+                }
+            ]
+        }
+    ]
+}

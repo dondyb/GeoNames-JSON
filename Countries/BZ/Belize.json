@@ -1,0 +1,41 @@
+{
+    "country_name": "Belize",
+    "country_id": "BZ",
+    "provinces": [
+        {
+            "province_name": "Toledo District",
+            "cities": []
+        },
+        {
+            "province_name": "Stann Creek District",
+            "cities": [
+                {
+                    "city_name": "Dangriga"
+                },
+                {
+                    "city_name": "Danriga District"
+                }
+            ]
+        },
+        {
+            "province_name": "Orange Walk District",
+            "cities": [
+                {
+                    "city_name": "Hopelchen"
+                }
+            ]
+        },
+        {
+            "province_name": "Corozal District",
+            "cities": []
+        },
+        {
+            "province_name": "Cayo District",
+            "cities": []
+        },
+        {
+            "province_name": "Belize District",
+            "cities": []
+        }
+    ]
+}

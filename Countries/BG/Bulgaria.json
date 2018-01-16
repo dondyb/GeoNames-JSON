@@ -1,0 +1,938 @@
+{
+    "country_name": "Bulgaria",
+    "country_id": "BG",
+    "provinces": [
+        {
+            "province_name": "Oblast Razgrad",
+            "cities": [
+                {
+                    "city_name": "Obshtina Zavet"
+                },
+                {
+                    "city_name": "Obshtina Samuil"
+                },
+                {
+                    "city_name": "Obshtina Razgrad"
+                },
+                {
+                    "city_name": "Obshtina Loznitsa"
+                },
+                {
+                    "city_name": "Obshtina Kubrat"
+                },
+                {
+                    "city_name": "Obshtina Tsar Kaloyan"
+                },
+                {
+                    "city_name": "Obshtina Isperih"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Montana",
+            "cities": [
+                {
+                    "city_name": "Obshtina Yakimovo"
+                },
+                {
+                    "city_name": "Obshtina Varshets"
+                },
+                {
+                    "city_name": "Obshtina Valchedram"
+                },
+                {
+                    "city_name": "Obshtina Montana"
+                },
+                {
+                    "city_name": "Obshtina Medkovets"
+                },
+                {
+                    "city_name": "Obshtina Lom"
+                },
+                {
+                    "city_name": "Obshtina Georgi Damyanovo"
+                },
+                {
+                    "city_name": "Obshtina Chiprovtsi"
+                },
+                {
+                    "city_name": "Obshtina Brusartsi"
+                },
+                {
+                    "city_name": "Obshtina Boychinovtsi"
+                },
+                {
+                    "city_name": "Obshtina Berkovitsa"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Vratsa",
+            "cities": [
+                {
+                    "city_name": "Obshtina Vratsa"
+                },
+                {
+                    "city_name": "Obshtina Roman"
+                },
+                {
+                    "city_name": "Obshtina Oryahovo"
+                },
+                {
+                    "city_name": "Obshtina Mizia"
+                },
+                {
+                    "city_name": "Obshtina Mezdra"
+                },
+                {
+                    "city_name": "Obshtina Krivodol"
+                },
+                {
+                    "city_name": "Obshtina Kozloduy"
+                },
+                {
+                    "city_name": "Obshtina Byala Slatina"
+                },
+                {
+                    "city_name": "Obshtina Borovan"
+                },
+                {
+                    "city_name": "Obshtina Hayredin"
+                }
+            ]
+        },
+        {
+            "province_name": "Varna",
+            "cities": [
+                {
+                    "city_name": "Obshtina Valchidol"
+                },
+                {
+                    "city_name": "Obshtina Vetrino"
+                },
+                {
+                    "city_name": "Obshtina Varna"
+                },
+                {
+                    "city_name": "Obshtina Suvorovo"
+                },
+                {
+                    "city_name": "Obshtina Provadia"
+                },
+                {
+                    "city_name": "Obshtina Dolni Chiflik"
+                },
+                {
+                    "city_name": "Obshtina Dalgopol"
+                },
+                {
+                    "city_name": "Obshtina Devnya"
+                },
+                {
+                    "city_name": "Obshtina Byala"
+                },
+                {
+                    "city_name": "Obshtina Beloslav"
+                },
+                {
+                    "city_name": "Obshtina Avren"
+                },
+                {
+                    "city_name": "Obshtina Aksakovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Dobrich",
+            "cities": [
+                {
+                    "city_name": "Obshtina Dobrich"
+                },
+                {
+                    "city_name": "Obshtina Tervel"
+                },
+                {
+                    "city_name": "Obshtina Shabla"
+                },
+                {
+                    "city_name": "Obshtina Krushari"
+                },
+                {
+                    "city_name": "Obshtina Kavarna"
+                },
+                {
+                    "city_name": "Obshtina General Toshevo"
+                },
+                {
+                    "city_name": "Obshtina Balchik"
+                },
+                {
+                    "city_name": "Obshtina Dobrich-Selska"
+                }
+            ]
+        },
+        {
+            "province_name": "Sofia",
+            "cities": [
+                {
+                    "city_name": "Obshtina Svoge"
+                },
+                {
+                    "city_name": "Obshtina Zlatitsa"
+                },
+                {
+                    "city_name": "Obshtina Slivnitsa"
+                },
+                {
+                    "city_name": "Obshtina Samokov"
+                },
+                {
+                    "city_name": "Obshtina Kostinbrod"
+                },
+                {
+                    "city_name": "Obshtina Kostenets"
+                },
+                {
+                    "city_name": "Obshtina Koprivshtitsa"
+                },
+                {
+                    "city_name": "Ihtiman"
+                },
+                {
+                    "city_name": "Obshtina Gorna Malina"
+                },
+                {
+                    "city_name": "Obshtina Godech"
+                },
+                {
+                    "city_name": "Obshtina Etropole"
+                },
+                {
+                    "city_name": "Obshtina Elin Pelin"
+                },
+                {
+                    "city_name": "Obshtina Dragoman"
+                },
+                {
+                    "city_name": "Obshtina Dolna Banya"
+                },
+                {
+                    "city_name": "Obshtina Bozhurishte"
+                },
+                {
+                    "city_name": "Obshtina Botevgrad"
+                },
+                {
+                    "city_name": "Obshtina Mirkovo"
+                },
+                {
+                    "city_name": "Obshtina Chavdar"
+                },
+                {
+                    "city_name": "Obshtina Chelopech"
+                },
+                {
+                    "city_name": "Obshtina Pirdop"
+                },
+                {
+                    "city_name": "Obshtina Anton"
+                },
+                {
+                    "city_name": "Obshtina Pravets"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Ruse",
+            "cities": [
+                {
+                    "city_name": "Obshtina Vetovo"
+                },
+                {
+                    "city_name": "Obshtina Tsenovo"
+                },
+                {
+                    "city_name": "Obshtina Slivo Pole"
+                },
+                {
+                    "city_name": "Obshtina Ruse"
+                },
+                {
+                    "city_name": "Obshtina Ivanovo"
+                },
+                {
+                    "city_name": "Obshtina Dve Mogili"
+                },
+                {
+                    "city_name": "Obshtina Byala"
+                },
+                {
+                    "city_name": "Obshtina Borovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Plovdiv",
+            "cities": [
+                {
+                    "city_name": "Obshtina Saedinenie"
+                },
+                {
+                    "city_name": "Obshtina Sadovo"
+                },
+                {
+                    "city_name": "Obshtina Rakovski"
+                },
+                {
+                    "city_name": "Obshtina Parvomay"
+                },
+                {
+                    "city_name": "Obshtina Plovdiv"
+                },
+                {
+                    "city_name": "Obshtina Laki"
+                },
+                {
+                    "city_name": "Obshtina Hisarya"
+                },
+                {
+                    "city_name": "Obshtina Karlovo"
+                },
+                {
+                    "city_name": "Obshtina Kaloyanovo"
+                },
+                {
+                    "city_name": "Obshtina Brezovo"
+                },
+                {
+                    "city_name": "Obshtina Asenovgrad"
+                },
+                {
+                    "city_name": "Obshtina Rodopi"
+                },
+                {
+                    "city_name": "Obshtina Perushtitsa"
+                },
+                {
+                    "city_name": "Obshtina Krichim"
+                },
+                {
+                    "city_name": "Obshtina Stamboliyski"
+                },
+                {
+                    "city_name": "Obshtina Maritsa"
+                },
+                {
+                    "city_name": "Obshtina Sopot"
+                },
+                {
+                    "city_name": "Obshtina Kuklen"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Pleven",
+            "cities": [
+                {
+                    "city_name": "Obshtina Pordim"
+                },
+                {
+                    "city_name": "Obshtina Pleven"
+                },
+                {
+                    "city_name": "Obshtina Iskar"
+                },
+                {
+                    "city_name": "Obshtina Nikopol"
+                },
+                {
+                    "city_name": "Obshtina Levski"
+                },
+                {
+                    "city_name": "Obshtina Knezha"
+                },
+                {
+                    "city_name": "Obshtina Gulyantsi"
+                },
+                {
+                    "city_name": "Obshtina Dolni Dabnik"
+                },
+                {
+                    "city_name": "Obshtina Dolna Mitropolia"
+                },
+                {
+                    "city_name": "Obshtina Cherven Bryag"
+                },
+                {
+                    "city_name": "Obshtina Belene"
+                }
+            ]
+        },
+        {
+            "province_name": "Pernik",
+            "cities": [
+                {
+                    "city_name": "Obshtina Zemen"
+                },
+                {
+                    "city_name": "Tran"
+                },
+                {
+                    "city_name": "Obshtina Radomir"
+                },
+                {
+                    "city_name": "Obshtina Pernik"
+                },
+                {
+                    "city_name": "Obshtina Kovachevtsi"
+                },
+                {
+                    "city_name": "Obshtina Breznik"
+                }
+            ]
+        },
+        {
+            "province_name": "Pazardzhik",
+            "cities": [
+                {
+                    "city_name": "Obshtina Velingrad"
+                },
+                {
+                    "city_name": "Obshtina Strelcha"
+                },
+                {
+                    "city_name": "Obshtina Septemvri"
+                },
+                {
+                    "city_name": "Obshtina Rakitovo"
+                },
+                {
+                    "city_name": "Obshtina Peshtera"
+                },
+                {
+                    "city_name": "Obshtina Pazardzhik"
+                },
+                {
+                    "city_name": "Obshtina Panagyurishte"
+                },
+                {
+                    "city_name": "Obshtina Lesichovo"
+                },
+                {
+                    "city_name": "Obshtina Bratsigovo"
+                },
+                {
+                    "city_name": "Obshtina Belovo"
+                },
+                {
+                    "city_name": "Obshtina Batak"
+                }
+            ]
+        },
+        {
+            "province_name": "Lovech",
+            "cities": [
+                {
+                    "city_name": "Obshtina Yablanitsa"
+                },
+                {
+                    "city_name": "Obshtina Ugarchin"
+                },
+                {
+                    "city_name": "Obshtina Troyan"
+                },
+                {
+                    "city_name": "Obshtina Teteven"
+                },
+                {
+                    "city_name": "Obshtina Lukovit"
+                },
+                {
+                    "city_name": "Obshtina Lovech"
+                },
+                {
+                    "city_name": "Obshtina Letnitsa"
+                },
+                {
+                    "city_name": "Obshtina Apriltsi"
+                }
+            ]
+        },
+        {
+            "province_name": "Haskovo",
+            "cities": [
+                {
+                    "city_name": "Obshtina Topolovgrad"
+                },
+                {
+                    "city_name": "Obshtina Svilengrad"
+                },
+                {
+                    "city_name": "Obshtina Stambolovo"
+                },
+                {
+                    "city_name": "Obshtina Simeonovgrad"
+                },
+                {
+                    "city_name": "Obshtina Mineralni Bani"
+                },
+                {
+                    "city_name": "Obshtina Lyubimets"
+                },
+                {
+                    "city_name": "Obshtina Haskovo"
+                },
+                {
+                    "city_name": "Obshtina Harmanli"
+                },
+                {
+                    "city_name": "Obshtina Ivaylovgrad"
+                },
+                {
+                    "city_name": "Obshtina Dimitrovgrad"
+                },
+                {
+                    "city_name": "Obshtina Madzharovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Sofia-Grad",
+            "cities": [
+                {
+                    "city_name": "Stolichna Obshtina"
+                }
+            ]
+        },
+        {
+            "province_name": "Burgas",
+            "cities": [
+                {
+                    "city_name": "Obshtina Sungurlare"
+                },
+                {
+                    "city_name": "Obshtina Sozopol"
+                },
+                {
+                    "city_name": "Obshtina Ruen"
+                },
+                {
+                    "city_name": "Obshtina Pomorie"
+                },
+                {
+                    "city_name": "Obshtina Nesebar"
+                },
+                {
+                    "city_name": "Obshtina Tsarevo"
+                },
+                {
+                    "city_name": "Obshtina Malko Tarnovo"
+                },
+                {
+                    "city_name": "Obshtina Karnobat"
+                },
+                {
+                    "city_name": "Obshtina Kameno"
+                },
+                {
+                    "city_name": "Obshtina Sredets"
+                },
+                {
+                    "city_name": "Obshtina Burgas"
+                },
+                {
+                    "city_name": "Obshtina Aytos"
+                },
+                {
+                    "city_name": "Obshtina Primorsko"
+                }
+            ]
+        },
+        {
+            "province_name": "Blagoevgrad",
+            "cities": [
+                {
+                    "city_name": "Obshtina Yakoruda"
+                },
+                {
+                    "city_name": "Obshtina Strumyani"
+                },
+                {
+                    "city_name": "Obshtina Simitli"
+                },
+                {
+                    "city_name": "Obshtina Satovcha"
+                },
+                {
+                    "city_name": "Obshtina Sandanski"
+                },
+                {
+                    "city_name": "Obshtina Razlog"
+                },
+                {
+                    "city_name": "Obshtina Petrich"
+                },
+                {
+                    "city_name": "Obshtina Kresna"
+                },
+                {
+                    "city_name": "Hadzhidimovo"
+                },
+                {
+                    "city_name": "Obshtina Garmen"
+                },
+                {
+                    "city_name": "Obshtina Gotse Delchev"
+                },
+                {
+                    "city_name": "Obshtina Blagoevgrad"
+                },
+                {
+                    "city_name": "Obshtina Belitsa"
+                },
+                {
+                    "city_name": "Obshtina Bansko"
+                }
+            ]
+        },
+        {
+            "province_name": "Gabrovo",
+            "cities": [
+                {
+                    "city_name": "Obshtina Tryavna"
+                },
+                {
+                    "city_name": "Obshtina Sevlievo"
+                },
+                {
+                    "city_name": "Obshtina Gabrovo"
+                },
+                {
+                    "city_name": "Obshtina Dryanovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Kardzhali",
+            "cities": [
+                {
+                    "city_name": "Obshtina Momchilgrad"
+                },
+                {
+                    "city_name": "Obshtina Kardzhali"
+                },
+                {
+                    "city_name": "Obshtina Krumovgrad"
+                },
+                {
+                    "city_name": "Obshtina Kirkovo"
+                },
+                {
+                    "city_name": "Obshtina Dzhebel"
+                },
+                {
+                    "city_name": "Obshtina Chernoochene"
+                },
+                {
+                    "city_name": "Obshtina Ardino"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Kyustendil",
+            "cities": [
+                {
+                    "city_name": "Obshtina Treklyano"
+                },
+                {
+                    "city_name": "Obshtina Dupnitsa"
+                },
+                {
+                    "city_name": "Obshtina Sapareva Banya"
+                },
+                {
+                    "city_name": "Obshtina Rila"
+                },
+                {
+                    "city_name": "Obshtina Nevestino"
+                },
+                {
+                    "city_name": "Obshtina Kyustendil"
+                },
+                {
+                    "city_name": "Obshtina Kocherinovo"
+                },
+                {
+                    "city_name": "Obshtina Bobov Dol"
+                },
+                {
+                    "city_name": "Obshtina Boboshevo"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Shumen",
+            "cities": [
+                {
+                    "city_name": "Obshtina Varbitsa"
+                },
+                {
+                    "city_name": "Obshtina Venets"
+                },
+                {
+                    "city_name": "Obshtina Smyadovo"
+                },
+                {
+                    "city_name": "Obshtina Shumen"
+                },
+                {
+                    "city_name": "Obshtina Veliki Preslav"
+                },
+                {
+                    "city_name": "Obshtina Novi Pazar"
+                },
+                {
+                    "city_name": "Obshtina Nikola-Kozlevo"
+                },
+                {
+                    "city_name": "Obshtina Kaspichan"
+                },
+                {
+                    "city_name": "Obshtina Kaolinovo"
+                },
+                {
+                    "city_name": "Obshtina Hitrino"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Silistra",
+            "cities": [
+                {
+                    "city_name": "Obshtina Tutrakan"
+                },
+                {
+                    "city_name": "Obshtina Sitovo"
+                },
+                {
+                    "city_name": "Obshtina Silistra"
+                },
+                {
+                    "city_name": "Obshtina Kaynardzha"
+                },
+                {
+                    "city_name": "Obshtina Glavinitsa"
+                },
+                {
+                    "city_name": "Obshtina Dulovo"
+                },
+                {
+                    "city_name": "Obshtina Alfatar"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Sliven",
+            "cities": [
+                {
+                    "city_name": "Obshtina Tvarditsa"
+                },
+                {
+                    "city_name": "Obshtina Sliven"
+                },
+                {
+                    "city_name": "Obshtina Nova Zagora"
+                },
+                {
+                    "city_name": "Obshtina Kotel"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Smolyan",
+            "cities": [
+                {
+                    "city_name": "Obshtina Zlatograd"
+                },
+                {
+                    "city_name": "Obshtina Smolyan"
+                },
+                {
+                    "city_name": "Obshtina Rudozem"
+                },
+                {
+                    "city_name": "Obshtina Nedelino"
+                },
+                {
+                    "city_name": "Obshtina Madan"
+                },
+                {
+                    "city_name": "Obshtina Dospat"
+                },
+                {
+                    "city_name": "Obshtina Devin"
+                },
+                {
+                    "city_name": "Obshtina Chepelare"
+                },
+                {
+                    "city_name": "Obshtina Borino"
+                },
+                {
+                    "city_name": "Obshtina Banite"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Stara Zagora",
+            "cities": [
+                {
+                    "city_name": "Obshtina Stara Zagora"
+                },
+                {
+                    "city_name": "Obshtina Radnevo"
+                },
+                {
+                    "city_name": "Obshtina Pavel Banya"
+                },
+                {
+                    "city_name": "Obshtina Opan"
+                },
+                {
+                    "city_name": "Obshtina Maglizh"
+                },
+                {
+                    "city_name": "Obshtina Kazanluk"
+                },
+                {
+                    "city_name": "Obshtina Gurkovo"
+                },
+                {
+                    "city_name": "Obshtina Galabovo"
+                },
+                {
+                    "city_name": "Obshtina Chirpan"
+                },
+                {
+                    "city_name": "Obshtina Bratya Daskalovi"
+                },
+                {
+                    "city_name": "Obshtina Nikolaevo"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Targovishte",
+            "cities": [
+                {
+                    "city_name": "Obshtina Targovishte"
+                },
+                {
+                    "city_name": "Obshtina Popovo"
+                },
+                {
+                    "city_name": "Obshtina Opaka"
+                },
+                {
+                    "city_name": "Obshtina Omurtag"
+                },
+                {
+                    "city_name": "Obshtina Antonovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Veliko Tarnovo",
+            "cities": [
+                {
+                    "city_name": "Obshtina Zlataritsa"
+                },
+                {
+                    "city_name": "Obshtina Veliko Turnovo"
+                },
+                {
+                    "city_name": "Obshtina Svishtov"
+                },
+                {
+                    "city_name": "Obshtina Suhindol"
+                },
+                {
+                    "city_name": "Obshtina Strazhitsa"
+                },
+                {
+                    "city_name": "Obshtina Polski Trambesh"
+                },
+                {
+                    "city_name": "Obshtina Pavlikeni"
+                },
+                {
+                    "city_name": "Obshtina Lyaskovets"
+                },
+                {
+                    "city_name": "Obshtina Gorna Oryahovitsa"
+                },
+                {
+                    "city_name": "Obshtina Elena"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Vidin",
+            "cities": [
+                {
+                    "city_name": "Obshtina Vidin"
+                },
+                {
+                    "city_name": "Obshtina Ruzhintsi"
+                },
+                {
+                    "city_name": "Obshtina Novo Selo"
+                },
+                {
+                    "city_name": "Obshtina Makresh"
+                },
+                {
+                    "city_name": "Obshtina Kula"
+                },
+                {
+                    "city_name": "Obshtina Gramada"
+                },
+                {
+                    "city_name": "Obshtina Dimovo"
+                },
+                {
+                    "city_name": "Obshtina Chuprene"
+                },
+                {
+                    "city_name": "Obshtina Bregovo"
+                },
+                {
+                    "city_name": "Obshtina Boynitsa"
+                },
+                {
+                    "city_name": "Obshtina Belogradchik"
+                }
+            ]
+        },
+        {
+            "province_name": "Oblast Yambol",
+            "cities": [
+                {
+                    "city_name": "Obshtina Yambol"
+                },
+                {
+                    "city_name": "Obshtina Straldzha"
+                },
+                {
+                    "city_name": "Obshtina Elhovo"
+                },
+                {
+                    "city_name": "Obshtina Bolyarovo"
+                },
+                {
+                    "city_name": "Obshtina Tundzha"
+                }
+            ]
+        }
+    ]
+}

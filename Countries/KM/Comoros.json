@@ -1,0 +1,18 @@
+{
+    "country_name": "Comoros",
+    "country_id": "KM",
+    "provinces": [
+        {
+            "province_name": "Moheli",
+            "cities": []
+        },
+        {
+            "province_name": "Grande Comore",
+            "cities": []
+        },
+        {
+            "province_name": "Ndzuwani",
+            "cities": []
+        }
+    ]
+}

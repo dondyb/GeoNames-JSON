@@ -1,0 +1,34 @@
+{
+    "country_name": "Andorra",
+    "country_id": "AD",
+    "provinces": [
+        {
+            "province_name": "Sant Julia de Loria",
+            "cities": []
+        },
+        {
+            "province_name": "Ordino",
+            "cities": []
+        },
+        {
+            "province_name": "La Massana",
+            "cities": []
+        },
+        {
+            "province_name": "Encamp",
+            "cities": []
+        },
+        {
+            "province_name": "Canillo",
+            "cities": []
+        },
+        {
+            "province_name": "Andorra la Vella",
+            "cities": []
+        },
+        {
+            "province_name": "Escaldes-Engordany",
+            "cities": []
+        }
+    ]
+}

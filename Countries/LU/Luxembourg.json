@@ -1,0 +1,381 @@
+{
+    "country_name": "Luxembourg",
+    "country_id": "LU",
+    "provinces": [
+        {
+            "province_name": "Wiltz",
+            "cities": [
+                {
+                    "city_name": "Wiltz"
+                },
+                {
+                    "city_name": "Lac de la Haute-Sure"
+                },
+                {
+                    "city_name": "Boulaide"
+                },
+                {
+                    "city_name": "Esch-sur-Sure"
+                },
+                {
+                    "city_name": "Goesdorf"
+                },
+                {
+                    "city_name": "Winseler"
+                },
+                {
+                    "city_name": "Kiischpelt"
+                }
+            ]
+        },
+        {
+            "province_name": "Vianden",
+            "cities": [
+                {
+                    "city_name": "Tandel"
+                },
+                {
+                    "city_name": "Putscheid"
+                },
+                {
+                    "city_name": "Vianden"
+                }
+            ]
+        },
+        {
+            "province_name": "Remich",
+            "cities": [
+                {
+                    "city_name": "Bous"
+                },
+                {
+                    "city_name": "Dalheim"
+                },
+                {
+                    "city_name": "Lenningen"
+                },
+                {
+                    "city_name": "Mondorf-les-Bains"
+                },
+                {
+                    "city_name": "Schengen"
+                },
+                {
+                    "city_name": "Remich"
+                },
+                {
+                    "city_name": "Stadtbredimus"
+                },
+                {
+                    "city_name": "Waldbredimus"
+                }
+            ]
+        },
+        {
+            "province_name": "Redange",
+            "cities": [
+                {
+                    "city_name": "Beckerich"
+                },
+                {
+                    "city_name": "Ell"
+                },
+                {
+                    "city_name": "Rambrouch"
+                },
+                {
+                    "city_name": "Grosbous"
+                },
+                {
+                    "city_name": "Redange-sur-Attert"
+                },
+                {
+                    "city_name": "Saeul"
+                },
+                {
+                    "city_name": "Useldange"
+                },
+                {
+                    "city_name": "Vichten"
+                },
+                {
+                    "city_name": "Wahl"
+                },
+                {
+                    "city_name": "Commune de Preizerdaul"
+                }
+            ]
+        },
+        {
+            "province_name": "Mersch",
+            "cities": [
+                {
+                    "city_name": "Berg"
+                },
+                {
+                    "city_name": "Bissen"
+                },
+                {
+                    "city_name": "Boevange-sur-Attert"
+                },
+                {
+                    "city_name": "Fischbach"
+                },
+                {
+                    "city_name": "Heffingen"
+                },
+                {
+                    "city_name": "Larochette"
+                },
+                {
+                    "city_name": "Lintgen"
+                },
+                {
+                    "city_name": "Lorentzweiler"
+                },
+                {
+                    "city_name": "Mersch"
+                },
+                {
+                    "city_name": "Nommern"
+                },
+                {
+                    "city_name": "Tuntange"
+                }
+            ]
+        },
+        {
+            "province_name": "Luxembourg",
+            "cities": [
+                {
+                    "city_name": "Ville de Luxembourg"
+                },
+                {
+                    "city_name": "Bertrange"
+                },
+                {
+                    "city_name": "Contern"
+                },
+                {
+                    "city_name": "Hesperange"
+                },
+                {
+                    "city_name": "Niederanven"
+                },
+                {
+                    "city_name": "Sandweiler"
+                },
+                {
+                    "city_name": "Schuttrange"
+                },
+                {
+                    "city_name": "Steinsel"
+                },
+                {
+                    "city_name": "Strassen"
+                },
+                {
+                    "city_name": "Walferdange"
+                },
+                {
+                    "city_name": "Weiler-la-Tour"
+                }
+            ]
+        },
+        {
+            "province_name": "Grevenmacher",
+            "cities": [
+                {
+                    "city_name": "Grevenmacher"
+                },
+                {
+                    "city_name": "Betzdorf"
+                },
+                {
+                    "city_name": "Biwer"
+                },
+                {
+                    "city_name": "Flaxweiler"
+                },
+                {
+                    "city_name": "Junglinster"
+                },
+                {
+                    "city_name": "Manternach"
+                },
+                {
+                    "city_name": "Mertert"
+                },
+                {
+                    "city_name": "Wormeldange"
+                }
+            ]
+        },
+        {
+            "province_name": "Canton d'Esch-sur-Alzette",
+            "cities": [
+                {
+                    "city_name": "Schifflange"
+                },
+                {
+                    "city_name": "Sanem"
+                },
+                {
+                    "city_name": "Rumelange"
+                },
+                {
+                    "city_name": "Petange"
+                },
+                {
+                    "city_name": "Kayl"
+                },
+                {
+                    "city_name": "Dudelange"
+                },
+                {
+                    "city_name": "Differdange"
+                },
+                {
+                    "city_name": "Bettembourg"
+                },
+                {
+                    "city_name": "Esch-sur-Alzette"
+                },
+                {
+                    "city_name": "Frisange"
+                },
+                {
+                    "city_name": "Leudelange"
+                },
+                {
+                    "city_name": "Mondercange"
+                },
+                {
+                    "city_name": "Reckange-sur-Mess"
+                },
+                {
+                    "city_name": "Roeser"
+                }
+            ]
+        },
+        {
+            "province_name": "Canton d'Echternach",
+            "cities": [
+                {
+                    "city_name": "Echternach"
+                },
+                {
+                    "city_name": "Beaufort"
+                },
+                {
+                    "city_name": "Bech"
+                },
+                {
+                    "city_name": "Berdorf"
+                },
+                {
+                    "city_name": "Consdorf"
+                },
+                {
+                    "city_name": "Mompach"
+                },
+                {
+                    "city_name": "Rosport"
+                },
+                {
+                    "city_name": "Waldbillig"
+                }
+            ]
+        },
+        {
+            "province_name": "Diekirch",
+            "cities": [
+                {
+                    "city_name": "Ettelbruck"
+                },
+                {
+                    "city_name": "Diekirch"
+                },
+                {
+                    "city_name": "Feulen"
+                },
+                {
+                    "city_name": "Bettendorf"
+                },
+                {
+                    "city_name": "Bourscheid"
+                },
+                {
+                    "city_name": "Erpeldange"
+                },
+                {
+                    "city_name": "Mertzig"
+                },
+                {
+                    "city_name": "Reisdorf"
+                },
+                {
+                    "city_name": "Schieren"
+                },
+                {
+                    "city_name": "Commune de la Vallee de l'Ernz"
+                }
+            ]
+        },
+        {
+            "province_name": "Clervaux",
+            "cities": [
+                {
+                    "city_name": "Troisvierges"
+                },
+                {
+                    "city_name": "Wincrange"
+                },
+                {
+                    "city_name": "Clervaux"
+                },
+                {
+                    "city_name": "Weiswampach"
+                },
+                {
+                    "city_name": "Parc Hosingen"
+                }
+            ]
+        },
+        {
+            "province_name": "Capellen",
+            "cities": [
+                {
+                    "city_name": "Dippach"
+                },
+                {
+                    "city_name": "Garnich"
+                },
+                {
+                    "city_name": "Hobscheid"
+                },
+                {
+                    "city_name": "Kehlen"
+                },
+                {
+                    "city_name": "Koerich"
+                },
+                {
+                    "city_name": "Kopstal"
+                },
+                {
+                    "city_name": "Mamer"
+                },
+                {
+                    "city_name": "Septfontaines"
+                },
+                {
+                    "city_name": "Steinfort"
+                },
+                {
+                    "city_name": "Kaeerjeng"
+                }
+            ]
+        }
+    ]
+}

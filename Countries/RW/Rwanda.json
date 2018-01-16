@@ -1,0 +1,121 @@
+{
+    "country_name": "Rwanda",
+    "country_id": "RW",
+    "provinces": [
+        {
+            "province_name": "Eastern Province",
+            "cities": [
+                {
+                    "city_name": "Nyagatare District"
+                },
+                {
+                    "city_name": "Gatsibo District"
+                },
+                {
+                    "city_name": "Kayonza District"
+                },
+                {
+                    "city_name": "Rwamagana District"
+                },
+                {
+                    "city_name": "Bugesera District"
+                },
+                {
+                    "city_name": "Ngoma District"
+                },
+                {
+                    "city_name": "Kirehe District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kigali Province",
+            "cities": [
+                {
+                    "city_name": "Gasabo District"
+                },
+                {
+                    "city_name": "Nyarugenge District"
+                },
+                {
+                    "city_name": "Kicukiro District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Province",
+            "cities": [
+                {
+                    "city_name": "Gicumbi District"
+                },
+                {
+                    "city_name": "Rulindo District"
+                },
+                {
+                    "city_name": "Burera District"
+                },
+                {
+                    "city_name": "Musanze District"
+                },
+                {
+                    "city_name": "Gakenke District"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Province",
+            "cities": [
+                {
+                    "city_name": "Nyabihu District"
+                },
+                {
+                    "city_name": "Ngororero District"
+                },
+                {
+                    "city_name": "Rubavu District"
+                },
+                {
+                    "city_name": "Rutsiro District"
+                },
+                {
+                    "city_name": "Karongi District"
+                },
+                {
+                    "city_name": "Nyamasheke District"
+                },
+                {
+                    "city_name": "Rusizi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Province",
+            "cities": [
+                {
+                    "city_name": "Muhanga District"
+                },
+                {
+                    "city_name": "Kamonyi District"
+                },
+                {
+                    "city_name": "Ruhango District"
+                },
+                {
+                    "city_name": "Nyanza District"
+                },
+                {
+                    "city_name": "Nyamagabe District"
+                },
+                {
+                    "city_name": "Huye District"
+                },
+                {
+                    "city_name": "Gisagara District"
+                },
+                {
+                    "city_name": "Nyaruguru District"
+                }
+            ]
+        }
+    ]
+}

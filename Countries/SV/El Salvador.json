@@ -1,0 +1,214 @@
+{
+    "country_name": "El Salvador",
+    "country_id": "SV",
+    "provinces": [
+        {
+            "province_name": "Departamento de Usulutan",
+            "cities": [
+                {
+                    "city_name": "Distrito de Usulutan"
+                },
+                {
+                    "city_name": "Distrito de Santiago de Maria"
+                },
+                {
+                    "city_name": "Distrito de Jucuapa"
+                },
+                {
+                    "city_name": "Distrito de Berlin"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Sonsonate",
+            "cities": [
+                {
+                    "city_name": "Distrito de Sonsonate"
+                },
+                {
+                    "city_name": "Distrito de Juayua"
+                },
+                {
+                    "city_name": "Distrito de Izalco"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de San Vicente",
+            "cities": [
+                {
+                    "city_name": "Distrito de San Vicente"
+                },
+                {
+                    "city_name": "Distrito de San Sebastian"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Santa Ana",
+            "cities": [
+                {
+                    "city_name": "Distrito de Santa Ana"
+                },
+                {
+                    "city_name": "Distrito de Metapan"
+                },
+                {
+                    "city_name": "Distrito de Chalchuapa"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de San Salvador",
+            "cities": [
+                {
+                    "city_name": "Distrito de Tonacatepeque"
+                },
+                {
+                    "city_name": "Distrito de Santo Tomas"
+                },
+                {
+                    "city_name": "Distrito de San Salvador"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de San Miguel",
+            "cities": [
+                {
+                    "city_name": "Distrito de Sesori"
+                },
+                {
+                    "city_name": "Distrito de San Miguel"
+                },
+                {
+                    "city_name": "Distrito de Chinameca"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Morazan",
+            "cities": [
+                {
+                    "city_name": "Distrito de San Francisco"
+                },
+                {
+                    "city_name": "Distrito de Osicala"
+                },
+                {
+                    "city_name": "Distrito de Jocoaitique"
+                },
+                {
+                    "city_name": "San Francisco Gotera"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de La Union",
+            "cities": [
+                {
+                    "city_name": "Distrito de Santa Rosa de Lima"
+                },
+                {
+                    "city_name": "Distrito de La Union"
+                },
+                {
+                    "city_name": "Bolivar"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de La Paz",
+            "cities": [
+                {
+                    "city_name": "Distrito de Zacatecoluca"
+                },
+                {
+                    "city_name": "Distrito de San Pedro Nonualco"
+                },
+                {
+                    "city_name": "Distrito de San Pedro Masahuat"
+                },
+                {
+                    "city_name": "Distrito de Olocuilta"
+                },
+                {
+                    "city_name": "San Luis Talpa"
+                },
+                {
+                    "city_name": "Guadalupe"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de La Libertad",
+            "cities": [
+                {
+                    "city_name": "Distrito de San Juan Opico"
+                },
+                {
+                    "city_name": "Distrito de Quezaltepeque"
+                },
+                {
+                    "city_name": "Distrito de Santa Tecla"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Cuscatlan",
+            "cities": [
+                {
+                    "city_name": "Distrito de Suchitoto"
+                },
+                {
+                    "city_name": "Distrito de Cojutepeque"
+                },
+                {
+                    "city_name": "San Luis la  Herradura"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Chalatenango",
+            "cities": [
+                {
+                    "city_name": "Distrito de Tejutla"
+                },
+                {
+                    "city_name": "Distrito de Dulce Nombre de Maria"
+                },
+                {
+                    "city_name": "Distrito de Chalatenango"
+                },
+                {
+                    "city_name": "Mercedes"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Cabanas",
+            "cities": [
+                {
+                    "city_name": "Distrito de Sensuntepeque"
+                },
+                {
+                    "city_name": "Distrito de Ilobasco"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Ahuachapan",
+            "cities": [
+                {
+                    "city_name": "Distrito de Atiquizaya"
+                },
+                {
+                    "city_name": "Distrito de Ahuachapan"
+                },
+                {
+                    "city_name": "San Lorenzo"
+                }
+            ]
+        }
+    ]
+}

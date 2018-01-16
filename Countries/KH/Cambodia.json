@@ -1,0 +1,698 @@
+{
+    "country_name": "Cambodia",
+    "country_id": "KH",
+    "provinces": [
+        {
+            "province_name": "Pursat",
+            "cities": [
+                {
+                    "city_name": "Bakan"
+                },
+                {
+                    "city_name": "Sampov Meas"
+                },
+                {
+                    "city_name": "Krakor"
+                },
+                {
+                    "city_name": "Srok Kandieng"
+                },
+                {
+                    "city_name": "Krong Pouthisat"
+                },
+                {
+                    "city_name": "Srok Veal Veng"
+                },
+                {
+                    "city_name": "Phnum Kravanh"
+                }
+            ]
+        },
+        {
+            "province_name": "Battambang",
+            "cities": [
+                {
+                    "city_name": "Svay Pao"
+                },
+                {
+                    "city_name": "Sangkae"
+                },
+                {
+                    "city_name": "Moung Ruessei"
+                },
+                {
+                    "city_name": "Srok Thma Koul"
+                },
+                {
+                    "city_name": "Srok Bavil"
+                },
+                {
+                    "city_name": "Srok Rotanak Mondol"
+                },
+                {
+                    "city_name": "Srok Samlot"
+                },
+                {
+                    "city_name": "Srok Banan"
+                },
+                {
+                    "city_name": "Srok Ak Phnum"
+                }
+            ]
+        },
+        {
+            "province_name": "Takeo",
+            "cities": [
+                {
+                    "city_name": "Srok Angkor Borei"
+                },
+                {
+                    "city_name": "Srok Borei Cholsar"
+                },
+                {
+                    "city_name": "Krong Doun Kaev"
+                },
+                {
+                    "city_name": "Bati"
+                },
+                {
+                    "city_name": "Kiri Vong"
+                },
+                {
+                    "city_name": "Prey Kabbas"
+                },
+                {
+                    "city_name": "Tram Kak"
+                },
+                {
+                    "city_name": "Treang"
+                }
+            ]
+        },
+        {
+            "province_name": "Svay Rieng",
+            "cities": [
+                {
+                    "city_name": "Srok Svay Chrum"
+                },
+                {
+                    "city_name": "Krong Bavet"
+                },
+                {
+                    "city_name": "Chantrea"
+                },
+                {
+                    "city_name": "Romeas Haek"
+                },
+                {
+                    "city_name": "Rumduol"
+                },
+                {
+                    "city_name": "Kampong Rou"
+                }
+            ]
+        },
+        {
+            "province_name": "Stung Treng",
+            "cities": [
+                {
+                    "city_name": "Stueng Traeng"
+                },
+                {
+                    "city_name": "Srok Sresen"
+                },
+                {
+                    "city_name": "Siem Bouk"
+                },
+                {
+                    "city_name": "Siem Pang"
+                },
+                {
+                    "city_name": "Thala Barivat"
+                }
+            ]
+        },
+        {
+            "province_name": "Otar Meanchey",
+            "cities": [
+                {
+                    "city_name": "Srok Samraong"
+                },
+                {
+                    "city_name": "Srok Banteay Ampil"
+                },
+                {
+                    "city_name": "Srok Anlong Veng"
+                },
+                {
+                    "city_name": "Srok Trapeang Prasat"
+                }
+            ]
+        },
+        {
+            "province_name": "Siem Reap",
+            "cities": [
+                {
+                    "city_name": "Srok Puok"
+                },
+                {
+                    "city_name": "Siem Reap"
+                },
+                {
+                    "city_name": "Angkor Chum"
+                },
+                {
+                    "city_name": "Varin"
+                },
+                {
+                    "city_name": "Svay Leu"
+                },
+                {
+                    "city_name": "Srok Prasat Bakong"
+                },
+                {
+                    "city_name": "Srok Angkor Thum"
+                },
+                {
+                    "city_name": "Chong Kal"
+                },
+                {
+                    "city_name": "Banteay Srei"
+                },
+                {
+                    "city_name": "Chi Kraeng"
+                },
+                {
+                    "city_name": "Kralanh"
+                },
+                {
+                    "city_name": "Soutr Nkom"
+                },
+                {
+                    "city_name": "Srei Snam"
+                }
+            ]
+        },
+        {
+            "province_name": "Ratanakiri",
+            "cities": [
+                {
+                    "city_name": "Srok Andong Meas"
+                },
+                {
+                    "city_name": "Srok Ban Lung"
+                },
+                {
+                    "city_name": "Srok Ba Kev"
+                },
+                {
+                    "city_name": "Srok Koun Mom"
+                },
+                {
+                    "city_name": "Srok Ou Chum"
+                },
+                {
+                    "city_name": "Srok Ou Ya Dav"
+                },
+                {
+                    "city_name": "Srok Ta Veng"
+                },
+                {
+                    "city_name": "Lumphat"
+                },
+                {
+                    "city_name": "Veun Sai"
+                }
+            ]
+        },
+        {
+            "province_name": "Prey Veng",
+            "cities": [
+                {
+                    "city_name": "Srok Mesang"
+                },
+                {
+                    "city_name": "Srok Preah Sdech"
+                },
+                {
+                    "city_name": "Srok Kampong Leav"
+                },
+                {
+                    "city_name": "Srok Svay Antor"
+                },
+                {
+                    "city_name": "Lvea Aem"
+                },
+                {
+                    "city_name": "Ba Phnum"
+                },
+                {
+                    "city_name": "Kamchay Mear"
+                },
+                {
+                    "city_name": "Kampong Trabaek"
+                },
+                {
+                    "city_name": "Kanhchriech"
+                },
+                {
+                    "city_name": "Pea Reang"
+                },
+                {
+                    "city_name": "Peam Chor"
+                },
+                {
+                    "city_name": "Peam Ro"
+                },
+                {
+                    "city_name": "Sithor Kandal"
+                },
+                {
+                    "city_name": "Me Sang"
+                }
+            ]
+        },
+        {
+            "province_name": "Preah Vihear",
+            "cities": [
+                {
+                    "city_name": "Srok Rovieng"
+                },
+                {
+                    "city_name": "Srok Chheb"
+                },
+                {
+                    "city_name": "Sangkom Thmei"
+                },
+                {
+                    "city_name": "Srok Ch'eh Sen"
+                },
+                {
+                    "city_name": "Srok Kulen"
+                },
+                {
+                    "city_name": "Srok Tbeng Meanchey"
+                },
+                {
+                    "city_name": "Krong Preah Vihear"
+                },
+                {
+                    "city_name": "Choam Khsant"
+                }
+            ]
+        },
+        {
+            "province_name": "Phnom Penh",
+            "cities": [
+                {
+                    "city_name": "Phnom Penh"
+                },
+                {
+                    "city_name": "Khan Russey Keo"
+                },
+                {
+                    "city_name": "Khan Duon Penh"
+                },
+                {
+                    "city_name": "Khan Tuol Kouk"
+                },
+                {
+                    "city_name": "Khan 7 Makara"
+                },
+                {
+                    "city_name": "Khan Chamkar Mon"
+                },
+                {
+                    "city_name": "Khan Saen Sokh"
+                },
+                {
+                    "city_name": "Khan Mean Chey"
+                },
+                {
+                    "city_name": "Khan Chey Por Senchey"
+                },
+                {
+                    "city_name": "Khan Dangkao"
+                }
+            ]
+        },
+        {
+            "province_name": "Pailin",
+            "cities": [
+                {
+                    "city_name": "Khan Sala Krau"
+                },
+                {
+                    "city_name": "Khan Pailin"
+                }
+            ]
+        },
+        {
+            "province_name": "Mondolkiri",
+            "cities": [
+                {
+                    "city_name": "Srok Kaev Seima"
+                },
+                {
+                    "city_name": "Srok Pech Chreada"
+                },
+                {
+                    "city_name": "Krong Senmonourom"
+                },
+                {
+                    "city_name": "Khaoh Neaek"
+                },
+                {
+                    "city_name": "Ou Reang"
+                }
+            ]
+        },
+        {
+            "province_name": "Kratie",
+            "cities": [
+                {
+                    "city_name": "Kracheh"
+                },
+                {
+                    "city_name": "Srok Chet Buri"
+                },
+                {
+                    "city_name": "Chhloung"
+                },
+                {
+                    "city_name": "Preaek Prasab"
+                },
+                {
+                    "city_name": "Sambour"
+                },
+                {
+                    "city_name": "Snuol"
+                }
+            ]
+        },
+        {
+            "province_name": "Kep",
+            "cities": [
+                {
+                    "city_name": "Srok Damnak Chang'aeur"
+                }
+            ]
+        },
+        {
+            "province_name": "Koh Kong",
+            "cities": [
+                {
+                    "city_name": "Srok Batum Sakor"
+                },
+                {
+                    "city_name": "Krong Khemara Phumin"
+                },
+                {
+                    "city_name": "Srok Mondol Seima"
+                },
+                {
+                    "city_name": "Srae Ambel"
+                },
+                {
+                    "city_name": "Kampong Seila"
+                },
+                {
+                    "city_name": "Kiri Sakor"
+                },
+                {
+                    "city_name": "Thma Bang"
+                }
+            ]
+        },
+        {
+            "province_name": "Kandal",
+            "cities": [
+                {
+                    "city_name": "Srok Khsach Kandal"
+                },
+                {
+                    "city_name": "Krong Ta Khmau"
+                },
+                {
+                    "city_name": "Kaoh Thum"
+                },
+                {
+                    "city_name": "Kien Svay"
+                },
+                {
+                    "city_name": "Leuk Daek"
+                },
+                {
+                    "city_name": "Mukh Kampul"
+                },
+                {
+                    "city_name": "Popnhea Lueu"
+                },
+                {
+                    "city_name": "S'ang"
+                }
+            ]
+        },
+        {
+            "province_name": "Kampot",
+            "cities": [
+                {
+                    "city_name": "Srok Chum Kiri"
+                },
+                {
+                    "city_name": "Srok Dangtong"
+                },
+                {
+                    "city_name": "Srok Tuek Chhou"
+                },
+                {
+                    "city_name": "Mittakpheap District"
+                },
+                {
+                    "city_name": "Kampong Bay"
+                },
+                {
+                    "city_name": "Kampong Tranch"
+                },
+                {
+                    "city_name": "Banteay Meas"
+                },
+                {
+                    "city_name": "Angkor Chey"
+                },
+                {
+                    "city_name": "Chhouk District"
+                },
+                {
+                    "city_name": "Prey Nob"
+                }
+            ]
+        },
+        {
+            "province_name": "Kampong Thom",
+            "cities": [
+                {
+                    "city_name": "Srok Stoung"
+                },
+                {
+                    "city_name": "Srok Kampong Svay"
+                },
+                {
+                    "city_name": "Stueng Saen"
+                },
+                {
+                    "city_name": "Baray"
+                },
+                {
+                    "city_name": "Santuk"
+                },
+                {
+                    "city_name": "Prasat Balangk"
+                },
+                {
+                    "city_name": "Srok Prasat Sambor"
+                },
+                {
+                    "city_name": "Sandan"
+                }
+            ]
+        },
+        {
+            "province_name": "Kampong Speu",
+            "cities": [
+                {
+                    "city_name": "Srok Odongk"
+                },
+                {
+                    "city_name": "Srok Kong Pisei"
+                },
+                {
+                    "city_name": "Srok Basedth"
+                },
+                {
+                    "city_name": "Krong Chbar Mon"
+                },
+                {
+                    "city_name": "Aoral"
+                },
+                {
+                    "city_name": "Phnum Sruoch"
+                },
+                {
+                    "city_name": "Samraong Tong"
+                },
+                {
+                    "city_name": "Thpong"
+                }
+            ]
+        },
+        {
+            "province_name": "Kampong Chhnang",
+            "cities": [
+                {
+                    "city_name": "Kampong Chhnang"
+                },
+                {
+                    "city_name": "Baribour"
+                },
+                {
+                    "city_name": "Rolea B'ier"
+                },
+                {
+                    "city_name": "Srok Chol Kiri"
+                },
+                {
+                    "city_name": "Srok Sameakki Mean Chey"
+                },
+                {
+                    "city_name": "Kampong Leaeng"
+                },
+                {
+                    "city_name": "Kampong Tralach"
+                },
+                {
+                    "city_name": "Tuek Phos"
+                }
+            ]
+        },
+        {
+            "province_name": "Kampong Cham",
+            "cities": [
+                {
+                    "city_name": "Cheung Prey"
+                },
+                {
+                    "city_name": "Kampong Cham"
+                },
+                {
+                    "city_name": "Srok Batheay"
+                },
+                {
+                    "city_name": "Chamkar Leu"
+                },
+                {
+                    "city_name": "Kampong Siem"
+                },
+                {
+                    "city_name": "Kang Meas"
+                },
+                {
+                    "city_name": "Kaoh Soutin"
+                },
+                {
+                    "city_name": "Prey Chhor"
+                },
+                {
+                    "city_name": "Srei Santhor"
+                },
+                {
+                    "city_name": "Steung Trang"
+                }
+            ]
+        },
+        {
+            "province_name": "Sihanoukville",
+            "cities": [
+                {
+                    "city_name": "Srok Stueng Hav"
+                }
+            ]
+        },
+        {
+            "province_name": "Banteay Meanchey",
+            "cities": [
+                {
+                    "city_name": "Srok Thma Pok"
+                },
+                {
+                    "city_name": "Srok Svay Chek"
+                },
+                {
+                    "city_name": "Srok Malai"
+                },
+                {
+                    "city_name": "Srok Sampou Lun"
+                },
+                {
+                    "city_name": "Srok Kamrieng"
+                },
+                {
+                    "city_name": "Srok Koas Krala"
+                },
+                {
+                    "city_name": "Srok Rukh Kiri"
+                },
+                {
+                    "city_name": "Krong Paoy Pet"
+                },
+                {
+                    "city_name": "Srok Phnum Proek"
+                },
+                {
+                    "city_name": "Ou Chrov District"
+                },
+                {
+                    "city_name": "Serei Saophoan"
+                },
+                {
+                    "city_name": "Mongkol Borei"
+                },
+                {
+                    "city_name": "Phnom Srok"
+                },
+                {
+                    "city_name": "Preah Netr Preah"
+                },
+                {
+                    "city_name": "Thma Puok"
+                }
+            ]
+        },
+        {
+            "province_name": "Tboung Khmum",
+            "cities": [
+                {
+                    "city_name": "Srok Tbong Khmum"
+                },
+                {
+                    "city_name": "Srok Memot"
+                },
+                {
+                    "city_name": "Srok Kroch Chhmar"
+                },
+                {
+                    "city_name": "Srok Dambe"
+                },
+                {
+                    "city_name": "Srok O Reang Au"
+                },
+                {
+                    "city_name": "Srok Ponhe Krek"
+                },
+                {
+                    "city_name": "Krong Suong"
+                }
+            ]
+        }
+    ]
+}

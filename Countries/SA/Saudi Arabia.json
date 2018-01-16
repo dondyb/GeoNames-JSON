@@ -1,0 +1,425 @@
+{
+    "country_name": "Saudi Arabia",
+    "country_id": "SA",
+    "provinces": [
+        {
+            "province_name": "Mintaqat Tabuk",
+            "cities": [
+                {
+                    "city_name": "Al Wajh"
+                },
+                {
+                    "city_name": "Duba'"
+                },
+                {
+                    "city_name": "Haql"
+                },
+                {
+                    "city_name": "Tabuk"
+                },
+                {
+                    "city_name": "Tayma'"
+                },
+                {
+                    "city_name": "Umluj"
+                }
+            ]
+        },
+        {
+            "province_name": "Mintaqat Najran",
+            "cities": [
+                {
+                    "city_name": "Al Kharkhir"
+                },
+                {
+                    "city_name": "Badr al Janub"
+                },
+                {
+                    "city_name": "Hubuna"
+                },
+                {
+                    "city_name": "Khubash"
+                },
+                {
+                    "city_name": "Najran"
+                },
+                {
+                    "city_name": "Sharurah"
+                },
+                {
+                    "city_name": "Thar"
+                },
+                {
+                    "city_name": "Yadamah"
+                }
+            ]
+        },
+        {
+            "province_name": "Makkah Province",
+            "cities": [
+                {
+                    "city_name": "Al Jumum"
+                },
+                {
+                    "city_name": "Al Kamil"
+                },
+                {
+                    "city_name": "Al Khurmah"
+                },
+                {
+                    "city_name": "Al Lith"
+                },
+                {
+                    "city_name": "Al Qunfidhah"
+                },
+                {
+                    "city_name": "At Ta'if"
+                },
+                {
+                    "city_name": "Jiddah"
+                },
+                {
+                    "city_name": "Khulays"
+                },
+                {
+                    "city_name": "Makkah al Mukarramah"
+                },
+                {
+                    "city_name": "Rabigh"
+                },
+                {
+                    "city_name": "Ranyah"
+                },
+                {
+                    "city_name": "Turubah"
+                }
+            ]
+        },
+        {
+            "province_name": "Jizan Region",
+            "cities": [
+                {
+                    "city_name": "Abu `Arish"
+                },
+                {
+                    "city_name": "Ad Da'ir"
+                },
+                {
+                    "city_name": "Ad Darb"
+                },
+                {
+                    "city_name": "Ahad al Musarihah"
+                },
+                {
+                    "city_name": "Al `Aridah"
+                },
+                {
+                    "city_name": "Al Harth"
+                },
+                {
+                    "city_name": "Al `Idabi"
+                },
+                {
+                    "city_name": "Ar Rayth"
+                },
+                {
+                    "city_name": "Baysh"
+                },
+                {
+                    "city_name": "Damad"
+                },
+                {
+                    "city_name": "Farasan"
+                },
+                {
+                    "city_name": "Jazan"
+                },
+                {
+                    "city_name": "Sabya'"
+                },
+                {
+                    "city_name": "Samitah"
+                }
+            ]
+        },
+        {
+            "province_name": "Hai'l Region",
+            "cities": [
+                {
+                    "city_name": "Al Ghazalah"
+                },
+                {
+                    "city_name": "Ash Shinan"
+                },
+                {
+                    "city_name": "Baq`a'"
+                },
+                {
+                    "city_name": "Ha'il"
+                }
+            ]
+        },
+        {
+            "province_name": "Mintaqat 'Asir",
+            "cities": [
+                {
+                    "city_name": "Abha"
+                },
+                {
+                    "city_name": "Ahad Rufaydah"
+                },
+                {
+                    "city_name": "Al Majaridah"
+                },
+                {
+                    "city_name": "An Namas"
+                },
+                {
+                    "city_name": "Balqarn"
+                },
+                {
+                    "city_name": "Bishah"
+                },
+                {
+                    "city_name": "Khamis Mushayt"
+                },
+                {
+                    "city_name": "Muha'il"
+                },
+                {
+                    "city_name": "Rijal Alma`"
+                },
+                {
+                    "city_name": "Sarat `Abidah"
+                },
+                {
+                    "city_name": "Tathlith"
+                },
+                {
+                    "city_name": "Zahran al Janub"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Mintaqah ash Sharqiyah",
+            "cities": [
+                {
+                    "city_name": "Ad Dammam"
+                },
+                {
+                    "city_name": "Al Ahsa'"
+                },
+                {
+                    "city_name": "Al Jubayl"
+                },
+                {
+                    "city_name": "Al Khafji"
+                },
+                {
+                    "city_name": "Al Khubar"
+                },
+                {
+                    "city_name": "An Nu`ayriyah"
+                },
+                {
+                    "city_name": "Al Qatif"
+                },
+                {
+                    "city_name": "Buqayq"
+                },
+                {
+                    "city_name": "Hafr al Batin"
+                },
+                {
+                    "city_name": "Qaryah al `Ulya"
+                },
+                {
+                    "city_name": "Ra's Tannurah"
+                }
+            ]
+        },
+        {
+            "province_name": "Mintaqat ar Riyad",
+            "cities": [
+                {
+                    "city_name": "Ad Dawadimi"
+                },
+                {
+                    "city_name": "Ad Dir`iyah"
+                },
+                {
+                    "city_name": "`Afif"
+                },
+                {
+                    "city_name": "Al Aflaj"
+                },
+                {
+                    "city_name": "Al Ghat"
+                },
+                {
+                    "city_name": "Al Hariq"
+                },
+                {
+                    "city_name": "Al Kharj"
+                },
+                {
+                    "city_name": "Al Majma`ah"
+                },
+                {
+                    "city_name": "Al Muzahimiyah"
+                },
+                {
+                    "city_name": "Al Quway`iyah"
+                },
+                {
+                    "city_name": "Ar Riyad"
+                },
+                {
+                    "city_name": "As Sulayyil"
+                },
+                {
+                    "city_name": "Az Zulfi"
+                },
+                {
+                    "city_name": "Duruma"
+                },
+                {
+                    "city_name": "Hawtat Bani Tamim"
+                },
+                {
+                    "city_name": "Huraymila'"
+                },
+                {
+                    "city_name": "Rumah"
+                },
+                {
+                    "city_name": "Shaqra'"
+                },
+                {
+                    "city_name": "Thadiq"
+                },
+                {
+                    "city_name": "Wadi ad Dawasir"
+                }
+            ]
+        },
+        {
+            "province_name": "Al-Qassim Province",
+            "cities": [
+                {
+                    "city_name": "Al Asyah"
+                },
+                {
+                    "city_name": "Al Bada'i`"
+                },
+                {
+                    "city_name": "Al Bukayriyah"
+                },
+                {
+                    "city_name": "Al Midhnab"
+                },
+                {
+                    "city_name": "An Nabhaniyah"
+                },
+                {
+                    "city_name": "Ar Rass"
+                },
+                {
+                    "city_name": "Ash Shimasiyah"
+                },
+                {
+                    "city_name": "Buraydah"
+                },
+                {
+                    "city_name": "Riyad al Khabra'"
+                },
+                {
+                    "city_name": "Governorate of Unaizah"
+                },
+                {
+                    "city_name": "`Uyun al Jiwa'"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Madinah al Munawwarah",
+            "cities": [
+                {
+                    "city_name": "Al Hinakiyah"
+                },
+                {
+                    "city_name": "Al Madinah al Munawwarah"
+                },
+                {
+                    "city_name": "Al Mahd"
+                },
+                {
+                    "city_name": "Al `Ula"
+                },
+                {
+                    "city_name": "Badr"
+                },
+                {
+                    "city_name": "Khaybar"
+                },
+                {
+                    "city_name": "Yanbu` al Bahr"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Jawf",
+            "cities": [
+                {
+                    "city_name": "Al Qurayyat"
+                },
+                {
+                    "city_name": "Dawmat al Jandal"
+                },
+                {
+                    "city_name": "Sakaka"
+                }
+            ]
+        },
+        {
+            "province_name": "Mintaqat al Hudud ash Shamaliyah",
+            "cities": [
+                {
+                    "city_name": "`Ar`ar"
+                },
+                {
+                    "city_name": "Rafha"
+                },
+                {
+                    "city_name": "Turayf"
+                }
+            ]
+        },
+        {
+            "province_name": "Mintaqat al Bahah",
+            "cities": [
+                {
+                    "city_name": "Al `Aqiq"
+                },
+                {
+                    "city_name": "Al Bahah"
+                },
+                {
+                    "city_name": "Al Mandaq"
+                },
+                {
+                    "city_name": "Al Mikhwah"
+                },
+                {
+                    "city_name": "Al Qura"
+                },
+                {
+                    "city_name": "Baljurashi"
+                },
+                {
+                    "city_name": "Qilwah"
+                }
+            ]
+        }
+    ]
+}

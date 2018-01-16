@@ -1,0 +1,259 @@
+{
+    "country_name": "Syria",
+    "country_id": "SY",
+    "provinces": [
+        {
+            "province_name": "Tartus Governorate",
+            "cities": [
+                {
+                    "city_name": "Tartus District"
+                },
+                {
+                    "city_name": "Safita District"
+                },
+                {
+                    "city_name": "Baniyas District"
+                },
+                {
+                    "city_name": "Duraykish District"
+                },
+                {
+                    "city_name": "Al-Shaykh Badr District"
+                }
+            ]
+        },
+        {
+            "province_name": "Damascus Governorate",
+            "cities": [
+                {
+                    "city_name": "Mintaqat Dimashq"
+                }
+            ]
+        },
+        {
+            "province_name": "Idlib Governorate",
+            "cities": [
+                {
+                    "city_name": "Maarrat al-Nu'man District"
+                },
+                {
+                    "city_name": "Jisr al-Shughur District"
+                },
+                {
+                    "city_name": "Idlib District"
+                },
+                {
+                    "city_name": "Harem District"
+                },
+                {
+                    "city_name": "Ariha District"
+                }
+            ]
+        },
+        {
+            "province_name": "Homs Governorate",
+            "cities": [
+                {
+                    "city_name": "Talkalakh District"
+                },
+                {
+                    "city_name": "Homs District"
+                },
+                {
+                    "city_name": "Al-Rastan District"
+                },
+                {
+                    "city_name": "Al-Qusayr District"
+                },
+                {
+                    "city_name": "Al-Mukharram District"
+                },
+                {
+                    "city_name": "Tadmur District"
+                }
+            ]
+        },
+        {
+            "province_name": "Hama Governorate",
+            "cities": [
+                {
+                    "city_name": "Al-Salamiyah District"
+                },
+                {
+                    "city_name": "Masyaf District"
+                },
+                {
+                    "city_name": "Hama District"
+                },
+                {
+                    "city_name": "Al-Suqaylabiyah District"
+                },
+                {
+                    "city_name": "Mhardeh District"
+                }
+            ]
+        },
+        {
+            "province_name": "Aleppo Governorate",
+            "cities": [
+                {
+                    "city_name": "Manbij District"
+                },
+                {
+                    "city_name": "Jarabulus District"
+                },
+                {
+                    "city_name": "Mount Simeon District"
+                },
+                {
+                    "city_name": "Azaz District"
+                },
+                {
+                    "city_name": "Ayn al-Arab District"
+                },
+                {
+                    "city_name": "Al-Bab District"
+                },
+                {
+                    "city_name": "Afrin District"
+                },
+                {
+                    "city_name": "Al-Safira District"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Rif Dimashq",
+            "cities": [
+                {
+                    "city_name": "Qatana District"
+                },
+                {
+                    "city_name": "Douma District"
+                },
+                {
+                    "city_name": "Al-Zabadani District"
+                },
+                {
+                    "city_name": "Al-Tall District"
+                },
+                {
+                    "city_name": "Al-Nabk District"
+                },
+                {
+                    "city_name": "Al-Qutayfah District"
+                },
+                {
+                    "city_name": "Yabrud District"
+                },
+                {
+                    "city_name": "Darayya District"
+                },
+                {
+                    "city_name": "Markaz Rif Dimashq District"
+                }
+            ]
+        },
+        {
+            "province_name": "Deir ez-Zor Governorate",
+            "cities": [
+                {
+                    "city_name": "Deir ez-Zor District"
+                },
+                {
+                    "city_name": "Mayadin District"
+                },
+                {
+                    "city_name": "Abu Kamal District"
+                }
+            ]
+        },
+        {
+            "province_name": "Daraa Governorate",
+            "cities": [
+                {
+                    "city_name": "Izra District"
+                },
+                {
+                    "city_name": "Daraa District"
+                },
+                {
+                    "city_name": "Al-Sanamayn District"
+                }
+            ]
+        },
+        {
+            "province_name": "As-Suwayda Governorate",
+            "cities": [
+                {
+                    "city_name": "Shahba District"
+                },
+                {
+                    "city_name": "Salkhad District"
+                },
+                {
+                    "city_name": "As-Suwayda District"
+                }
+            ]
+        },
+        {
+            "province_name": "Ar-Raqqah Governorate",
+            "cities": [
+                {
+                    "city_name": "Ar-Raqqah District"
+                },
+                {
+                    "city_name": "Tell Abyad District"
+                },
+                {
+                    "city_name": "Al-Thawrah District"
+                }
+            ]
+        },
+        {
+            "province_name": "Quneitra Governorate",
+            "cities": [
+                {
+                    "city_name": "Fiq District"
+                },
+                {
+                    "city_name": "Quneitra District"
+                }
+            ]
+        },
+        {
+            "province_name": "Latakia Governorate",
+            "cities": [
+                {
+                    "city_name": "Jableh District"
+                },
+                {
+                    "city_name": "Qardaha District"
+                },
+                {
+                    "city_name": "Latakia District"
+                },
+                {
+                    "city_name": "Al-Haffah District"
+                }
+            ]
+        },
+        {
+            "province_name": "Al-Hasakah Governorate",
+            "cities": [
+                {
+                    "city_name": "Al-Malikiyah District"
+                },
+                {
+                    "city_name": "Al-Qamishli District"
+                },
+                {
+                    "city_name": "Al-Hasakah District"
+                },
+                {
+                    "city_name": "Ras al-Ayn District"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "country_name": "Morocco",
+    "country_id": "MA",
+    "provinces": [
+        {
+            "province_name": "Tanger-Tetouan-Al Hoceima",
+            "cities": [
+                {
+                    "city_name": "Tetouan"
+                },
+                {
+                    "city_name": "Tanger-Assilah"
+                },
+                {
+                    "city_name": "Larache"
+                },
+                {
+                    "city_name": "Chefchaouen Province"
+                },
+                {
+                    "city_name": "Al-Hoceima"
+                },
+                {
+                    "city_name": "Fahs-Anjra"
+                },
+                {
+                    "city_name": "Ouezzane Province"
+                },
+                {
+                    "city_name": "M'Diq-Fnideq"
+                }
+            ]
+        },
+        {
+            "province_name": "Oriental",
+            "cities": [
+                {
+                    "city_name": "Oujda-Angad"
+                },
+                {
+                    "city_name": "Nador"
+                },
+                {
+                    "city_name": "Figuig"
+                },
+                {
+                    "city_name": "Berkane"
+                },
+                {
+                    "city_name": "Jerada"
+                },
+                {
+                    "city_name": "Taourirt"
+                },
+                {
+                    "city_name": "Guercif Province"
+                },
+                {
+                    "city_name": "Driouch Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Fes-Meknes",
+            "cities": [
+                {
+                    "city_name": "Taza"
+                },
+                {
+                    "city_name": "Taounate"
+                },
+                {
+                    "city_name": "Ifrane"
+                },
+                {
+                    "city_name": "Boulemane"
+                },
+                {
+                    "city_name": "Meknes"
+                },
+                {
+                    "city_name": "Sefrou"
+                },
+                {
+                    "city_name": "Moulay-Yacoub"
+                },
+                {
+                    "city_name": "El-Hajeb"
+                },
+                {
+                    "city_name": "Fes"
+                }
+            ]
+        },
+        {
+            "province_name": "Rabat-Sale-Kenitra",
+            "cities": [
+                {
+                    "city_name": "Sidi-Kacem"
+                },
+                {
+                    "city_name": "Sale"
+                },
+                {
+                    "city_name": "Rabat"
+                },
+                {
+                    "city_name": "Khemisset"
+                },
+                {
+                    "city_name": "Kenitra Province"
+                },
+                {
+                    "city_name": "Skhirate-Temara"
+                },
+                {
+                    "city_name": "Sidi Slimane"
+                }
+            ]
+        },
+        {
+            "province_name": "Beni Mellal-Khenifra",
+            "cities": [
+                {
+                    "city_name": "Khouribga Province"
+                },
+                {
+                    "city_name": "Khenifra"
+                },
+                {
+                    "city_name": "Beni-Mellal"
+                },
+                {
+                    "city_name": "Azilal Province"
+                },
+                {
+                    "city_name": "Fquih Ben Salah Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Casablanca-Settat",
+            "cities": [
+                {
+                    "city_name": "Settat Province"
+                },
+                {
+                    "city_name": "El-Jadida"
+                },
+                {
+                    "city_name": "Benslimane"
+                },
+                {
+                    "city_name": "Casablanca"
+                },
+                {
+                    "city_name": "Nouaceur"
+                },
+                {
+                    "city_name": "Mohammedia"
+                },
+                {
+                    "city_name": "Mediouna"
+                },
+                {
+                    "city_name": "Berrechid Province"
+                },
+                {
+                    "city_name": "Sidi Bennour"
+                }
+            ]
+        },
+        {
+            "province_name": "Marrakesh-Safi",
+            "cities": [
+                {
+                    "city_name": "Safi"
+                },
+                {
+                    "city_name": "Essaouira"
+                },
+                {
+                    "city_name": "Kelaa-Des-Sraghna"
+                },
+                {
+                    "city_name": "Chichaoua"
+                },
+                {
+                    "city_name": "Marrakech"
+                },
+                {
+                    "city_name": "Al-Haouz"
+                },
+                {
+                    "city_name": "Youssoufia"
+                },
+                {
+                    "city_name": "Rehamna"
+                }
+            ]
+        },
+        {
+            "province_name": "Draa-Tafilalet",
+            "cities": [
+                {
+                    "city_name": "Ouarzazate"
+                },
+                {
+                    "city_name": "Errachidia"
+                },
+                {
+                    "city_name": "Zagora"
+                },
+                {
+                    "city_name": "Tinghir Province"
+                },
+                {
+                    "city_name": "Midelt"
+                }
+            ]
+        },
+        {
+            "province_name": "Souss-Massa",
+            "cities": [
+                {
+                    "city_name": "Tiznit"
+                },
+                {
+                    "city_name": "Tata"
+                },
+                {
+                    "city_name": "Taroudannt"
+                },
+                {
+                    "city_name": "Inezgane-Ait Mellou"
+                },
+                {
+                    "city_name": "Agadir-Ida-ou-Tnan"
+                },
+                {
+                    "city_name": "Chtouka-Ait-Baha"
+                }
+            ]
+        },
+        {
+            "province_name": "Guelmim-Oued Noun",
+            "cities": [
+                {
+                    "city_name": "Tan-Tan"
+                },
+                {
+                    "city_name": "Guelmim"
+                },
+                {
+                    "city_name": "Assa-Zag"
+                },
+                {
+                    "city_name": "Sidi Ifni"
+                }
+            ]
+        },
+        {
+            "province_name": "Laayoune-Sakia El Hamra",
+            "cities": [
+                {
+                    "city_name": "Laayoune"
+                },
+                {
+                    "city_name": "Es-Semara"
+                },
+                {
+                    "city_name": "Boujdour"
+                },
+                {
+                    "city_name": "Tarfaya"
+                }
+            ]
+        },
+        {
+            "province_name": "Dakhla-Oued Ed-Dahab",
+            "cities": [
+                {
+                    "city_name": "Aousserd"
+                },
+                {
+                    "city_name": "Oued-Ed-Dahab"
+                }
+            ]
+        }
+    ]
+}

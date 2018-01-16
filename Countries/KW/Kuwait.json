@@ -1,0 +1,30 @@
+{
+    "country_name": "Kuwait",
+    "country_id": "KW",
+    "provinces": [
+        {
+            "province_name": "Muhafazat Hawalli",
+            "cities": []
+        },
+        {
+            "province_name": "Al Asimah Governorate",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat al Jahra'",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat al Farwaniyah",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat al Ahmadi",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat Mubarak al Kabir",
+            "cities": []
+        }
+    ]
+}

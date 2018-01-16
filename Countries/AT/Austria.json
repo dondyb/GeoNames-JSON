@@ -1,0 +1,333 @@
+{
+    "country_name": "Austria",
+    "country_id": "AT",
+    "provinces": [
+        {
+            "province_name": "Wien",
+            "cities": [
+                {
+                    "city_name": "Wien Stadt"
+                }
+            ]
+        },
+        {
+            "province_name": "Vorarlberg",
+            "cities": [
+                {
+                    "city_name": "Politischer Bezirk Feldkirch"
+                },
+                {
+                    "city_name": "Politischer Bezirk Dornbirn"
+                },
+                {
+                    "city_name": "Politischer Bezirk Bregenz"
+                },
+                {
+                    "city_name": "Politischer Bezirk Bludenz"
+                }
+            ]
+        },
+        {
+            "province_name": "Tirol",
+            "cities": [
+                {
+                    "city_name": "Politischer Bezirk Schwaz"
+                },
+                {
+                    "city_name": "Politischer Bezirk Reutte"
+                },
+                {
+                    "city_name": "Politischer Bezirk Lienz"
+                },
+                {
+                    "city_name": "Politischer Bezirk Landeck"
+                },
+                {
+                    "city_name": "Politischer Bezirk Kufstein"
+                },
+                {
+                    "city_name": "Politischer Bezirk Kitzbuehel"
+                },
+                {
+                    "city_name": "Innsbruck Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Innsbruck Land"
+                },
+                {
+                    "city_name": "Politischer Bezirk Imst"
+                }
+            ]
+        },
+        {
+            "province_name": "Steiermark",
+            "cities": [
+                {
+                    "city_name": "Politischer Bezirk Weiz"
+                },
+                {
+                    "city_name": "Politischer Bezirk Voitsberg"
+                },
+                {
+                    "city_name": "Politischer Bezirk Murau"
+                },
+                {
+                    "city_name": "Politischer Bezirk Liezen"
+                },
+                {
+                    "city_name": "Politischer Bezirk Leoben"
+                },
+                {
+                    "city_name": "Politischer Bezirk Leibnitz"
+                },
+                {
+                    "city_name": "Politischer Bezirk Graz-Umgebung"
+                },
+                {
+                    "city_name": "Graz Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Deutschlandsberg"
+                },
+                {
+                    "city_name": "Politischer Bezirk Murtal"
+                },
+                {
+                    "city_name": "Politischer Bezirk Bruck-Muerzzuschlag"
+                },
+                {
+                    "city_name": "Politischer Bezirk Hartberg-Fuerstenfeld"
+                },
+                {
+                    "city_name": "Politischer Bezirk Suedoststeiermark"
+                }
+            ]
+        },
+        {
+            "province_name": "Salzburg",
+            "cities": [
+                {
+                    "city_name": "Politischer Bezirk Zell am See"
+                },
+                {
+                    "city_name": "Politischer Bezirk Tamsweg"
+                },
+                {
+                    "city_name": "Politischer Bezirk Sankt Johann im Pongau"
+                },
+                {
+                    "city_name": "Politischer Bezirk Salzburg-Umgebung"
+                },
+                {
+                    "city_name": "Salzburg Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Hallein"
+                }
+            ]
+        },
+        {
+            "province_name": "Oberoesterreich",
+            "cities": [
+                {
+                    "city_name": "Wels-Land"
+                },
+                {
+                    "city_name": "Politischer Bezirk Voecklabruck"
+                },
+                {
+                    "city_name": "Politischer Bezirk Urfahr-Umgebung"
+                },
+                {
+                    "city_name": "Steyr Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Steyr-Land"
+                },
+                {
+                    "city_name": "Politischer Bezirk Schaerding"
+                },
+                {
+                    "city_name": "Politischer Bezirk Rohrbach"
+                },
+                {
+                    "city_name": "Politischer Bezirk Ried im Innkreis"
+                },
+                {
+                    "city_name": "Politischer Bezirk Perg"
+                },
+                {
+                    "city_name": "Linz Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Linz-Land"
+                },
+                {
+                    "city_name": "Politischer Bezirk Kirchdorf an der Krems"
+                },
+                {
+                    "city_name": "Politischer Bezirk Grieskirchen"
+                },
+                {
+                    "city_name": "Politischer Bezirk Gmunden"
+                },
+                {
+                    "city_name": "Politischer Bezirk Freistadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Eferding"
+                },
+                {
+                    "city_name": "Politischer Bezirk Braunau am Inn"
+                },
+                {
+                    "city_name": "Wels Stadt"
+                }
+            ]
+        },
+        {
+            "province_name": "Niederoesterreich",
+            "cities": [
+                {
+                    "city_name": "Politischer Bezirk Zwettl"
+                },
+                {
+                    "city_name": "Wiener Neustadt Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Wiener Neustadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Waidhofen an der Thaya"
+                },
+                {
+                    "city_name": "Politischer Bezirk Tulln"
+                },
+                {
+                    "city_name": "Politischer Bezirk Scheibbs"
+                },
+                {
+                    "city_name": "Sankt Poelten Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Sankt Poelten"
+                },
+                {
+                    "city_name": "Politischer Bezirk Neunkirchen"
+                },
+                {
+                    "city_name": "Politischer Bezirk Moedling"
+                },
+                {
+                    "city_name": "Politischer Bezirk Mistelbach"
+                },
+                {
+                    "city_name": "Politischer Bezirk Melk"
+                },
+                {
+                    "city_name": "Politischer Bezirk Lilienfeld"
+                },
+                {
+                    "city_name": "Krems an der Donau Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Krems"
+                },
+                {
+                    "city_name": "Politischer Bezirk Korneuburg"
+                },
+                {
+                    "city_name": "Politischer Bezirk Horn"
+                },
+                {
+                    "city_name": "Politischer Bezirk Hollabrunn"
+                },
+                {
+                    "city_name": "Politischer Bezirk Gmuend"
+                },
+                {
+                    "city_name": "Politischer Bezirk Gaenserndorf"
+                },
+                {
+                    "city_name": "Politischer Bezirk Bruck an der Leitha"
+                },
+                {
+                    "city_name": "Politischer Bezirk Baden"
+                },
+                {
+                    "city_name": "Politischer Bezirk Amstetten"
+                },
+                {
+                    "city_name": "Waidhofen an der Ybbs Stadt"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaernten",
+            "cities": [
+                {
+                    "city_name": "Politischer Bezirk Wolfsberg"
+                },
+                {
+                    "city_name": "Politischer Bezirk Voelkermarkt"
+                },
+                {
+                    "city_name": "Villach Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Villach Land"
+                },
+                {
+                    "city_name": "Politischer Bezirk Spittal an der Drau"
+                },
+                {
+                    "city_name": "Politischer Bezirk Sankt Veit an der Glan"
+                },
+                {
+                    "city_name": "Klagenfurt am Woerthersee"
+                },
+                {
+                    "city_name": "Politischer Bezirk Klagenfurt Land"
+                },
+                {
+                    "city_name": "Politischer Bezirk Hermagor"
+                },
+                {
+                    "city_name": "Politischer Bezirk Feldkirchen"
+                }
+            ]
+        },
+        {
+            "province_name": "Burgenland",
+            "cities": [
+                {
+                    "city_name": "Rust Stadt"
+                },
+                {
+                    "city_name": "Politischer Bezirk Oberwart"
+                },
+                {
+                    "city_name": "Politischer Bezirk Oberpullendorf"
+                },
+                {
+                    "city_name": "Politischer Bezirk Neusiedl am See"
+                },
+                {
+                    "city_name": "Politischer Bezirk Mattersburg"
+                },
+                {
+                    "city_name": "Politischer Bezirk Jennersdorf"
+                },
+                {
+                    "city_name": "Politischer Bezirk Guessing"
+                },
+                {
+                    "city_name": "Eisenstadt Stadt"
+                },
+                {
+                    "city_name": "Eisenstadt-Umgebung"
+                }
+            ]
+        }
+    ]
+}

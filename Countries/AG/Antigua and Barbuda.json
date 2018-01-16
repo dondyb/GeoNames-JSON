@@ -1,0 +1,38 @@
+{
+    "country_name": "Antigua and Barbuda",
+    "country_id": "AG",
+    "provinces": [
+        {
+            "province_name": "Parish of Saint Philip",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint Peter",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint Paul",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint Mary",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint John",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint George",
+            "cities": []
+        },
+        {
+            "province_name": "Redonda",
+            "cities": []
+        },
+        {
+            "province_name": "Barbuda",
+            "cities": []
+        }
+    ]
+}

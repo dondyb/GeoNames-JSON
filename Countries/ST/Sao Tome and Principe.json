@@ -1,0 +1,30 @@
+{
+    "country_name": "Sao Tome and Principe",
+    "country_id": "ST",
+    "provinces": [
+        {
+            "province_name": "Sao Tome",
+            "cities": [
+                {
+                    "city_name": "Lemba District"
+                },
+                {
+                    "city_name": "Lobata District"
+                },
+                {
+                    "city_name": "Me-Zochi District"
+                },
+                {
+                    "city_name": "Agua Grande District"
+                },
+                {
+                    "city_name": "Cantagalo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Principe",
+            "cities": []
+        }
+    ]
+}

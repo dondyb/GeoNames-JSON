@@ -1,0 +1,3175 @@
+{
+    "country_name": "Thailand",
+    "country_id": "TH",
+    "provinces": [
+        {
+            "province_name": "Changwat Uthai Thani",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thap Than"
+                },
+                {
+                    "city_name": "Amphoe Sawang Arom"
+                },
+                {
+                    "city_name": "Amphoe Nong Khayang"
+                },
+                {
+                    "city_name": "Amphoe Nong Chang"
+                },
+                {
+                    "city_name": "Amphoe Ban Rai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Uthai Thani"
+                },
+                {
+                    "city_name": "Amphoe Huai Khot"
+                },
+                {
+                    "city_name": "Amphoe Lan Sak"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Trang",
+            "cities": [
+                {
+                    "city_name": "Amphoe Yan Ta Khao"
+                },
+                {
+                    "city_name": "Amphoe Wang Wiset"
+                },
+                {
+                    "city_name": "Amphoe Palian"
+                },
+                {
+                    "city_name": "Amphoe Mueang Trang"
+                },
+                {
+                    "city_name": "Amphoe Kantang"
+                },
+                {
+                    "city_name": "Amphoe Huai Yot"
+                },
+                {
+                    "city_name": "Amphoe Na Yong"
+                },
+                {
+                    "city_name": "Amphoe Ratsada"
+                },
+                {
+                    "city_name": "Amphoe Hat Samran"
+                },
+                {
+                    "city_name": "Amphoe Sikao"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Tak",
+            "cities": [
+                {
+                    "city_name": "Amphoe Umphang"
+                },
+                {
+                    "city_name": "Amphoe Tha Song Yang"
+                },
+                {
+                    "city_name": "Amphoe Sam Ngao"
+                },
+                {
+                    "city_name": "Amphoe Mueang Tak"
+                },
+                {
+                    "city_name": "Amphoe Mae Sot"
+                },
+                {
+                    "city_name": "Amphoe Mae Ramat"
+                },
+                {
+                    "city_name": "Amphoe Ban Tak"
+                },
+                {
+                    "city_name": "Amphoe Phop Phra"
+                },
+                {
+                    "city_name": "Amphoe Wang Chao"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Surat Thani",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Chang"
+                },
+                {
+                    "city_name": "Amphoe Tha Chana"
+                },
+                {
+                    "city_name": "Amphoe Phunphin"
+                },
+                {
+                    "city_name": "Amphoe Phrasaeng"
+                },
+                {
+                    "city_name": "Amphoe Phanom"
+                },
+                {
+                    "city_name": "Amphoe Mueang Surat Thani"
+                },
+                {
+                    "city_name": "Amphoe Ko Samui"
+                },
+                {
+                    "city_name": "Amphoe Khiri Rat Nikhom"
+                },
+                {
+                    "city_name": "Amphoe Kanchanadit"
+                },
+                {
+                    "city_name": "Amphoe Chaiya"
+                },
+                {
+                    "city_name": "Amphoe Ban Na San"
+                },
+                {
+                    "city_name": "Amphoe Ban Takhun"
+                },
+                {
+                    "city_name": "Amphoe Wiphawadi"
+                },
+                {
+                    "city_name": "Amphoe Chai Buri"
+                },
+                {
+                    "city_name": "Amphoe Ban Na Doem"
+                },
+                {
+                    "city_name": "Amphoe Don Sak"
+                },
+                {
+                    "city_name": "Amphoe Wiang Sa"
+                },
+                {
+                    "city_name": "Amphoe Khian Sa"
+                },
+                {
+                    "city_name": "Amphoe Ko Pha-ngan"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Sukhothai",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thung Saliam"
+                },
+                {
+                    "city_name": "Amphoe Si Satchanalai"
+                },
+                {
+                    "city_name": "Amphoe Si Samrong"
+                },
+                {
+                    "city_name": "Amphoe Sawankhalok"
+                },
+                {
+                    "city_name": "Amphoe Mueang Sukhothai"
+                },
+                {
+                    "city_name": "Amphoe Khiri Mat"
+                },
+                {
+                    "city_name": "Amphoe Ban Dan Lan Hoi"
+                },
+                {
+                    "city_name": "Amphoe Kong Krailat"
+                },
+                {
+                    "city_name": "Amphoe Si Nakhon"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Ratchaburi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wat Phleng"
+                },
+                {
+                    "city_name": "Amphoe Photharam"
+                },
+                {
+                    "city_name": "Amphoe Pak Tho"
+                },
+                {
+                    "city_name": "Amphoe Mueang Ratchaburi"
+                },
+                {
+                    "city_name": "Amphoe Chom Bueng"
+                },
+                {
+                    "city_name": "Amphoe Ban Pong"
+                },
+                {
+                    "city_name": "Amphoe Bang Phae"
+                },
+                {
+                    "city_name": "Amphoe Damnoen Saduak"
+                },
+                {
+                    "city_name": "Amphoe Ban Kha"
+                },
+                {
+                    "city_name": "Amphoe Suan Phueng"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Ranong",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Ranong"
+                },
+                {
+                    "city_name": "Amphoe La-un"
+                },
+                {
+                    "city_name": "Amphoe Kra Buri"
+                },
+                {
+                    "city_name": "Amphoe Kapoe"
+                },
+                {
+                    "city_name": "Amphoe Suk Samran"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Prachuap Khiri Khan",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thap Sakae"
+                },
+                {
+                    "city_name": "Amphoe Pran Buri"
+                },
+                {
+                    "city_name": "Amphoe Mueang Prachuap Khiri Khan"
+                },
+                {
+                    "city_name": "Amphoe Kui Buri"
+                },
+                {
+                    "city_name": "Amphoe Hua Hin"
+                },
+                {
+                    "city_name": "Amphoe Bang Saphan"
+                },
+                {
+                    "city_name": "Amphoe Sam Roi Yot"
+                },
+                {
+                    "city_name": "Amphoe Bang Saphan Noi"
+                }
+            ]
+        },
+        {
+            "province_name": "Phuket Province",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thalang"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phuket"
+                },
+                {
+                    "city_name": "Amphoe Kathu"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phetchaburi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Yang"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phetchaburi"
+                },
+                {
+                    "city_name": "Amphoe Khao Yoi"
+                },
+                {
+                    "city_name": "Amphoe Cha-am"
+                },
+                {
+                    "city_name": "Amphoe Ban Lat"
+                },
+                {
+                    "city_name": "Amphoe Ban Laem"
+                },
+                {
+                    "city_name": "Amphoe Kaeng Krachan"
+                },
+                {
+                    "city_name": "Amphoe Nong Ya Plong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phangnga",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thap Put"
+                },
+                {
+                    "city_name": "Amphoe Thai Mueang"
+                },
+                {
+                    "city_name": "Amphoe Takua Thung"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phangnga"
+                },
+                {
+                    "city_name": "Amphoe Ko Yao"
+                },
+                {
+                    "city_name": "Amphoe Kapong"
+                },
+                {
+                    "city_name": "Amphoe Takua Pa"
+                },
+                {
+                    "city_name": "Amphoe Khura Buri"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Mae Hong Son",
+            "cities": [
+                {
+                    "city_name": "Amphoe Sop Moei"
+                },
+                {
+                    "city_name": "Amphoe Pai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Mae Hong Son"
+                },
+                {
+                    "city_name": "Amphoe Mae Sariang"
+                },
+                {
+                    "city_name": "Amphoe Khun Yuam"
+                },
+                {
+                    "city_name": "Amphoe Pang Mapha"
+                },
+                {
+                    "city_name": "Amphoe Mae La Noi"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Lamphun",
+            "cities": [
+                {
+                    "city_name": "Amphoe Pa Sang"
+                },
+                {
+                    "city_name": "Amphoe Mueang Lamphun"
+                },
+                {
+                    "city_name": "Amphoe Mae Tha"
+                },
+                {
+                    "city_name": "Amphoe Li"
+                },
+                {
+                    "city_name": "Amphoe Ban Hong"
+                },
+                {
+                    "city_name": "Amphoe Wiang Nong Long"
+                },
+                {
+                    "city_name": "Amphoe Thung Hua Chang"
+                },
+                {
+                    "city_name": "Amphoe Ban Thi"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Lampang",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wang Nuea"
+                },
+                {
+                    "city_name": "Amphoe Thoen"
+                },
+                {
+                    "city_name": "Amphoe Sop Prap"
+                },
+                {
+                    "city_name": "Amphoe Ngao"
+                },
+                {
+                    "city_name": "Amphoe Mueang Lampang"
+                },
+                {
+                    "city_name": "Amphoe Mae Tha"
+                },
+                {
+                    "city_name": "Amphoe Mae Phrik"
+                },
+                {
+                    "city_name": "Amphoe Ko Kha"
+                },
+                {
+                    "city_name": "Amphoe Hang Chat"
+                },
+                {
+                    "city_name": "Amphoe Chae Hom"
+                },
+                {
+                    "city_name": "Amphoe Mae Mo"
+                },
+                {
+                    "city_name": "Amphoe Soem Ngam"
+                },
+                {
+                    "city_name": "Amphoe Mueang Pan"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Krabi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Krabi"
+                },
+                {
+                    "city_name": "Amphoe Ko Lanta"
+                },
+                {
+                    "city_name": "Amphoe Khlong Thom"
+                },
+                {
+                    "city_name": "Amphoe Ao Luek"
+                },
+                {
+                    "city_name": "Amphoe Plai Phraya"
+                },
+                {
+                    "city_name": "Amphoe Lam Thap"
+                },
+                {
+                    "city_name": "Amphoe Khao Phanom"
+                },
+                {
+                    "city_name": "Amphoe Nuea Khlong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Kanchanaburi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thong Pha Phum"
+                },
+                {
+                    "city_name": "Amphoe Tha Muang"
+                },
+                {
+                    "city_name": "Amphoe Tha Maka"
+                },
+                {
+                    "city_name": "Amphoe Si Sawat"
+                },
+                {
+                    "city_name": "Amphoe Sangkhla Buri"
+                },
+                {
+                    "city_name": "Amphoe Sai Yok"
+                },
+                {
+                    "city_name": "Amphoe Phanom Thuan"
+                },
+                {
+                    "city_name": "Amphoe Mueang Kanchanaburi"
+                },
+                {
+                    "city_name": "Amphoe Bo Phloi"
+                },
+                {
+                    "city_name": "Amphoe Dan Makham Tia"
+                },
+                {
+                    "city_name": "Amphoe Nong Prue"
+                },
+                {
+                    "city_name": "Amphoe Huai Krachao"
+                },
+                {
+                    "city_name": "Amphoe Lao Khwan"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Kamphaeng Phet",
+            "cities": [
+                {
+                    "city_name": "Amphoe Phran Kratai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Kamphaeng Phet"
+                },
+                {
+                    "city_name": "Amphoe Khlong Khlung"
+                },
+                {
+                    "city_name": "Amphoe Khanu Woralaksaburi"
+                },
+                {
+                    "city_name": "Amphoe Khlong Lan"
+                },
+                {
+                    "city_name": "Amphoe Pang Sila Thong"
+                },
+                {
+                    "city_name": "Amphoe Kosamphi Nakhon"
+                },
+                {
+                    "city_name": "Amphoe Sai Thong Watthana"
+                },
+                {
+                    "city_name": "Amphoe Bueng Samakkhi"
+                },
+                {
+                    "city_name": "Amphoe Lan Krabue"
+                },
+                {
+                    "city_name": "Amphoe Sai Ngam"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chumphon",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Sae"
+                },
+                {
+                    "city_name": "Amphoe Sawi"
+                },
+                {
+                    "city_name": "Amphoe Phato"
+                },
+                {
+                    "city_name": "Amphoe Pathio"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chumphon"
+                },
+                {
+                    "city_name": "Amphoe Lang Suan"
+                },
+                {
+                    "city_name": "Amphoe Lamae"
+                },
+                {
+                    "city_name": "Amphoe Thung Tako"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chiang Rai",
+            "cities": [
+                {
+                    "city_name": "Amphoe Pa Daet"
+                },
+                {
+                    "city_name": "Amphoe Wiang Pa Pao"
+                },
+                {
+                    "city_name": "Amphoe Phan"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chiang Rai"
+                },
+                {
+                    "city_name": "Amphoe Mae Suai"
+                },
+                {
+                    "city_name": "Amphoe Mae Sai"
+                },
+                {
+                    "city_name": "Amphoe Mae Chan"
+                },
+                {
+                    "city_name": "Amphoe Thoeng"
+                },
+                {
+                    "city_name": "Amphoe Chiang Saen"
+                },
+                {
+                    "city_name": "Amphoe Chiang Khong"
+                },
+                {
+                    "city_name": "Amphoe Mae Fa Luang"
+                },
+                {
+                    "city_name": "Amphoe Wiang Chiang Rung"
+                },
+                {
+                    "city_name": "Amphoe Doi Luang"
+                },
+                {
+                    "city_name": "Amphoe Wiang Kaen"
+                },
+                {
+                    "city_name": "Amphoe Khun Tan"
+                },
+                {
+                    "city_name": "Amphoe Phaya Mengrai"
+                },
+                {
+                    "city_name": "Amphoe Wiang Chai"
+                },
+                {
+                    "city_name": "Amphoe Mae Lao"
+                }
+            ]
+        },
+        {
+            "province_name": "Chiang Mai Province",
+            "cities": [
+                {
+                    "city_name": "Amphoe Saraphi"
+                },
+                {
+                    "city_name": "Amphoe San Sai"
+                },
+                {
+                    "city_name": "Amphoe San Pa Tong"
+                },
+                {
+                    "city_name": "Amphoe San Kamphaeng"
+                },
+                {
+                    "city_name": "Amphoe Samoeng"
+                },
+                {
+                    "city_name": "Amphoe Phrao"
+                },
+                {
+                    "city_name": "Amphoe Om Koi"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chiang Mai"
+                },
+                {
+                    "city_name": "Amphoe Mae Taeng"
+                },
+                {
+                    "city_name": "Amphoe Mae Rim"
+                },
+                {
+                    "city_name": "Amphoe Mae Chaem"
+                },
+                {
+                    "city_name": "Amphoe Mae Ai"
+                },
+                {
+                    "city_name": "Amphoe Hot"
+                },
+                {
+                    "city_name": "Amphoe Hang Dong"
+                },
+                {
+                    "city_name": "Amphoe Fang"
+                },
+                {
+                    "city_name": "Amphoe Doi Saket"
+                },
+                {
+                    "city_name": "Amphoe Chom Thong"
+                },
+                {
+                    "city_name": "Amphoe Chiang Dao"
+                },
+                {
+                    "city_name": "Amphoe Mae On"
+                },
+                {
+                    "city_name": "Amphoe Chai Prakan"
+                },
+                {
+                    "city_name": "Amphoe Wiang Haeng"
+                },
+                {
+                    "city_name": "Amphoe Doi Tao"
+                },
+                {
+                    "city_name": "Amphoe Doi Lo"
+                },
+                {
+                    "city_name": "Amphoe Mae Wang"
+                },
+                {
+                    "city_name": "Amphoe Galyani Vadhana"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Yasothon",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Yasothon"
+                },
+                {
+                    "city_name": "Amphoe Maha Chana Chai"
+                },
+                {
+                    "city_name": "Amphoe Loeng Nok Tha"
+                },
+                {
+                    "city_name": "Amphoe Kut Chum"
+                },
+                {
+                    "city_name": "Amphoe Kham Khuan Kaeo"
+                },
+                {
+                    "city_name": "Amphoe Pa Tio"
+                },
+                {
+                    "city_name": "Amphoe Thai Charoen"
+                },
+                {
+                    "city_name": "Amphoe Kho Wang"
+                },
+                {
+                    "city_name": "Amphoe Sai Mun"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Yala",
+            "cities": [
+                {
+                    "city_name": "Amphoe Yaha"
+                },
+                {
+                    "city_name": "Amphoe Raman"
+                },
+                {
+                    "city_name": "Amphoe Mueang Yala"
+                },
+                {
+                    "city_name": "Amphoe Bannang Sata"
+                },
+                {
+                    "city_name": "Amphoe Than To"
+                },
+                {
+                    "city_name": "Amphoe Kabang"
+                },
+                {
+                    "city_name": "Amphoe Krong Pinang"
+                },
+                {
+                    "city_name": "Amphoe Betong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Uttaradit",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tron"
+                },
+                {
+                    "city_name": "Amphoe Tha Pla"
+                },
+                {
+                    "city_name": "Amphoe Phichai"
+                },
+                {
+                    "city_name": "Amphoe Nam Pat"
+                },
+                {
+                    "city_name": "Amphoe Mueang Uttaradit"
+                },
+                {
+                    "city_name": "Amphoe Lap Lae"
+                },
+                {
+                    "city_name": "Amphoe Fak Tha"
+                },
+                {
+                    "city_name": "Amphoe Thong Saen Khan"
+                },
+                {
+                    "city_name": "Amphoe Ban Khok"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Trat",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Trat"
+                },
+                {
+                    "city_name": "Amphoe Laem Ngop"
+                },
+                {
+                    "city_name": "Amphoe Khlong Yai"
+                },
+                {
+                    "city_name": "Amphoe Khao Saming"
+                },
+                {
+                    "city_name": "Amphoe Bo Rai"
+                },
+                {
+                    "city_name": "Amphoe Ko Chang"
+                },
+                {
+                    "city_name": "Amphoe Ko Kut"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Surin",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Tum"
+                },
+                {
+                    "city_name": "Amphoe Si Khoraphum"
+                },
+                {
+                    "city_name": "Amphoe Sangkha"
+                },
+                {
+                    "city_name": "Amphoe Samrong Thap"
+                },
+                {
+                    "city_name": "Amphoe Rattanaburi"
+                },
+                {
+                    "city_name": "Amphoe Prasat"
+                },
+                {
+                    "city_name": "Amphoe Mueang Surin"
+                },
+                {
+                    "city_name": "Amphoe Kap Choeng"
+                },
+                {
+                    "city_name": "Amphoe Chumphon Buri"
+                },
+                {
+                    "city_name": "Amphoe Chom Phra"
+                },
+                {
+                    "city_name": "Amphoe Phanom Dong Rak"
+                },
+                {
+                    "city_name": "Amphoe Bua Chet"
+                },
+                {
+                    "city_name": "Amphoe Si Narong"
+                },
+                {
+                    "city_name": "Amphoe Lamduan"
+                },
+                {
+                    "city_name": "Amphoe Non Narai"
+                },
+                {
+                    "city_name": "Amphoe Khwao Sinarin"
+                },
+                {
+                    "city_name": "Amphoe Sanom"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Suphan Buri",
+            "cities": [
+                {
+                    "city_name": "Amphoe U Thong"
+                },
+                {
+                    "city_name": "Amphoe Sam Chuk"
+                },
+                {
+                    "city_name": "Amphoe Song Phi Nong"
+                },
+                {
+                    "city_name": "Amphoe Si Prachan"
+                },
+                {
+                    "city_name": "Amphoe Mueang Suphan Buri"
+                },
+                {
+                    "city_name": "Amphoe Don Chedi"
+                },
+                {
+                    "city_name": "Amphoe Doembang Nangbuat"
+                },
+                {
+                    "city_name": "Amphoe Bang Pla Ma"
+                },
+                {
+                    "city_name": "Amphoe Nong Yasai"
+                },
+                {
+                    "city_name": "Amphoe Dan Chang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Songkhla",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thepha"
+                },
+                {
+                    "city_name": "Amphoe Sathing Phra"
+                },
+                {
+                    "city_name": "Amphoe Sadao"
+                },
+                {
+                    "city_name": "Amphoe Saba Yoi"
+                },
+                {
+                    "city_name": "Amphoe Rattaphum"
+                },
+                {
+                    "city_name": "Amphoe Ranot"
+                },
+                {
+                    "city_name": "Amphoe Na Thawi"
+                },
+                {
+                    "city_name": "Amphoe Mueang Songkhla"
+                },
+                {
+                    "city_name": "Amphoe Hat Yai"
+                },
+                {
+                    "city_name": "Amphoe Chana"
+                },
+                {
+                    "city_name": "Amphoe Singhanakhon"
+                },
+                {
+                    "city_name": "Amphoe Na Mom"
+                },
+                {
+                    "city_name": "Amphoe Khlong Hoi Khong"
+                },
+                {
+                    "city_name": "Amphoe Khuan Niang"
+                },
+                {
+                    "city_name": "Amphoe Bang Klam"
+                },
+                {
+                    "city_name": "Amphoe Krasae Sin"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Si Sa Ket",
+            "cities": [
+                {
+                    "city_name": "Amphoe Uthumphon Phisai"
+                },
+                {
+                    "city_name": "Amphoe Rasi Salai"
+                },
+                {
+                    "city_name": "Amphoe Prang Ku"
+                },
+                {
+                    "city_name": "Amphoe Mueang Sisaket"
+                },
+                {
+                    "city_name": "Amphoe Khun Han"
+                },
+                {
+                    "city_name": "Amphoe Khukhan"
+                },
+                {
+                    "city_name": "Amphoe Kanthararom"
+                },
+                {
+                    "city_name": "Amphoe Kantharalak"
+                },
+                {
+                    "city_name": "Amphoe Phayu"
+                },
+                {
+                    "city_name": "Amphoe Si Rattana"
+                },
+                {
+                    "city_name": "Amphoe Phrai Bueng"
+                },
+                {
+                    "city_name": "Amphoe Phu Sing"
+                },
+                {
+                    "city_name": "Amphoe Wang Hin"
+                },
+                {
+                    "city_name": "Amphoe Huai Thap Than"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chan"
+                },
+                {
+                    "city_name": "Amphoe Pho Si Suwan"
+                },
+                {
+                    "city_name": "Amphoe Bueng Bun"
+                },
+                {
+                    "city_name": "Amphoe Sila Lat"
+                },
+                {
+                    "city_name": "Amphoe Non Khun"
+                },
+                {
+                    "city_name": "Amphoe Benchalak"
+                },
+                {
+                    "city_name": "Amphoe Nam Kliang"
+                },
+                {
+                    "city_name": "Amphoe Yang Chum Noi"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Sing Buri",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Chang"
+                },
+                {
+                    "city_name": "Amphoe Phrom Buri"
+                },
+                {
+                    "city_name": "Amphoe Mueang Sing Buri"
+                },
+                {
+                    "city_name": "Amphoe In Buri"
+                },
+                {
+                    "city_name": "Amphoe Bang Rachan"
+                },
+                {
+                    "city_name": "Amphoe Khai Bang Rachan"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Satun",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thung Wa"
+                },
+                {
+                    "city_name": "Amphoe La-Ngu"
+                },
+                {
+                    "city_name": "Amphoe Mueang Satun"
+                },
+                {
+                    "city_name": "Amphoe Khuan Don"
+                },
+                {
+                    "city_name": "Amphoe Khuan Kalong"
+                },
+                {
+                    "city_name": "Amphoe Tha Phae"
+                },
+                {
+                    "city_name": "Amphoe Manang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Saraburi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wihan Daeng"
+                },
+                {
+                    "city_name": "Amphoe Sao Hai"
+                },
+                {
+                    "city_name": "Amphoe Phra Phutthabat"
+                },
+                {
+                    "city_name": "Amphoe Nong Saeng"
+                },
+                {
+                    "city_name": "Amphoe Nong Khae"
+                },
+                {
+                    "city_name": "Amphoe Mueang Sara Buri"
+                },
+                {
+                    "city_name": "Amphoe Kaeng Khoi"
+                },
+                {
+                    "city_name": "Amphoe Ban Mo"
+                },
+                {
+                    "city_name": "Amphoe Chaloem Phra Kiat"
+                },
+                {
+                    "city_name": "Amphoe Nong Don"
+                },
+                {
+                    "city_name": "Amphoe Don Phut"
+                },
+                {
+                    "city_name": "Amphoe Muak Lek"
+                },
+                {
+                    "city_name": "Amphoe Wang Muang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Samut Songkhram",
+            "cities": [
+                {
+                    "city_name": "Amphoe Bang Khonthi"
+                },
+                {
+                    "city_name": "Amphoe Amphawa"
+                },
+                {
+                    "city_name": "Amphoe Mueang Samut Songkhram"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Samut Sakhon",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Samut Sakhon"
+                },
+                {
+                    "city_name": "Amphoe Krathum Baen"
+                },
+                {
+                    "city_name": "Amphoe Ban Phaeo"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Samut Prakan",
+            "cities": [
+                {
+                    "city_name": "Amphoe Phra Pradaeng"
+                },
+                {
+                    "city_name": "Amphoe Mueang Samut Prakan"
+                },
+                {
+                    "city_name": "Amphoe Bang Phli"
+                },
+                {
+                    "city_name": "Amphoe Bang Bo"
+                },
+                {
+                    "city_name": "Amphoe Phra Samut Chedi"
+                },
+                {
+                    "city_name": "Amphoe Bang Sao Thong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Sakon Nakhon",
+            "cities": [
+                {
+                    "city_name": "Amphoe Waritchaphum"
+                },
+                {
+                    "city_name": "Amphoe Wanon Niwat"
+                },
+                {
+                    "city_name": "Amphoe Sawang Daen Din"
+                },
+                {
+                    "city_name": "Amphoe Phanna Nikhom"
+                },
+                {
+                    "city_name": "Amphoe Mueang Sakon Nakhon"
+                },
+                {
+                    "city_name": "Amphoe Kut Bak"
+                },
+                {
+                    "city_name": "Amphoe Kusuman"
+                },
+                {
+                    "city_name": "Amphoe Akat Amnuai"
+                },
+                {
+                    "city_name": "Amphoe Phu Phan"
+                },
+                {
+                    "city_name": "Amphoe Nikhom Nam Un"
+                },
+                {
+                    "city_name": "Amphoe Kham Ta Kla"
+                },
+                {
+                    "city_name": "Amphoe Charoen Sin"
+                },
+                {
+                    "city_name": "Amphoe Tao Ngoi"
+                },
+                {
+                    "city_name": "Amphoe Phon Na Kaeo"
+                },
+                {
+                    "city_name": "Amphoe Khok Si Suphan"
+                },
+                {
+                    "city_name": "Amphoe Song Dao"
+                },
+                {
+                    "city_name": "Amphoe Phang Khon"
+                },
+                {
+                    "city_name": "Amphoe Ban Muang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Roi Et",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thawatchaburi"
+                },
+                {
+                    "city_name": "Amphoe Suwannaphum"
+                },
+                {
+                    "city_name": "Amphoe Selaphum"
+                },
+                {
+                    "city_name": "Amphoe Pathum Rat"
+                },
+                {
+                    "city_name": "Amphoe Phon Thong"
+                },
+                {
+                    "city_name": "Amphoe Phanom Phrai"
+                },
+                {
+                    "city_name": "Amphoe Nong Phok"
+                },
+                {
+                    "city_name": "Amphoe Mueang Roi Et"
+                },
+                {
+                    "city_name": "Amphoe Kaset Wisai"
+                },
+                {
+                    "city_name": "Amphoe Chaturaphak Phiman"
+                },
+                {
+                    "city_name": "Amphoe At Samat"
+                },
+                {
+                    "city_name": "Amphoe Si Somdet"
+                },
+                {
+                    "city_name": "Amphoe Phon Sai"
+                },
+                {
+                    "city_name": "Amphoe Thung Khao Luang"
+                },
+                {
+                    "city_name": "Amphoe Nong Hi"
+                },
+                {
+                    "city_name": "Amphoe Pho Chai"
+                },
+                {
+                    "city_name": "Amphoe Chiang Khwan"
+                },
+                {
+                    "city_name": "Amphoe Changhan"
+                },
+                {
+                    "city_name": "Amphoe Moeiwadi"
+                },
+                {
+                    "city_name": "Amphoe Mueang Suang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Rayong",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Rayong"
+                },
+                {
+                    "city_name": "Amphoe Klaeng"
+                },
+                {
+                    "city_name": "Amphoe Ban Khai"
+                },
+                {
+                    "city_name": "Amphoe Ban Chang"
+                },
+                {
+                    "city_name": "Amphoe Pluak Daeng"
+                },
+                {
+                    "city_name": "Amphoe Nikhom Phattana"
+                },
+                {
+                    "city_name": "Amphoe Wang Chan"
+                },
+                {
+                    "city_name": "Amphoe Khao Chamao"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phra Nakhon Si Ayutthaya",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wang Noi"
+                },
+                {
+                    "city_name": "Amphoe Uthai"
+                },
+                {
+                    "city_name": "Amphoe Tha Ruea"
+                },
+                {
+                    "city_name": "Amphoe Sena"
+                },
+                {
+                    "city_name": "Amphoe Phra Nakhon Si Ayutthaya"
+                },
+                {
+                    "city_name": "Amphoe Phak Hai"
+                },
+                {
+                    "city_name": "Amphoe Phachi"
+                },
+                {
+                    "city_name": "Amphoe Nakhon Luang"
+                },
+                {
+                    "city_name": "Amphoe Maha Rat"
+                },
+                {
+                    "city_name": "Amphoe Lat Bua Luang"
+                },
+                {
+                    "city_name": "Amphoe Ban Phraek"
+                },
+                {
+                    "city_name": "Amphoe Bang Sai"
+                },
+                {
+                    "city_name": "Amphoe Bang Pa-in"
+                },
+                {
+                    "city_name": "Amphoe Bang Pahan"
+                },
+                {
+                    "city_name": "Amphoe Bang Ban"
+                },
+                {
+                    "city_name": "Amphoe Bang Sai"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phrae",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wang Chin"
+                },
+                {
+                    "city_name": "Amphoe Long"
+                },
+                {
+                    "city_name": "Amphoe Sung Men"
+                },
+                {
+                    "city_name": "Amphoe Song"
+                },
+                {
+                    "city_name": "Amphoe Rong Kwang"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phrae"
+                },
+                {
+                    "city_name": "Amphoe Den Chai"
+                },
+                {
+                    "city_name": "Amphoe Nong Muang Khai"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phitsanulok",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wat Bot"
+                },
+                {
+                    "city_name": "Amphoe Wang Thong"
+                },
+                {
+                    "city_name": "Amphoe Phrom Phiram"
+                },
+                {
+                    "city_name": "Amphoe Nakhon Thai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phitsanulok"
+                },
+                {
+                    "city_name": "Amphoe Bang Rakam"
+                },
+                {
+                    "city_name": "Amphoe Bang Krathum"
+                },
+                {
+                    "city_name": "Amphoe Noen Maprang"
+                },
+                {
+                    "city_name": "Amphoe Chat Trakan"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phichit",
+            "cities": [
+                {
+                    "city_name": "Amphoe Taphan Hin"
+                },
+                {
+                    "city_name": "Amphoe Sam Ngam"
+                },
+                {
+                    "city_name": "Amphoe Pho Thale"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phichit"
+                },
+                {
+                    "city_name": "Amphoe Bang Mun Nak"
+                },
+                {
+                    "city_name": "Amphoe Bueng Na Rang"
+                },
+                {
+                    "city_name": "Amphoe Sak Lek"
+                },
+                {
+                    "city_name": "Amphoe Wachira Barami"
+                },
+                {
+                    "city_name": "Amphoe Thap Khlo"
+                },
+                {
+                    "city_name": "Amphoe Dong Charoen"
+                },
+                {
+                    "city_name": "Amphoe Wang Sai Phun"
+                },
+                {
+                    "city_name": "Amphoe Pho Prathap Chang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phetchabun",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wichian Buri"
+                },
+                {
+                    "city_name": "Amphoe Nong Phai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phetchabun"
+                },
+                {
+                    "city_name": "Amphoe Lom Sak"
+                },
+                {
+                    "city_name": "Amphoe Lom Kao"
+                },
+                {
+                    "city_name": "Amphoe Chon Daen"
+                },
+                {
+                    "city_name": "Amphoe Wang Pong"
+                },
+                {
+                    "city_name": "Amphoe Bueng Sam Phan"
+                },
+                {
+                    "city_name": "Amphoe Nam Nao"
+                },
+                {
+                    "city_name": "Amphoe Khao Kho"
+                },
+                {
+                    "city_name": "Amphoe Si Thep"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phayao",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Phayao"
+                },
+                {
+                    "city_name": "Amphoe Mae Chai"
+                },
+                {
+                    "city_name": "Amphoe Pong"
+                },
+                {
+                    "city_name": "Amphoe Dok Kham Tai"
+                },
+                {
+                    "city_name": "Amphoe Chun"
+                },
+                {
+                    "city_name": "Amphoe Chiang Kham"
+                },
+                {
+                    "city_name": "Amphoe Phu Sang"
+                },
+                {
+                    "city_name": "Amphoe Phu Kam Yao"
+                },
+                {
+                    "city_name": "Amphoe Chiang Muan"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Phatthalung",
+            "cities": [
+                {
+                    "city_name": "Amphoe Pak Phayun"
+                },
+                {
+                    "city_name": "Amphoe Mueang Phatthalung"
+                },
+                {
+                    "city_name": "Amphoe Khuan Khanun"
+                },
+                {
+                    "city_name": "Amphoe Khao Chaison"
+                },
+                {
+                    "city_name": "Amphoe Pa Phayom"
+                },
+                {
+                    "city_name": "Amphoe Tamot"
+                },
+                {
+                    "city_name": "Amphoe Bang Kaeo"
+                },
+                {
+                    "city_name": "Amphoe Pa Bon"
+                },
+                {
+                    "city_name": "Amphoe Srinagarindra"
+                },
+                {
+                    "city_name": "Amphoe Kong Ra"
+                },
+                {
+                    "city_name": "Amphoe Si Banphot"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Pattani",
+            "cities": [
+                {
+                    "city_name": "Amphoe Yaring"
+                },
+                {
+                    "city_name": "Amphoe Yarang"
+                },
+                {
+                    "city_name": "Amphoe Sai Buri"
+                },
+                {
+                    "city_name": "Amphoe Panare"
+                },
+                {
+                    "city_name": "Amphoe Nong Chik"
+                },
+                {
+                    "city_name": "Amphoe Mueang Pattani"
+                },
+                {
+                    "city_name": "Amphoe Mayo"
+                },
+                {
+                    "city_name": "Amphoe Khok Pho"
+                },
+                {
+                    "city_name": "Amphoe Kapho"
+                },
+                {
+                    "city_name": "Amphoe Thung Yang Daeng"
+                },
+                {
+                    "city_name": "Amphoe Mae Lan"
+                },
+                {
+                    "city_name": "Amphoe Mai Kaen"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Pathum Thani",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thanyaburi"
+                },
+                {
+                    "city_name": "Amphoe Sam Khok"
+                },
+                {
+                    "city_name": "Amphoe Nong Suea"
+                },
+                {
+                    "city_name": "Amphoe Mueang Pathum Thani"
+                },
+                {
+                    "city_name": "Amphoe Lat Lum Kaeo"
+                },
+                {
+                    "city_name": "Amphoe Lam Luk Ka"
+                },
+                {
+                    "city_name": "Amphoe Khlong Luang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nonthaburi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Sai Noi"
+                },
+                {
+                    "city_name": "Amphoe Pak Kret"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nonthaburi"
+                },
+                {
+                    "city_name": "Amphoe Bang Yai"
+                },
+                {
+                    "city_name": "Amphoe Bang Kruai"
+                },
+                {
+                    "city_name": "Amphoe Bang Bua Thong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nong Khai",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Bo"
+                },
+                {
+                    "city_name": "Amphoe Si Chiang Mai"
+                },
+                {
+                    "city_name": "Amphoe Sangkhom"
+                },
+                {
+                    "city_name": "Amphoe Phonphisai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nong Khai"
+                },
+                {
+                    "city_name": "Amphoe Pho Tak"
+                },
+                {
+                    "city_name": "Amphoe Sa Khrai"
+                },
+                {
+                    "city_name": "Amphoe Fao Rai"
+                },
+                {
+                    "city_name": "Amphoe Rattanawapi"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Narathiwat",
+            "cities": [
+                {
+                    "city_name": "Amphoe Yi-ngo"
+                },
+                {
+                    "city_name": "Amphoe Waeng"
+                },
+                {
+                    "city_name": "Amphoe Tak Bai"
+                },
+                {
+                    "city_name": "Amphoe Su-ngai Padi"
+                },
+                {
+                    "city_name": "Amphoe Su-ngai Kolok"
+                },
+                {
+                    "city_name": "Amphoe Rueso"
+                },
+                {
+                    "city_name": "Amphoe Ra-ngae"
+                },
+                {
+                    "city_name": "Amphoe Mueang Narathiwat"
+                },
+                {
+                    "city_name": "Amphoe Ba Cho"
+                },
+                {
+                    "city_name": "Amphoe Sukhirin"
+                },
+                {
+                    "city_name": "Amphoe Chanae"
+                },
+                {
+                    "city_name": "Amphoe Cho-airong"
+                },
+                {
+                    "city_name": "Amphoe Si Sakhon"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nan",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mae Charim"
+                },
+                {
+                    "city_name": "Amphoe Thung Chang"
+                },
+                {
+                    "city_name": "Amphoe Tha Wang Pha"
+                },
+                {
+                    "city_name": "Amphoe Wiang Sa"
+                },
+                {
+                    "city_name": "Amphoe Pua"
+                },
+                {
+                    "city_name": "Amphoe Na Noi"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nan"
+                },
+                {
+                    "city_name": "Amphoe Chaloem Phra Kiat"
+                },
+                {
+                    "city_name": "Amphoe Ban Luang"
+                },
+                {
+                    "city_name": "Amphoe Na Muen"
+                },
+                {
+                    "city_name": "Amphoe Santi Suk"
+                },
+                {
+                    "city_name": "Amphoe Phu Phiang"
+                },
+                {
+                    "city_name": "Amphoe Chiang Klang"
+                },
+                {
+                    "city_name": "Amphoe Song Khwae"
+                },
+                {
+                    "city_name": "Amphoe Bo Kluea"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nakhon Si Thammarat",
+            "cities": [
+                {
+                    "city_name": "Amphoe Thung Yai"
+                },
+                {
+                    "city_name": "Amphoe Thung Song"
+                },
+                {
+                    "city_name": "Amphoe Tha Sala"
+                },
+                {
+                    "city_name": "Amphoe Sichon"
+                },
+                {
+                    "city_name": "Amphoe Ron Phibun"
+                },
+                {
+                    "city_name": "Amphoe Lan Saka"
+                },
+                {
+                    "city_name": "Amphoe Khanom"
+                },
+                {
+                    "city_name": "Amphoe Chawang"
+                },
+                {
+                    "city_name": "Amphoe Pak Phanang"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nakhon Si Thammarat"
+                },
+                {
+                    "city_name": "Amphoe Hua Sai"
+                },
+                {
+                    "city_name": "Amphoe Chian Yai"
+                },
+                {
+                    "city_name": "Amphoe Cha-uat"
+                },
+                {
+                    "city_name": "Amphoe Tham Phannara"
+                },
+                {
+                    "city_name": "Amphoe Bang Khan"
+                },
+                {
+                    "city_name": "Amphoe Phra Phrom"
+                },
+                {
+                    "city_name": "Amphoe Chulabhorn"
+                },
+                {
+                    "city_name": "Amphoe Na Bon"
+                },
+                {
+                    "city_name": "Amphoe Chang Klang"
+                },
+                {
+                    "city_name": "Amphoe Phrom Khiri"
+                },
+                {
+                    "city_name": "Amphoe Nopphitam"
+                },
+                {
+                    "city_name": "Amphoe Phipun"
+                },
+                {
+                    "city_name": "Amphoe Chaloem Phra Kiat"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nakhon Sawan",
+            "cities": [
+                {
+                    "city_name": "Amphoe Lat Yao"
+                },
+                {
+                    "city_name": "Amphoe Tha Tako"
+                },
+                {
+                    "city_name": "Amphoe Takhli"
+                },
+                {
+                    "city_name": "Amphoe Phayuha Khiri"
+                },
+                {
+                    "city_name": "Amphoe Phai Sali"
+                },
+                {
+                    "city_name": "Amphoe Nong Bua"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nakhon Sawan"
+                },
+                {
+                    "city_name": "Amphoe Krok Phra"
+                },
+                {
+                    "city_name": "Amphoe Chumsaeng"
+                },
+                {
+                    "city_name": "Amphoe Banphot Phisai"
+                },
+                {
+                    "city_name": "Amphoe Mae Poen"
+                },
+                {
+                    "city_name": "Amphoe Chum Ta Bong"
+                },
+                {
+                    "city_name": "Amphoe Mae Wong"
+                },
+                {
+                    "city_name": "Amphoe Tak Fa"
+                },
+                {
+                    "city_name": "Amphoe Kao Liao"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nakhon Ratchasima",
+            "cities": [
+                {
+                    "city_name": "Amphoe Sung Noen"
+                },
+                {
+                    "city_name": "Amphoe Sikhio"
+                },
+                {
+                    "city_name": "Amphoe Prathai"
+                },
+                {
+                    "city_name": "Amphoe Phimai"
+                },
+                {
+                    "city_name": "Amphoe Pak Thong Chai"
+                },
+                {
+                    "city_name": "Amphoe Pak Chong"
+                },
+                {
+                    "city_name": "Amphoe Non Thai"
+                },
+                {
+                    "city_name": "Amphoe Non Sung"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nakhon Ratchasima"
+                },
+                {
+                    "city_name": "Amphoe Khong"
+                },
+                {
+                    "city_name": "Amphoe Khon Buri"
+                },
+                {
+                    "city_name": "Amphoe Kham Thale So"
+                },
+                {
+                    "city_name": "Amphoe Huai Thalaeng"
+                },
+                {
+                    "city_name": "Amphoe Dan Khun Thot"
+                },
+                {
+                    "city_name": "Amphoe Chum Phuang"
+                },
+                {
+                    "city_name": "Amphoe Chok Chai"
+                },
+                {
+                    "city_name": "Amphoe Chakkarat"
+                },
+                {
+                    "city_name": "Amphoe Bua Yai"
+                },
+                {
+                    "city_name": "Amphoe Wang Nam Khiao"
+                },
+                {
+                    "city_name": "Amphoe Soeng Sang"
+                },
+                {
+                    "city_name": "Amphoe Nong Bun Mak"
+                },
+                {
+                    "city_name": "Amphoe Chaloem Phra Kiat"
+                },
+                {
+                    "city_name": "Amphoe Kaeng Sanam Nang"
+                },
+                {
+                    "city_name": "Amphoe Ban Lueam"
+                },
+                {
+                    "city_name": "Amphoe Lam Thamen Chai"
+                },
+                {
+                    "city_name": "Amphoe Mueang Yang"
+                },
+                {
+                    "city_name": "Amphoe Thepharak"
+                },
+                {
+                    "city_name": "Amphoe Phra Thong Kham"
+                },
+                {
+                    "city_name": "Amphoe Sida"
+                },
+                {
+                    "city_name": "Amphoe Kham Sakae Saeng"
+                },
+                {
+                    "city_name": "Amphoe Non Daeng"
+                },
+                {
+                    "city_name": "Amphoe Bua Lai"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nakhon Phanom",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Uthen"
+                },
+                {
+                    "city_name": "Amphoe That Phanom"
+                },
+                {
+                    "city_name": "Amphoe Si Songkhram"
+                },
+                {
+                    "city_name": "Amphoe Pla Pak"
+                },
+                {
+                    "city_name": "Amphoe Na Kae"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nakhon Phanom"
+                },
+                {
+                    "city_name": "Amphoe Ban Phaeng"
+                },
+                {
+                    "city_name": "Amphoe Phon Sawan"
+                },
+                {
+                    "city_name": "Amphoe Wangyang"
+                },
+                {
+                    "city_name": "Amphoe Na Thom"
+                },
+                {
+                    "city_name": "Amphoe Renu Nakhon"
+                },
+                {
+                    "city_name": "Amphoe Na Wa"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nakhon Pathom",
+            "cities": [
+                {
+                    "city_name": "Amphoe Sam Phran"
+                },
+                {
+                    "city_name": "Amphoe Nakhon Chai Si"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nakhon Pathom"
+                },
+                {
+                    "city_name": "Kamphaeng Saen District"
+                },
+                {
+                    "city_name": "Amphoe Don Tum"
+                },
+                {
+                    "city_name": "Amphoe Bang Len"
+                },
+                {
+                    "city_name": "Amphoe Phutthamonthon"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nakhon Nayok",
+            "cities": [
+                {
+                    "city_name": "Amphoe Pak Phli"
+                },
+                {
+                    "city_name": "Amphoe Ongkharak"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nakhon Nayok"
+                },
+                {
+                    "city_name": "Amphoe Ban Na"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Mukdahan",
+            "cities": [
+                {
+                    "city_name": "Amphoe Mueang Mukdahan"
+                },
+                {
+                    "city_name": "Amphoe Khamcha-i"
+                },
+                {
+                    "city_name": "Amphoe Don Tan"
+                },
+                {
+                    "city_name": "Amphoe Nong Sung"
+                },
+                {
+                    "city_name": "Amphoe Nikhom Kham Soi"
+                },
+                {
+                    "city_name": "Amphoe Dong Luang"
+                },
+                {
+                    "city_name": "Amphoe Wan Yai"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Maha Sarakham",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wapi Pathum"
+                },
+                {
+                    "city_name": "Amphoe Phayakkhaphum Phisai"
+                },
+                {
+                    "city_name": "Amphoe Na Chueak"
+                },
+                {
+                    "city_name": "Amphoe Mueang Maha Sarakham"
+                },
+                {
+                    "city_name": "Amphoe Kosum Phisai"
+                },
+                {
+                    "city_name": "Amphoe Kantharawichai"
+                },
+                {
+                    "city_name": "Amphoe Chiang Yuen"
+                },
+                {
+                    "city_name": "Amphoe Borabue"
+                },
+                {
+                    "city_name": "Amphoe Kut Rang"
+                },
+                {
+                    "city_name": "Amphoe Yang Si Surat"
+                },
+                {
+                    "city_name": "Amphoe Na Dun"
+                },
+                {
+                    "city_name": "Amphoe Kae Dam"
+                },
+                {
+                    "city_name": "Amphoe Chuen Chom"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Lop Buri",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Wung"
+                },
+                {
+                    "city_name": "Amphoe Phatthana Nikhom"
+                },
+                {
+                    "city_name": "Muang Lop Buri District"
+                },
+                {
+                    "city_name": "Amphoe Khok Samrong"
+                },
+                {
+                    "city_name": "Amphoe Chai Badan"
+                },
+                {
+                    "city_name": "Amphoe Ban Mi"
+                },
+                {
+                    "city_name": "Amphoe Khok Charoen"
+                },
+                {
+                    "city_name": "Amphoe Sa Bot"
+                },
+                {
+                    "city_name": "Amphoe Nong Muang"
+                },
+                {
+                    "city_name": "Amphoe Lam Sonthi"
+                },
+                {
+                    "city_name": "Amphoe Tha Luang"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Loei",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wang Saphung"
+                },
+                {
+                    "city_name": "Amphoe Tha Li"
+                },
+                {
+                    "city_name": "Amphoe Phu Kradueng"
+                },
+                {
+                    "city_name": "Amphoe Mueang Loei"
+                },
+                {
+                    "city_name": "Amphoe Dan Sai"
+                },
+                {
+                    "city_name": "Amphoe Chiang Khan"
+                },
+                {
+                    "city_name": "Amphoe Na Haeo"
+                },
+                {
+                    "city_name": "Amphoe Na Duang"
+                },
+                {
+                    "city_name": "Amphoe Nong Hin"
+                },
+                {
+                    "city_name": "Amphoe Phu Luang"
+                },
+                {
+                    "city_name": "Amphoe Pha Khao"
+                },
+                {
+                    "city_name": "Amphoe Erawan"
+                },
+                {
+                    "city_name": "Amphoe Phu Ruea"
+                },
+                {
+                    "city_name": "Amphoe Pak Chom"
+                }
+            ]
+        },
+        {
+            "province_name": "Bangkok",
+            "cities": [
+                {
+                    "city_name": "Thon buri"
+                },
+                {
+                    "city_name": "Taling Chan"
+                },
+                {
+                    "city_name": "Samphanthawong"
+                },
+                {
+                    "city_name": "Rat Burana"
+                },
+                {
+                    "city_name": "Pom Prap Sattru Phai"
+                },
+                {
+                    "city_name": "Phra Nakhon"
+                },
+                {
+                    "city_name": "Phra Khanong"
+                },
+                {
+                    "city_name": "Phaya Thai"
+                },
+                {
+                    "city_name": "Phasi Charoen"
+                },
+                {
+                    "city_name": "Parthum Wan"
+                },
+                {
+                    "city_name": "Nong Khaem"
+                },
+                {
+                    "city_name": "Nong Chok"
+                },
+                {
+                    "city_name": "Min Buri"
+                },
+                {
+                    "city_name": "Lat Krabang"
+                },
+                {
+                    "city_name": "Khlong Toei"
+                },
+                {
+                    "city_name": "Khlong San"
+                },
+                {
+                    "city_name": "Dusit"
+                },
+                {
+                    "city_name": "Bang Khae"
+                },
+                {
+                    "city_name": "Bang Sue"
+                },
+                {
+                    "city_name": "Bang Rak"
+                },
+                {
+                    "city_name": "Bangkok Yai"
+                },
+                {
+                    "city_name": "Bangkok Noi"
+                },
+                {
+                    "city_name": "Bang Khun thain"
+                },
+                {
+                    "city_name": "Bang Khen"
+                },
+                {
+                    "city_name": "Bang Kapi"
+                },
+                {
+                    "city_name": "Don Mueang"
+                },
+                {
+                    "city_name": "Yan na wa"
+                },
+                {
+                    "city_name": "Ratchathewi"
+                },
+                {
+                    "city_name": "Din Daeng"
+                },
+                {
+                    "city_name": "Saphan Sung"
+                },
+                {
+                    "city_name": "Huai Khwang"
+                },
+                {
+                    "city_name": "Bueng Kum"
+                },
+                {
+                    "city_name": "Wang Thong Lang"
+                },
+                {
+                    "city_name": "Bang Phlat"
+                },
+                {
+                    "city_name": "Lat Phrao"
+                },
+                {
+                    "city_name": "Khan Na Yao"
+                },
+                {
+                    "city_name": "Khlong Sam Wa"
+                },
+                {
+                    "city_name": "Lak Si"
+                },
+                {
+                    "city_name": "Chatu Chak"
+                },
+                {
+                    "city_name": "Sai Mai"
+                },
+                {
+                    "city_name": "Thawi Watthana"
+                },
+                {
+                    "city_name": "Thung khru"
+                },
+                {
+                    "city_name": "Bang Na"
+                },
+                {
+                    "city_name": "Bang Kho laen"
+                },
+                {
+                    "city_name": "Sathon"
+                },
+                {
+                    "city_name": "Pra Wet"
+                },
+                {
+                    "city_name": "Vadhana"
+                },
+                {
+                    "city_name": "Suanluang"
+                },
+                {
+                    "city_name": "Chom Thong"
+                },
+                {
+                    "city_name": "Bang Bon"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Khon Kaen",
+            "cities": [
+                {
+                    "city_name": "Amphoe Phu Wiang"
+                },
+                {
+                    "city_name": "Amphoe Phon"
+                },
+                {
+                    "city_name": "Amphoe Nong Song Hong"
+                },
+                {
+                    "city_name": "Amphoe Nong Ruea"
+                },
+                {
+                    "city_name": "Amphoe Nam Phong"
+                },
+                {
+                    "city_name": "Amphoe Mueang Khon Kaen"
+                },
+                {
+                    "city_name": "Amphoe Mancha Khiri"
+                },
+                {
+                    "city_name": "Amphoe Kranuan"
+                },
+                {
+                    "city_name": "Amphoe Chum Phae"
+                },
+                {
+                    "city_name": "Amphoe Chonnabot"
+                },
+                {
+                    "city_name": "Amphoe Ban Phai"
+                },
+                {
+                    "city_name": "Amphoe Phu Pha Man"
+                },
+                {
+                    "city_name": "Amphoe Waeng Noi"
+                },
+                {
+                    "city_name": "Amphoe Khok Pho Chai"
+                },
+                {
+                    "city_name": "Amphoe Nong Na Kham"
+                },
+                {
+                    "city_name": "Amphoe Si Chom Phu"
+                },
+                {
+                    "city_name": "Amphoe Pueai Noi"
+                },
+                {
+                    "city_name": "Amphoe Waeng Yai"
+                },
+                {
+                    "city_name": "Amphoe Non Sila"
+                },
+                {
+                    "city_name": "Amphoe Ban Haet"
+                },
+                {
+                    "city_name": "Amphoe Phra Yuen"
+                },
+                {
+                    "city_name": "Amphoe Ban Fang"
+                },
+                {
+                    "city_name": "Amphoe Khao Suan Kwang"
+                },
+                {
+                    "city_name": "Amphoe Ubolratana"
+                },
+                {
+                    "city_name": "Amphoe Sam Sung"
+                },
+                {
+                    "city_name": "Amphoe Wiang Kao"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Kalasin",
+            "cities": [
+                {
+                    "city_name": "Amphoe Yang Talat"
+                },
+                {
+                    "city_name": "Amphoe Tha Khantho"
+                },
+                {
+                    "city_name": "Amphoe Somdet"
+                },
+                {
+                    "city_name": "Amphoe Sahatsakhan"
+                },
+                {
+                    "city_name": "Amphoe Mueang Kalasin"
+                },
+                {
+                    "city_name": "Amphoe Kuchinarai"
+                },
+                {
+                    "city_name": "Amphoe Kamalasai"
+                },
+                {
+                    "city_name": "Amphoe Khong Chai"
+                },
+                {
+                    "city_name": "Amphoe Nong Kung Si"
+                },
+                {
+                    "city_name": "Amphoe Huai Mek"
+                },
+                {
+                    "city_name": "Amphoe Rong Kham"
+                },
+                {
+                    "city_name": "Amphoe Don Chan"
+                },
+                {
+                    "city_name": "Amphoe Huai Phueng"
+                },
+                {
+                    "city_name": "Amphoe Khao Wong"
+                },
+                {
+                    "city_name": "Amphoe Na Khu"
+                },
+                {
+                    "city_name": "Amphoe Na Mon"
+                },
+                {
+                    "city_name": "Amphoe Kham Muang"
+                },
+                {
+                    "city_name": "Amphoe Sam Chai"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chon Buri",
+            "cities": [
+                {
+                    "city_name": "Amphoe Si Racha"
+                },
+                {
+                    "city_name": "Amphoe Sattahip"
+                },
+                {
+                    "city_name": "Amphoe Phan Thong"
+                },
+                {
+                    "city_name": "Amphoe Phanat Nikhom"
+                },
+                {
+                    "city_name": "Mueang Chonburi District"
+                },
+                {
+                    "city_name": "Amphoe Ko Si Chang"
+                },
+                {
+                    "city_name": "Amphoe Bang Lamung"
+                },
+                {
+                    "city_name": "Amphoe Ban Bueng"
+                },
+                {
+                    "city_name": "Amphoe Bo Thong"
+                },
+                {
+                    "city_name": "Amphoe Ko Chan"
+                },
+                {
+                    "city_name": "Amphoe Nong Yai"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chanthaburi",
+            "cities": [
+                {
+                    "city_name": "Amphoe Tha Mai"
+                },
+                {
+                    "city_name": "Amphoe Pong Nam Ron"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chanthaburi"
+                },
+                {
+                    "city_name": "Amphoe Makham"
+                },
+                {
+                    "city_name": "Amphoe Laem Sing"
+                },
+                {
+                    "city_name": "Amphoe Khlung"
+                },
+                {
+                    "city_name": "Amphoe Na Yai Am"
+                },
+                {
+                    "city_name": "Amphoe Kaeng Hang Maeo"
+                },
+                {
+                    "city_name": "Amphoe Khao Khitchakut"
+                },
+                {
+                    "city_name": "Amphoe Soi Dao"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chaiyaphum",
+            "cities": [
+                {
+                    "city_name": "Amphoe Phu Khiao"
+                },
+                {
+                    "city_name": "Amphoe Nong Bua Daeng"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chaiyaphum"
+                },
+                {
+                    "city_name": "Amphoe Khon Sawan"
+                },
+                {
+                    "city_name": "Amphoe Khon San"
+                },
+                {
+                    "city_name": "Amphoe Kaset Sombun"
+                },
+                {
+                    "city_name": "Amphoe Kaeng Khro"
+                },
+                {
+                    "city_name": "Amphoe Ban Thaen"
+                },
+                {
+                    "city_name": "Amphoe Ban Khwao"
+                },
+                {
+                    "city_name": "Amphoe Bamnet Narong"
+                },
+                {
+                    "city_name": "Amphoe Thep Sathit"
+                },
+                {
+                    "city_name": "Amphoe Phakdi Chumphon"
+                },
+                {
+                    "city_name": "Amphoe Nong Bua Rawe"
+                },
+                {
+                    "city_name": "Amphoe Sap Yai"
+                },
+                {
+                    "city_name": "Amphoe Noen Sa-nga"
+                },
+                {
+                    "city_name": "Amphoe Chatturat"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chai Nat",
+            "cities": [
+                {
+                    "city_name": "Amphoe Hankha"
+                },
+                {
+                    "city_name": "Amphoe Wat Sing"
+                },
+                {
+                    "city_name": "Amphoe Sapphaya"
+                },
+                {
+                    "city_name": "Amphoe Sankhaburi"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chainat"
+                },
+                {
+                    "city_name": "Amphoe Manorom"
+                },
+                {
+                    "city_name": "Amphoe Noen Kham"
+                },
+                {
+                    "city_name": "Amphoe Nong Mamong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Chachoengsao",
+            "cities": [
+                {
+                    "city_name": "Amphoe Sanam Chai Khet"
+                },
+                {
+                    "city_name": "Amphoe Phanom Sarakham"
+                },
+                {
+                    "city_name": "Amphoe Mueang Chachoengsao"
+                },
+                {
+                    "city_name": "Amphoe Ban Pho"
+                },
+                {
+                    "city_name": "Amphoe Bang Pakong"
+                },
+                {
+                    "city_name": "Amphoe Bang Nam Priao"
+                },
+                {
+                    "city_name": "Amphoe Bang Khla"
+                },
+                {
+                    "city_name": "Amphoe Ratchasan"
+                },
+                {
+                    "city_name": "Amphoe Plaeng Yao"
+                },
+                {
+                    "city_name": "Amphoe Khlong Khuean"
+                },
+                {
+                    "city_name": "Amphoe Tha Takiap"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Buri Ram",
+            "cities": [
+                {
+                    "city_name": "Amphoe Satuek"
+                },
+                {
+                    "city_name": "Amphoe Prakhon Chai"
+                },
+                {
+                    "city_name": "Amphoe Phutthaisong"
+                },
+                {
+                    "city_name": "Amphoe Nang Rong"
+                },
+                {
+                    "city_name": "Amphoe Mueang Buriram"
+                },
+                {
+                    "city_name": "Amphoe Lam Plai Mat"
+                },
+                {
+                    "city_name": "Amphoe Lahan Sai"
+                },
+                {
+                    "city_name": "Amphoe Krasang"
+                },
+                {
+                    "city_name": "Amphoe Ban Kruat"
+                },
+                {
+                    "city_name": "Amphoe Non Din Daeng"
+                },
+                {
+                    "city_name": "Amphoe Pa Kham"
+                },
+                {
+                    "city_name": "Amphoe Chamni"
+                },
+                {
+                    "city_name": "Amphoe Chaloem Phra Kiat"
+                },
+                {
+                    "city_name": "Amphoe Nong Ki"
+                },
+                {
+                    "city_name": "Amphoe Non Suwan"
+                },
+                {
+                    "city_name": "Amphoe Nong Hong"
+                },
+                {
+                    "city_name": "Amphoe Na Pho"
+                },
+                {
+                    "city_name": "Amphoe Ban Mai Chaiyaphot"
+                },
+                {
+                    "city_name": "Amphoe Phlapphla Chai"
+                },
+                {
+                    "city_name": "Amphoe Huai Rat"
+                },
+                {
+                    "city_name": "Amphoe Ban Dan"
+                },
+                {
+                    "city_name": "Amphoe Khu Mueang"
+                },
+                {
+                    "city_name": "Amphoe Khaen Dong"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Ang Thong",
+            "cities": [
+                {
+                    "city_name": "Amphoe Wiset Chai Chan"
+                },
+                {
+                    "city_name": "Amphoe Sawaeng Ha"
+                },
+                {
+                    "city_name": "Amphoe Sam Ko"
+                },
+                {
+                    "city_name": "Amphoe Pho Thong"
+                },
+                {
+                    "city_name": "Amphoe Pa Mok"
+                },
+                {
+                    "city_name": "Amphoe Mueang Ang Thong"
+                },
+                {
+                    "city_name": "Amphoe Chaiyo"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Udon Thani",
+            "cities": [
+                {
+                    "city_name": "Amphoe Phen"
+                },
+                {
+                    "city_name": "Amphoe Nong Han"
+                },
+                {
+                    "city_name": "Amphoe Mueang Udon Thani"
+                },
+                {
+                    "city_name": "Amphoe Kumphawapi"
+                },
+                {
+                    "city_name": "Amphoe Ban Phue"
+                },
+                {
+                    "city_name": "Amphoe Ban Dung"
+                },
+                {
+                    "city_name": "Amphoe Na Yung"
+                },
+                {
+                    "city_name": "Amphoe Non Sa-at"
+                },
+                {
+                    "city_name": "Amphoe Prachak Sinlapakhom"
+                },
+                {
+                    "city_name": "Amphoe Nong Saeng"
+                },
+                {
+                    "city_name": "Amphoe Nong Wua So"
+                },
+                {
+                    "city_name": "Amphoe Wang Sam Mo"
+                },
+                {
+                    "city_name": "Amphoe Si That"
+                },
+                {
+                    "city_name": "Amphoe Thung Fon"
+                },
+                {
+                    "city_name": "Amphoe Ku Kaeo"
+                },
+                {
+                    "city_name": "Amphoe Chai Wan"
+                },
+                {
+                    "city_name": "Amphoe Phibun Rak"
+                },
+                {
+                    "city_name": "Amphoe Nam Som"
+                },
+                {
+                    "city_name": "Amphoe Kut Chap"
+                },
+                {
+                    "city_name": "Amphoe Sang Khom"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Prachin Buri",
+            "cities": [
+                {
+                    "city_name": "Amphoe Si Maha Phot"
+                },
+                {
+                    "city_name": "Amphoe Prachantakham"
+                },
+                {
+                    "city_name": "Amphoe Mueang Prachin Buri"
+                },
+                {
+                    "city_name": "Amphoe Kabin Buri"
+                },
+                {
+                    "city_name": "Amphoe Ban Sang"
+                },
+                {
+                    "city_name": "Amphoe Si Mahosot"
+                },
+                {
+                    "city_name": "Amphoe Na Di"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Ubon Ratchathani",
+            "cities": [
+                {
+                    "city_name": "Amphoe Warin Chamrap"
+                },
+                {
+                    "city_name": "Amphoe Trakan Phuet Phon"
+                },
+                {
+                    "city_name": "Amphoe Phibun Mangsahan"
+                },
+                {
+                    "city_name": "Amphoe Mueang Ubon Ratchathani"
+                },
+                {
+                    "city_name": "Amphoe Muang Sam Sip"
+                },
+                {
+                    "city_name": "Amphoe Khueang Nai"
+                },
+                {
+                    "city_name": "Amphoe Si Mueang Mai"
+                },
+                {
+                    "city_name": "Amphoe Khemmarat"
+                },
+                {
+                    "city_name": "Amphoe Det Udom"
+                },
+                {
+                    "city_name": "Amphoe Buntharik"
+                },
+                {
+                    "city_name": "Amphoe Khong Chiam"
+                },
+                {
+                    "city_name": "Amphoe Thung Si Udom"
+                },
+                {
+                    "city_name": "Amphoe Nam Khun"
+                },
+                {
+                    "city_name": "Amphoe Lao Suea Kok"
+                },
+                {
+                    "city_name": "Amphoe Samrong"
+                },
+                {
+                    "city_name": "Amphoe Kut Khaopun"
+                },
+                {
+                    "city_name": "Amphoe Sawang Wirawong"
+                },
+                {
+                    "city_name": "Amphoe Na Yia"
+                },
+                {
+                    "city_name": "Amphoe Don Mot Daeng"
+                },
+                {
+                    "city_name": "Amphoe Tan Sum"
+                },
+                {
+                    "city_name": "Amphoe Pho Sai"
+                },
+                {
+                    "city_name": "Amphoe Na Tan"
+                },
+                {
+                    "city_name": "Amphoe Sirindhorn"
+                },
+                {
+                    "city_name": "Amphoe Na Chaluai"
+                },
+                {
+                    "city_name": "Amphoe Nam Yuen"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Amnat Charoen",
+            "cities": [
+                {
+                    "city_name": "Amphoe Phana"
+                },
+                {
+                    "city_name": "Amphoe Chanuman"
+                },
+                {
+                    "city_name": "Amphoe Mueang Amnat Charoen"
+                },
+                {
+                    "city_name": "Amphoe Hua Taphan"
+                },
+                {
+                    "city_name": "Amphoe Pathum Ratchawongsa"
+                },
+                {
+                    "city_name": "Amphoe Lue Amnat"
+                },
+                {
+                    "city_name": "Amphoe Senangkhanikhom"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Nong Bua Lamphu",
+            "cities": [
+                {
+                    "city_name": "Amphoe Si Bun Rueang"
+                },
+                {
+                    "city_name": "Amphoe Non Sang"
+                },
+                {
+                    "city_name": "Amphoe Mueang Nong Bua Lamphu"
+                },
+                {
+                    "city_name": "Amphoe Na Klang"
+                },
+                {
+                    "city_name": "Amphoe Na Wang"
+                },
+                {
+                    "city_name": "Amphoe Suwannakhuha"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Sa Kaeo",
+            "cities": [
+                {
+                    "city_name": "Amphoe Watthana Nakhon"
+                },
+                {
+                    "city_name": "Amphoe Ta Phraya"
+                },
+                {
+                    "city_name": "Amphoe Mueang Sa Kaeo"
+                },
+                {
+                    "city_name": "Amphoe Aranyaprathet"
+                },
+                {
+                    "city_name": "Amphoe Wang Nam Yen"
+                },
+                {
+                    "city_name": "Amphoe Wang Sombun"
+                },
+                {
+                    "city_name": "Amphoe Khao Chakan"
+                },
+                {
+                    "city_name": "Amphoe Khok Sung"
+                },
+                {
+                    "city_name": "Amphoe Khlong Hat"
+                }
+            ]
+        },
+        {
+            "province_name": "Changwat Bueng Kan",
+            "cities": [
+                {
+                    "city_name": "Amphoe Seka"
+                },
+                {
+                    "city_name": "Amphoe Mueang Bueng Kan"
+                },
+                {
+                    "city_name": "Amphoe Pak Khat"
+                },
+                {
+                    "city_name": "Amphoe So Phisai"
+                },
+                {
+                    "city_name": "Amphoe Bung Khla"
+                },
+                {
+                    "city_name": "Amphoe Si Wilai"
+                },
+                {
+                    "city_name": "Amphoe Bueng Khong Long"
+                },
+                {
+                    "city_name": "Amphoe Phon Charoen"
+                }
+            ]
+        }
+    ]
+}

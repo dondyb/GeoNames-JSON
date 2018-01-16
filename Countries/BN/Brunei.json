@@ -1,0 +1,26 @@
+{
+    "country_name": "Brunei",
+    "country_id": "BN",
+    "provinces": [
+        {
+            "province_name": "Tutong District",
+            "cities": [
+                {
+                    "city_name": "Kiudang"
+                }
+            ]
+        },
+        {
+            "province_name": "Temburong District",
+            "cities": []
+        },
+        {
+            "province_name": "Brunei and Muara District",
+            "cities": []
+        },
+        {
+            "province_name": "Belait District",
+            "cities": []
+        }
+    ]
+}

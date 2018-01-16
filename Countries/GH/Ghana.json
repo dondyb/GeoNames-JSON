@@ -1,0 +1,638 @@
+{
+    "country_name": "Ghana",
+    "country_id": "GH",
+    "provinces": [
+        {
+            "province_name": "Western Region",
+            "cities": [
+                {
+                    "city_name": "Ellembelle"
+                },
+                {
+                    "city_name": "Ahanta West"
+                },
+                {
+                    "city_name": "Aowin/Suaman"
+                },
+                {
+                    "city_name": "Bia"
+                },
+                {
+                    "city_name": "Bibiani/Ahwiaso/Bekwai"
+                },
+                {
+                    "city_name": "Jomoro"
+                },
+                {
+                    "city_name": "Juaboso"
+                },
+                {
+                    "city_name": "Mpohor/Wassa East"
+                },
+                {
+                    "city_name": "Nzema East"
+                },
+                {
+                    "city_name": "Prestea-Huni Valley"
+                },
+                {
+                    "city_name": "Secondi Takoradi"
+                },
+                {
+                    "city_name": "Sefwi Akontobra"
+                },
+                {
+                    "city_name": "Sefwi-Wiawso"
+                },
+                {
+                    "city_name": "Shama new"
+                },
+                {
+                    "city_name": "Tarkwa Nsuaem"
+                },
+                {
+                    "city_name": "Wassa Amenfi East"
+                },
+                {
+                    "city_name": "Wassa Amenfi West"
+                },
+                {
+                    "city_name": "Wassa West"
+                },
+                {
+                    "city_name": "Shama Ahanta East Metropolitan District"
+                }
+            ]
+        },
+        {
+            "province_name": "Volta Region",
+            "cities": [
+                {
+                    "city_name": "Keta"
+                },
+                {
+                    "city_name": "Nkwanta North"
+                },
+                {
+                    "city_name": "Nkwanta South"
+                },
+                {
+                    "city_name": "Krachi East"
+                },
+                {
+                    "city_name": "Krachi West"
+                },
+                {
+                    "city_name": "Adaklu-Anyigbe"
+                },
+                {
+                    "city_name": "Akatsi District"
+                },
+                {
+                    "city_name": "Biakoye"
+                },
+                {
+                    "city_name": "Ho"
+                },
+                {
+                    "city_name": "Hohoe"
+                },
+                {
+                    "city_name": "Jasikan"
+                },
+                {
+                    "city_name": "Kadjebi"
+                },
+                {
+                    "city_name": "Ketu North District"
+                },
+                {
+                    "city_name": "Ketu South District"
+                },
+                {
+                    "city_name": "Kpando"
+                },
+                {
+                    "city_name": "North Tongu"
+                },
+                {
+                    "city_name": "South Dayi"
+                },
+                {
+                    "city_name": "South Tongu District"
+                }
+            ]
+        },
+        {
+            "province_name": "Upper West Region",
+            "cities": [
+                {
+                    "city_name": "Nadowli"
+                },
+                {
+                    "city_name": "Sissala West"
+                },
+                {
+                    "city_name": "Wa East"
+                },
+                {
+                    "city_name": "Wa West"
+                },
+                {
+                    "city_name": "Sissala East"
+                },
+                {
+                    "city_name": "Jirapa Lambussie"
+                },
+                {
+                    "city_name": "Lawra"
+                },
+                {
+                    "city_name": "Jirapa"
+                },
+                {
+                    "city_name": "Lambussie Karni"
+                },
+                {
+                    "city_name": "Wa"
+                },
+                {
+                    "city_name": "Daffiama Bussie Issa District"
+                }
+            ]
+        },
+        {
+            "province_name": "Upper East Region",
+            "cities": [
+                {
+                    "city_name": "Talensi-Nabdam"
+                },
+                {
+                    "city_name": "Garu-Tempane"
+                },
+                {
+                    "city_name": "Builsa"
+                },
+                {
+                    "city_name": "Bongo"
+                },
+                {
+                    "city_name": "Bawku West"
+                },
+                {
+                    "city_name": "Bawku"
+                },
+                {
+                    "city_name": "Bolgatanga"
+                },
+                {
+                    "city_name": "Kassena Nankana"
+                },
+                {
+                    "city_name": "Kassena Nankana West"
+                },
+                {
+                    "city_name": "Bawku Municipal District"
+                },
+                {
+                    "city_name": "Bawku West District"
+                },
+                {
+                    "city_name": "Binduri District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Region",
+            "cities": [
+                {
+                    "city_name": "Dagomba"
+                },
+                {
+                    "city_name": "Saboba Chereponi"
+                },
+                {
+                    "city_name": "Nanumba South"
+                },
+                {
+                    "city_name": "Nanumba North"
+                },
+                {
+                    "city_name": "Sawla-Tuna-Kalba"
+                },
+                {
+                    "city_name": "Bunkpurugu-Yunyoo"
+                },
+                {
+                    "city_name": "Karaga"
+                },
+                {
+                    "city_name": "Gushiegu"
+                },
+                {
+                    "city_name": "Bole"
+                },
+                {
+                    "city_name": "Kpandai"
+                },
+                {
+                    "city_name": "East Gonja"
+                },
+                {
+                    "city_name": "Saboba"
+                },
+                {
+                    "city_name": "Chereponi"
+                },
+                {
+                    "city_name": "Central Gonja"
+                },
+                {
+                    "city_name": "East Mamprusi"
+                },
+                {
+                    "city_name": "Savelugu/Nanton"
+                },
+                {
+                    "city_name": "Tamale"
+                },
+                {
+                    "city_name": "Tolon/Kumbungu"
+                },
+                {
+                    "city_name": "West Gonja"
+                },
+                {
+                    "city_name": "West Mamprusi"
+                },
+                {
+                    "city_name": "Yendi"
+                },
+                {
+                    "city_name": "Zabzugu/Tatale"
+                },
+                {
+                    "city_name": "Bole District"
+                },
+                {
+                    "city_name": "Gushegu District"
+                },
+                {
+                    "city_name": "Mamprugo Moaduri District"
+                }
+            ]
+        },
+        {
+            "province_name": "Greater Accra Region",
+            "cities": [
+                {
+                    "city_name": "Accra"
+                },
+                {
+                    "city_name": "Adenta"
+                },
+                {
+                    "city_name": "Ashaiman"
+                },
+                {
+                    "city_name": "Ga East"
+                },
+                {
+                    "city_name": "Ga West"
+                },
+                {
+                    "city_name": "Ledzekuku-Krowor"
+                },
+                {
+                    "city_name": "Tema Metropolitan District"
+                },
+                {
+                    "city_name": "Weija"
+                },
+                {
+                    "city_name": "Ga South Municipal Assembly"
+                },
+                {
+                    "city_name": "Ga Central Municipal Assembly"
+                },
+                {
+                    "city_name": "Accra Metropolis District"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Region",
+            "cities": [
+                {
+                    "city_name": "Somanya District"
+                },
+                {
+                    "city_name": "Dangme East District"
+                },
+                {
+                    "city_name": "Atiwa"
+                },
+                {
+                    "city_name": "Akuapim North"
+                },
+                {
+                    "city_name": "Akuapim South"
+                },
+                {
+                    "city_name": "Akyemansa"
+                },
+                {
+                    "city_name": "Asuogyaman"
+                },
+                {
+                    "city_name": "Birim Central"
+                },
+                {
+                    "city_name": "Birim North"
+                },
+                {
+                    "city_name": "Birim South"
+                },
+                {
+                    "city_name": "Dangme West District"
+                },
+                {
+                    "city_name": "East Akim"
+                },
+                {
+                    "city_name": "Fanteakwa"
+                },
+                {
+                    "city_name": "Kwaebibirem"
+                },
+                {
+                    "city_name": "Kwahu East"
+                },
+                {
+                    "city_name": "Kwahu North"
+                },
+                {
+                    "city_name": "Kwahu West"
+                },
+                {
+                    "city_name": "Kwahu South"
+                },
+                {
+                    "city_name": "Lower Manya Krobo"
+                },
+                {
+                    "city_name": "New Juaben"
+                },
+                {
+                    "city_name": "Suhum/Kraboa/Coaltar"
+                },
+                {
+                    "city_name": "Upper Manya Krobo"
+                },
+                {
+                    "city_name": "West Akim"
+                },
+                {
+                    "city_name": "Yilo Krobo"
+                },
+                {
+                    "city_name": "Akuapim North District"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Region",
+            "cities": [
+                {
+                    "city_name": "Assin South"
+                },
+                {
+                    "city_name": "Twifo Hemang Lower Denkyira"
+                },
+                {
+                    "city_name": "Upper Denkyira"
+                },
+                {
+                    "city_name": "Abura/Asebu/Kwamankese"
+                },
+                {
+                    "city_name": "Agona East"
+                },
+                {
+                    "city_name": "Agona West"
+                },
+                {
+                    "city_name": "Ajumako/Enyan/Essiam"
+                },
+                {
+                    "city_name": "Asikuma/Odoben/Brakwa"
+                },
+                {
+                    "city_name": "Assin North"
+                },
+                {
+                    "city_name": "Awutu Senya"
+                },
+                {
+                    "city_name": "Cape Coast"
+                },
+                {
+                    "city_name": "Effutu"
+                },
+                {
+                    "city_name": "Gomoa East"
+                },
+                {
+                    "city_name": "Gomoa West"
+                },
+                {
+                    "city_name": "Komenda/Edina/Eguafo/Abirem"
+                },
+                {
+                    "city_name": "Mfatseman"
+                },
+                {
+                    "city_name": "Upper Denkyira East"
+                },
+                {
+                    "city_name": "Upper Denkyira West"
+                },
+                {
+                    "city_name": "Ajumako/Enyan/Essiam District"
+                }
+            ]
+        },
+        {
+            "province_name": "Brong-Ahafo Region",
+            "cities": [
+                {
+                    "city_name": "Pru"
+                },
+                {
+                    "city_name": "Sene"
+                },
+                {
+                    "city_name": "Nkoranza North District"
+                },
+                {
+                    "city_name": "Asunafo North"
+                },
+                {
+                    "city_name": "Asunafo South"
+                },
+                {
+                    "city_name": "Asutifi"
+                },
+                {
+                    "city_name": "Berekum"
+                },
+                {
+                    "city_name": "Dormaa"
+                },
+                {
+                    "city_name": "Dormaa East new"
+                },
+                {
+                    "city_name": "Jaman North"
+                },
+                {
+                    "city_name": "Jaman South"
+                },
+                {
+                    "city_name": "Kintampo North Municipal District"
+                },
+                {
+                    "city_name": "Kintampo South District"
+                },
+                {
+                    "city_name": "Nkoranza South"
+                },
+                {
+                    "city_name": "Sunyani"
+                },
+                {
+                    "city_name": "Sunyani West"
+                },
+                {
+                    "city_name": "Tain"
+                },
+                {
+                    "city_name": "Tano North"
+                },
+                {
+                    "city_name": "Tano South"
+                },
+                {
+                    "city_name": "Techiman Municipal District"
+                },
+                {
+                    "city_name": "Wenchi"
+                },
+                {
+                    "city_name": "Atebubu-Amantin District"
+                }
+            ]
+        },
+        {
+            "province_name": "Ashanti Region",
+            "cities": [
+                {
+                    "city_name": "Sekyere Afram Plains"
+                },
+                {
+                    "city_name": "Adansi North"
+                },
+                {
+                    "city_name": "Adansi South"
+                },
+                {
+                    "city_name": "Afigya-Kwabre District"
+                },
+                {
+                    "city_name": "Ahafo Ano North"
+                },
+                {
+                    "city_name": "Ahafo Ano South"
+                },
+                {
+                    "city_name": "Amansie Central"
+                },
+                {
+                    "city_name": "Amansie West"
+                },
+                {
+                    "city_name": "Asante Akim North"
+                },
+                {
+                    "city_name": "Asante Akim South District"
+                },
+                {
+                    "city_name": "Atwima Kwanwoma"
+                },
+                {
+                    "city_name": "Atwima Mponua"
+                },
+                {
+                    "city_name": "Atwima Nwabiagya"
+                },
+                {
+                    "city_name": "Bekwai"
+                },
+                {
+                    "city_name": "Bosome Freho"
+                },
+                {
+                    "city_name": "Bosomtwe"
+                },
+                {
+                    "city_name": "Ejisu Juaben"
+                },
+                {
+                    "city_name": "Ejura Sekyedumase"
+                },
+                {
+                    "city_name": "Kumasi"
+                },
+                {
+                    "city_name": "Kwabre District"
+                },
+                {
+                    "city_name": "Mampong"
+                },
+                {
+                    "city_name": "Obuasi"
+                },
+                {
+                    "city_name": "Offinso"
+                },
+                {
+                    "city_name": "Offinso North"
+                },
+                {
+                    "city_name": "Sekyere Central"
+                },
+                {
+                    "city_name": "Sekyere East"
+                },
+                {
+                    "city_name": "Sekyere South"
+                },
+                {
+                    "city_name": "Kumasi Metropolitan District"
+                },
+                {
+                    "city_name": "Obuasi Municipal District"
+                },
+                {
+                    "city_name": "Offinso Municipal District"
+                },
+                {
+                    "city_name": "Bekwai Municipal District"
+                },
+                {
+                    "city_name": "Amansie East"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,370 @@
+{
+    "country_name": "Madagascar",
+    "country_id": "MG",
+    "provinces": [
+        {
+            "province_name": "Diana Region",
+            "cities": [
+                {
+                    "city_name": "Antsiranana I"
+                },
+                {
+                    "city_name": "Antsiranana II"
+                },
+                {
+                    "city_name": "Nosy Be"
+                },
+                {
+                    "city_name": "Ambilobe"
+                }
+            ]
+        },
+        {
+            "province_name": "Sava Region",
+            "cities": [
+                {
+                    "city_name": "Andapa District"
+                },
+                {
+                    "city_name": "Sambava"
+                },
+                {
+                    "city_name": "Antalaha"
+                }
+            ]
+        },
+        {
+            "province_name": "Sofia Region",
+            "cities": [
+                {
+                    "city_name": "Antsohihy"
+                },
+                {
+                    "city_name": "Befandriana Avaratra District"
+                },
+                {
+                    "city_name": "Mandritsara"
+                },
+                {
+                    "city_name": "Bealanana District"
+                }
+            ]
+        },
+        {
+            "province_name": "Analanjirofo Region",
+            "cities": [
+                {
+                    "city_name": "Vavatenina District"
+                },
+                {
+                    "city_name": "Maroantsetra District"
+                },
+                {
+                    "city_name": "Mananara Nord District"
+                },
+                {
+                    "city_name": "Nosy Boraha"
+                }
+            ]
+        },
+        {
+            "province_name": "Boeny Region",
+            "cities": [
+                {
+                    "city_name": "Marovoay District"
+                },
+                {
+                    "city_name": "Mahajanga II"
+                },
+                {
+                    "city_name": "Mahajanga I"
+                }
+            ]
+        },
+        {
+            "province_name": "Betsiboka Region",
+            "cities": [
+                {
+                    "city_name": "Maevatanana"
+                },
+                {
+                    "city_name": "Tsaratanana"
+                }
+            ]
+        },
+        {
+            "province_name": "Alaotra Mangoro Region",
+            "cities": [
+                {
+                    "city_name": "Ambatondrazaka District"
+                },
+                {
+                    "city_name": "Amparafaravola District"
+                },
+                {
+                    "city_name": "Moramanga District"
+                },
+                {
+                    "city_name": "Andilamena District"
+                },
+                {
+                    "city_name": "Anosibe An'ala District"
+                }
+            ]
+        },
+        {
+            "province_name": "Melaky Region",
+            "cities": [
+                {
+                    "city_name": "Maintirano"
+                },
+                {
+                    "city_name": "Ambatomainty"
+                }
+            ]
+        },
+        {
+            "province_name": "Bongolava Region",
+            "cities": [
+                {
+                    "city_name": "Tsiroanomandidy"
+                },
+                {
+                    "city_name": "Fenoarivobe"
+                }
+            ]
+        },
+        {
+            "province_name": "Vakinankaratra Region",
+            "cities": [
+                {
+                    "city_name": "Antsirabe II"
+                },
+                {
+                    "city_name": "Antsirabe I District"
+                },
+                {
+                    "city_name": "Antanifotsy"
+                },
+                {
+                    "city_name": "Ambatolampy"
+                },
+                {
+                    "city_name": "Betafo District"
+                },
+                {
+                    "city_name": "Faratsiho"
+                }
+            ]
+        },
+        {
+            "province_name": "Itasy Region",
+            "cities": [
+                {
+                    "city_name": "Arivonimamo"
+                },
+                {
+                    "city_name": "Miarinarivo"
+                },
+                {
+                    "city_name": "Soavinandriana"
+                }
+            ]
+        },
+        {
+            "province_name": "Analamanga Region",
+            "cities": [
+                {
+                    "city_name": "Antananarivo-Atsimondrano"
+                },
+                {
+                    "city_name": "Manjakandriana"
+                },
+                {
+                    "city_name": "Antananarivo-Avaradrano District"
+                },
+                {
+                    "city_name": "Antananarivo-Renivohitra District"
+                },
+                {
+                    "city_name": "Ankazobe District"
+                },
+                {
+                    "city_name": "Ambohidratrimo District"
+                },
+                {
+                    "city_name": "Andramasina District"
+                },
+                {
+                    "city_name": "Antananarivo Province"
+                },
+                {
+                    "city_name": "Anjozorobe"
+                }
+            ]
+        },
+        {
+            "province_name": "Atsinanana Region",
+            "cities": [
+                {
+                    "city_name": "Brickaville"
+                },
+                {
+                    "city_name": "Vohibinany"
+                },
+                {
+                    "city_name": "Toamasina I"
+                },
+                {
+                    "city_name": "Toamasina II"
+                }
+            ]
+        },
+        {
+            "province_name": "Menabe Region",
+            "cities": [
+                {
+                    "city_name": "Morombe District"
+                },
+                {
+                    "city_name": "Miandrivazo District"
+                },
+                {
+                    "city_name": "Morondava District"
+                },
+                {
+                    "city_name": "Mahabo District"
+                },
+                {
+                    "city_name": "Manja District"
+                }
+            ]
+        },
+        {
+            "province_name": "Amoron'i Mania Region",
+            "cities": [
+                {
+                    "city_name": "Ambositra District"
+                },
+                {
+                    "city_name": "Ambatofinandrahana District"
+                },
+                {
+                    "city_name": "Fandriana District"
+                },
+                {
+                    "city_name": "Manandriana District"
+                }
+            ]
+        },
+        {
+            "province_name": "Haute Matsiatra Region",
+            "cities": [
+                {
+                    "city_name": "Fianarantsoa I"
+                },
+                {
+                    "city_name": "Fianarantsoa II"
+                },
+                {
+                    "city_name": "Ambohimahasoa"
+                },
+                {
+                    "city_name": "Ambalavao"
+                },
+                {
+                    "city_name": "Ikalamavony"
+                }
+            ]
+        },
+        {
+            "province_name": "Vatovavy Fitovinany Region",
+            "cities": [
+                {
+                    "city_name": "Ikongo"
+                },
+                {
+                    "city_name": "Manakara"
+                }
+            ]
+        },
+        {
+            "province_name": "Ihorombe Region",
+            "cities": []
+        },
+        {
+            "province_name": "Atsimo-Atsinanana Region",
+            "cities": [
+                {
+                    "city_name": "Farafangana District"
+                },
+                {
+                    "city_name": "Vangaindrano District"
+                }
+            ]
+        },
+        {
+            "province_name": "Anosy Region",
+            "cities": [
+                {
+                    "city_name": "Betroka District"
+                },
+                {
+                    "city_name": "Amboasary District"
+                },
+                {
+                    "city_name": "Taolagnaro"
+                }
+            ]
+        },
+        {
+            "province_name": "Androy Region",
+            "cities": [
+                {
+                    "city_name": "Ambovombe District"
+                },
+                {
+                    "city_name": "Beloha District"
+                },
+                {
+                    "city_name": "Bekily District"
+                },
+                {
+                    "city_name": "Tsihombe"
+                }
+            ]
+        },
+        {
+            "province_name": "Atsimo-Andrefana Region",
+            "cities": [
+                {
+                    "city_name": "Ankazoabo District"
+                },
+                {
+                    "city_name": "Toliara II District"
+                },
+                {
+                    "city_name": "Toliara I District"
+                },
+                {
+                    "city_name": "Beroroha District"
+                },
+                {
+                    "city_name": "Sakaraha District"
+                },
+                {
+                    "city_name": "Ampanihy District"
+                },
+                {
+                    "city_name": "Betioky District"
+                },
+                {
+                    "city_name": "Toliara Province"
+                },
+                {
+                    "city_name": "Benenitra"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,180 @@
+{
+    "country_name": "Eritrea",
+    "country_id": "ER",
+    "provinces": [
+        {
+            "province_name": "Anseba Region",
+            "cities": [
+                {
+                    "city_name": "Adi Tekelezan Subregion"
+                },
+                {
+                    "city_name": "Asmat"
+                },
+                {
+                    "city_name": "Elabered Subregion"
+                },
+                {
+                    "city_name": "Hagaz Subregion"
+                },
+                {
+                    "city_name": "Halhal Subregion"
+                },
+                {
+                    "city_name": "Habero Subregion"
+                },
+                {
+                    "city_name": "Kerkebet"
+                },
+                {
+                    "city_name": "Keren Subregion"
+                },
+                {
+                    "city_name": "Sela Subregion"
+                },
+                {
+                    "city_name": "Geleb Subregion"
+                }
+            ]
+        },
+        {
+            "province_name": "Debub Region",
+            "cities": [
+                {
+                    "city_name": "Seraye Awraja"
+                },
+                {
+                    "city_name": "Akale Guzay Awraja"
+                },
+                {
+                    "city_name": "Dekemhare Subregion"
+                },
+                {
+                    "city_name": "Mendefera Subregion"
+                },
+                {
+                    "city_name": "Senafe Subregion"
+                },
+                {
+                    "city_name": "Mai-Mne Subregion"
+                },
+                {
+                    "city_name": "Areza Subregion"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Red Sea Region",
+            "cities": [
+                {
+                    "city_name": "Denkel Awraja"
+                },
+                {
+                    "city_name": "Southern Denkalya Subregion"
+                },
+                {
+                    "city_name": "Central Denkalya Subregion"
+                }
+            ]
+        },
+        {
+            "province_name": "Gash-Barka Region",
+            "cities": [
+                {
+                    "city_name": "Hamasen Awraja"
+                },
+                {
+                    "city_name": "Barka Awraja"
+                },
+                {
+                    "city_name": "Dghe"
+                },
+                {
+                    "city_name": "Akurdet Subregion"
+                },
+                {
+                    "city_name": "Barentu Subregion"
+                },
+                {
+                    "city_name": "Logo Anseba"
+                },
+                {
+                    "city_name": "Teseney Subregion"
+                },
+                {
+                    "city_name": "Haykota Subregion"
+                },
+                {
+                    "city_name": "Gogne Subregion"
+                },
+                {
+                    "city_name": "Mogolo Subregion"
+                },
+                {
+                    "city_name": "Mensura Subregion"
+                },
+                {
+                    "city_name": "Shambuko Subregion"
+                }
+            ]
+        },
+        {
+            "province_name": "Maekel Region",
+            "cities": [
+                {
+                    "city_name": "Berikh"
+                },
+                {
+                    "city_name": "Ghala Nefhi"
+                },
+                {
+                    "city_name": "Serejaka"
+                },
+                {
+                    "city_name": "South Eastern Subregion"
+                },
+                {
+                    "city_name": "South Western Subregion"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Red Sea Region",
+            "cities": [
+                {
+                    "city_name": "Sahil Awraja"
+                },
+                {
+                    "city_name": "Semhar Awraja"
+                },
+                {
+                    "city_name": "Senhit Awraja"
+                },
+                {
+                    "city_name": "Af'abet"
+                },
+                {
+                    "city_name": "North Eastern Subregion"
+                },
+                {
+                    "city_name": "Dahlak Subregion"
+                },
+                {
+                    "city_name": "Ghinda Subregion"
+                },
+                {
+                    "city_name": "Massawa Subregion"
+                },
+                {
+                    "city_name": "Nakfa Subregion"
+                },
+                {
+                    "city_name": "Ghelaelo"
+                },
+                {
+                    "city_name": "Foro Sub-Region"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "country_name": "Kosovo",
+    "country_id": "XK",
+    "provinces": [
+        {
+            "province_name": "Ferizaj District",
+            "cities": [
+                {
+                    "city_name": "Komuna e Ferizajt"
+                },
+                {
+                    "city_name": "Komuna e Kacanikut"
+                },
+                {
+                    "city_name": "Opstina Strpce"
+                },
+                {
+                    "city_name": "Komuna e Shtimes"
+                },
+                {
+                    "city_name": "Hani i Elezit"
+                }
+            ]
+        },
+        {
+            "province_name": "Gjakova District",
+            "cities": [
+                {
+                    "city_name": "Orahovac"
+                },
+                {
+                    "city_name": "Komuna e Decanit"
+                },
+                {
+                    "city_name": "Komuna e Gjakoves"
+                },
+                {
+                    "city_name": "Komuna e Junikut"
+                }
+            ]
+        },
+        {
+            "province_name": "Gjilan District",
+            "cities": [
+                {
+                    "city_name": "Komuna e Vitise"
+                },
+                {
+                    "city_name": "Kamenica"
+                },
+                {
+                    "city_name": "Komuna e Gjilanit"
+                },
+                {
+                    "city_name": "Komuna e Kllokotit"
+                },
+                {
+                    "city_name": "Komuna e Parteshit"
+                },
+                {
+                    "city_name": "Komuna e Ranillugut"
+                }
+            ]
+        },
+        {
+            "province_name": "Mitrovica District",
+            "cities": [
+                {
+                    "city_name": "Vushtrri"
+                },
+                {
+                    "city_name": "Komuna e Mitrovices"
+                },
+                {
+                    "city_name": "Komuna e Skenderajt"
+                },
+                {
+                    "city_name": "Komuna e Leposaviqit"
+                },
+                {
+                    "city_name": "Komuna e Zubin Potokut"
+                },
+                {
+                    "city_name": "Opstina Zvecan"
+                },
+                {
+                    "city_name": "Mitrovica Veriore"
+                }
+            ]
+        },
+        {
+            "province_name": "Pec District",
+            "cities": [
+                {
+                    "city_name": "Komuna e Pejes"
+                },
+                {
+                    "city_name": "Komuna e Klines"
+                },
+                {
+                    "city_name": "Komuna e Istogut"
+                }
+            ]
+        },
+        {
+            "province_name": "Pristina District",
+            "cities": [
+                {
+                    "city_name": "Komuna e Prishtines"
+                },
+                {
+                    "city_name": "Podujevo"
+                },
+                {
+                    "city_name": "Lipjan"
+                },
+                {
+                    "city_name": "Komuna e Drenasit"
+                },
+                {
+                    "city_name": "Kosovo Polje"
+                },
+                {
+                    "city_name": "Novo Brdo"
+                },
+                {
+                    "city_name": "Komuna e Obiliqit"
+                },
+                {
+                    "city_name": "Komuna e Gracanices"
+                }
+            ]
+        },
+        {
+            "province_name": "Prizren District",
+            "cities": [
+                {
+                    "city_name": "Komuna e Therandes"
+                },
+                {
+                    "city_name": "Prizren"
+                },
+                {
+                    "city_name": "Komuna e Dragashit"
+                },
+                {
+                    "city_name": "Komuna e Malisheves"
+                },
+                {
+                    "city_name": "Komuna e Mamushes"
+                }
+            ]
+        }
+    ]
+}

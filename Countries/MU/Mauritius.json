@@ -1,0 +1,54 @@
+{
+    "country_name": "Mauritius",
+    "country_id": "MU",
+    "provinces": [
+        {
+            "province_name": "Agalega Islands",
+            "cities": []
+        },
+        {
+            "province_name": "Savanne District",
+            "cities": []
+        },
+        {
+            "province_name": "Riviere du Rempart District",
+            "cities": []
+        },
+        {
+            "province_name": "Port Louis District",
+            "cities": []
+        },
+        {
+            "province_name": "Plaines Wilhems District",
+            "cities": []
+        },
+        {
+            "province_name": "Pamplemousses District",
+            "cities": []
+        },
+        {
+            "province_name": "Moka District",
+            "cities": []
+        },
+        {
+            "province_name": "Grand Port District",
+            "cities": []
+        },
+        {
+            "province_name": "Flacq District",
+            "cities": []
+        },
+        {
+            "province_name": "Black River District",
+            "cities": []
+        },
+        {
+            "province_name": "Cargados Carajos",
+            "cities": []
+        },
+        {
+            "province_name": "Rodrigues",
+            "cities": []
+        }
+    ]
+}

@@ -1,0 +1,534 @@
+{
+    "country_name": "Egypt",
+    "country_id": "EG",
+    "provinces": [
+        {
+            "province_name": "Muhafazat Suhaj",
+            "cities": [
+                {
+                    "city_name": "Markaz Suhaj"
+                },
+                {
+                    "city_name": "Markaz Jirja"
+                },
+                {
+                    "city_name": "Markaz Awlad Tawq Sharq"
+                },
+                {
+                    "city_name": "Markaz al Munsha'ah"
+                },
+                {
+                    "city_name": "Markaz al Maraghah"
+                },
+                {
+                    "city_name": "Markaz al Balyana"
+                },
+                {
+                    "city_name": "Markaz Akhmim"
+                },
+                {
+                    "city_name": "Markaz Juhaynah al Gharbiyah"
+                },
+                {
+                    "city_name": "Markaz Dar as Salam"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Shamal Sina'",
+            "cities": [
+                {
+                    "city_name": "Markaz al `Arish"
+                },
+                {
+                    "city_name": "Markaz ash Shaykh Zuwayd"
+                },
+                {
+                    "city_name": "Markaz Rafah"
+                },
+                {
+                    "city_name": "Markaz Bi'r al `Abd"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Qina",
+            "cities": [
+                {
+                    "city_name": "Markaz Qina"
+                },
+                {
+                    "city_name": "Markaz Naj' Hammadi"
+                },
+                {
+                    "city_name": "Markaz Isna"
+                },
+                {
+                    "city_name": "Markaz Dishna"
+                },
+                {
+                    "city_name": "Markaz Armant"
+                },
+                {
+                    "city_name": "Markaz Abu Tisht"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Matruh",
+            "cities": [
+                {
+                    "city_name": "Markaz Matruh"
+                }
+            ]
+        },
+        {
+            "province_name": "Kafr ash Shaykh",
+            "cities": [
+                {
+                    "city_name": "Markaz Sidi Salim"
+                },
+                {
+                    "city_name": "Markaz Qallin"
+                },
+                {
+                    "city_name": "Markaz Kafr ash Shaykh"
+                },
+                {
+                    "city_name": "Markaz Fuwwah"
+                },
+                {
+                    "city_name": "Markaz Disuq"
+                },
+                {
+                    "city_name": "Markaz Biyala"
+                },
+                {
+                    "city_name": "Markaz al Burullus"
+                },
+                {
+                    "city_name": "Markaz al Hamul"
+                },
+                {
+                    "city_name": "Kafr El Sheikh"
+                },
+                {
+                    "city_name": "Markaz ar Riyad"
+                },
+                {
+                    "city_name": "Markaz Mutubas"
+                }
+            ]
+        },
+        {
+            "province_name": "South Sinai Governorate",
+            "cities": [
+                {
+                    "city_name": "Markaz Atfih"
+                }
+            ]
+        },
+        {
+            "province_name": "Damietta Governorate",
+            "cities": [
+                {
+                    "city_name": "Markaz Fariskur"
+                },
+                {
+                    "city_name": "Markaz az Zarqa"
+                },
+                {
+                    "city_name": "Markaz Kafr Sa`d"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Bur Sa'id",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat Bani Suwayf",
+            "cities": [
+                {
+                    "city_name": "Markaz Sumusta al Waqf"
+                },
+                {
+                    "city_name": "Markaz Ihnasiya al Madinah"
+                },
+                {
+                    "city_name": "Markaz Bush"
+                },
+                {
+                    "city_name": "Markaz Biba"
+                },
+                {
+                    "city_name": "Markaz Bani Suwayf"
+                },
+                {
+                    "city_name": "Markaz al Wasita"
+                },
+                {
+                    "city_name": "Markaz al Fashn"
+                },
+                {
+                    "city_name": "Markaz Nasir"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Asyut",
+            "cities": [
+                {
+                    "city_name": "Markaz Dayrut"
+                },
+                {
+                    "city_name": "Markaz Asyut"
+                },
+                {
+                    "city_name": "Markaz al Qusiyah"
+                },
+                {
+                    "city_name": "Markaz al Badari"
+                },
+                {
+                    "city_name": "Markaz Abu Tij"
+                },
+                {
+                    "city_name": "Markaz al Fath"
+                },
+                {
+                    "city_name": "Markaz al Ghanayim"
+                },
+                {
+                    "city_name": "Markaz as Sahil"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Aswan",
+            "cities": [
+                {
+                    "city_name": "Markaz `Unaybah"
+                },
+                {
+                    "city_name": "Markaz Idfu"
+                },
+                {
+                    "city_name": "Markaz Aswan"
+                }
+            ]
+        },
+        {
+            "province_name": "As Suways",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat ash Sharqiyah",
+            "cities": [
+                {
+                    "city_name": "Markaz Minya al Qamh"
+                },
+                {
+                    "city_name": "Markaz Hihya"
+                },
+                {
+                    "city_name": "Markaz Diyarb Najm"
+                },
+                {
+                    "city_name": "Markaz Bilbays"
+                },
+                {
+                    "city_name": "Markaz az Zaqaziq"
+                },
+                {
+                    "city_name": "Markaz al Husayniyah"
+                },
+                {
+                    "city_name": "Markaz Abu Kabir"
+                },
+                {
+                    "city_name": "Markaz Abu Hammad"
+                },
+                {
+                    "city_name": "Bahr El Bakar"
+                },
+                {
+                    "city_name": "Markaz at Tall al Kabir"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Wadi al Jadid",
+            "cities": [
+                {
+                    "city_name": "Markaz al Wahat al Kharijah"
+                },
+                {
+                    "city_name": "Markaz al Wahat ad Dakhilah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Qalyubiyah",
+            "cities": [
+                {
+                    "city_name": "Markaz Qalyub"
+                },
+                {
+                    "city_name": "Markaz Banha"
+                },
+                {
+                    "city_name": "Mostorod"
+                },
+                {
+                    "city_name": "Markaz Kafr Shukr"
+                }
+            ]
+        },
+        {
+            "province_name": "Cairo Governorate",
+            "cities": [
+                {
+                    "city_name": "Markaz as Saff"
+                },
+                {
+                    "city_name": "Markaz al Khankah"
+                },
+                {
+                    "city_name": "Mostafa El Serwy"
+                },
+                {
+                    "city_name": "Al Marj"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Minya",
+            "cities": [
+                {
+                    "city_name": "Markaz Samalut"
+                },
+                {
+                    "city_name": "Markaz Matay"
+                },
+                {
+                    "city_name": "Markaz Mallawi"
+                },
+                {
+                    "city_name": "Markaz Dayr Mawas"
+                },
+                {
+                    "city_name": "Markaz Bani Mazar"
+                },
+                {
+                    "city_name": "Markaz al Minya"
+                },
+                {
+                    "city_name": "Markaz al `Idwah"
+                },
+                {
+                    "city_name": "Markaz Abu Qurqas"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Minufiyah",
+            "cities": [
+                {
+                    "city_name": "Markaz al Bajur"
+                },
+                {
+                    "city_name": "Markaz Quwaysina"
+                },
+                {
+                    "city_name": "Markaz ash Shuhada'"
+                },
+                {
+                    "city_name": "Markaz Ashmun"
+                },
+                {
+                    "city_name": "Markaz Birkat as Sab`"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Jizah",
+            "cities": [
+                {
+                    "city_name": "Markaz Imbabah"
+                },
+                {
+                    "city_name": "Markaz al Wahat al Bahriyah"
+                },
+                {
+                    "city_name": "Markaz al Jizah"
+                },
+                {
+                    "city_name": "Markaz al Badrashayn"
+                },
+                {
+                    "city_name": "Markaz al `Ayyat"
+                },
+                {
+                    "city_name": "Markaz Awsim"
+                },
+                {
+                    "city_name": "Walikale"
+                }
+            ]
+        },
+        {
+            "province_name": "Ismailia Governorate",
+            "cities": [
+                {
+                    "city_name": "Markaz al Qantarah Gharb"
+                },
+                {
+                    "city_name": "Markaz al Isma`iliyah"
+                },
+                {
+                    "city_name": "Markaz al Qantarah Sharq"
+                },
+                {
+                    "city_name": "Markaz Fayid"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Iskandariyah",
+            "cities": [
+                {
+                    "city_name": "Markaz Maryut"
+                },
+                {
+                    "city_name": "Al Muntazah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Gharbiyah",
+            "cities": [
+                {
+                    "city_name": "Markaz Zifta"
+                },
+                {
+                    "city_name": "Markaz Tanta"
+                },
+                {
+                    "city_name": "Markaz Qutur"
+                },
+                {
+                    "city_name": "Markaz Basyun"
+                },
+                {
+                    "city_name": "Markaz as Santah"
+                },
+                {
+                    "city_name": "Markaz al Mahallah al Kubra"
+                },
+                {
+                    "city_name": "Markaz Sammanud"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Fayyum",
+            "cities": [
+                {
+                    "city_name": "Markaz Tamiyah"
+                },
+                {
+                    "city_name": "Markaz Itsa"
+                },
+                {
+                    "city_name": "Markaz Ibshaway"
+                },
+                {
+                    "city_name": "Markaz al Fayyum"
+                }
+            ]
+        },
+        {
+            "province_name": "Beheira Governorate",
+            "cities": [
+                {
+                    "city_name": "Markaz Rashid"
+                },
+                {
+                    "city_name": "Markaz Kafr ad Dawwar"
+                },
+                {
+                    "city_name": "Markaz Itay al Barud"
+                },
+                {
+                    "city_name": "Markaz Hawsh `Isa"
+                },
+                {
+                    "city_name": "Markaz Damanhur"
+                },
+                {
+                    "city_name": "Markaz al Mahmudiyah"
+                },
+                {
+                    "city_name": "Markaz ad Dilinjat"
+                },
+                {
+                    "city_name": "Markaz Abu Hummus"
+                },
+                {
+                    "city_name": "Markaz Abu al Matamir"
+                },
+                {
+                    "city_name": "Markaz Idku"
+                },
+                {
+                    "city_name": "Markaz ar Rahmaniyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Red Sea Governorate",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat ad Daqahliyah",
+            "cities": [
+                {
+                    "city_name": "Markaz Mit Ghamr"
+                },
+                {
+                    "city_name": "Markaz Dikirnis"
+                },
+                {
+                    "city_name": "Markaz Bilqas"
+                },
+                {
+                    "city_name": "Markaz al Manzilah"
+                },
+                {
+                    "city_name": "Markaz al Mansurah"
+                },
+                {
+                    "city_name": "Markaz Aja"
+                },
+                {
+                    "city_name": "Bahr El Bakr"
+                },
+                {
+                    "city_name": "Mit Yazid"
+                },
+                {
+                    "city_name": "Markaz Minyat An Nasr"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Uqsur",
+            "cities": [
+                {
+                    "city_name": "Markaz al Uqsur"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,906 @@
+{
+    "country_name": "Slovenia",
+    "country_id": "SI",
+    "provinces": [
+        {
+            "province_name": "Obcina Zalec",
+            "cities": []
+        },
+        {
+            "province_name": "Zagorje ob Savi",
+            "cities": []
+        },
+        {
+            "province_name": "Vrhnika",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Trzic",
+            "cities": []
+        },
+        {
+            "province_name": "Trebnje",
+            "cities": []
+        },
+        {
+            "province_name": "Trbovlje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Tolmin",
+            "cities": []
+        },
+        {
+            "province_name": "Velenje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Smarje pri Jelsah",
+            "cities": []
+        },
+        {
+            "province_name": "Slovenske Konjice",
+            "cities": []
+        },
+        {
+            "province_name": "Slovenska Bistrica",
+            "cities": []
+        },
+        {
+            "province_name": "Slovenj Gradec",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Skofja Loka",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sezana",
+            "cities": []
+        },
+        {
+            "province_name": "Sevnica",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sentjur",
+            "cities": []
+        },
+        {
+            "province_name": "Ribnica",
+            "cities": []
+        },
+        {
+            "province_name": "Radovljica",
+            "cities": []
+        },
+        {
+            "province_name": "Radlje ob Dravi",
+            "cities": []
+        },
+        {
+            "province_name": "Ptuj",
+            "cities": []
+        },
+        {
+            "province_name": "Postojna",
+            "cities": []
+        },
+        {
+            "province_name": "Piran",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Ormoz",
+            "cities": []
+        },
+        {
+            "province_name": "Mestna Obcina Novo mesto",
+            "cities": []
+        },
+        {
+            "province_name": "Nova Gorica",
+            "cities": []
+        },
+        {
+            "province_name": "Murska Sobota",
+            "cities": []
+        },
+        {
+            "province_name": "Mozirje",
+            "cities": []
+        },
+        {
+            "province_name": "Metlika",
+            "cities": []
+        },
+        {
+            "province_name": "Maribor",
+            "cities": []
+        },
+        {
+            "province_name": "Logatec",
+            "cities": []
+        },
+        {
+            "province_name": "Ljutomer",
+            "cities": []
+        },
+        {
+            "province_name": "Litija",
+            "cities": []
+        },
+        {
+            "province_name": "Lenart",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Lasko",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Krsko",
+            "cities": []
+        },
+        {
+            "province_name": "Kranj",
+            "cities": []
+        },
+        {
+            "province_name": "Koper",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Kocevje",
+            "cities": []
+        },
+        {
+            "province_name": "Kamnik",
+            "cities": []
+        },
+        {
+            "province_name": "Jesenice",
+            "cities": []
+        },
+        {
+            "province_name": "Izola",
+            "cities": []
+        },
+        {
+            "province_name": "Ilirska Bistrica",
+            "cities": []
+        },
+        {
+            "province_name": "Idrija",
+            "cities": []
+        },
+        {
+            "province_name": "Hrastnik",
+            "cities": []
+        },
+        {
+            "province_name": "Grosuplje",
+            "cities": []
+        },
+        {
+            "province_name": "Gornja Radgona",
+            "cities": []
+        },
+        {
+            "province_name": "Dravograd",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Domzale",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Crnomelj",
+            "cities": []
+        },
+        {
+            "province_name": "Cerknica",
+            "cities": []
+        },
+        {
+            "province_name": "Celje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Brezice",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Ajdovscina",
+            "cities": []
+        },
+        {
+            "province_name": "Hrpelje-Kozina",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Divaca",
+            "cities": []
+        },
+        {
+            "province_name": "Pivka",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Loska Dolina",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Loski Potok",
+            "cities": []
+        },
+        {
+            "province_name": "Osilnica",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Velike Lasce",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Skofljica",
+            "cities": []
+        },
+        {
+            "province_name": "Ig",
+            "cities": []
+        },
+        {
+            "province_name": "Brezovica",
+            "cities": [
+                {
+                    "city_name": "Opstina Ljubljana-Vic-Rudnik"
+                }
+            ]
+        },
+        {
+            "province_name": "Borovnica",
+            "cities": []
+        },
+        {
+            "province_name": "Vipava",
+            "cities": []
+        },
+        {
+            "province_name": "Komen",
+            "cities": []
+        },
+        {
+            "province_name": "Miren-Kostanjevica",
+            "cities": []
+        },
+        {
+            "province_name": "Brda",
+            "cities": []
+        },
+        {
+            "province_name": "Kanal",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Ziri",
+            "cities": []
+        },
+        {
+            "province_name": "Cerkno",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Zelezniki",
+            "cities": []
+        },
+        {
+            "province_name": "Gorenja Vas-Poljane",
+            "cities": []
+        },
+        {
+            "province_name": "Dobrova-Polhov Gradec",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Kobarid",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Bovec",
+            "cities": []
+        },
+        {
+            "province_name": "Bohinj",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Bled",
+            "cities": []
+        },
+        {
+            "province_name": "Naklo",
+            "cities": []
+        },
+        {
+            "province_name": "Kranjska Gora",
+            "cities": []
+        },
+        {
+            "province_name": "Preddvor",
+            "cities": []
+        },
+        {
+            "province_name": "Cerklje na Gorenjskem",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sencur",
+            "cities": []
+        },
+        {
+            "province_name": "Vodice",
+            "cities": []
+        },
+        {
+            "province_name": "Medvode",
+            "cities": [
+                {
+                    "city_name": "Opstina [historical] Ljubljana-Siska"
+                }
+            ]
+        },
+        {
+            "province_name": "Obcina Menges",
+            "cities": []
+        },
+        {
+            "province_name": "Dol pri Ljubljani",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Moravce",
+            "cities": []
+        },
+        {
+            "province_name": "Gornji Grad",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Luce",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Ravne na Koroskem",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Mezica",
+            "cities": []
+        },
+        {
+            "province_name": "Muta",
+            "cities": []
+        },
+        {
+            "province_name": "Vuzenica",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Crna na Koroskem",
+            "cities": []
+        },
+        {
+            "province_name": "Ljubno",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sostanj",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Smartno ob Paki",
+            "cities": []
+        },
+        {
+            "province_name": "Lukovica",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Radece",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Ivancna Gorica",
+            "cities": []
+        },
+        {
+            "province_name": "Dobrepolje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Semic",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sentjernej",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Skocjan",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Store",
+            "cities": []
+        },
+        {
+            "province_name": "Vojnik",
+            "cities": []
+        },
+        {
+            "province_name": "Vitanje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Zrece",
+            "cities": []
+        },
+        {
+            "province_name": "Mislinja",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Ruse",
+            "cities": []
+        },
+        {
+            "province_name": "Kungota",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sentilj",
+            "cities": []
+        },
+        {
+            "province_name": "Pesnica",
+            "cities": []
+        },
+        {
+            "province_name": "Duplek",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Race-Fram",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Starse",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Kidricevo",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Majsperk",
+            "cities": []
+        },
+        {
+            "province_name": "Videm",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Rogaska Slatina",
+            "cities": []
+        },
+        {
+            "province_name": "Rogatec",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Podcetrtek",
+            "cities": []
+        },
+        {
+            "province_name": "Kozje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Gorisnica",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Zavrc",
+            "cities": []
+        },
+        {
+            "province_name": "Dornava",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Jursinci",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sveti Jurij ob Scavnici",
+            "cities": []
+        },
+        {
+            "province_name": "Radenci",
+            "cities": []
+        },
+        {
+            "province_name": "Puconci",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Rogasovci",
+            "cities": []
+        },
+        {
+            "province_name": "Kuzma",
+            "cities": []
+        },
+        {
+            "province_name": "Gornji Petrovci",
+            "cities": []
+        },
+        {
+            "province_name": "Moravske Toplice",
+            "cities": []
+        },
+        {
+            "province_name": "Kobilje",
+            "cities": []
+        },
+        {
+            "province_name": "Beltinci",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Turnisce",
+            "cities": []
+        },
+        {
+            "province_name": "Odranci",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Crensovci",
+            "cities": []
+        },
+        {
+            "province_name": "Nazarje",
+            "cities": []
+        },
+        {
+            "province_name": "Mestna Obcina Ljubljana",
+            "cities": [
+                {
+                    "city_name": "Opstina Ljubljana-Moste-Polje"
+                },
+                {
+                    "city_name": "Opstina Ljubljana-Center"
+                },
+                {
+                    "city_name": "Opcina Ljubljana-Bezigrad"
+                },
+                {
+                    "city_name": "Dravlje District"
+                },
+                {
+                    "city_name": "Golovec District"
+                },
+                {
+                    "city_name": "Jarse District"
+                },
+                {
+                    "city_name": "Posavje District"
+                },
+                {
+                    "city_name": "Roznik District"
+                },
+                {
+                    "city_name": "Sostro District"
+                },
+                {
+                    "city_name": "Sentvid District"
+                },
+                {
+                    "city_name": "Smarna Gora District"
+                },
+                {
+                    "city_name": "Trnovo District"
+                },
+                {
+                    "city_name": "Vic District"
+                }
+            ]
+        },
+        {
+            "province_name": "Obcina Zirovnica",
+            "cities": []
+        },
+        {
+            "province_name": "Jezersko",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Solcava",
+            "cities": []
+        },
+        {
+            "province_name": "Komenda",
+            "cities": []
+        },
+        {
+            "province_name": "Horjul",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sempeter-Vrtojba",
+            "cities": []
+        },
+        {
+            "province_name": "Bloke",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sodrazica",
+            "cities": []
+        },
+        {
+            "province_name": "Trzin",
+            "cities": [
+                {
+                    "city_name": "Crnuce District"
+                }
+            ]
+        },
+        {
+            "province_name": "Prevalje",
+            "cities": []
+        },
+        {
+            "province_name": "Vransko",
+            "cities": []
+        },
+        {
+            "province_name": "Tabor",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Braslovce",
+            "cities": []
+        },
+        {
+            "province_name": "Polzela",
+            "cities": []
+        },
+        {
+            "province_name": "Prebold",
+            "cities": []
+        },
+        {
+            "province_name": "Kostel",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Zuzemberk",
+            "cities": []
+        },
+        {
+            "province_name": "Dolenjske Toplice",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Mirna Pec",
+            "cities": []
+        },
+        {
+            "province_name": "Bistrica ob Sotli",
+            "cities": []
+        },
+        {
+            "province_name": "Dobje",
+            "cities": []
+        },
+        {
+            "province_name": "Dobrna",
+            "cities": []
+        },
+        {
+            "province_name": "Oplotnica",
+            "cities": []
+        },
+        {
+            "province_name": "Podvelka",
+            "cities": []
+        },
+        {
+            "province_name": "Ribnica na Pohorju",
+            "cities": []
+        },
+        {
+            "province_name": "Lovrenc na Pohorju",
+            "cities": []
+        },
+        {
+            "province_name": "Selnica ob Dravi",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Hoce-Slivnica",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Miklavz na Dravskem Polju",
+            "cities": []
+        },
+        {
+            "province_name": "Hajdina",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Zetale",
+            "cities": []
+        },
+        {
+            "province_name": "Podlehnik",
+            "cities": []
+        },
+        {
+            "province_name": "Markovci",
+            "cities": []
+        },
+        {
+            "province_name": "Destrnik",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Trnovska vas",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sveti Andraz v Slovenskih Goricah",
+            "cities": []
+        },
+        {
+            "province_name": "Cerkvenjak",
+            "cities": []
+        },
+        {
+            "province_name": "Benedikt",
+            "cities": []
+        },
+        {
+            "province_name": "Sveta Ana",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Krizevci",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Verzej",
+            "cities": []
+        },
+        {
+            "province_name": "Velika Polana",
+            "cities": []
+        },
+        {
+            "province_name": "Lendava",
+            "cities": []
+        },
+        {
+            "province_name": "Dobrovnik",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Tisina",
+            "cities": []
+        },
+        {
+            "province_name": "Cankova",
+            "cities": []
+        },
+        {
+            "province_name": "Grad",
+            "cities": []
+        },
+        {
+            "province_name": "Hodos",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Razkrizje",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Smartno pri Litiji",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Salovci",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Apace",
+            "cities": []
+        },
+        {
+            "province_name": "Cirkulane",
+            "cities": []
+        },
+        {
+            "province_name": "Kostanjevica na Krki",
+            "cities": []
+        },
+        {
+            "province_name": "Log-Dragomer",
+            "cities": []
+        },
+        {
+            "province_name": "Makole",
+            "cities": []
+        },
+        {
+            "province_name": "Mokronog-Trebelno",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Poljcane",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Recica ob Savinji",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Rence-Vogrsko",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sredisce ob Dravi",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Straza",
+            "cities": []
+        },
+        {
+            "province_name": "Sveta Trojica v Slovenskih Goricah",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sveti Tomaz",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Sentrupert",
+            "cities": []
+        },
+        {
+            "province_name": "Obcina Smarjeske Toplice",
+            "cities": []
+        },
+        {
+            "province_name": "Sveti Jurij v Slovenskih Goricah",
+            "cities": []
+        },
+        {
+            "province_name": "Gorje",
+            "cities": []
+        },
+        {
+            "province_name": "Ankaran",
+            "cities": []
+        },
+        {
+            "province_name": "Mirna",
+            "cities": []
+        }
+    ]
+}

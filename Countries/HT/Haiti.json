@@ -1,0 +1,182 @@
+{
+    "country_name": "Haiti",
+    "country_id": "HT",
+    "provinces": [
+        {
+            "province_name": "Sud-Est",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Jacmel"
+                },
+                {
+                    "city_name": "Arrondissement de Belle-Anse"
+                },
+                {
+                    "city_name": "Arrondissement de Bainet"
+                }
+            ]
+        },
+        {
+            "province_name": "Sud",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Port-Salut"
+                },
+                {
+                    "city_name": "Arrondissement des Coteaux"
+                },
+                {
+                    "city_name": "Arrondissement des Chardonnieres"
+                },
+                {
+                    "city_name": "Arrondissement des Cayes"
+                },
+                {
+                    "city_name": "Aken"
+                }
+            ]
+        },
+        {
+            "province_name": "Departement de l'Ouest",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Port-au-Prince"
+                },
+                {
+                    "city_name": "Arrondissement de Leogane"
+                },
+                {
+                    "city_name": "Lagonav"
+                },
+                {
+                    "city_name": "Arrondissement de Croix des Bouquets"
+                },
+                {
+                    "city_name": "Arcahaie"
+                }
+            ]
+        },
+        {
+            "province_name": "Nord-Ouest",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Saint-Louis du Nord"
+                },
+                {
+                    "city_name": "Arrondissement de Port-de-Paix"
+                },
+                {
+                    "city_name": "Arrondissement du Mole Saint-Nicolas"
+                }
+            ]
+        },
+        {
+            "province_name": "Departement du Nord-Est",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Vallieres"
+                },
+                {
+                    "city_name": "Arrondissement du Trou du Nord"
+                },
+                {
+                    "city_name": "Wanament"
+                },
+                {
+                    "city_name": "Arrondissement de Fort Liberte"
+                }
+            ]
+        },
+        {
+            "province_name": "Nord",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Saint-Raphael"
+                },
+                {
+                    "city_name": "Arrondissement de Plaisance"
+                },
+                {
+                    "city_name": "Lenbe"
+                },
+                {
+                    "city_name": "Arrondissement de la Grande Riviere du Nord"
+                },
+                {
+                    "city_name": "Okap"
+                },
+                {
+                    "city_name": "Arrondissement du Borgne"
+                },
+                {
+                    "city_name": "Acul du Nord"
+                }
+            ]
+        },
+        {
+            "province_name": "Grandans",
+            "cities": [
+                {
+                    "city_name": "Jeremi"
+                },
+                {
+                    "city_name": "Arrondissement de Corail"
+                },
+                {
+                    "city_name": "Ansdeno"
+                }
+            ]
+        },
+        {
+            "province_name": "Centre",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Mirebalais"
+                },
+                {
+                    "city_name": "Arrondissement de Lascahobas"
+                },
+                {
+                    "city_name": "Arrondissement de Hinche"
+                },
+                {
+                    "city_name": "Arrondissement de Cerca La Source"
+                }
+            ]
+        },
+        {
+            "province_name": "Departement de l'Artibonite",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Marmelade"
+                },
+                {
+                    "city_name": "Arrondissement de Saint-Marc"
+                },
+                {
+                    "city_name": "Arrondissement de Gros Morne"
+                },
+                {
+                    "city_name": "Gonayiv"
+                },
+                {
+                    "city_name": "Arrondissement de Dessalines"
+                }
+            ]
+        },
+        {
+            "province_name": "Departement de Nippes",
+            "cities": [
+                {
+                    "city_name": "Arrondissement de Miragoane"
+                },
+                {
+                    "city_name": "Arrondissement de Baraderes"
+                },
+                {
+                    "city_name": "Ansavo"
+                }
+            ]
+        }
+    ]
+}

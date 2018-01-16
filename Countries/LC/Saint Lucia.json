@@ -1,0 +1,1694 @@
+{
+    "country_name": "Saint Lucia",
+    "country_id": "LC",
+    "provinces": [
+        {
+            "province_name": "Vieux-Fort",
+            "cities": [
+                {
+                    "city_name": "La Retraite"
+                },
+                {
+                    "city_name": "Viancelle"
+                },
+                {
+                    "city_name": "Black Bay"
+                },
+                {
+                    "city_name": "La Resource"
+                },
+                {
+                    "city_name": "Vige'"
+                },
+                {
+                    "city_name": "Eau Piquant/St Urbain"
+                },
+                {
+                    "city_name": "Moule A Chique"
+                },
+                {
+                    "city_name": "Cacoa"
+                },
+                {
+                    "city_name": "En Bamboo"
+                },
+                {
+                    "city_name": "Industrial Estate"
+                },
+                {
+                    "city_name": "Catin"
+                },
+                {
+                    "city_name": "Westall Group/The Mangue"
+                },
+                {
+                    "city_name": "Woodlands"
+                },
+                {
+                    "city_name": "Anse De Sables/Beane Field"
+                },
+                {
+                    "city_name": "Belle Vue"
+                },
+                {
+                    "city_name": "Cocoa Dan"
+                },
+                {
+                    "city_name": "Obrier"
+                },
+                {
+                    "city_name": "Augier"
+                },
+                {
+                    "city_name": "Derierre Bois"
+                },
+                {
+                    "city_name": "Carierre"
+                },
+                {
+                    "city_name": "Coolie Town"
+                },
+                {
+                    "city_name": "Beane Field"
+                },
+                {
+                    "city_name": "Beausejour"
+                },
+                {
+                    "city_name": "Cantonement"
+                },
+                {
+                    "city_name": "Esperance"
+                },
+                {
+                    "city_name": "Fond Sabot"
+                },
+                {
+                    "city_name": "De Mailly"
+                },
+                {
+                    "city_name": "Derierre Morne"
+                },
+                {
+                    "city_name": "Hope Estate"
+                },
+                {
+                    "city_name": "Hewanorra Orchard"
+                },
+                {
+                    "city_name": "Joyeux"
+                },
+                {
+                    "city_name": "Docamel/La Resource"
+                },
+                {
+                    "city_name": "Plut"
+                },
+                {
+                    "city_name": "Grace"
+                },
+                {
+                    "city_name": "La Tourney/Cedar Heights"
+                },
+                {
+                    "city_name": "Maganier"
+                },
+                {
+                    "city_name": "Morne Cayenne"
+                },
+                {
+                    "city_name": "Bruceville/Shanty Town"
+                },
+                {
+                    "city_name": "Morne Vert"
+                },
+                {
+                    "city_name": "Pierrot"
+                },
+                {
+                    "city_name": "Tete Morne/Morne Andrew"
+                },
+                {
+                    "city_name": "Pomme"
+                },
+                {
+                    "city_name": "St Jude'S Highway"
+                },
+                {
+                    "city_name": "Town"
+                },
+                {
+                    "city_name": "Vieux Fort/Laborie Highway"
+                },
+                {
+                    "city_name": "Fond Capeche"
+                }
+            ]
+        },
+        {
+            "province_name": "Soufriere",
+            "cities": [
+                {
+                    "city_name": "Ti Boug"
+                },
+                {
+                    "city_name": "Belle Plaine"
+                },
+                {
+                    "city_name": "Migny"
+                },
+                {
+                    "city_name": "Ti Delcer"
+                },
+                {
+                    "city_name": "Compar"
+                },
+                {
+                    "city_name": "St Remy Estate"
+                },
+                {
+                    "city_name": "Morne Bonin"
+                },
+                {
+                    "city_name": "Cresslands"
+                },
+                {
+                    "city_name": "Morne Lastic/Desruisseaux"
+                },
+                {
+                    "city_name": "Sapphire"
+                },
+                {
+                    "city_name": "Soufriere Estate"
+                },
+                {
+                    "city_name": "Rabot"
+                },
+                {
+                    "city_name": "Chateau Belair"
+                },
+                {
+                    "city_name": "Fond Doux"
+                },
+                {
+                    "city_name": "La Dauphine"
+                },
+                {
+                    "city_name": "Ruby Estate"
+                },
+                {
+                    "city_name": "Anse Chastanet"
+                },
+                {
+                    "city_name": "Bouton"
+                },
+                {
+                    "city_name": "Mocha"
+                },
+                {
+                    "city_name": "Morne Tabac"
+                },
+                {
+                    "city_name": "Stonefield"
+                },
+                {
+                    "city_name": "Sulphur Springs"
+                },
+                {
+                    "city_name": "Toraille"
+                },
+                {
+                    "city_name": "Zenon"
+                },
+                {
+                    "city_name": "La Haut"
+                },
+                {
+                    "city_name": "Terre Blanche"
+                },
+                {
+                    "city_name": "Fond Gens Libre"
+                },
+                {
+                    "city_name": "Coubaril Estate"
+                },
+                {
+                    "city_name": "Cenac"
+                },
+                {
+                    "city_name": "St Phillip"
+                },
+                {
+                    "city_name": "New Development"
+                },
+                {
+                    "city_name": "Morne La Croix"
+                },
+                {
+                    "city_name": "Beasejour/Myers Bridge"
+                },
+                {
+                    "city_name": "Bellefond"
+                },
+                {
+                    "city_name": "Belvedere"
+                },
+                {
+                    "city_name": "Bois D'Inde"
+                },
+                {
+                    "city_name": "Calvary/Calvaire"
+                },
+                {
+                    "city_name": "Colombette"
+                },
+                {
+                    "city_name": "Fond Bernier"
+                },
+                {
+                    "city_name": "Fond Cacoa"
+                },
+                {
+                    "city_name": "Deville"
+                },
+                {
+                    "city_name": "Diamond/Diamond Estate"
+                },
+                {
+                    "city_name": "Esperance"
+                },
+                {
+                    "city_name": "Etangs"
+                },
+                {
+                    "city_name": "Plat Pays"
+                },
+                {
+                    "city_name": "Jalousie"
+                },
+                {
+                    "city_name": "La Pearle"
+                },
+                {
+                    "city_name": "Descolons"
+                },
+                {
+                    "city_name": "Mal Maison"
+                },
+                {
+                    "city_name": "Malgretoute"
+                },
+                {
+                    "city_name": "Palmiste"
+                },
+                {
+                    "city_name": "Ravine Claire"
+                },
+                {
+                    "city_name": "Town"
+                },
+                {
+                    "city_name": "Barons Drive/Coin De L'Anse"
+                },
+                {
+                    "city_name": "Lenny Hill"
+                },
+                {
+                    "city_name": "Union Vale"
+                },
+                {
+                    "city_name": "Gros Piton"
+                }
+            ]
+        },
+        {
+            "province_name": "Micoud",
+            "cities": [
+                {
+                    "city_name": "Cazuca"
+                },
+                {
+                    "city_name": "Patience"
+                },
+                {
+                    "city_name": "Troumassee"
+                },
+                {
+                    "city_name": "Village"
+                },
+                {
+                    "city_name": "Bois Canot"
+                },
+                {
+                    "city_name": "Mamiku"
+                },
+                {
+                    "city_name": "Calypso"
+                },
+                {
+                    "city_name": "Choucomel"
+                },
+                {
+                    "city_name": "Praslin"
+                },
+                {
+                    "city_name": "Coolie Town"
+                },
+                {
+                    "city_name": "Rouarne"
+                },
+                {
+                    "city_name": "Savannes"
+                },
+                {
+                    "city_name": "Saint Marie Road"
+                },
+                {
+                    "city_name": "Ti Rocher"
+                },
+                {
+                    "city_name": "St Helen Estate"
+                },
+                {
+                    "city_name": "Mon Repos"
+                },
+                {
+                    "city_name": "Raillon Road"
+                },
+                {
+                    "city_name": "Anse Ger"
+                },
+                {
+                    "city_name": "Mine"
+                },
+                {
+                    "city_name": "Lombard"
+                },
+                {
+                    "city_name": "Canelles"
+                },
+                {
+                    "city_name": "L'Eau Mineau"
+                },
+                {
+                    "city_name": "Blanchard"
+                },
+                {
+                    "city_name": "Dugard"
+                },
+                {
+                    "city_name": "Mount Erole"
+                },
+                {
+                    "city_name": "Pelouze"
+                },
+                {
+                    "city_name": "Desruisseaux"
+                },
+                {
+                    "city_name": "En Mango"
+                },
+                {
+                    "city_name": "London Road"
+                },
+                {
+                    "city_name": "Saut"
+                },
+                {
+                    "city_name": "Honeymoon Beach"
+                },
+                {
+                    "city_name": "Descatier/Six Miles"
+                },
+                {
+                    "city_name": "L'Orangerie Road"
+                },
+                {
+                    "city_name": "Planard"
+                },
+                {
+                    "city_name": "Palmiste Estate"
+                },
+                {
+                    "city_name": "Fond D'Lor/Dugard"
+                },
+                {
+                    "city_name": "Myette Gardens"
+                },
+                {
+                    "city_name": "Moreau"
+                },
+                {
+                    "city_name": "Malgretoute"
+                },
+                {
+                    "city_name": "Escap"
+                },
+                {
+                    "city_name": "Delomel"
+                },
+                {
+                    "city_name": "Fond Estate"
+                },
+                {
+                    "city_name": "Beauchamp"
+                },
+                {
+                    "city_name": "Lezy"
+                },
+                {
+                    "city_name": "Morne Vient"
+                },
+                {
+                    "city_name": "La Tille"
+                },
+                {
+                    "city_name": "La Haut"
+                },
+                {
+                    "city_name": "Catter Beaufond"
+                },
+                {
+                    "city_name": "La Gwen Ba"
+                },
+                {
+                    "city_name": "La Croix"
+                },
+                {
+                    "city_name": "L'Union"
+                },
+                {
+                    "city_name": "Gouette"
+                },
+                {
+                    "city_name": "Fond/Desruisseaux"
+                },
+                {
+                    "city_name": "Anbre"
+                },
+                {
+                    "city_name": "Chique/Blanchard"
+                },
+                {
+                    "city_name": "Gomier"
+                },
+                {
+                    "city_name": "Carriere"
+                },
+                {
+                    "city_name": "Galba"
+                },
+                {
+                    "city_name": "La Courville"
+                },
+                {
+                    "city_name": "La Fille"
+                },
+                {
+                    "city_name": "La Pointe"
+                },
+                {
+                    "city_name": "New Village"
+                },
+                {
+                    "city_name": "Mahaut"
+                },
+                {
+                    "city_name": "Ti Riviere"
+                },
+                {
+                    "city_name": "Des Blanchard"
+                },
+                {
+                    "city_name": "Paix Bouche"
+                },
+                {
+                    "city_name": "Tou Cochan/Ti Rocher"
+                },
+                {
+                    "city_name": "Volet"
+                },
+                {
+                    "city_name": "Rameau"
+                }
+            ]
+        },
+        {
+            "province_name": "Laborie",
+            "cities": [
+                {
+                    "city_name": "Saphire"
+                },
+                {
+                    "city_name": "Getrine"
+                },
+                {
+                    "city_name": "Annus"
+                },
+                {
+                    "city_name": "Banse"
+                },
+                {
+                    "city_name": "Morne Le Blanc"
+                },
+                {
+                    "city_name": "Kennedy Highway/Laborie Bypass"
+                },
+                {
+                    "city_name": "Macdomel"
+                },
+                {
+                    "city_name": "H'Erelle"
+                },
+                {
+                    "city_name": "Saltibus"
+                },
+                {
+                    "city_name": "Banse La Grace"
+                },
+                {
+                    "city_name": "Fond Berange"
+                },
+                {
+                    "city_name": "Bongalo"
+                },
+                {
+                    "city_name": "Beyar"
+                },
+                {
+                    "city_name": "Balca/En Leur Ba"
+                },
+                {
+                    "city_name": "Balca"
+                },
+                {
+                    "city_name": "Balembouche"
+                },
+                {
+                    "city_name": "Daban"
+                },
+                {
+                    "city_name": "Warwick/Daban"
+                },
+                {
+                    "city_name": "Gentil"
+                },
+                {
+                    "city_name": "Gayabois"
+                },
+                {
+                    "city_name": "Giraud"
+                },
+                {
+                    "city_name": "La Haut"
+                },
+                {
+                    "city_name": "La Perle"
+                },
+                {
+                    "city_name": "Londonderry"
+                },
+                {
+                    "city_name": "Piaye"
+                },
+                {
+                    "city_name": "Tete Morne"
+                },
+                {
+                    "city_name": "Morne Gomier"
+                },
+                {
+                    "city_name": "Morne Lezard Estate"
+                },
+                {
+                    "city_name": "Morne Paul"
+                },
+                {
+                    "city_name": "Olibo"
+                },
+                {
+                    "city_name": "Parc Estate"
+                },
+                {
+                    "city_name": "Village"
+                }
+            ]
+        },
+        {
+            "province_name": "Gros-Islet",
+            "cities": [
+                {
+                    "city_name": "Boguis"
+                },
+                {
+                    "city_name": "Pigeon Island"
+                },
+                {
+                    "city_name": "Union"
+                },
+                {
+                    "city_name": "Monchy/Malgretoute"
+                },
+                {
+                    "city_name": "Des Barras"
+                },
+                {
+                    "city_name": "Cas En Bas"
+                },
+                {
+                    "city_name": "Corinth"
+                },
+                {
+                    "city_name": "Des Barras/Cacolie"
+                },
+                {
+                    "city_name": "Rodney Bay"
+                },
+                {
+                    "city_name": "Marquis Estate"
+                },
+                {
+                    "city_name": "Cap Estate"
+                },
+                {
+                    "city_name": "Marisule"
+                },
+                {
+                    "city_name": "Monchy/La Borne"
+                },
+                {
+                    "city_name": "Garrand"
+                },
+                {
+                    "city_name": "Caille Des"
+                },
+                {
+                    "city_name": "Grand Riviere"
+                },
+                {
+                    "city_name": "Monchy/Mount Layau"
+                },
+                {
+                    "city_name": "Dauphin"
+                },
+                {
+                    "city_name": "Monchy/Lafeuillee"
+                },
+                {
+                    "city_name": "La Guerre/Chicken Back Street"
+                },
+                {
+                    "city_name": "Monchy/Riviere Mitan"
+                },
+                {
+                    "city_name": "Monchy"
+                },
+                {
+                    "city_name": "Bois D'Orange"
+                },
+                {
+                    "city_name": "Monchy/La Borne/Sans Souci"
+                },
+                {
+                    "city_name": "Desrameaux"
+                },
+                {
+                    "city_name": "Cap Estate/Caribbean Park"
+                },
+                {
+                    "city_name": "Boguis/Desa Blond"
+                },
+                {
+                    "city_name": "Cap Estate/Ranch Site"
+                },
+                {
+                    "city_name": "Bois D'Ornange/Trouya"
+                },
+                {
+                    "city_name": "Grande Riviere/Norbert"
+                },
+                {
+                    "city_name": "Beausejour/Fostin'S Development"
+                },
+                {
+                    "city_name": "Bonneterre Gardens"
+                },
+                {
+                    "city_name": "Paix Bouche"
+                },
+                {
+                    "city_name": "Corinth Estate"
+                },
+                {
+                    "city_name": "Americ"
+                },
+                {
+                    "city_name": "Beausejour"
+                },
+                {
+                    "city_name": "Beausejour/Ndc"
+                },
+                {
+                    "city_name": "Bella Rosa"
+                },
+                {
+                    "city_name": "Bonneterre"
+                },
+                {
+                    "city_name": "Caye Manje'"
+                },
+                {
+                    "city_name": "Cap Estate/Anse Du Cap"
+                },
+                {
+                    "city_name": "Cap Estate/Saddlec Back"
+                },
+                {
+                    "city_name": "Cap Estate/Becune Park"
+                },
+                {
+                    "city_name": "Cap Estate/Lower Saline Point"
+                },
+                {
+                    "city_name": "Cap Estate/Upper Saline Point"
+                },
+                {
+                    "city_name": "Grande Riviere/White Rock"
+                },
+                {
+                    "city_name": "Cap Estate/Mon Du Cap"
+                },
+                {
+                    "city_name": "Cap Estate/Golf Park"
+                },
+                {
+                    "city_name": "Cap Estate/Becune Point"
+                },
+                {
+                    "city_name": "Grande Riviere/Postlewaithe"
+                },
+                {
+                    "city_name": "Corinth/La Bel Lair"
+                },
+                {
+                    "city_name": "L'Hermitage"
+                },
+                {
+                    "city_name": "Grande Riviere/Morne Serpent"
+                },
+                {
+                    "city_name": "Grande Riviere/Assou Canal"
+                },
+                {
+                    "city_name": "Grande Riviere/Ingle Woods"
+                },
+                {
+                    "city_name": "Grande Riviere/Morne Elwin"
+                },
+                {
+                    "city_name": "Marisule/East Winds"
+                },
+                {
+                    "city_name": "Monchy/Ravine Macock"
+                },
+                {
+                    "city_name": "Grande Riviere/Piat"
+                },
+                {
+                    "city_name": "Grande Riviere/Degazon"
+                },
+                {
+                    "city_name": "Marisule/Top Of The World/Belle Ville"
+                },
+                {
+                    "city_name": "La Croix Chabourgh"
+                },
+                {
+                    "city_name": "Morne Citon"
+                },
+                {
+                    "city_name": "La Guerre"
+                },
+                {
+                    "city_name": "Marisule/Bon Air"
+                },
+                {
+                    "city_name": "Marisule/La Brellotte"
+                },
+                {
+                    "city_name": "Marisule/Top Of The World"
+                },
+                {
+                    "city_name": "Massade"
+                },
+                {
+                    "city_name": "Monchy/Moulin A Vent"
+                },
+                {
+                    "city_name": "Monchy/Careffe"
+                },
+                {
+                    "city_name": "Monchy/Cletus Village"
+                },
+                {
+                    "city_name": "Monchy/La Retraite"
+                },
+                {
+                    "city_name": "Monchy/Vieux Sucreic/Careffe"
+                },
+                {
+                    "city_name": "Plateau"
+                },
+                {
+                    "city_name": "Rodney Heights"
+                },
+                {
+                    "city_name": "Monchy/Ti Dauphin"
+                },
+                {
+                    "city_name": "Monchy/Vieux Sucreic"
+                },
+                {
+                    "city_name": "Monchy/Lawi Fwen"
+                },
+                {
+                    "city_name": "Monchy/Vieux Sucreic/Bois D'Inde"
+                },
+                {
+                    "city_name": "Mongiraud"
+                },
+                {
+                    "city_name": "Reduit Park"
+                },
+                {
+                    "city_name": "Monchy/Cardinal"
+                },
+                {
+                    "city_name": "Monier"
+                },
+                {
+                    "city_name": "Union Terrace"
+                },
+                {
+                    "city_name": "Reduit"
+                },
+                {
+                    "city_name": "Reduit Orchard"
+                },
+                {
+                    "city_name": "Gros Islet Town"
+                },
+                {
+                    "city_name": "Gros Islet/Edge Water"
+                },
+                {
+                    "city_name": "Belle Vue Estate"
+                },
+                {
+                    "city_name": "Union/Ti Morne"
+                },
+                {
+                    "city_name": "Belle Vue"
+                }
+            ]
+        },
+        {
+            "province_name": "Dennery",
+            "cities": [
+                {
+                    "city_name": "La Pelle"
+                },
+                {
+                    "city_name": "Thomazo/Tournesse"
+                },
+                {
+                    "city_name": "Gadette"
+                },
+                {
+                    "city_name": "Bosquet D'Or"
+                },
+                {
+                    "city_name": "Belmont"
+                },
+                {
+                    "city_name": "Bois Joli"
+                },
+                {
+                    "city_name": "Louvet"
+                },
+                {
+                    "city_name": "Grande Ravine"
+                },
+                {
+                    "city_name": "Central Forest Reserve"
+                },
+                {
+                    "city_name": "Derniere Riviere/Fond Petit"
+                },
+                {
+                    "city_name": "Thamazo"
+                },
+                {
+                    "city_name": "Lumiere"
+                },
+                {
+                    "city_name": "Errard"
+                },
+                {
+                    "city_name": "Grande Riviere/Morne Caca Cochon"
+                },
+                {
+                    "city_name": "Dubonnaire"
+                },
+                {
+                    "city_name": "Bazile"
+                },
+                {
+                    "city_name": "La Sociere"
+                },
+                {
+                    "city_name": "Grande Riviere/Des Branch"
+                },
+                {
+                    "city_name": "Riche Fond"
+                },
+                {
+                    "city_name": "Bordelais"
+                },
+                {
+                    "city_name": "Dennery By Pass/Green Mountain"
+                },
+                {
+                    "city_name": "Bara Bara"
+                },
+                {
+                    "city_name": "Au Leon"
+                },
+                {
+                    "city_name": "Delaide"
+                },
+                {
+                    "city_name": "Dennery By Pass"
+                },
+                {
+                    "city_name": "Anse Canot"
+                },
+                {
+                    "city_name": "Athens"
+                },
+                {
+                    "city_name": "Derniere Riviere/Mardi Gras/Morne Caca Cochon"
+                },
+                {
+                    "city_name": "Riche Fond/La Belle Vie"
+                },
+                {
+                    "city_name": "Riche Fond/New Village"
+                },
+                {
+                    "city_name": "Dennery By Pass/Rocky Lane"
+                },
+                {
+                    "city_name": "Barre De L'Isle"
+                },
+                {
+                    "city_name": "Mount Beaujolais"
+                },
+                {
+                    "city_name": "Derniere Riviere/Fond Maricient"
+                },
+                {
+                    "city_name": "Dennery By Pass/White Rock Gardens"
+                },
+                {
+                    "city_name": "Grande Riviere"
+                },
+                {
+                    "city_name": "Grande Riviere/En Leur Morne/Discompere"
+                },
+                {
+                    "city_name": "Grande Riviere/Funier"
+                },
+                {
+                    "city_name": "Morne Panache"
+                },
+                {
+                    "city_name": "Derniere Riviere"
+                },
+                {
+                    "city_name": "Derniere Riviere/Morne Panache"
+                },
+                {
+                    "city_name": "Despinoze"
+                },
+                {
+                    "city_name": "Fond D'Or"
+                },
+                {
+                    "city_name": "Glavier"
+                },
+                {
+                    "city_name": "Pascal"
+                },
+                {
+                    "city_name": "St. Joseph Estate"
+                },
+                {
+                    "city_name": "La Caye"
+                },
+                {
+                    "city_name": "La Ressource"
+                },
+                {
+                    "city_name": "Dennery Village"
+                },
+                {
+                    "city_name": "La Pointe"
+                },
+                {
+                    "city_name": "Mandele"
+                }
+            ]
+        },
+        {
+            "province_name": "Choiseul",
+            "cities": [
+                {
+                    "city_name": "Reunion"
+                },
+                {
+                    "city_name": "Morne Sion"
+                },
+                {
+                    "city_name": "Marche Gaye"
+                },
+                {
+                    "city_name": "Morne Palama"
+                },
+                {
+                    "city_name": "Bois Dinde"
+                },
+                {
+                    "city_name": "Dupre"
+                },
+                {
+                    "city_name": "Ponyon"
+                },
+                {
+                    "city_name": "Motete"
+                },
+                {
+                    "city_name": "Mongouge"
+                },
+                {
+                    "city_name": "Belle Vue"
+                },
+                {
+                    "city_name": "Debreuil"
+                },
+                {
+                    "city_name": "Franciou"
+                },
+                {
+                    "city_name": "Derriere Morne"
+                },
+                {
+                    "city_name": "Cedars/Chu Tigre"
+                },
+                {
+                    "city_name": "Roblot"
+                },
+                {
+                    "city_name": "Caffiere"
+                },
+                {
+                    "city_name": "Victoria"
+                },
+                {
+                    "city_name": "Dacretin"
+                },
+                {
+                    "city_name": "Delcer"
+                },
+                {
+                    "city_name": "Industry"
+                },
+                {
+                    "city_name": "Mavay"
+                },
+                {
+                    "city_name": "New Field/Fiette"
+                },
+                {
+                    "city_name": "Dugard"
+                },
+                {
+                    "city_name": "Raveneau"
+                },
+                {
+                    "city_name": "Esperance"
+                },
+                {
+                    "city_name": "La Fargue"
+                },
+                {
+                    "city_name": "Lamaze"
+                },
+                {
+                    "city_name": "Port Alese"
+                },
+                {
+                    "city_name": "Village"
+                },
+                {
+                    "city_name": "Savannesgeorge/Constitution"
+                },
+                {
+                    "city_name": "Mailly Motete"
+                },
+                {
+                    "city_name": "Christian Hill"
+                },
+                {
+                    "city_name": "La Pointe"
+                },
+                {
+                    "city_name": "Le Riche"
+                },
+                {
+                    "city_name": "Martin"
+                },
+                {
+                    "city_name": "Monzie"
+                },
+                {
+                    "city_name": "Morne Jacques"
+                },
+                {
+                    "city_name": "River Doree"
+                },
+                {
+                    "city_name": "Sauzay"
+                }
+            ]
+        },
+        {
+            "province_name": "Castries",
+            "cities": [
+                {
+                    "city_name": "En Pois Doux/Babonneau"
+                },
+                {
+                    "city_name": "Balata"
+                },
+                {
+                    "city_name": "Forest Reserve"
+                },
+                {
+                    "city_name": "Marigot"
+                },
+                {
+                    "city_name": "Almondale"
+                },
+                {
+                    "city_name": "Piton Flore"
+                },
+                {
+                    "city_name": "Hospital Road"
+                },
+                {
+                    "city_name": "Cul De Sac"
+                },
+                {
+                    "city_name": "Fond Assau/Babonneau"
+                },
+                {
+                    "city_name": "Barnard Hill"
+                },
+                {
+                    "city_name": "Ciceron"
+                },
+                {
+                    "city_name": "Peart'S Gap"
+                },
+                {
+                    "city_name": "Guesneau"
+                },
+                {
+                    "city_name": "Cacoa/Babonneau"
+                },
+                {
+                    "city_name": "Capital Hill"
+                },
+                {
+                    "city_name": "Odsan"
+                },
+                {
+                    "city_name": "Bella Rosa"
+                },
+                {
+                    "city_name": "John Compton Highway"
+                },
+                {
+                    "city_name": "Ravine Touterelle"
+                },
+                {
+                    "city_name": "Coubaril"
+                },
+                {
+                    "city_name": "La Toc"
+                },
+                {
+                    "city_name": "Miami/Bexon"
+                },
+                {
+                    "city_name": "Fond Canie"
+                },
+                {
+                    "city_name": "Chassin/Babonneau"
+                },
+                {
+                    "city_name": "Talvern"
+                },
+                {
+                    "city_name": "Babonneau Proper"
+                },
+                {
+                    "city_name": "Cabiche/Babonneau"
+                },
+                {
+                    "city_name": "Girard"
+                },
+                {
+                    "city_name": "Parker'S Hill"
+                },
+                {
+                    "city_name": "Bois Catchet"
+                },
+                {
+                    "city_name": "Fond Manger"
+                },
+                {
+                    "city_name": "Conway/Waterfront"
+                },
+                {
+                    "city_name": "Derierre Fort/Old Victoria Road"
+                },
+                {
+                    "city_name": "Trou Rouge"
+                },
+                {
+                    "city_name": "Tapion"
+                },
+                {
+                    "city_name": "Hillcrest Gardens"
+                },
+                {
+                    "city_name": "Vigie"
+                },
+                {
+                    "city_name": "Resinard/Babonneau"
+                },
+                {
+                    "city_name": "Mount Pleasant"
+                },
+                {
+                    "city_name": "Forestiere"
+                },
+                {
+                    "city_name": "George Charles Boulevard"
+                },
+                {
+                    "city_name": "Morne Assau/Babonneau"
+                },
+                {
+                    "city_name": "Morne Rouge/Marc"
+                },
+                {
+                    "city_name": "Choc"
+                },
+                {
+                    "city_name": "Crownlands/Marc"
+                },
+                {
+                    "city_name": "Bexon"
+                },
+                {
+                    "city_name": "Morne Dudon"
+                },
+                {
+                    "city_name": "Barre St.Joseph"
+                },
+                {
+                    "city_name": "Darling Road"
+                },
+                {
+                    "city_name": "Ravine Poisson"
+                },
+                {
+                    "city_name": "Faux A Chaud"
+                },
+                {
+                    "city_name": "Banannes Bay"
+                },
+                {
+                    "city_name": "Cedars"
+                },
+                {
+                    "city_name": "Calvary"
+                },
+                {
+                    "city_name": "City"
+                },
+                {
+                    "city_name": "Grass Street"
+                },
+                {
+                    "city_name": "Sunbilt"
+                },
+                {
+                    "city_name": "City Gate/La Clery"
+                },
+                {
+                    "city_name": "Coolie Town"
+                },
+                {
+                    "city_name": "New Village"
+                },
+                {
+                    "city_name": "Choppin Ridge/Sarot"
+                },
+                {
+                    "city_name": "Lastic Hill"
+                },
+                {
+                    "city_name": "Trou Florent/Marc"
+                },
+                {
+                    "city_name": "Pavee"
+                },
+                {
+                    "city_name": "Goodlands"
+                },
+                {
+                    "city_name": "Patterson'S Gap"
+                },
+                {
+                    "city_name": "Pointe Seraphine"
+                },
+                {
+                    "city_name": "Rose Hill"
+                },
+                {
+                    "city_name": "The Morne"
+                },
+                {
+                    "city_name": "Waterworks"
+                },
+                {
+                    "city_name": "Wilton'S Yard/Grave Yard"
+                },
+                {
+                    "city_name": "Aurendel Hill"
+                },
+                {
+                    "city_name": "Black Mallet"
+                },
+                {
+                    "city_name": "Bagatelle"
+                },
+                {
+                    "city_name": "Bissee"
+                },
+                {
+                    "city_name": "Bishop'S Gap"
+                },
+                {
+                    "city_name": "Dubrassay"
+                },
+                {
+                    "city_name": "Bocage"
+                },
+                {
+                    "city_name": "Carellie"
+                },
+                {
+                    "city_name": "Maynard Hill"
+                },
+                {
+                    "city_name": "Ravine Chabot"
+                },
+                {
+                    "city_name": "Monkey Town Ciceron"
+                },
+                {
+                    "city_name": "La Clery"
+                },
+                {
+                    "city_name": "Entrepot"
+                },
+                {
+                    "city_name": "Independence City"
+                },
+                {
+                    "city_name": "Active Hill"
+                },
+                {
+                    "city_name": "Bois Patat"
+                },
+                {
+                    "city_name": "Sunny Acres"
+                },
+                {
+                    "city_name": "Chase Gardens"
+                },
+                {
+                    "city_name": "Yorke Hill"
+                },
+                {
+                    "city_name": "Morne Road"
+                },
+                {
+                    "city_name": "La Pansee"
+                },
+                {
+                    "city_name": "Goergeville"
+                },
+                {
+                    "city_name": "Leslie Land"
+                },
+                {
+                    "city_name": "Marchand"
+                },
+                {
+                    "city_name": "Agard Lands/Morne Dudon"
+                },
+                {
+                    "city_name": "Rock Hall"
+                },
+                {
+                    "city_name": "San Soucis"
+                },
+                {
+                    "city_name": "L'Anse Road"
+                },
+                {
+                    "city_name": "Summersdale"
+                },
+                {
+                    "city_name": "Hill 20/Babonneau"
+                },
+                {
+                    "city_name": "Barre Denis"
+                },
+                {
+                    "city_name": "Trou Cochan/Marc"
+                },
+                {
+                    "city_name": "La Carierre"
+                },
+                {
+                    "city_name": "Vide Bouteille"
+                },
+                {
+                    "city_name": "Green Gold"
+                },
+                {
+                    "city_name": "Floissac/Marc"
+                },
+                {
+                    "city_name": "Sarot"
+                },
+                {
+                    "city_name": "Sand De Feu"
+                },
+                {
+                    "city_name": "Labayee"
+                },
+                {
+                    "city_name": "Marc"
+                },
+                {
+                    "city_name": "Ferrand"
+                },
+                {
+                    "city_name": "Soucis"
+                },
+                {
+                    "city_name": "Perou"
+                },
+                {
+                    "city_name": "Deglos"
+                },
+                {
+                    "city_name": "La Croix Maingot"
+                },
+                {
+                    "city_name": "Barre Duchaussee"
+                },
+                {
+                    "city_name": "Tourat/Soucis"
+                },
+                {
+                    "city_name": "Quarte Chemins"
+                },
+                {
+                    "city_name": "Ti Colon"
+                },
+                {
+                    "city_name": "Ti Rocher"
+                },
+                {
+                    "city_name": "Trois Piton"
+                },
+                {
+                    "city_name": "Belair"
+                }
+            ]
+        },
+        {
+            "province_name": "Anse-la-Raye",
+            "cities": [
+                {
+                    "city_name": "St Lawrence"
+                },
+                {
+                    "city_name": "Tete Chemin"
+                },
+                {
+                    "city_name": "Village/Petite Bourgh"
+                },
+                {
+                    "city_name": "Venus"
+                },
+                {
+                    "city_name": "Morne D'Or"
+                },
+                {
+                    "city_name": "Roseau Valley"
+                },
+                {
+                    "city_name": "Invorgoil Estate"
+                },
+                {
+                    "city_name": "Au Tabor"
+                },
+                {
+                    "city_name": "Au Tabor Hill"
+                },
+                {
+                    "city_name": "Bois D'Inde"
+                },
+                {
+                    "city_name": "Caico/Millet"
+                },
+                {
+                    "city_name": "Fond Eau Rouge"
+                },
+                {
+                    "city_name": "Champen Estate"
+                },
+                {
+                    "city_name": "Enbar Pwin"
+                },
+                {
+                    "city_name": "Dame De Traversay"
+                },
+                {
+                    "city_name": "Massacre"
+                },
+                {
+                    "city_name": "Derriere Dos"
+                },
+                {
+                    "city_name": "Derriere Lagoon"
+                },
+                {
+                    "city_name": "Durandeau"
+                },
+                {
+                    "city_name": "Millet"
+                },
+                {
+                    "city_name": "Village"
+                },
+                {
+                    "city_name": "Jacmel"
+                },
+                {
+                    "city_name": "Jean Baptiste"
+                },
+                {
+                    "city_name": "La Trielle"
+                },
+                {
+                    "city_name": "Vanard"
+                },
+                {
+                    "city_name": "Morne Ciseaux"
+                },
+                {
+                    "city_name": "St Lawrence Estate"
+                }
+            ]
+        },
+        {
+            "province_name": "Canaries",
+            "cities": [
+                {
+                    "city_name": "Village"
+                },
+                {
+                    "city_name": "Theodrine"
+                },
+                {
+                    "city_name": "Anse La Verdue"
+                },
+                {
+                    "city_name": "Anse Cochon"
+                },
+                {
+                    "city_name": "Anse Galet"
+                },
+                {
+                    "city_name": "Belvedere"
+                },
+                {
+                    "city_name": "Chalon"
+                },
+                {
+                    "city_name": "Chatin"
+                },
+                {
+                    "city_name": "Des Bottes"
+                },
+                {
+                    "city_name": "Morne Siquot"
+                },
+                {
+                    "city_name": "Riverside Road"
+                }
+            ]
+        }
+    ]
+}

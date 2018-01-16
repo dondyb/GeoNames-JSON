@@ -1,0 +1,810 @@
+{
+    "country_name": "Canada",
+    "country_id": "CA",
+    "provinces": [
+        {
+            "province_name": "Alberta",
+            "cities": [
+                {
+                    "city_name": "Beaver County"
+                },
+                {
+                    "city_name": "Birch Hills County"
+                },
+                {
+                    "city_name": "Brazeau County"
+                },
+                {
+                    "city_name": "Cardston County"
+                },
+                {
+                    "city_name": "Clearwater County"
+                },
+                {
+                    "city_name": "County of Athabasca No. 12"
+                },
+                {
+                    "city_name": "County of Barrhead No. 11"
+                },
+                {
+                    "city_name": "County of Camrose No. 22"
+                },
+                {
+                    "city_name": "County of Forty Mile No. 8"
+                },
+                {
+                    "city_name": "County of Grande Prairie No. 1"
+                },
+                {
+                    "city_name": "County of Lethbridge No. 26"
+                },
+                {
+                    "city_name": "County of Minburn No. 27"
+                },
+                {
+                    "city_name": "County of Newell No. 4"
+                },
+                {
+                    "city_name": "County of Paintearth No. 18"
+                },
+                {
+                    "city_name": "County of Stettler No. 6"
+                },
+                {
+                    "city_name": "County of St. Paul No. 19"
+                },
+                {
+                    "city_name": "County of Thorhild No. 7"
+                },
+                {
+                    "city_name": "County of Two Hills No. 21"
+                },
+                {
+                    "city_name": "County of Vermilion River No. 24"
+                },
+                {
+                    "city_name": "County of Warner No. 5"
+                },
+                {
+                    "city_name": "County of Wetaskiwin No. 10"
+                },
+                {
+                    "city_name": "Cypress County"
+                },
+                {
+                    "city_name": "Flagstaff County"
+                },
+                {
+                    "city_name": "Jasper"
+                },
+                {
+                    "city_name": "Kneehill County"
+                },
+                {
+                    "city_name": "Lacombe County"
+                },
+                {
+                    "city_name": "Lac Ste. Anne County"
+                },
+                {
+                    "city_name": "Lamont County"
+                },
+                {
+                    "city_name": "Leduc County"
+                },
+                {
+                    "city_name": "Mountain View County"
+                },
+                {
+                    "city_name": "Municipal District of Acadia No. 34"
+                },
+                {
+                    "city_name": "Municipal District of Bighorn No. 8"
+                },
+                {
+                    "city_name": "Municipal District of Big Lakes No. 125"
+                },
+                {
+                    "city_name": "Municipal District of Bonnyville No. 87"
+                },
+                {
+                    "city_name": "Municipal District of Clear Hills No. 21"
+                },
+                {
+                    "city_name": "Municipal District of Fairview No. 136"
+                },
+                {
+                    "city_name": "Municipal District of Foothills No. 31"
+                },
+                {
+                    "city_name": "Municipal District of Greenview No. 16"
+                },
+                {
+                    "city_name": "Municipal District of Lesser Slave River No. 124"
+                },
+                {
+                    "city_name": "Municipal District of Northern Lights No. 22"
+                },
+                {
+                    "city_name": "Municipal District of Opportunity No. 17"
+                },
+                {
+                    "city_name": "Municipal District of Peace No. 135"
+                },
+                {
+                    "city_name": "Municipal District of Pincher Creek No. 9"
+                },
+                {
+                    "city_name": "Municipal District of Provost No. 52"
+                },
+                {
+                    "city_name": "Municipal District of Ranchland No. 66"
+                },
+                {
+                    "city_name": "Municipal District of Rocky View No. 44"
+                },
+                {
+                    "city_name": "Municipal District of Smoky River No. 130"
+                },
+                {
+                    "city_name": "Municipal District of Spirit River No. 133"
+                },
+                {
+                    "city_name": "Municipal District of Taber"
+                },
+                {
+                    "city_name": "Municipal District of Wainwright No. 61"
+                },
+                {
+                    "city_name": "Municipal District of Westlock No. 92"
+                },
+                {
+                    "city_name": "Municipal District of Willow Creek No. 26"
+                },
+                {
+                    "city_name": "Northern Sunrise County"
+                },
+                {
+                    "city_name": "Parkland County"
+                },
+                {
+                    "city_name": "Ponoka County"
+                },
+                {
+                    "city_name": "Red Deer County"
+                },
+                {
+                    "city_name": "Saddle Hills County"
+                },
+                {
+                    "city_name": "Smoky Lake County"
+                },
+                {
+                    "city_name": "Mackenzie County"
+                },
+                {
+                    "city_name": "Starland County"
+                },
+                {
+                    "city_name": "Strathcona County"
+                },
+                {
+                    "city_name": "Sturgeon County"
+                },
+                {
+                    "city_name": "Vulcan County"
+                },
+                {
+                    "city_name": "Wheatland County"
+                },
+                {
+                    "city_name": "Wood Buffalo"
+                },
+                {
+                    "city_name": "Woodlands County"
+                },
+                {
+                    "city_name": "Yellowhead County"
+                },
+                {
+                    "city_name": "Lac la Biche County"
+                },
+                {
+                    "city_name": "Crowsnest Pass"
+                }
+            ]
+        },
+        {
+            "province_name": "British Columbia",
+            "cities": [
+                {
+                    "city_name": "Capital Regional District"
+                },
+                {
+                    "city_name": "Cariboo Regional District"
+                },
+                {
+                    "city_name": "Central Coast Regional District"
+                },
+                {
+                    "city_name": "Columbia-Shuswap Regional District"
+                },
+                {
+                    "city_name": "Cowichan Valley Regional District"
+                },
+                {
+                    "city_name": "Fraser Valley Regional District"
+                },
+                {
+                    "city_name": "Greater Vancouver Regional District"
+                },
+                {
+                    "city_name": "Peace River Regional District"
+                },
+                {
+                    "city_name": "Powell River Regional District"
+                },
+                {
+                    "city_name": "Regional District of Alberni-Clayoquot"
+                },
+                {
+                    "city_name": "Regional District of Bulkley-Nechako"
+                },
+                {
+                    "city_name": "Regional District of Central Kootenay"
+                },
+                {
+                    "city_name": "Regional District of Central Okanagan"
+                },
+                {
+                    "city_name": "Regional District of East Kootenay"
+                },
+                {
+                    "city_name": "Regional District of Fraser-Fort George"
+                },
+                {
+                    "city_name": "Regional District of Kitimat-Stikine"
+                },
+                {
+                    "city_name": "Regional District of Kootenay-Boundary"
+                },
+                {
+                    "city_name": "Regional District of Mount Waddington"
+                },
+                {
+                    "city_name": "Regional District of Nanaimo"
+                },
+                {
+                    "city_name": "Regional District of North Okanagan"
+                },
+                {
+                    "city_name": "Regional District of Okanagan-Similkameen"
+                },
+                {
+                    "city_name": "Skeena-Queen Charlotte Regional District"
+                },
+                {
+                    "city_name": "Squamish-Lillooet Regional District"
+                },
+                {
+                    "city_name": "Sunshine Coast Regional District"
+                },
+                {
+                    "city_name": "Thompson-Nicola Regional District"
+                },
+                {
+                    "city_name": "Comox Valley Regional District"
+                },
+                {
+                    "city_name": "Northern Rockies Regional Municipality"
+                },
+                {
+                    "city_name": "Stikine Region"
+                },
+                {
+                    "city_name": "Strathcona Regional District"
+                }
+            ]
+        },
+        {
+            "province_name": "Manitoba",
+            "cities": [
+                {
+                    "city_name": "Alexander"
+                },
+                {
+                    "city_name": "Alonsa"
+                },
+                {
+                    "city_name": "Argyle"
+                },
+                {
+                    "city_name": "Armstrong"
+                },
+                {
+                    "city_name": "Brokenhead"
+                },
+                {
+                    "city_name": "Cartier"
+                },
+                {
+                    "city_name": "Coldwell"
+                },
+                {
+                    "city_name": "Cornwallis"
+                },
+                {
+                    "city_name": "Dauphin"
+                },
+                {
+                    "city_name": "De Salaberry"
+                },
+                {
+                    "city_name": "Dufferin"
+                },
+                {
+                    "city_name": "East St. Paul"
+                },
+                {
+                    "city_name": "Elton"
+                },
+                {
+                    "city_name": "Fisher"
+                },
+                {
+                    "city_name": "Gimli"
+                },
+                {
+                    "city_name": "Grahamdale"
+                },
+                {
+                    "city_name": "Grey"
+                },
+                {
+                    "city_name": "Hanover"
+                },
+                {
+                    "city_name": "Headingley"
+                },
+                {
+                    "city_name": "Kelsey"
+                },
+                {
+                    "city_name": "Lac du Bonnet"
+                },
+                {
+                    "city_name": "Macdonald"
+                },
+                {
+                    "city_name": "Montcalm"
+                },
+                {
+                    "city_name": "Morris"
+                },
+                {
+                    "city_name": "Mossey River"
+                },
+                {
+                    "city_name": "Piney"
+                },
+                {
+                    "city_name": "Pipestone"
+                },
+                {
+                    "city_name": "Portage la Prairie"
+                },
+                {
+                    "city_name": "Reynolds"
+                },
+                {
+                    "city_name": "Ritchot"
+                },
+                {
+                    "city_name": "Rockwood"
+                },
+                {
+                    "city_name": "Roland"
+                },
+                {
+                    "city_name": "Rosedale"
+                },
+                {
+                    "city_name": "Sifton"
+                },
+                {
+                    "city_name": "Springfield"
+                },
+                {
+                    "city_name": "St. Andrews"
+                },
+                {
+                    "city_name": "Stanley"
+                },
+                {
+                    "city_name": "St. Clements"
+                },
+                {
+                    "city_name": "Ste. Anne"
+                },
+                {
+                    "city_name": "St. Laurent"
+                },
+                {
+                    "city_name": "Stuartburn"
+                },
+                {
+                    "city_name": "Thompson"
+                },
+                {
+                    "city_name": "Victoria"
+                },
+                {
+                    "city_name": "West St. Paul"
+                },
+                {
+                    "city_name": "Whitehead"
+                },
+                {
+                    "city_name": "Whitemouth"
+                },
+                {
+                    "city_name": "Woodlands"
+                },
+                {
+                    "city_name": "Rural Municipality of Yellowhead"
+                }
+            ]
+        },
+        {
+            "province_name": "New Brunswick/Nouveau-Brunswick",
+            "cities": [
+                {
+                    "city_name": "Albert County"
+                },
+                {
+                    "city_name": "Carleton County"
+                },
+                {
+                    "city_name": "Charlotte County"
+                },
+                {
+                    "city_name": "Kent County"
+                },
+                {
+                    "city_name": "Kings County"
+                },
+                {
+                    "city_name": "Northumberland County"
+                },
+                {
+                    "city_name": "Queens County"
+                },
+                {
+                    "city_name": "Saint John County"
+                },
+                {
+                    "city_name": "Sunbury County"
+                },
+                {
+                    "city_name": "Westmorland County"
+                },
+                {
+                    "city_name": "York County"
+                },
+                {
+                    "city_name": "Restigouche"
+                },
+                {
+                    "city_name": "Gloucester County"
+                },
+                {
+                    "city_name": "Madawaska County"
+                },
+                {
+                    "city_name": "Victoria County"
+                }
+            ]
+        },
+        {
+            "province_name": "Northwest Territories",
+            "cities": []
+        },
+        {
+            "province_name": "Nova Scotia",
+            "cities": [
+                {
+                    "city_name": "Annapolis County"
+                },
+                {
+                    "city_name": "Antigonish County"
+                },
+                {
+                    "city_name": "Cape Breton County"
+                },
+                {
+                    "city_name": "Colchester"
+                },
+                {
+                    "city_name": "Cumberland County"
+                },
+                {
+                    "city_name": "Digby County"
+                },
+                {
+                    "city_name": "Guysborough County"
+                },
+                {
+                    "city_name": "Halifax County"
+                },
+                {
+                    "city_name": "Inverness County"
+                },
+                {
+                    "city_name": "Kings County"
+                },
+                {
+                    "city_name": "Lunenburg County"
+                },
+                {
+                    "city_name": "Pictou County"
+                },
+                {
+                    "city_name": "Queens County"
+                },
+                {
+                    "city_name": "Richmond County"
+                },
+                {
+                    "city_name": "Shelburne County"
+                },
+                {
+                    "city_name": "Victoria County"
+                },
+                {
+                    "city_name": "Yarmouth County"
+                }
+            ]
+        },
+        {
+            "province_name": "Nunavut",
+            "cities": []
+        },
+        {
+            "province_name": "Ontario",
+            "cities": [
+                {
+                    "city_name": "Algoma"
+                },
+                {
+                    "city_name": "Brant"
+                },
+                {
+                    "city_name": "Bruce County"
+                },
+                {
+                    "city_name": "Chatham-Kent"
+                },
+                {
+                    "city_name": "Cochrane District"
+                },
+                {
+                    "city_name": "Dufferin County"
+                },
+                {
+                    "city_name": "Durham"
+                },
+                {
+                    "city_name": "Elgin County"
+                },
+                {
+                    "city_name": "Essex County"
+                },
+                {
+                    "city_name": "Frontenac County"
+                },
+                {
+                    "city_name": "Grey County"
+                },
+                {
+                    "city_name": "Haldimand County"
+                },
+                {
+                    "city_name": "Haliburton County"
+                },
+                {
+                    "city_name": "Halton"
+                },
+                {
+                    "city_name": "Hamilton"
+                },
+                {
+                    "city_name": "Hastings County"
+                },
+                {
+                    "city_name": "Huron County"
+                },
+                {
+                    "city_name": "Kawartha Lakes"
+                },
+                {
+                    "city_name": "Kenora District"
+                },
+                {
+                    "city_name": "Lambton County"
+                },
+                {
+                    "city_name": "Lanark County"
+                },
+                {
+                    "city_name": "Lennox and Addington County"
+                },
+                {
+                    "city_name": "Manitoulin District"
+                },
+                {
+                    "city_name": "Middlesex County"
+                },
+                {
+                    "city_name": "District Municipality of Muskoka"
+                },
+                {
+                    "city_name": "Regional Municipality of Niagara"
+                },
+                {
+                    "city_name": "Nipissing District"
+                },
+                {
+                    "city_name": "Northumberland County"
+                },
+                {
+                    "city_name": "Oxford County"
+                },
+                {
+                    "city_name": "Parry Sound District"
+                },
+                {
+                    "city_name": "Peel"
+                },
+                {
+                    "city_name": "Perth County"
+                },
+                {
+                    "city_name": "Peterborough County"
+                },
+                {
+                    "city_name": "Prince Edward County"
+                },
+                {
+                    "city_name": "Rainy River District"
+                },
+                {
+                    "city_name": "Renfrew County"
+                },
+                {
+                    "city_name": "Simcoe County"
+                },
+                {
+                    "city_name": "Sudbury"
+                },
+                {
+                    "city_name": "Sudbury"
+                },
+                {
+                    "city_name": "Thunder Bay District"
+                },
+                {
+                    "city_name": "Timiskaming District"
+                },
+                {
+                    "city_name": "United Counties of Leeds and Grenville"
+                },
+                {
+                    "city_name": "Comtes unis de Prescott et Russell"
+                },
+                {
+                    "city_name": "United Counties of Stormont, Dundas and Glengarry"
+                },
+                {
+                    "city_name": "Regional Municipality of Waterloo"
+                },
+                {
+                    "city_name": "Wellington County"
+                },
+                {
+                    "city_name": "York"
+                },
+                {
+                    "city_name": "Toronto county"
+                },
+                {
+                    "city_name": "Ottawa"
+                }
+            ]
+        },
+        {
+            "province_name": "Prince Edward Island",
+            "cities": [
+                {
+                    "city_name": "Kings County"
+                },
+                {
+                    "city_name": "Prince County"
+                },
+                {
+                    "city_name": "Queens County"
+                }
+            ]
+        },
+        {
+            "province_name": "Quebec",
+            "cities": [
+                {
+                    "city_name": "Abitibi-Temiscamingue"
+                },
+                {
+                    "city_name": "Cote-Nord"
+                },
+                {
+                    "city_name": "Estrie"
+                },
+                {
+                    "city_name": "Lanaudiere"
+                },
+                {
+                    "city_name": "Laurentides"
+                },
+                {
+                    "city_name": "Laval"
+                },
+                {
+                    "city_name": "Mauricie"
+                },
+                {
+                    "city_name": "Minganie"
+                },
+                {
+                    "city_name": "Monteregie"
+                },
+                {
+                    "city_name": "Montreal"
+                },
+                {
+                    "city_name": "Outaouais"
+                },
+                {
+                    "city_name": "Saguenay/Lac-Saint-Jean"
+                },
+                {
+                    "city_name": "Bas-Saint-Laurent"
+                },
+                {
+                    "city_name": "Capitale-Nationale"
+                },
+                {
+                    "city_name": "Nord-du-Quebec"
+                },
+                {
+                    "city_name": "Gaspesie-Iles-de-la-Madeleine"
+                },
+                {
+                    "city_name": "Chaudiere-Appalaches"
+                },
+                {
+                    "city_name": "Centre-du-Quebec"
+                }
+            ]
+        },
+        {
+            "province_name": "Saskatchewan",
+            "cities": []
+        },
+        {
+            "province_name": "Yukon",
+            "cities": []
+        },
+        {
+            "province_name": "Newfoundland and Labrador",
+            "cities": []
+        }
+    ]
+}

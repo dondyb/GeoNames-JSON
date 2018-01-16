@@ -1,0 +1,300 @@
+{
+    "country_name": "Myanmar",
+    "country_id": "MM",
+    "provinces": [
+        {
+            "province_name": "Taninthayi Region",
+            "cities": [
+                {
+                    "city_name": "Dawei District"
+                },
+                {
+                    "city_name": "Myeik District"
+                },
+                {
+                    "city_name": "Kawthaung District"
+                }
+            ]
+        },
+        {
+            "province_name": "Shan State",
+            "cities": [
+                {
+                    "city_name": "Taunggyi District"
+                },
+                {
+                    "city_name": "Tachileik District"
+                },
+                {
+                    "city_name": "Mong Hsat District"
+                },
+                {
+                    "city_name": "Kyaukme District"
+                },
+                {
+                    "city_name": "Mu Se District"
+                },
+                {
+                    "city_name": "Loilem District"
+                },
+                {
+                    "city_name": "Langhko District"
+                },
+                {
+                    "city_name": "Kengtung District"
+                },
+                {
+                    "city_name": "Lashio District"
+                },
+                {
+                    "city_name": "Hopang"
+                },
+                {
+                    "city_name": "Laukkaing"
+                },
+                {
+                    "city_name": "Matman"
+                },
+                {
+                    "city_name": "Mongmit"
+                }
+            ]
+        },
+        {
+            "province_name": "Sagaing Region",
+            "cities": [
+                {
+                    "city_name": "Mawlaik District"
+                },
+                {
+                    "city_name": "Shwebo District"
+                },
+                {
+                    "city_name": "Sagaing District"
+                },
+                {
+                    "city_name": "Hkamti District"
+                },
+                {
+                    "city_name": "Katha District"
+                },
+                {
+                    "city_name": "Kale District"
+                },
+                {
+                    "city_name": "Tamu District"
+                },
+                {
+                    "city_name": "Monywa"
+                },
+                {
+                    "city_name": "Yinmabin"
+                }
+            ]
+        },
+        {
+            "province_name": "Yangon Region",
+            "cities": [
+                {
+                    "city_name": "Yangon South District"
+                },
+                {
+                    "city_name": "Yangon East District"
+                },
+                {
+                    "city_name": "Yangon (East)"
+                },
+                {
+                    "city_name": "Yangon (North)"
+                }
+            ]
+        },
+        {
+            "province_name": "Rakhine State",
+            "cities": [
+                {
+                    "city_name": "Thandwe District"
+                },
+                {
+                    "city_name": "Kyaunkpyu District"
+                },
+                {
+                    "city_name": "Sittwe District"
+                },
+                {
+                    "city_name": "Maungdaw District"
+                },
+                {
+                    "city_name": "Mrauk-U"
+                }
+            ]
+        },
+        {
+            "province_name": "Bago Region",
+            "cities": [
+                {
+                    "city_name": "Taungoo District"
+                },
+                {
+                    "city_name": "Thayarwady District"
+                },
+                {
+                    "city_name": "Pyay District"
+                },
+                {
+                    "city_name": "Bago District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mon State",
+            "cities": [
+                {
+                    "city_name": "Thaton District"
+                },
+                {
+                    "city_name": "Mawlamyine District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mandalay Region",
+            "cities": [
+                {
+                    "city_name": "Yamethin District"
+                },
+                {
+                    "city_name": "Myingyan District"
+                },
+                {
+                    "city_name": "Meiktila District"
+                },
+                {
+                    "city_name": "Mandalay District"
+                },
+                {
+                    "city_name": "Kyaukse District"
+                },
+                {
+                    "city_name": "Nyaung-U District"
+                },
+                {
+                    "city_name": "Pyin Oo Lwin District"
+                }
+            ]
+        },
+        {
+            "province_name": "Magway Region",
+            "cities": [
+                {
+                    "city_name": "Thayet District"
+                },
+                {
+                    "city_name": "Pakokku District"
+                },
+                {
+                    "city_name": "Minbu District"
+                },
+                {
+                    "city_name": "Magway District"
+                },
+                {
+                    "city_name": "Gangaw District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kayah State",
+            "cities": [
+                {
+                    "city_name": "Bawlakhe District"
+                },
+                {
+                    "city_name": "Loikaw District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kayin State",
+            "cities": [
+                {
+                    "city_name": "Hpa-an District"
+                },
+                {
+                    "city_name": "Myawaddy District"
+                },
+                {
+                    "city_name": "Kawkareik District"
+                },
+                {
+                    "city_name": "Hpapun"
+                }
+            ]
+        },
+        {
+            "province_name": "Kachin State",
+            "cities": [
+                {
+                    "city_name": "Myitkyina District"
+                },
+                {
+                    "city_name": "Bhamo District"
+                },
+                {
+                    "city_name": "Putao District"
+                },
+                {
+                    "city_name": "Mohnyin District"
+                }
+            ]
+        },
+        {
+            "province_name": "Ayeyawady Region",
+            "cities": [
+                {
+                    "city_name": "Pyapon District"
+                },
+                {
+                    "city_name": "Myaungmya District"
+                },
+                {
+                    "city_name": "Ma-ubin District"
+                },
+                {
+                    "city_name": "Hinthada District"
+                },
+                {
+                    "city_name": "Pathein District"
+                },
+                {
+                    "city_name": "Labutta District"
+                }
+            ]
+        },
+        {
+            "province_name": "Chin State",
+            "cities": [
+                {
+                    "city_name": "Falam"
+                },
+                {
+                    "city_name": "Hakha"
+                },
+                {
+                    "city_name": "Mindat"
+                }
+            ]
+        },
+        {
+            "province_name": "Nay Pyi Taw",
+            "cities": [
+                {
+                    "city_name": "Nay Pyi Taw (South)"
+                },
+                {
+                    "city_name": "Nay Pyi Taw (North)"
+                }
+            ]
+        }
+    ]
+}

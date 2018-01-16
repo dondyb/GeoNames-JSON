@@ -1,0 +1,631 @@
+{
+    "country_name": "Dominican Republic",
+    "country_id": "DO",
+    "provinces": [
+        {
+            "province_name": "Provincia de Valverde",
+            "cities": [
+                {
+                    "city_name": "Mao"
+                },
+                {
+                    "city_name": "Laguna Salada"
+                },
+                {
+                    "city_name": "Esperanza"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Santiago Rodriguez",
+            "cities": [
+                {
+                    "city_name": "San Ignacio de Sabaneta"
+                },
+                {
+                    "city_name": "Moncion"
+                },
+                {
+                    "city_name": "Villa Los Almacigos"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Santiago",
+            "cities": [
+                {
+                    "city_name": "Tamboril"
+                },
+                {
+                    "city_name": "Santiago de los Caballeros"
+                },
+                {
+                    "city_name": "San Jose de Las Matas"
+                },
+                {
+                    "city_name": "Licey al Medio"
+                },
+                {
+                    "city_name": "Santo Tomas de Janico"
+                },
+                {
+                    "city_name": "Bisono"
+                },
+                {
+                    "city_name": "Villa Gonzalez"
+                },
+                {
+                    "city_name": "Punal"
+                },
+                {
+                    "city_name": "Sabana Iglesia"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de San Pedro de Macoris",
+            "cities": [
+                {
+                    "city_name": "San Pedro de Macoris"
+                },
+                {
+                    "city_name": "Ramon Santana"
+                },
+                {
+                    "city_name": "Los Llanos"
+                },
+                {
+                    "city_name": "Consuelo"
+                },
+                {
+                    "city_name": "Quisqueya"
+                },
+                {
+                    "city_name": "Guayacanes"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de San Juan",
+            "cities": [
+                {
+                    "city_name": "Vallejuelo"
+                },
+                {
+                    "city_name": "San Juan de la Maguana"
+                },
+                {
+                    "city_name": "Las Matas de Farfan"
+                },
+                {
+                    "city_name": "El Cercado"
+                },
+                {
+                    "city_name": "Bohechio"
+                },
+                {
+                    "city_name": "Juan De Herrera"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de San Cristobal",
+            "cities": [
+                {
+                    "city_name": "Yaguate"
+                },
+                {
+                    "city_name": "Villa Altagracia"
+                },
+                {
+                    "city_name": "San Cristobal"
+                },
+                {
+                    "city_name": "Cambita Garabitos"
+                },
+                {
+                    "city_name": "Bajos de Haina"
+                },
+                {
+                    "city_name": "Sabana Grande De Palenque"
+                },
+                {
+                    "city_name": "San Gregorio De Nigua"
+                },
+                {
+                    "city_name": "Los Cacaos"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia Sanchez Ramirez",
+            "cities": [
+                {
+                    "city_name": "Fantino"
+                },
+                {
+                    "city_name": "Cotui"
+                },
+                {
+                    "city_name": "Cevicos"
+                },
+                {
+                    "city_name": "La Mata"
+                }
+            ]
+        },
+        {
+            "province_name": "Samana Province",
+            "cities": [
+                {
+                    "city_name": "Sanchez"
+                },
+                {
+                    "city_name": "Samana Municipality"
+                },
+                {
+                    "city_name": "Las Terrenas"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Hermanas Mirabal",
+            "cities": [
+                {
+                    "city_name": "Villa Tapia"
+                },
+                {
+                    "city_name": "Tenares"
+                },
+                {
+                    "city_name": "Salcedo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Puerto Plata",
+            "cities": [
+                {
+                    "city_name": "Villa Isabela"
+                },
+                {
+                    "city_name": "Sosua"
+                },
+                {
+                    "city_name": "Puerto Plata"
+                },
+                {
+                    "city_name": "Luperon"
+                },
+                {
+                    "city_name": "Los Hidalgos"
+                },
+                {
+                    "city_name": "Imbert"
+                },
+                {
+                    "city_name": "Altamira"
+                },
+                {
+                    "city_name": "Villa Montellano"
+                },
+                {
+                    "city_name": "Guananico"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Peravia",
+            "cities": [
+                {
+                    "city_name": "Nizao"
+                },
+                {
+                    "city_name": "Bani"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Pedernales",
+            "cities": [
+                {
+                    "city_name": "Pedernales"
+                },
+                {
+                    "city_name": "Oviedo"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito Nacional",
+            "cities": [
+                {
+                    "city_name": "Santo Domingo De Guzman"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Monte Plata",
+            "cities": [
+                {
+                    "city_name": "Yamasa"
+                },
+                {
+                    "city_name": "Sabana Grande de Boya"
+                },
+                {
+                    "city_name": "Monte Plata"
+                },
+                {
+                    "city_name": "Bayaguana"
+                },
+                {
+                    "city_name": "Peralvillo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Monte Cristi",
+            "cities": [
+                {
+                    "city_name": "Villa Vasquez"
+                },
+                {
+                    "city_name": "Pepillo Salcedo"
+                },
+                {
+                    "city_name": "Monte Cristi"
+                },
+                {
+                    "city_name": "Las Matas de Santa Cruz"
+                },
+                {
+                    "city_name": "Guayubin"
+                },
+                {
+                    "city_name": "Castanuelas"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Monsenor Nouel",
+            "cities": [
+                {
+                    "city_name": "Maimon"
+                },
+                {
+                    "city_name": "Bonao"
+                },
+                {
+                    "city_name": "Piedra Blanca"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia Maria Trinidad Sanchez",
+            "cities": [
+                {
+                    "city_name": "Rio San Juan"
+                },
+                {
+                    "city_name": "Nagua"
+                },
+                {
+                    "city_name": "El Factor"
+                },
+                {
+                    "city_name": "Cabrera"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de La Vega",
+            "cities": [
+                {
+                    "city_name": "La Vega"
+                },
+                {
+                    "city_name": "Jarabacoa"
+                },
+                {
+                    "city_name": "Constanza"
+                },
+                {
+                    "city_name": "Jima Abajo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de La Romana",
+            "cities": [
+                {
+                    "city_name": "La Romana"
+                },
+                {
+                    "city_name": "Guaymate"
+                },
+                {
+                    "city_name": "Villa Hermosa"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de La Altagracia",
+            "cities": [
+                {
+                    "city_name": "San Rafael del Yuma"
+                },
+                {
+                    "city_name": "Higueey"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Independencia",
+            "cities": [
+                {
+                    "city_name": "Postrer Rio"
+                },
+                {
+                    "city_name": "La Descubierta"
+                },
+                {
+                    "city_name": "Jimani"
+                },
+                {
+                    "city_name": "Duverge"
+                },
+                {
+                    "city_name": "Mella"
+                },
+                {
+                    "city_name": "Cristobal"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Hato Mayor",
+            "cities": [
+                {
+                    "city_name": "Sabana de La Mar"
+                },
+                {
+                    "city_name": "Hato Mayor"
+                },
+                {
+                    "city_name": "El Valle"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia Espaillat",
+            "cities": [
+                {
+                    "city_name": "Moca"
+                },
+                {
+                    "city_name": "Gaspar Hernandez"
+                },
+                {
+                    "city_name": "Cayetano Germosen"
+                },
+                {
+                    "city_name": "Jamao Al Norte"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de El Seibo",
+            "cities": [
+                {
+                    "city_name": "Miches"
+                },
+                {
+                    "city_name": "El Seibo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Elias Pina",
+            "cities": [
+                {
+                    "city_name": "Pedro Santana"
+                },
+                {
+                    "city_name": "Hondo Valle"
+                },
+                {
+                    "city_name": "El Llano"
+                },
+                {
+                    "city_name": "Comendador"
+                },
+                {
+                    "city_name": "Banica"
+                },
+                {
+                    "city_name": "Juan Santiago"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia Duarte",
+            "cities": [
+                {
+                    "city_name": "Villa Riva"
+                },
+                {
+                    "city_name": "San Francisco de Macoris"
+                },
+                {
+                    "city_name": "Pimentel"
+                },
+                {
+                    "city_name": "Castillo"
+                },
+                {
+                    "city_name": "Arenoso"
+                },
+                {
+                    "city_name": "Las Guaranas"
+                },
+                {
+                    "city_name": "Eugenio Maria De Hostos"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Dajabon",
+            "cities": [
+                {
+                    "city_name": "Restauracion"
+                },
+                {
+                    "city_name": "Loma de Cabrera"
+                },
+                {
+                    "city_name": "Dajabon"
+                },
+                {
+                    "city_name": "Partido"
+                },
+                {
+                    "city_name": "El Pino"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Barahona",
+            "cities": [
+                {
+                    "city_name": "Vicente Noble"
+                },
+                {
+                    "city_name": "Paraiso"
+                },
+                {
+                    "city_name": "Enriquillo"
+                },
+                {
+                    "city_name": "Cabral"
+                },
+                {
+                    "city_name": "Barahona"
+                },
+                {
+                    "city_name": "Las Salinas"
+                },
+                {
+                    "city_name": "Polo"
+                },
+                {
+                    "city_name": "Jaquimeyes"
+                },
+                {
+                    "city_name": "El Penon"
+                },
+                {
+                    "city_name": "La Cienaga"
+                },
+                {
+                    "city_name": "Fundacion"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Baoruco",
+            "cities": [
+                {
+                    "city_name": "Villa Jaragua"
+                },
+                {
+                    "city_name": "Tamayo"
+                },
+                {
+                    "city_name": "Neiba"
+                },
+                {
+                    "city_name": "Galvan"
+                },
+                {
+                    "city_name": "Los Rios"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Azua",
+            "cities": [
+                {
+                    "city_name": "Peralta"
+                },
+                {
+                    "city_name": "Padre Las Casas"
+                },
+                {
+                    "city_name": "Azua"
+                },
+                {
+                    "city_name": "Tabara Arriba"
+                },
+                {
+                    "city_name": "Guayabal"
+                },
+                {
+                    "city_name": "Estebania"
+                },
+                {
+                    "city_name": "Las Charcas"
+                },
+                {
+                    "city_name": "Las Yayas De Viajama"
+                },
+                {
+                    "city_name": "Sabana Yegua"
+                },
+                {
+                    "city_name": "Pueblo Viejo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de San Jose de Ocoa",
+            "cities": [
+                {
+                    "city_name": "San Jose de Ocoa"
+                },
+                {
+                    "city_name": "Sabana Larga"
+                },
+                {
+                    "city_name": "Rancho Arriba"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Santo Domingo",
+            "cities": [
+                {
+                    "city_name": "Santo Domingo Norte"
+                },
+                {
+                    "city_name": "Santo Domingo Este"
+                },
+                {
+                    "city_name": "Santo Domingo Oeste"
+                },
+                {
+                    "city_name": "Boca Chica"
+                },
+                {
+                    "city_name": "San Antonio De Guerra"
+                },
+                {
+                    "city_name": "Los Alcarrizos"
+                },
+                {
+                    "city_name": "Pedro Brand"
+                }
+            ]
+        }
+    ]
+}

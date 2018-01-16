@@ -1,0 +1,186 @@
+{
+    "country_name": "Republic of the Congo",
+    "country_id": "CG",
+    "provinces": [
+        {
+            "province_name": "Sangha",
+            "cities": [
+                {
+                    "city_name": "Souanke"
+                },
+                {
+                    "city_name": "Sembe"
+                },
+                {
+                    "city_name": "Ouesso"
+                }
+            ]
+        },
+        {
+            "province_name": "Pool",
+            "cities": [
+                {
+                    "city_name": "Mindouli"
+                },
+                {
+                    "city_name": "Mayama"
+                },
+                {
+                    "city_name": "Ngabe"
+                },
+                {
+                    "city_name": "Ngamaba (brazzaville)"
+                },
+                {
+                    "city_name": "Kinkala"
+                },
+                {
+                    "city_name": "Boko"
+                },
+                {
+                    "city_name": "Kindamba"
+                }
+            ]
+        },
+        {
+            "province_name": "Plateaux",
+            "cities": [
+                {
+                    "city_name": "Gamboma"
+                },
+                {
+                    "city_name": "Djambala"
+                },
+                {
+                    "city_name": "Abala"
+                },
+                {
+                    "city_name": "Lekana"
+                }
+            ]
+        },
+        {
+            "province_name": "Region du Niari",
+            "cities": [
+                {
+                    "city_name": "Divenie"
+                },
+                {
+                    "city_name": "Kibangou"
+                },
+                {
+                    "city_name": "Kimongo"
+                },
+                {
+                    "city_name": "Louvakou"
+                },
+                {
+                    "city_name": "Mayoko"
+                },
+                {
+                    "city_name": "Mossendjo"
+                }
+            ]
+        },
+        {
+            "province_name": "Likouala",
+            "cities": [
+                {
+                    "city_name": "Dongou"
+                },
+                {
+                    "city_name": "Impfondo"
+                }
+            ]
+        },
+        {
+            "province_name": "Lekoumou",
+            "cities": [
+                {
+                    "city_name": "Bambama"
+                },
+                {
+                    "city_name": "Komono"
+                },
+                {
+                    "city_name": "Sibiti"
+                },
+                {
+                    "city_name": "Zanaga"
+                }
+            ]
+        },
+        {
+            "province_name": "Region du Kouilou",
+            "cities": [
+                {
+                    "city_name": "Madingo-Kayes"
+                },
+                {
+                    "city_name": "Kakamoeka"
+                },
+                {
+                    "city_name": "Mvouti"
+                },
+                {
+                    "city_name": "Pointe-Noire"
+                }
+            ]
+        },
+        {
+            "province_name": "Cuvette",
+            "cities": [
+                {
+                    "city_name": "Loukela"
+                },
+                {
+                    "city_name": "Mossaka"
+                },
+                {
+                    "city_name": "Boundji"
+                },
+                {
+                    "city_name": "Loukolela"
+                },
+                {
+                    "city_name": "Makoua"
+                },
+                {
+                    "city_name": "Owando"
+                },
+                {
+                    "city_name": "Okoyo"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de la Bouenza",
+            "cities": [
+                {
+                    "city_name": "Mouyondzi"
+                },
+                {
+                    "city_name": "Madingou"
+                },
+                {
+                    "city_name": "Nkayi"
+                },
+                {
+                    "city_name": "Loudima"
+                }
+            ]
+        },
+        {
+            "province_name": "Commune de Brazzaville",
+            "cities": []
+        },
+        {
+            "province_name": "Cuvette-Ouest",
+            "cities": []
+        },
+        {
+            "province_name": "Pointe-Noire",
+            "cities": []
+        }
+    ]
+}

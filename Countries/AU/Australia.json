@@ -1,0 +1,1722 @@
+{
+    "country_name": "Australia",
+    "country_id": "AU",
+    "provinces": [
+        {
+            "province_name": "State of Western Australia",
+            "cities": [
+                {
+                    "city_name": "Plantagenet Shire"
+                },
+                {
+                    "city_name": "City of Perth"
+                },
+                {
+                    "city_name": "Kent Shire"
+                },
+                {
+                    "city_name": "Esperance Shire"
+                },
+                {
+                    "city_name": "Dumbleyung Shire"
+                },
+                {
+                    "city_name": "Augusta-Margaret River Shire"
+                },
+                {
+                    "city_name": "Broome"
+                },
+                {
+                    "city_name": "Broomehill-Tambellup"
+                },
+                {
+                    "city_name": "Bruce Rock"
+                },
+                {
+                    "city_name": "Boyup Brook"
+                },
+                {
+                    "city_name": "Bridgetown-Greenbushes"
+                },
+                {
+                    "city_name": "Brookton"
+                },
+                {
+                    "city_name": "Bunbury"
+                },
+                {
+                    "city_name": "Busselton"
+                },
+                {
+                    "city_name": "Cambridge"
+                },
+                {
+                    "city_name": "Canning"
+                },
+                {
+                    "city_name": "Capel"
+                },
+                {
+                    "city_name": "Carnamah"
+                },
+                {
+                    "city_name": "Carnarvon"
+                },
+                {
+                    "city_name": "Chapman Valley"
+                },
+                {
+                    "city_name": "Chittering"
+                },
+                {
+                    "city_name": "Claremont"
+                },
+                {
+                    "city_name": "City of Cockburn"
+                },
+                {
+                    "city_name": "Collie"
+                },
+                {
+                    "city_name": "Coolgardie"
+                },
+                {
+                    "city_name": "Coorow"
+                },
+                {
+                    "city_name": "Corrigin"
+                },
+                {
+                    "city_name": "Cottesloe"
+                },
+                {
+                    "city_name": "Cranbrook"
+                },
+                {
+                    "city_name": "Cuballing"
+                },
+                {
+                    "city_name": "Cue"
+                },
+                {
+                    "city_name": "Cunderdin"
+                },
+                {
+                    "city_name": "Dalwallinu"
+                },
+                {
+                    "city_name": "Dandaragan"
+                },
+                {
+                    "city_name": "Dardanup"
+                },
+                {
+                    "city_name": "Denmark"
+                },
+                {
+                    "city_name": "Derby-West Kimberley"
+                },
+                {
+                    "city_name": "Donnybrook-Balingup"
+                },
+                {
+                    "city_name": "Dowerin"
+                },
+                {
+                    "city_name": "Dundas"
+                },
+                {
+                    "city_name": "East Fremantle"
+                },
+                {
+                    "city_name": "East Pilbara"
+                },
+                {
+                    "city_name": "Exmouth"
+                },
+                {
+                    "city_name": "Fremantle"
+                },
+                {
+                    "city_name": "Geraldton-Greenough"
+                },
+                {
+                    "city_name": "Gingin"
+                },
+                {
+                    "city_name": "Gnowangerup"
+                },
+                {
+                    "city_name": "Goomalling"
+                },
+                {
+                    "city_name": "Gosnells"
+                },
+                {
+                    "city_name": "Halls Creek"
+                },
+                {
+                    "city_name": "Harvey"
+                },
+                {
+                    "city_name": "Irwin"
+                },
+                {
+                    "city_name": "Jerramungup"
+                },
+                {
+                    "city_name": "Joondalup"
+                },
+                {
+                    "city_name": "Kalamunda"
+                },
+                {
+                    "city_name": "Kalgoorlie/Boulder"
+                },
+                {
+                    "city_name": "Katanning"
+                },
+                {
+                    "city_name": "Kellerberrin"
+                },
+                {
+                    "city_name": "Kojonup"
+                },
+                {
+                    "city_name": "Kondinin"
+                },
+                {
+                    "city_name": "Koorda"
+                },
+                {
+                    "city_name": "Kulin"
+                },
+                {
+                    "city_name": "Kwinana"
+                },
+                {
+                    "city_name": "Lake Grace"
+                },
+                {
+                    "city_name": "Laverton"
+                },
+                {
+                    "city_name": "Leonora"
+                },
+                {
+                    "city_name": "Mandurah"
+                },
+                {
+                    "city_name": "Manjimup"
+                },
+                {
+                    "city_name": "Meekatharra"
+                },
+                {
+                    "city_name": "Melville"
+                },
+                {
+                    "city_name": "Menzies"
+                },
+                {
+                    "city_name": "Merredin"
+                },
+                {
+                    "city_name": "Mingenew"
+                },
+                {
+                    "city_name": "Moora"
+                },
+                {
+                    "city_name": "Morawa"
+                },
+                {
+                    "city_name": "Mosman Park"
+                },
+                {
+                    "city_name": "Mount Magnet"
+                },
+                {
+                    "city_name": "Mount Marshall"
+                },
+                {
+                    "city_name": "Mukinbudin"
+                },
+                {
+                    "city_name": "Mullewa"
+                },
+                {
+                    "city_name": "Mundaring"
+                },
+                {
+                    "city_name": "Murchison"
+                },
+                {
+                    "city_name": "Murray"
+                },
+                {
+                    "city_name": "Nannup"
+                },
+                {
+                    "city_name": "Narembeen"
+                },
+                {
+                    "city_name": "Narrogin"
+                },
+                {
+                    "city_name": "Narrogin"
+                },
+                {
+                    "city_name": "Nedlands"
+                },
+                {
+                    "city_name": "Ngaanyatjarraku"
+                },
+                {
+                    "city_name": "Northam"
+                },
+                {
+                    "city_name": "Northampton Shire"
+                },
+                {
+                    "city_name": "Nungarin"
+                },
+                {
+                    "city_name": "Peppermint Grove"
+                },
+                {
+                    "city_name": "Perenjori"
+                },
+                {
+                    "city_name": "Pingelly"
+                },
+                {
+                    "city_name": "Port Hedland"
+                },
+                {
+                    "city_name": "Quairading"
+                },
+                {
+                    "city_name": "Ravensthorpe"
+                },
+                {
+                    "city_name": "Rockingham"
+                },
+                {
+                    "city_name": "Roebourne"
+                },
+                {
+                    "city_name": "Sandstone"
+                },
+                {
+                    "city_name": "Serpentine-Jarrahdale"
+                },
+                {
+                    "city_name": "Shark Bay"
+                },
+                {
+                    "city_name": "South Perth"
+                },
+                {
+                    "city_name": "Stirling"
+                },
+                {
+                    "city_name": "Subiaco"
+                },
+                {
+                    "city_name": "Swan"
+                },
+                {
+                    "city_name": "Tammin"
+                },
+                {
+                    "city_name": "Three Springs"
+                },
+                {
+                    "city_name": "Albany"
+                },
+                {
+                    "city_name": "Armadale"
+                },
+                {
+                    "city_name": "Ashburton"
+                },
+                {
+                    "city_name": "Bassendean"
+                },
+                {
+                    "city_name": "Bayswater"
+                },
+                {
+                    "city_name": "Belmont"
+                },
+                {
+                    "city_name": "Beverley"
+                },
+                {
+                    "city_name": "Boddington"
+                },
+                {
+                    "city_name": "Toodyay"
+                },
+                {
+                    "city_name": "Trayning"
+                },
+                {
+                    "city_name": "Upper Gascoyne"
+                },
+                {
+                    "city_name": "Victoria Park"
+                },
+                {
+                    "city_name": "Victoria Plains"
+                },
+                {
+                    "city_name": "Vincent"
+                },
+                {
+                    "city_name": "Wagin"
+                },
+                {
+                    "city_name": "Wandering"
+                },
+                {
+                    "city_name": "Wanneroo"
+                },
+                {
+                    "city_name": "Waroona"
+                },
+                {
+                    "city_name": "West Arthur"
+                },
+                {
+                    "city_name": "Westonia"
+                },
+                {
+                    "city_name": "Wickepin"
+                },
+                {
+                    "city_name": "Williams"
+                },
+                {
+                    "city_name": "Wiluna"
+                },
+                {
+                    "city_name": "Wongan-Ballidu"
+                },
+                {
+                    "city_name": "Woodanilling"
+                },
+                {
+                    "city_name": "Wyalkatchem"
+                },
+                {
+                    "city_name": "Wyndham-East Kimberley"
+                },
+                {
+                    "city_name": "Yalgoo"
+                },
+                {
+                    "city_name": "Yilgarn"
+                },
+                {
+                    "city_name": "York"
+                }
+            ]
+        },
+        {
+            "province_name": "State of South Australia",
+            "cities": [
+                {
+                    "city_name": "City of West Torrens"
+                },
+                {
+                    "city_name": "Burnside"
+                },
+                {
+                    "city_name": "Coober Pedy"
+                },
+                {
+                    "city_name": "Elliston"
+                },
+                {
+                    "city_name": "Flinders Ranges"
+                },
+                {
+                    "city_name": "Franklin Harbour"
+                },
+                {
+                    "city_name": "Gawler"
+                },
+                {
+                    "city_name": "Goyder"
+                },
+                {
+                    "city_name": "Grant"
+                },
+                {
+                    "city_name": "Holdfast Bay"
+                },
+                {
+                    "city_name": "Kangaroo Island"
+                },
+                {
+                    "city_name": "Karoonda East Murray"
+                },
+                {
+                    "city_name": "Kimba"
+                },
+                {
+                    "city_name": "Kingston"
+                },
+                {
+                    "city_name": "Wudinna"
+                },
+                {
+                    "city_name": "Light"
+                },
+                {
+                    "city_name": "Lower Eyre Peninsula"
+                },
+                {
+                    "city_name": "Loxton Waikerie"
+                },
+                {
+                    "city_name": "Mallala"
+                },
+                {
+                    "city_name": "Maralinga Tjarutja"
+                },
+                {
+                    "city_name": "Marion"
+                },
+                {
+                    "city_name": "Mid Murray"
+                },
+                {
+                    "city_name": "Mitcham"
+                },
+                {
+                    "city_name": "Mount Barker"
+                },
+                {
+                    "city_name": "Mount Gambier"
+                },
+                {
+                    "city_name": "Mount Remarkable"
+                },
+                {
+                    "city_name": "Murray Bridge"
+                },
+                {
+                    "city_name": "Naracoorte and Lucindale"
+                },
+                {
+                    "city_name": "Northern Areas"
+                },
+                {
+                    "city_name": "Norwood Payneham St Peters"
+                },
+                {
+                    "city_name": "Onkaparinga"
+                },
+                {
+                    "city_name": "Orroroo/Carrieton"
+                },
+                {
+                    "city_name": "Peterborough"
+                },
+                {
+                    "city_name": "Playford"
+                },
+                {
+                    "city_name": "Port Adelaide Enfield"
+                },
+                {
+                    "city_name": "Port Augusta"
+                },
+                {
+                    "city_name": "Port Lincoln"
+                },
+                {
+                    "city_name": "Port Pirie City and Dists"
+                },
+                {
+                    "city_name": "Prospect"
+                },
+                {
+                    "city_name": "Renmark Paringa"
+                },
+                {
+                    "city_name": "Robe"
+                },
+                {
+                    "city_name": "Roxby Downs"
+                },
+                {
+                    "city_name": "Salisbury"
+                },
+                {
+                    "city_name": "Southern Mallee"
+                },
+                {
+                    "city_name": "Streaky Bay"
+                },
+                {
+                    "city_name": "Tatiara"
+                },
+                {
+                    "city_name": "Tea Tree Gully"
+                },
+                {
+                    "city_name": "The Coorong"
+                },
+                {
+                    "city_name": "Tumby Bay"
+                },
+                {
+                    "city_name": "Unley"
+                },
+                {
+                    "city_name": "Victor Harbor"
+                },
+                {
+                    "city_name": "Wakefield"
+                },
+                {
+                    "city_name": "Walkerville"
+                },
+                {
+                    "city_name": "Wattle Range"
+                },
+                {
+                    "city_name": "Whyalla"
+                },
+                {
+                    "city_name": "Yankalilla"
+                },
+                {
+                    "city_name": "Yorke Peninsula"
+                },
+                {
+                    "city_name": "Adelaide"
+                },
+                {
+                    "city_name": "Adelaide Hills"
+                },
+                {
+                    "city_name": "Alexandrina"
+                },
+                {
+                    "city_name": "Anangu Pitjantjatjara"
+                },
+                {
+                    "city_name": "Barossa"
+                },
+                {
+                    "city_name": "Barunga West"
+                },
+                {
+                    "city_name": "Berri and Barmera"
+                },
+                {
+                    "city_name": "Campbelltown"
+                },
+                {
+                    "city_name": "Ceduna"
+                },
+                {
+                    "city_name": "Charles Sturt"
+                },
+                {
+                    "city_name": "Clare and Gilbert Valleys"
+                },
+                {
+                    "city_name": "Cleve"
+                },
+                {
+                    "city_name": "Copper Coast"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Territory",
+            "cities": [
+                {
+                    "city_name": "Belyuen"
+                },
+                {
+                    "city_name": "Coomalie"
+                },
+                {
+                    "city_name": "Darwin"
+                },
+                {
+                    "city_name": "East Arnhem"
+                },
+                {
+                    "city_name": "Katherine"
+                },
+                {
+                    "city_name": "Litchfield"
+                },
+                {
+                    "city_name": "MacDonnell"
+                },
+                {
+                    "city_name": "Palmerston"
+                },
+                {
+                    "city_name": "Roper Gulf"
+                },
+                {
+                    "city_name": "Tiwi Islands"
+                },
+                {
+                    "city_name": "Victoria-Daly"
+                },
+                {
+                    "city_name": "Wagait"
+                },
+                {
+                    "city_name": "West Arnhem"
+                },
+                {
+                    "city_name": "Alice Springs"
+                },
+                {
+                    "city_name": "Barkly"
+                },
+                {
+                    "city_name": "Central Desert"
+                }
+            ]
+        },
+        {
+            "province_name": "State of Victoria",
+            "cities": [
+                {
+                    "city_name": "Yarra"
+                },
+                {
+                    "city_name": "Mildura Shire"
+                },
+                {
+                    "city_name": "Darebin"
+                },
+                {
+                    "city_name": "Ballarat North"
+                },
+                {
+                    "city_name": "Alpine"
+                },
+                {
+                    "city_name": "Ararat"
+                },
+                {
+                    "city_name": "Banyule"
+                },
+                {
+                    "city_name": "Bass Coast"
+                },
+                {
+                    "city_name": "Baw Baw"
+                },
+                {
+                    "city_name": "Bayside"
+                },
+                {
+                    "city_name": "Benalla"
+                },
+                {
+                    "city_name": "Boroondara"
+                },
+                {
+                    "city_name": "Brimbank"
+                },
+                {
+                    "city_name": "Buloke"
+                },
+                {
+                    "city_name": "Campaspe"
+                },
+                {
+                    "city_name": "Cardinia"
+                },
+                {
+                    "city_name": "Casey"
+                },
+                {
+                    "city_name": "Central Goldfields"
+                },
+                {
+                    "city_name": "Colac-Otway"
+                },
+                {
+                    "city_name": "Corangamite"
+                },
+                {
+                    "city_name": "East Gippsland"
+                },
+                {
+                    "city_name": "Frankston"
+                },
+                {
+                    "city_name": "Gannawarra"
+                },
+                {
+                    "city_name": "Glen Eira"
+                },
+                {
+                    "city_name": "Glenelg"
+                },
+                {
+                    "city_name": "Golden Plains"
+                },
+                {
+                    "city_name": "Greater Bendigo"
+                },
+                {
+                    "city_name": "Greater Dandenong"
+                },
+                {
+                    "city_name": "Greater Geelong"
+                },
+                {
+                    "city_name": "Greater Shepparton"
+                },
+                {
+                    "city_name": "Hepburn"
+                },
+                {
+                    "city_name": "Hindmarsh"
+                },
+                {
+                    "city_name": "Hobsons Bay"
+                },
+                {
+                    "city_name": "Horsham"
+                },
+                {
+                    "city_name": "Hume"
+                },
+                {
+                    "city_name": "Indigo"
+                },
+                {
+                    "city_name": "Kingston"
+                },
+                {
+                    "city_name": "Knox"
+                },
+                {
+                    "city_name": "Latrobe"
+                },
+                {
+                    "city_name": "Loddon"
+                },
+                {
+                    "city_name": "Macedon Ranges"
+                },
+                {
+                    "city_name": "Manningham"
+                },
+                {
+                    "city_name": "Mansfield"
+                },
+                {
+                    "city_name": "Maribyrnong"
+                },
+                {
+                    "city_name": "Maroondah"
+                },
+                {
+                    "city_name": "Melbourne"
+                },
+                {
+                    "city_name": "Melton"
+                },
+                {
+                    "city_name": "Mitchell"
+                },
+                {
+                    "city_name": "Moira"
+                },
+                {
+                    "city_name": "Monash"
+                },
+                {
+                    "city_name": "Moonee Valley"
+                },
+                {
+                    "city_name": "Moorabool"
+                },
+                {
+                    "city_name": "Moreland"
+                },
+                {
+                    "city_name": "Mornington Peninsula"
+                },
+                {
+                    "city_name": "Mount Alexander"
+                },
+                {
+                    "city_name": "Moyne"
+                },
+                {
+                    "city_name": "Murrindindi"
+                },
+                {
+                    "city_name": "Nillumbik"
+                },
+                {
+                    "city_name": "Northern Grampians"
+                },
+                {
+                    "city_name": "Port Phillip"
+                },
+                {
+                    "city_name": "Pyrenees"
+                },
+                {
+                    "city_name": "Queenscliffe"
+                },
+                {
+                    "city_name": "South Gippsland"
+                },
+                {
+                    "city_name": "Southern Grampians"
+                },
+                {
+                    "city_name": "Stonnington"
+                },
+                {
+                    "city_name": "Strathbogie"
+                },
+                {
+                    "city_name": "Surf Coast"
+                },
+                {
+                    "city_name": "Swan Hill"
+                },
+                {
+                    "city_name": "Towong"
+                },
+                {
+                    "city_name": "Wangaratta"
+                },
+                {
+                    "city_name": "Warrnambool"
+                },
+                {
+                    "city_name": "Wellington"
+                },
+                {
+                    "city_name": "West Wimmera"
+                },
+                {
+                    "city_name": "Whitehorse"
+                },
+                {
+                    "city_name": "Whittlesea"
+                },
+                {
+                    "city_name": "Wodonga"
+                },
+                {
+                    "city_name": "Wyndham"
+                },
+                {
+                    "city_name": "Yarra Ranges"
+                },
+                {
+                    "city_name": "Yarriambiack"
+                }
+            ]
+        },
+        {
+            "province_name": "State of Tasmania",
+            "cities": [
+                {
+                    "city_name": "Brighton"
+                },
+                {
+                    "city_name": "Burnie"
+                },
+                {
+                    "city_name": "Central Coast"
+                },
+                {
+                    "city_name": "Central Highlands"
+                },
+                {
+                    "city_name": "Circular Head"
+                },
+                {
+                    "city_name": "Clarence"
+                },
+                {
+                    "city_name": "Derwent Valley"
+                },
+                {
+                    "city_name": "Waratah/Wynyard"
+                },
+                {
+                    "city_name": "West Coast"
+                },
+                {
+                    "city_name": "West Tamar"
+                },
+                {
+                    "city_name": "Break O'Day"
+                },
+                {
+                    "city_name": "Devonport"
+                },
+                {
+                    "city_name": "Dorset"
+                },
+                {
+                    "city_name": "Flinders"
+                },
+                {
+                    "city_name": "George Town"
+                },
+                {
+                    "city_name": "Glamorgan/Spring Bay"
+                },
+                {
+                    "city_name": "Glenorchy"
+                },
+                {
+                    "city_name": "Hobart"
+                },
+                {
+                    "city_name": "Huon Valley"
+                },
+                {
+                    "city_name": "Kentish"
+                },
+                {
+                    "city_name": "King Island"
+                },
+                {
+                    "city_name": "Kingborough"
+                },
+                {
+                    "city_name": "Latrobe"
+                },
+                {
+                    "city_name": "Launceston"
+                },
+                {
+                    "city_name": "Meander Valley"
+                },
+                {
+                    "city_name": "Northern Midlands"
+                },
+                {
+                    "city_name": "Sorell"
+                },
+                {
+                    "city_name": "Southern Midlands"
+                },
+                {
+                    "city_name": "Tasman Peninsula"
+                }
+            ]
+        },
+        {
+            "province_name": "State of Queensland",
+            "cities": [
+                {
+                    "city_name": "Balonne Shire"
+                },
+                {
+                    "city_name": "Maranoa"
+                },
+                {
+                    "city_name": "Cassowary Coast"
+                },
+                {
+                    "city_name": "Moreton Bay"
+                },
+                {
+                    "city_name": "Mornington"
+                },
+                {
+                    "city_name": "Mount Isa"
+                },
+                {
+                    "city_name": "Murweh"
+                },
+                {
+                    "city_name": "Napranum"
+                },
+                {
+                    "city_name": "North Burnett"
+                },
+                {
+                    "city_name": "Northern Peninsula Area"
+                },
+                {
+                    "city_name": "Palm Island"
+                },
+                {
+                    "city_name": "Paroo"
+                },
+                {
+                    "city_name": "Pormpuraaw"
+                },
+                {
+                    "city_name": "Quilpie"
+                },
+                {
+                    "city_name": "Redland"
+                },
+                {
+                    "city_name": "Richmond"
+                },
+                {
+                    "city_name": "Rockhampton"
+                },
+                {
+                    "city_name": "Scenic Rim"
+                },
+                {
+                    "city_name": "Somerset"
+                },
+                {
+                    "city_name": "South Burnett"
+                },
+                {
+                    "city_name": "Southern Downs"
+                },
+                {
+                    "city_name": "Sunshine Coast"
+                },
+                {
+                    "city_name": "Tablelands"
+                },
+                {
+                    "city_name": "Toowoomba"
+                },
+                {
+                    "city_name": "Torres"
+                },
+                {
+                    "city_name": "Torres Strait Island Region"
+                },
+                {
+                    "city_name": "Townsville"
+                },
+                {
+                    "city_name": "Weipa"
+                },
+                {
+                    "city_name": "Western Downs"
+                },
+                {
+                    "city_name": "Whitsunday"
+                },
+                {
+                    "city_name": "Winton"
+                },
+                {
+                    "city_name": "Woorabinda"
+                },
+                {
+                    "city_name": "Wujal Wujal"
+                },
+                {
+                    "city_name": "Yarrabah"
+                },
+                {
+                    "city_name": "Aurukun"
+                },
+                {
+                    "city_name": "Banana"
+                },
+                {
+                    "city_name": "Barcaldine"
+                },
+                {
+                    "city_name": "Barcoo"
+                },
+                {
+                    "city_name": "Blackall Tambo"
+                },
+                {
+                    "city_name": "Boulia"
+                },
+                {
+                    "city_name": "Brisbane"
+                },
+                {
+                    "city_name": "Bulloo"
+                },
+                {
+                    "city_name": "Bundaberg"
+                },
+                {
+                    "city_name": "Burdekin"
+                },
+                {
+                    "city_name": "Burke"
+                },
+                {
+                    "city_name": "Cairns"
+                },
+                {
+                    "city_name": "Carpentaria"
+                },
+                {
+                    "city_name": "Central Highlands"
+                },
+                {
+                    "city_name": "Charters Towers"
+                },
+                {
+                    "city_name": "Cherbourg"
+                },
+                {
+                    "city_name": "Cloncurry"
+                },
+                {
+                    "city_name": "Cook Shire"
+                },
+                {
+                    "city_name": "Croydon"
+                },
+                {
+                    "city_name": "Diamantina"
+                },
+                {
+                    "city_name": "Doomadgee"
+                },
+                {
+                    "city_name": "Etheridge"
+                },
+                {
+                    "city_name": "Flinders"
+                },
+                {
+                    "city_name": "Fraser Coast"
+                },
+                {
+                    "city_name": "Gladstone"
+                },
+                {
+                    "city_name": "Gold Coast"
+                },
+                {
+                    "city_name": "Goondiwindi"
+                },
+                {
+                    "city_name": "Gympie Regional Council"
+                },
+                {
+                    "city_name": "Hinchinbrook"
+                },
+                {
+                    "city_name": "Hope Vale"
+                },
+                {
+                    "city_name": "Ipswich"
+                },
+                {
+                    "city_name": "Isaac"
+                },
+                {
+                    "city_name": "Kowanyama"
+                },
+                {
+                    "city_name": "Lockhart River"
+                },
+                {
+                    "city_name": "Lockyer Valley"
+                },
+                {
+                    "city_name": "Logan"
+                },
+                {
+                    "city_name": "Longreach"
+                },
+                {
+                    "city_name": "Mackay"
+                },
+                {
+                    "city_name": "McKinlay"
+                },
+                {
+                    "city_name": "Mapoon"
+                }
+            ]
+        },
+        {
+            "province_name": "State of New South Wales",
+            "cities": [
+                {
+                    "city_name": "Wyong Shire"
+                },
+                {
+                    "city_name": "Warren Shire"
+                },
+                {
+                    "city_name": "Tenterfield Municipality"
+                },
+                {
+                    "city_name": "Temora Municipality"
+                },
+                {
+                    "city_name": "Tamworth Municipality"
+                },
+                {
+                    "city_name": "Shoalhaven Shire"
+                },
+                {
+                    "city_name": "Randwick"
+                },
+                {
+                    "city_name": "Port Stephens Shire"
+                },
+                {
+                    "city_name": "Penrith Municipality"
+                },
+                {
+                    "city_name": "Orange Municipality"
+                },
+                {
+                    "city_name": "Nambucca Shire"
+                },
+                {
+                    "city_name": "Murrumbidgee Shire"
+                },
+                {
+                    "city_name": "Murray Shire"
+                },
+                {
+                    "city_name": "Manly Vale"
+                },
+                {
+                    "city_name": "Maitland Municipality"
+                },
+                {
+                    "city_name": "Lismore Municipality"
+                },
+                {
+                    "city_name": "Lake Macquarie Shire"
+                },
+                {
+                    "city_name": "Hornsby Shire"
+                },
+                {
+                    "city_name": "Gosford Shire"
+                },
+                {
+                    "city_name": "Gloucester Shire"
+                },
+                {
+                    "city_name": "Dubbo Municipality"
+                },
+                {
+                    "city_name": "Campbelltown Municipality"
+                },
+                {
+                    "city_name": "Byron Shire"
+                },
+                {
+                    "city_name": "Broken Hill Municipality"
+                },
+                {
+                    "city_name": "Blue Mountains Municipality"
+                },
+                {
+                    "city_name": "Armidale Dumaresq"
+                },
+                {
+                    "city_name": "Albury Municipality"
+                },
+                {
+                    "city_name": "City of Sydney"
+                },
+                {
+                    "city_name": "Dungog"
+                },
+                {
+                    "city_name": "Eurobodalla"
+                },
+                {
+                    "city_name": "Fairfield"
+                },
+                {
+                    "city_name": "Forbes"
+                },
+                {
+                    "city_name": "Gilgandra"
+                },
+                {
+                    "city_name": "Glen Innes Severn"
+                },
+                {
+                    "city_name": "Goulburn Mulwaree"
+                },
+                {
+                    "city_name": "Greater Taree"
+                },
+                {
+                    "city_name": "Greater Hume Shire"
+                },
+                {
+                    "city_name": "Tumbarumba"
+                },
+                {
+                    "city_name": "Tumut Shire"
+                },
+                {
+                    "city_name": "Tweed"
+                },
+                {
+                    "city_name": "Upper Hunter Shire"
+                },
+                {
+                    "city_name": "Ashfield"
+                },
+                {
+                    "city_name": "Auburn"
+                },
+                {
+                    "city_name": "Ballina"
+                },
+                {
+                    "city_name": "Balranald"
+                },
+                {
+                    "city_name": "Bankstown"
+                },
+                {
+                    "city_name": "Bathurst Regional"
+                },
+                {
+                    "city_name": "The Hills Shire"
+                },
+                {
+                    "city_name": "Bega Valley"
+                },
+                {
+                    "city_name": "Bellingen"
+                },
+                {
+                    "city_name": "Berrigan"
+                },
+                {
+                    "city_name": "Blacktown"
+                },
+                {
+                    "city_name": "Bland"
+                },
+                {
+                    "city_name": "Blayney"
+                },
+                {
+                    "city_name": "Bogan"
+                },
+                {
+                    "city_name": "Bombala"
+                },
+                {
+                    "city_name": "Boorowa"
+                },
+                {
+                    "city_name": "Botany Bay"
+                },
+                {
+                    "city_name": "Bourke"
+                },
+                {
+                    "city_name": "Brewarrina"
+                },
+                {
+                    "city_name": "Burwood"
+                },
+                {
+                    "city_name": "Cabonne"
+                },
+                {
+                    "city_name": "Camden"
+                },
+                {
+                    "city_name": "Canada Bay"
+                },
+                {
+                    "city_name": "Canterbury"
+                },
+                {
+                    "city_name": "Carrathool"
+                },
+                {
+                    "city_name": "Central Darling"
+                },
+                {
+                    "city_name": "Cessnock"
+                },
+                {
+                    "city_name": "Clarence Valley"
+                },
+                {
+                    "city_name": "Cobar"
+                },
+                {
+                    "city_name": "Coffs Harbour"
+                },
+                {
+                    "city_name": "Conargo"
+                },
+                {
+                    "city_name": "Coolamon"
+                },
+                {
+                    "city_name": "Cooma-Monaro"
+                },
+                {
+                    "city_name": "Coonamble"
+                },
+                {
+                    "city_name": "Cootamundra"
+                },
+                {
+                    "city_name": "Corowa Shire"
+                },
+                {
+                    "city_name": "Cowra"
+                },
+                {
+                    "city_name": "Deniliquin"
+                },
+                {
+                    "city_name": "Great Lakes"
+                },
+                {
+                    "city_name": "Griffith"
+                },
+                {
+                    "city_name": "Gundagai"
+                },
+                {
+                    "city_name": "Gunnedah"
+                },
+                {
+                    "city_name": "Guyra"
+                },
+                {
+                    "city_name": "Gwydir"
+                },
+                {
+                    "city_name": "Harden"
+                },
+                {
+                    "city_name": "Hawkesbury"
+                },
+                {
+                    "city_name": "Hay"
+                },
+                {
+                    "city_name": "Holroyd"
+                },
+                {
+                    "city_name": "Hunters Hill"
+                },
+                {
+                    "city_name": "Hurstville"
+                },
+                {
+                    "city_name": "Inverell"
+                },
+                {
+                    "city_name": "Jerilderie"
+                },
+                {
+                    "city_name": "Junee"
+                },
+                {
+                    "city_name": "Kempsey"
+                },
+                {
+                    "city_name": "Kiama"
+                },
+                {
+                    "city_name": "Kogarah"
+                },
+                {
+                    "city_name": "Ku-ring-gai"
+                },
+                {
+                    "city_name": "Kyogle"
+                },
+                {
+                    "city_name": "Lachlan"
+                },
+                {
+                    "city_name": "Lane Cove"
+                },
+                {
+                    "city_name": "Leeton"
+                },
+                {
+                    "city_name": "Leichhardt"
+                },
+                {
+                    "city_name": "Lithgow"
+                },
+                {
+                    "city_name": "Liverpool"
+                },
+                {
+                    "city_name": "Liverpool Plains"
+                },
+                {
+                    "city_name": "Lockhart"
+                },
+                {
+                    "city_name": "Marrickville"
+                },
+                {
+                    "city_name": "Mid-Western Regional"
+                },
+                {
+                    "city_name": "Moree Plains"
+                },
+                {
+                    "city_name": "Mosman"
+                },
+                {
+                    "city_name": "Muswellbrook"
+                },
+                {
+                    "city_name": "Narrabri"
+                },
+                {
+                    "city_name": "Narrandera"
+                },
+                {
+                    "city_name": "Narromine"
+                },
+                {
+                    "city_name": "Newcastle"
+                },
+                {
+                    "city_name": "North Sydney"
+                },
+                {
+                    "city_name": "Oberon"
+                },
+                {
+                    "city_name": "Palerang"
+                },
+                {
+                    "city_name": "Parkes"
+                },
+                {
+                    "city_name": "Parramatta"
+                },
+                {
+                    "city_name": "Pittwater"
+                },
+                {
+                    "city_name": "Port Macquarie-Hastings"
+                },
+                {
+                    "city_name": "Queanbeyan"
+                },
+                {
+                    "city_name": "Richmond Valley"
+                },
+                {
+                    "city_name": "Rockdale"
+                },
+                {
+                    "city_name": "Ryde"
+                },
+                {
+                    "city_name": "Shellharbour"
+                },
+                {
+                    "city_name": "Singleton"
+                },
+                {
+                    "city_name": "Snowy River"
+                },
+                {
+                    "city_name": "Strathfield"
+                },
+                {
+                    "city_name": "Sutherland Shire"
+                },
+                {
+                    "city_name": "Upper Lachlan Shire"
+                },
+                {
+                    "city_name": "Uralla"
+                },
+                {
+                    "city_name": "Urana"
+                },
+                {
+                    "city_name": "Wagga Wagga"
+                },
+                {
+                    "city_name": "Wakool"
+                },
+                {
+                    "city_name": "Walcha"
+                },
+                {
+                    "city_name": "Walgett"
+                },
+                {
+                    "city_name": "Warringah"
+                },
+                {
+                    "city_name": "Warrumbungle Shire"
+                },
+                {
+                    "city_name": "Waverley"
+                },
+                {
+                    "city_name": "Weddin"
+                },
+                {
+                    "city_name": "Wellington"
+                },
+                {
+                    "city_name": "Wentworth"
+                },
+                {
+                    "city_name": "Willoughby"
+                },
+                {
+                    "city_name": "Wingecarribee"
+                },
+                {
+                    "city_name": "Wollondilly"
+                },
+                {
+                    "city_name": "Wollongong"
+                },
+                {
+                    "city_name": "Woollahra"
+                },
+                {
+                    "city_name": "Yass Valley"
+                },
+                {
+                    "city_name": "Young"
+                }
+            ]
+        },
+        {
+            "province_name": "Australian Capital Territory",
+            "cities": []
+        }
+    ]
+}

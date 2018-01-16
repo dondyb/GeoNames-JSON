@@ -1,0 +1,552 @@
+{
+    "country_name": "Pakistan",
+    "country_id": "PK",
+    "provinces": [
+        {
+            "province_name": "Islamabad",
+            "cities": []
+        },
+        {
+            "province_name": "Sindh",
+            "cities": [
+                {
+                    "city_name": "Thatta District"
+                },
+                {
+                    "city_name": "Thar Parkar District"
+                },
+                {
+                    "city_name": "Sukkur District"
+                },
+                {
+                    "city_name": "Shikarpur District"
+                },
+                {
+                    "city_name": "Sanghar District"
+                },
+                {
+                    "city_name": "Nawabshah District"
+                },
+                {
+                    "city_name": "Larkana District"
+                },
+                {
+                    "city_name": "Sukkur Division"
+                },
+                {
+                    "city_name": "Khairpur District"
+                },
+                {
+                    "city_name": "Karachi District"
+                },
+                {
+                    "city_name": "Jacobabad District"
+                },
+                {
+                    "city_name": "Hyderabad Division"
+                },
+                {
+                    "city_name": "Hyderabad District"
+                },
+                {
+                    "city_name": "Dadu District"
+                },
+                {
+                    "city_name": "Badin District"
+                },
+                {
+                    "city_name": "Mirpur Khas District"
+                },
+                {
+                    "city_name": "Naushahro Firoz District"
+                },
+                {
+                    "city_name": "Ghotki District"
+                },
+                {
+                    "city_name": "Jamshoro District"
+                },
+                {
+                    "city_name": "Matiari District"
+                },
+                {
+                    "city_name": "Qamber Shahdadkot District"
+                },
+                {
+                    "city_name": "Kashmore District"
+                },
+                {
+                    "city_name": "Umerkot District"
+                },
+                {
+                    "city_name": "Tando Allahyar District"
+                },
+                {
+                    "city_name": "Tando Mohammad Khan District"
+                },
+                {
+                    "city_name": "Sujawal District"
+                },
+                {
+                    "city_name": "Mirpur Khas Division"
+                },
+                {
+                    "city_name": "Shaheed Benazirabad Division"
+                }
+            ]
+        },
+        {
+            "province_name": "Punjab Province",
+            "cities": [
+                {
+                    "city_name": "Vihari District"
+                },
+                {
+                    "city_name": "Sialkot District"
+                },
+                {
+                    "city_name": "Shekhupura District"
+                },
+                {
+                    "city_name": "Sargodha Division"
+                },
+                {
+                    "city_name": "Sargodha District"
+                },
+                {
+                    "city_name": "Sahiwal District"
+                },
+                {
+                    "city_name": "Rawalpindi Division"
+                },
+                {
+                    "city_name": "Rawalpindi District"
+                },
+                {
+                    "city_name": "Rahimyar Khan District"
+                },
+                {
+                    "city_name": "Muzaffargarh District"
+                },
+                {
+                    "city_name": "Multan Division"
+                },
+                {
+                    "city_name": "Multan District"
+                },
+                {
+                    "city_name": "Mianwali District"
+                },
+                {
+                    "city_name": "Lahore Division"
+                },
+                {
+                    "city_name": "Lahore District"
+                },
+                {
+                    "city_name": "Kasur District"
+                },
+                {
+                    "city_name": "Jhelum District"
+                },
+                {
+                    "city_name": "Jhang District"
+                },
+                {
+                    "city_name": "Gujrat District"
+                },
+                {
+                    "city_name": "Gujranwala Division"
+                },
+                {
+                    "city_name": "Gujranwala District"
+                },
+                {
+                    "city_name": "Faisalabad Division"
+                },
+                {
+                    "city_name": "Faisalabad District"
+                },
+                {
+                    "city_name": "Dera Ghazi Khan District"
+                },
+                {
+                    "city_name": "Bahawalpur Division"
+                },
+                {
+                    "city_name": "Bahawalpur District"
+                },
+                {
+                    "city_name": "Bahawalnagar District"
+                },
+                {
+                    "city_name": "Attock District"
+                },
+                {
+                    "city_name": "Toba Tek Singh District"
+                },
+                {
+                    "city_name": "Lodhran District"
+                },
+                {
+                    "city_name": "Pakpattan District"
+                },
+                {
+                    "city_name": "Okara District"
+                },
+                {
+                    "city_name": "Khanewal District"
+                },
+                {
+                    "city_name": "Hafizabad District"
+                },
+                {
+                    "city_name": "Mandi Bahauddin District"
+                },
+                {
+                    "city_name": "Chakwal District"
+                },
+                {
+                    "city_name": "Khushab District"
+                },
+                {
+                    "city_name": "Bhakkar District"
+                },
+                {
+                    "city_name": "Layyah District"
+                },
+                {
+                    "city_name": "Narowal District"
+                },
+                {
+                    "city_name": "Nankana Sahib District"
+                },
+                {
+                    "city_name": "Sudhnati District"
+                },
+                {
+                    "city_name": "Rajanpur"
+                },
+                {
+                    "city_name": "Vehari District"
+                },
+                {
+                    "city_name": "Dera Ghazi Khan Dvision"
+                }
+            ]
+        },
+        {
+            "province_name": "Khyber Pakhtunkhwa Province",
+            "cities": [
+                {
+                    "city_name": "Swat District"
+                },
+                {
+                    "city_name": "Peshawar Division"
+                },
+                {
+                    "city_name": "Peshawar District"
+                },
+                {
+                    "city_name": "Mardan District"
+                },
+                {
+                    "city_name": "Mansehra District"
+                },
+                {
+                    "city_name": "Malakand Division"
+                },
+                {
+                    "city_name": "Malakand Protected Area"
+                },
+                {
+                    "city_name": "Kohistan District"
+                },
+                {
+                    "city_name": "Kohat District"
+                },
+                {
+                    "city_name": "Hazara Division"
+                },
+                {
+                    "city_name": "Upper Dir District"
+                },
+                {
+                    "city_name": "Dera Ismail Khan District"
+                },
+                {
+                    "city_name": "Chitral District"
+                },
+                {
+                    "city_name": "Buner District"
+                },
+                {
+                    "city_name": "Bannu District"
+                },
+                {
+                    "city_name": "Abbottabad District"
+                },
+                {
+                    "city_name": "Lakki Marwat District"
+                },
+                {
+                    "city_name": "Tank District"
+                },
+                {
+                    "city_name": "Karak District"
+                },
+                {
+                    "city_name": "Hangu District"
+                },
+                {
+                    "city_name": "Charsadda District"
+                },
+                {
+                    "city_name": "Nowshera District"
+                },
+                {
+                    "city_name": "Shangla District"
+                },
+                {
+                    "city_name": "Haripur District"
+                },
+                {
+                    "city_name": "Swabi District"
+                },
+                {
+                    "city_name": "Lower Dir District"
+                },
+                {
+                    "city_name": "Tor Ghar"
+                },
+                {
+                    "city_name": "Battagram District"
+                }
+            ]
+        },
+        {
+            "province_name": "Gilgit-Baltistan",
+            "cities": [
+                {
+                    "city_name": "Hunza-Nagar District"
+                },
+                {
+                    "city_name": "Skardu District"
+                },
+                {
+                    "city_name": "Ghizar District"
+                },
+                {
+                    "city_name": "Ghanche District"
+                },
+                {
+                    "city_name": "Astor"
+                },
+                {
+                    "city_name": "Gilgit"
+                },
+                {
+                    "city_name": "Diamir"
+                },
+                {
+                    "city_name": "Ghizer District"
+                },
+                {
+                    "city_name": "Astore Division"
+                }
+            ]
+        },
+        {
+            "province_name": "Federally Administered Tribal Areas",
+            "cities": [
+                {
+                    "city_name": "South Waziristan Agency"
+                },
+                {
+                    "city_name": "Orakzai Agency"
+                },
+                {
+                    "city_name": "North Waziristan Agency"
+                },
+                {
+                    "city_name": "Mohmand Agency"
+                },
+                {
+                    "city_name": "Kurram Agency"
+                },
+                {
+                    "city_name": "Khyber Agency"
+                },
+                {
+                    "city_name": "Dera Ismail Khan Tribal Area"
+                },
+                {
+                    "city_name": "Bajaur Agency"
+                },
+                {
+                    "city_name": "Tank Tribal Area"
+                },
+                {
+                    "city_name": "Bannu Tribal Area"
+                },
+                {
+                    "city_name": "Lakki Marwat Tribal Area"
+                },
+                {
+                    "city_name": "Peshawar Tribal Area"
+                },
+                {
+                    "city_name": "Kohat Tribal Area"
+                },
+                {
+                    "city_name": "Chawkay"
+                }
+            ]
+        },
+        {
+            "province_name": "Balochistan",
+            "cities": [
+                {
+                    "city_name": "Zhob District"
+                },
+                {
+                    "city_name": "Kech District"
+                },
+                {
+                    "city_name": "Sibi District"
+                },
+                {
+                    "city_name": "Quetta Division"
+                },
+                {
+                    "city_name": "Quetta District"
+                },
+                {
+                    "city_name": "Pishin District"
+                },
+                {
+                    "city_name": "Panjgur District"
+                },
+                {
+                    "city_name": "Nasirabad District"
+                },
+                {
+                    "city_name": "Mekran District"
+                },
+                {
+                    "city_name": "Loralai District"
+                },
+                {
+                    "city_name": "Lasbela District"
+                },
+                {
+                    "city_name": "Kohlu District"
+                },
+                {
+                    "city_name": "Khuzdar District"
+                },
+                {
+                    "city_name": "Kharan District"
+                },
+                {
+                    "city_name": "Kalat Division"
+                },
+                {
+                    "city_name": "Kalat District"
+                },
+                {
+                    "city_name": "Kachhi District"
+                },
+                {
+                    "city_name": "Gwadar District"
+                },
+                {
+                    "city_name": "Chagai District"
+                },
+                {
+                    "city_name": "Awaran District"
+                },
+                {
+                    "city_name": "Barkhan District"
+                },
+                {
+                    "city_name": "Dera Bugti District"
+                },
+                {
+                    "city_name": "Jafarabad District"
+                },
+                {
+                    "city_name": "Jhal Magsi District"
+                },
+                {
+                    "city_name": "Mastung District"
+                },
+                {
+                    "city_name": "Musa Khel District"
+                },
+                {
+                    "city_name": "Nushki District"
+                },
+                {
+                    "city_name": "Qila Abdullah District"
+                },
+                {
+                    "city_name": "Qila Saifullah District"
+                },
+                {
+                    "city_name": "Washuk District"
+                },
+                {
+                    "city_name": "Ziarat District"
+                },
+                {
+                    "city_name": "Harnai"
+                },
+                {
+                    "city_name": "Shirani"
+                },
+                {
+                    "city_name": "Dalbandin Nok Kundi"
+                }
+            ]
+        },
+        {
+            "province_name": "Azad Kashmir",
+            "cities": [
+                {
+                    "city_name": "Poonch District"
+                },
+                {
+                    "city_name": "Muzaffarabad District"
+                },
+                {
+                    "city_name": "Mirpur District"
+                },
+                {
+                    "city_name": "Kotli District"
+                },
+                {
+                    "city_name": "Bhimbar District"
+                },
+                {
+                    "city_name": "Bagh District"
+                },
+                {
+                    "city_name": "Neelum District"
+                },
+                {
+                    "city_name": "Haveli"
+                },
+                {
+                    "city_name": "Hatian"
+                },
+                {
+                    "city_name": "Sudhanoti District"
+                },
+                {
+                    "city_name": "Rawalakot Division"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,550 @@
+{
+    "country_name": "Nicaragua",
+    "country_id": "NI",
+    "provinces": [
+        {
+            "province_name": "Departamento de Rivas",
+            "cities": [
+                {
+                    "city_name": "Municipio de Tola"
+                },
+                {
+                    "city_name": "Municipio de San Juan del Sur"
+                },
+                {
+                    "city_name": "Municipio de San Jorge"
+                },
+                {
+                    "city_name": "Municipio de Rivas"
+                },
+                {
+                    "city_name": "Municipio de Potosi"
+                },
+                {
+                    "city_name": "Municipio de Moyogalpa"
+                },
+                {
+                    "city_name": "Municipio de Cardenas"
+                },
+                {
+                    "city_name": "Municipio de Buenos Aires"
+                },
+                {
+                    "city_name": "Municipio de Belen"
+                },
+                {
+                    "city_name": "Municipio de Altagracia"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Rio San Juan",
+            "cities": [
+                {
+                    "city_name": "Municipio de San Miguelito"
+                },
+                {
+                    "city_name": "Municipio de San Carlos"
+                },
+                {
+                    "city_name": "Municipio de Morrito"
+                },
+                {
+                    "city_name": "El Almendro"
+                },
+                {
+                    "city_name": "El Castillo"
+                },
+                {
+                    "city_name": "San Juan del Nicaragua"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Nueva Segovia",
+            "cities": [
+                {
+                    "city_name": "Municipio de Wiwili"
+                },
+                {
+                    "city_name": "Municipio de Santa Maria"
+                },
+                {
+                    "city_name": "Municipio de San Fernando"
+                },
+                {
+                    "city_name": "Municipio de Quilali"
+                },
+                {
+                    "city_name": "Municipio de Ocotal"
+                },
+                {
+                    "city_name": "Municipio de Murra"
+                },
+                {
+                    "city_name": "Municipio de Mozonte"
+                },
+                {
+                    "city_name": "Municipio de Macuelizo"
+                },
+                {
+                    "city_name": "Municipio de Jalapa"
+                },
+                {
+                    "city_name": "Municipio de Dipilto"
+                },
+                {
+                    "city_name": "Municipio de Ciudad Sandino"
+                },
+                {
+                    "city_name": "Municipio de Ciudad Antigua"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Matagalpa",
+            "cities": [
+                {
+                    "city_name": "Municipio de Terrabona"
+                },
+                {
+                    "city_name": "Municipio de Sebaco"
+                },
+                {
+                    "city_name": "Municipio de San Ramon"
+                },
+                {
+                    "city_name": "Municipio de San Isidro"
+                },
+                {
+                    "city_name": "Municipio de San Dionisio"
+                },
+                {
+                    "city_name": "Municipio de Rio Blanco"
+                },
+                {
+                    "city_name": "Municipio de Muy Muy"
+                },
+                {
+                    "city_name": "Municipio de Matiguas"
+                },
+                {
+                    "city_name": "Municipio de Matagalpa"
+                },
+                {
+                    "city_name": "Municipio de Esquipulas"
+                },
+                {
+                    "city_name": "Municipio de Ciudad Dario"
+                },
+                {
+                    "city_name": "Municipio de Rancho Grande"
+                },
+                {
+                    "city_name": "Municipio del Tuma-La Dalia"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Masaya",
+            "cities": [
+                {
+                    "city_name": "Municipio de Tisma"
+                },
+                {
+                    "city_name": "Municipio de San Juan de Oriente"
+                },
+                {
+                    "city_name": "Municipio de Niquinohomo"
+                },
+                {
+                    "city_name": "Municipio de Nindiri"
+                },
+                {
+                    "city_name": "Municipio de Nandasmo"
+                },
+                {
+                    "city_name": "Municipio de Masaya"
+                },
+                {
+                    "city_name": "Municipio de Masatepe"
+                },
+                {
+                    "city_name": "Municipio de La Concepcion"
+                },
+                {
+                    "city_name": "Municipio de Catarina"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Managua",
+            "cities": [
+                {
+                    "city_name": "Municipio de Tipitapa"
+                },
+                {
+                    "city_name": "Municipio de San Rafael del Sur"
+                },
+                {
+                    "city_name": "Municipio de San Francisco Libre"
+                },
+                {
+                    "city_name": "Municipio de Mateare"
+                },
+                {
+                    "city_name": "Municipio de Managua"
+                },
+                {
+                    "city_name": "Municipio de Carlos Fonseca Amador"
+                },
+                {
+                    "city_name": "Ciudad Sandino"
+                },
+                {
+                    "city_name": "Ticuantepe"
+                },
+                {
+                    "city_name": "El Crucero"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Madriz",
+            "cities": [
+                {
+                    "city_name": "Municipio de Yalagueina"
+                },
+                {
+                    "city_name": "Municipio de Totogalpa"
+                },
+                {
+                    "city_name": "Municipio de Telpaneca"
+                },
+                {
+                    "city_name": "Municipio de Somoto"
+                },
+                {
+                    "city_name": "Municipio de San Lucas"
+                },
+                {
+                    "city_name": "Municipio de San Juan del Rio Coco"
+                },
+                {
+                    "city_name": "Municipio de San Jose de Cusmapa"
+                },
+                {
+                    "city_name": "Municipio de Palacagueina"
+                },
+                {
+                    "city_name": "Municipio de Las Sabanas"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Leon",
+            "cities": [
+                {
+                    "city_name": "Municipio de Telica"
+                },
+                {
+                    "city_name": "Municipio de Santa Rosa del Penon"
+                },
+                {
+                    "city_name": "Municipio de Quezalguaque"
+                },
+                {
+                    "city_name": "Municipio de Nagarote"
+                },
+                {
+                    "city_name": "Municipio de Leon"
+                },
+                {
+                    "city_name": "Municipio de Larreynaga"
+                },
+                {
+                    "city_name": "Municipio de La Paz Central"
+                },
+                {
+                    "city_name": "Municipio de El Sauce"
+                },
+                {
+                    "city_name": "Municipio de El Jicaral"
+                },
+                {
+                    "city_name": "Municipio de Achuapa"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Jinotega",
+            "cities": [
+                {
+                    "city_name": "Municipio de San Sebastian de Yali"
+                },
+                {
+                    "city_name": "Municipio de San Rafael del Norte"
+                },
+                {
+                    "city_name": "Municipio de La Concordia"
+                },
+                {
+                    "city_name": "Municipio de Jinotega"
+                },
+                {
+                    "city_name": "Municipio El Cua"
+                },
+                {
+                    "city_name": "Municipio de San Jose de Bocay"
+                },
+                {
+                    "city_name": "Municipio de Santa Maria de Pantasma"
+                },
+                {
+                    "city_name": "Wiwili de Jinotega"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Granada",
+            "cities": [
+                {
+                    "city_name": "Municipio de Nandaime"
+                },
+                {
+                    "city_name": "Municipio de Granada"
+                },
+                {
+                    "city_name": "Municipio de Diriomo"
+                },
+                {
+                    "city_name": "Municipio de Diria"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Esteli",
+            "cities": [
+                {
+                    "city_name": "Municipio de San Nicolas"
+                },
+                {
+                    "city_name": "Municipio de San Juan de Limay"
+                },
+                {
+                    "city_name": "Municipio de Pueblo Nuevo"
+                },
+                {
+                    "city_name": "Municipio de La Trinidad"
+                },
+                {
+                    "city_name": "Municipio de Esteli"
+                },
+                {
+                    "city_name": "Municipio de Condega"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Chontales",
+            "cities": [
+                {
+                    "city_name": "Municipio de Villa Sandino"
+                },
+                {
+                    "city_name": "Municipio de Santo Tomas"
+                },
+                {
+                    "city_name": "Municipio de Santo Domingo"
+                },
+                {
+                    "city_name": "Municipio de San Pedro de Lovago"
+                },
+                {
+                    "city_name": "Municipio de La Libertad"
+                },
+                {
+                    "city_name": "Municipio de Juigalpa"
+                },
+                {
+                    "city_name": "Municipio de Comalapa"
+                },
+                {
+                    "city_name": "Municipio de Acoyapa"
+                },
+                {
+                    "city_name": "Municipio de San Francisco de Cuapa"
+                },
+                {
+                    "city_name": "El Coral"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Chinandega",
+            "cities": [
+                {
+                    "city_name": "Municipio de Villanueva"
+                },
+                {
+                    "city_name": "Municipio de Somotillo"
+                },
+                {
+                    "city_name": "Municipio de Santo Tomas del Norte"
+                },
+                {
+                    "city_name": "Municipio de San Pedro del Norte"
+                },
+                {
+                    "city_name": "Municipio de San Francisco del Norte"
+                },
+                {
+                    "city_name": "Municipio de Puerto Morazan"
+                },
+                {
+                    "city_name": "Municipio de Posoltega"
+                },
+                {
+                    "city_name": "Municipio de El Viejo"
+                },
+                {
+                    "city_name": "Municipio de El Realejo"
+                },
+                {
+                    "city_name": "Municipio de Corinto"
+                },
+                {
+                    "city_name": "Municipio de Cinco Pinos"
+                },
+                {
+                    "city_name": "Municipio de Chinandega"
+                },
+                {
+                    "city_name": "Municipio de Chichigalpa"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Carazo",
+            "cities": [
+                {
+                    "city_name": "Municipio de Santa Teresa"
+                },
+                {
+                    "city_name": "Municipio de San Marcos"
+                },
+                {
+                    "city_name": "Municipio de La Paz de Oriente"
+                },
+                {
+                    "city_name": "Municipio de La Conquista"
+                },
+                {
+                    "city_name": "Municipio de Jinotepe"
+                },
+                {
+                    "city_name": "Municipio de El Rosario"
+                },
+                {
+                    "city_name": "Municipio de Dolores"
+                },
+                {
+                    "city_name": "Municipio de Diriamba"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Boaco",
+            "cities": [
+                {
+                    "city_name": "Municipio de Teustepe"
+                },
+                {
+                    "city_name": "Municipio de Santa Lucia"
+                },
+                {
+                    "city_name": "Municipio de San Lorenzo"
+                },
+                {
+                    "city_name": "Municipio de San Jose de los Remates"
+                },
+                {
+                    "city_name": "Municipio de Camoapa"
+                },
+                {
+                    "city_name": "Municipio de Boaco"
+                }
+            ]
+        },
+        {
+            "province_name": "North Atlantic Autonomous Region (RAAN)",
+            "cities": [
+                {
+                    "city_name": "Municipio de Waspan"
+                },
+                {
+                    "city_name": "Municipio de Puerto Cabezas"
+                },
+                {
+                    "city_name": "Municipio de Prinzapolka"
+                },
+                {
+                    "city_name": "Municipio de Siuna"
+                },
+                {
+                    "city_name": "Municipio de Waslala"
+                },
+                {
+                    "city_name": "Municipio de Rosita"
+                },
+                {
+                    "city_name": "Municipio de Bonanza"
+                },
+                {
+                    "city_name": "Mulukuku"
+                }
+            ]
+        },
+        {
+            "province_name": "Costa Caribe Sur",
+            "cities": [
+                {
+                    "city_name": "Municipio de Muelle de los Bueyes"
+                },
+                {
+                    "city_name": "Municipio de La Cruz de Rio Grande"
+                },
+                {
+                    "city_name": "Municipio de Corn Island"
+                },
+                {
+                    "city_name": "Municipio de Bluefields"
+                },
+                {
+                    "city_name": "Municipio El Tortuguero"
+                },
+                {
+                    "city_name": "Municipio de Bocana de Paiwas"
+                },
+                {
+                    "city_name": "Desembocadura de la Cruz de Rio Grande"
+                },
+                {
+                    "city_name": "El Rama"
+                },
+                {
+                    "city_name": "Municipio de Kukra Hill"
+                },
+                {
+                    "city_name": "Municipio de Laguna"
+                },
+                {
+                    "city_name": "Nueva Guinea"
+                },
+                {
+                    "city_name": "Municipio El Ayote"
+                }
+            ]
+        }
+    ]
+}

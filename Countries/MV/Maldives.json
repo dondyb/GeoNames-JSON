@@ -1,0 +1,86 @@
+{
+    "country_name": "Maldives",
+    "country_id": "MV",
+    "provinces": [
+        {
+            "province_name": "Vaavu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Thaa Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Shaviyani Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Seenu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Raa Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Noonu Atoll",
+            "cities": []
+        },
+        {
+            "province_name": "Gnaviyani Atoll",
+            "cities": []
+        },
+        {
+            "province_name": "Meemu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Lhaviyani Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Laamu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Kaafu Atoll",
+            "cities": []
+        },
+        {
+            "province_name": "Haa Dhaalu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Haa Alifu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Gaafu Dhaalu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Gaafu Alifu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Faafu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Dhaalu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Baa Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Alifu Atholhu",
+            "cities": []
+        },
+        {
+            "province_name": "Southern Ari Atoll",
+            "cities": []
+        }
+    ]
+}

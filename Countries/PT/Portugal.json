@@ -1,0 +1,1030 @@
+{
+    "country_name": "Portugal",
+    "country_id": "PT",
+    "provinces": [
+        {
+            "province_name": "Distrito de Setubal",
+            "cities": [
+                {
+                    "city_name": "Seixal"
+                },
+                {
+                    "city_name": "Alcacer do Sal"
+                },
+                {
+                    "city_name": "Alcochete"
+                },
+                {
+                    "city_name": "Almada"
+                },
+                {
+                    "city_name": "Barreiro"
+                },
+                {
+                    "city_name": "Grandola"
+                },
+                {
+                    "city_name": "Moita"
+                },
+                {
+                    "city_name": "Montijo"
+                },
+                {
+                    "city_name": "Palmela"
+                },
+                {
+                    "city_name": "Santiago do Cacem"
+                },
+                {
+                    "city_name": "Sesimbra"
+                },
+                {
+                    "city_name": "Setubal"
+                },
+                {
+                    "city_name": "Sines"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Santarem",
+            "cities": [
+                {
+                    "city_name": "Abrantes"
+                },
+                {
+                    "city_name": "Alcanena"
+                },
+                {
+                    "city_name": "Almeirim"
+                },
+                {
+                    "city_name": "Alpiarca"
+                },
+                {
+                    "city_name": "Benavente"
+                },
+                {
+                    "city_name": "Cartaxo"
+                },
+                {
+                    "city_name": "Chamusca"
+                },
+                {
+                    "city_name": "Constancia"
+                },
+                {
+                    "city_name": "Coruche"
+                },
+                {
+                    "city_name": "Entroncamento"
+                },
+                {
+                    "city_name": "Ferreira do Zezere"
+                },
+                {
+                    "city_name": "Golega"
+                },
+                {
+                    "city_name": "Macao"
+                },
+                {
+                    "city_name": "Rio Maior"
+                },
+                {
+                    "city_name": "Salvaterra de Magos"
+                },
+                {
+                    "city_name": "Santarem"
+                },
+                {
+                    "city_name": "Sardoal"
+                },
+                {
+                    "city_name": "Tomar"
+                },
+                {
+                    "city_name": "Torres Novas"
+                },
+                {
+                    "city_name": "Vila Nova da Barquinha"
+                },
+                {
+                    "city_name": "Ourem"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Portalegre",
+            "cities": [
+                {
+                    "city_name": "Crato"
+                },
+                {
+                    "city_name": "Nisa"
+                },
+                {
+                    "city_name": "Castelo de Vide"
+                },
+                {
+                    "city_name": "Marvao"
+                },
+                {
+                    "city_name": "Portalegre"
+                },
+                {
+                    "city_name": "Gaviao"
+                },
+                {
+                    "city_name": "Ponte de Sor"
+                },
+                {
+                    "city_name": "Alter do Chao"
+                },
+                {
+                    "city_name": "Monforte"
+                },
+                {
+                    "city_name": "Arronches"
+                },
+                {
+                    "city_name": "Avis"
+                },
+                {
+                    "city_name": "Campo Maior"
+                },
+                {
+                    "city_name": "Elvas"
+                },
+                {
+                    "city_name": "Fronteira"
+                },
+                {
+                    "city_name": "Sousel"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Lisboa",
+            "cities": [
+                {
+                    "city_name": "Lisbon"
+                },
+                {
+                    "city_name": "Loures"
+                },
+                {
+                    "city_name": "Alenquer"
+                },
+                {
+                    "city_name": "Arruda Dos Vinhos"
+                },
+                {
+                    "city_name": "Azambuja"
+                },
+                {
+                    "city_name": "Cadaval"
+                },
+                {
+                    "city_name": "Cascais"
+                },
+                {
+                    "city_name": "Lourinha"
+                },
+                {
+                    "city_name": "Mafra"
+                },
+                {
+                    "city_name": "Oeiras"
+                },
+                {
+                    "city_name": "Sintra"
+                },
+                {
+                    "city_name": "Sobral de Monte Agraco"
+                },
+                {
+                    "city_name": "Torres Vedras"
+                },
+                {
+                    "city_name": "Vila Franca de Xira"
+                },
+                {
+                    "city_name": "Amadora"
+                },
+                {
+                    "city_name": "Odivelas"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Leiria",
+            "cities": [
+                {
+                    "city_name": "Alcobaca"
+                },
+                {
+                    "city_name": "Alvaiazere"
+                },
+                {
+                    "city_name": "Ansiao"
+                },
+                {
+                    "city_name": "Batalha"
+                },
+                {
+                    "city_name": "Bombarral"
+                },
+                {
+                    "city_name": "Caldas da Rainha"
+                },
+                {
+                    "city_name": "Castanheira de Pera"
+                },
+                {
+                    "city_name": "Figueiro Dos Vinhos"
+                },
+                {
+                    "city_name": "Leiria"
+                },
+                {
+                    "city_name": "Marinha Grande"
+                },
+                {
+                    "city_name": "Nazare"
+                },
+                {
+                    "city_name": "Obidos"
+                },
+                {
+                    "city_name": "Pedrogao Grande"
+                },
+                {
+                    "city_name": "Peniche"
+                },
+                {
+                    "city_name": "Pombal"
+                },
+                {
+                    "city_name": "Porto de Mos"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Faro",
+            "cities": [
+                {
+                    "city_name": "Albufeira"
+                },
+                {
+                    "city_name": "Alcoutim"
+                },
+                {
+                    "city_name": "Aljezur"
+                },
+                {
+                    "city_name": "Castro Marim"
+                },
+                {
+                    "city_name": "Faro"
+                },
+                {
+                    "city_name": "Lagoa"
+                },
+                {
+                    "city_name": "Lagos"
+                },
+                {
+                    "city_name": "Loule"
+                },
+                {
+                    "city_name": "Monchique"
+                },
+                {
+                    "city_name": "Olhao"
+                },
+                {
+                    "city_name": "Portimao"
+                },
+                {
+                    "city_name": "Sao Bras de Alportel"
+                },
+                {
+                    "city_name": "Silves"
+                },
+                {
+                    "city_name": "Tavira"
+                },
+                {
+                    "city_name": "Vila do Bispo"
+                },
+                {
+                    "city_name": "Vila Real de Santo Antonio"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Evora",
+            "cities": [
+                {
+                    "city_name": "Alandroal"
+                },
+                {
+                    "city_name": "Arraiolos"
+                },
+                {
+                    "city_name": "Borba"
+                },
+                {
+                    "city_name": "Estremoz"
+                },
+                {
+                    "city_name": "Evora"
+                },
+                {
+                    "city_name": "Montemor-O-Novo"
+                },
+                {
+                    "city_name": "Mora"
+                },
+                {
+                    "city_name": "Mourao"
+                },
+                {
+                    "city_name": "Portel"
+                },
+                {
+                    "city_name": "Redondo"
+                },
+                {
+                    "city_name": "Reguengos de Monsaraz"
+                },
+                {
+                    "city_name": "Vendas Novas"
+                },
+                {
+                    "city_name": "Viana do Alentejo"
+                },
+                {
+                    "city_name": "Vila Vicosa"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Castelo Branco",
+            "cities": [
+                {
+                    "city_name": "Concelho do Fundao"
+                },
+                {
+                    "city_name": "Vila Velha de Rodao"
+                },
+                {
+                    "city_name": "Belmonte"
+                },
+                {
+                    "city_name": "Castelo Branco"
+                },
+                {
+                    "city_name": "Covilha"
+                },
+                {
+                    "city_name": "Idanha-A-Nova"
+                },
+                {
+                    "city_name": "Oleiros"
+                },
+                {
+                    "city_name": "Penamacor"
+                },
+                {
+                    "city_name": "Proenca-A-Nova"
+                },
+                {
+                    "city_name": "Serta"
+                },
+                {
+                    "city_name": "Vila de Rei"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Beja",
+            "cities": [
+                {
+                    "city_name": "Aljustrel"
+                },
+                {
+                    "city_name": "Almodovar"
+                },
+                {
+                    "city_name": "Alvito"
+                },
+                {
+                    "city_name": "Barrancos"
+                },
+                {
+                    "city_name": "Beja"
+                },
+                {
+                    "city_name": "Castro Verde"
+                },
+                {
+                    "city_name": "Cuba"
+                },
+                {
+                    "city_name": "Ferreira do Alentejo"
+                },
+                {
+                    "city_name": "Mertola"
+                },
+                {
+                    "city_name": "Moura"
+                },
+                {
+                    "city_name": "Odemira"
+                },
+                {
+                    "city_name": "Ourique"
+                },
+                {
+                    "city_name": "Serpa"
+                },
+                {
+                    "city_name": "Vidigueira"
+                }
+            ]
+        },
+        {
+            "province_name": "Madeira",
+            "cities": [
+                {
+                    "city_name": "Calheta"
+                },
+                {
+                    "city_name": "Camara de Lobos"
+                },
+                {
+                    "city_name": "Funchal"
+                },
+                {
+                    "city_name": "Machico"
+                },
+                {
+                    "city_name": "Ponta do Sol"
+                },
+                {
+                    "city_name": "Porto Moniz"
+                },
+                {
+                    "city_name": "Ribeira Brava"
+                },
+                {
+                    "city_name": "Santa Cruz"
+                },
+                {
+                    "city_name": "Santana"
+                },
+                {
+                    "city_name": "Sao Vicente"
+                },
+                {
+                    "city_name": "Porto Santo"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Viseu",
+            "cities": [
+                {
+                    "city_name": "Concelho de Tondela"
+                },
+                {
+                    "city_name": "Concelho de Carregal do Sal"
+                },
+                {
+                    "city_name": "Armamar"
+                },
+                {
+                    "city_name": "Castro Daire"
+                },
+                {
+                    "city_name": "Cinfaes"
+                },
+                {
+                    "city_name": "Lamego"
+                },
+                {
+                    "city_name": "Mangualde"
+                },
+                {
+                    "city_name": "Moimenta da Beira"
+                },
+                {
+                    "city_name": "Mortagua"
+                },
+                {
+                    "city_name": "Nelas"
+                },
+                {
+                    "city_name": "Oliveira de Frades"
+                },
+                {
+                    "city_name": "Penalva do Castelo"
+                },
+                {
+                    "city_name": "Penedono"
+                },
+                {
+                    "city_name": "Resende"
+                },
+                {
+                    "city_name": "Santa Comba Dao"
+                },
+                {
+                    "city_name": "Sao Joao da Pesqueira"
+                },
+                {
+                    "city_name": "Sao Pedro do Sul"
+                },
+                {
+                    "city_name": "Satao"
+                },
+                {
+                    "city_name": "Sernancelhe"
+                },
+                {
+                    "city_name": "Tabuaco"
+                },
+                {
+                    "city_name": "Tarouca"
+                },
+                {
+                    "city_name": "Vila Nova de Paiva"
+                },
+                {
+                    "city_name": "Viseu"
+                },
+                {
+                    "city_name": "Vouzela"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Vila Real",
+            "cities": [
+                {
+                    "city_name": "Alijo"
+                },
+                {
+                    "city_name": "Boticas"
+                },
+                {
+                    "city_name": "Chaves"
+                },
+                {
+                    "city_name": "Mesao Frio"
+                },
+                {
+                    "city_name": "Mondim de Basto"
+                },
+                {
+                    "city_name": "Montalegre"
+                },
+                {
+                    "city_name": "Murca"
+                },
+                {
+                    "city_name": "Peso da Regua"
+                },
+                {
+                    "city_name": "Ribeira de Pena"
+                },
+                {
+                    "city_name": "Sabrosa"
+                },
+                {
+                    "city_name": "Santa Marta de Penaguiao"
+                },
+                {
+                    "city_name": "Valpacos"
+                },
+                {
+                    "city_name": "Vila Pouca de Aguiar"
+                },
+                {
+                    "city_name": "Vila Real"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Viana do Castelo",
+            "cities": [
+                {
+                    "city_name": "Arcos de Valdevez"
+                },
+                {
+                    "city_name": "Caminha"
+                },
+                {
+                    "city_name": "Melgaco"
+                },
+                {
+                    "city_name": "Moncao"
+                },
+                {
+                    "city_name": "Paredes de Coura"
+                },
+                {
+                    "city_name": "Ponte da Barca"
+                },
+                {
+                    "city_name": "Ponte de Lima"
+                },
+                {
+                    "city_name": "Valenca"
+                },
+                {
+                    "city_name": "Viana do Castelo"
+                },
+                {
+                    "city_name": "Vila Nova de Cerveira"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito do Porto",
+            "cities": [
+                {
+                    "city_name": "Porto"
+                },
+                {
+                    "city_name": "Amarante"
+                },
+                {
+                    "city_name": "Baiao"
+                },
+                {
+                    "city_name": "Felgueiras"
+                },
+                {
+                    "city_name": "Gondomar"
+                },
+                {
+                    "city_name": "Lousada"
+                },
+                {
+                    "city_name": "Maia"
+                },
+                {
+                    "city_name": "Marco de Canaveses"
+                },
+                {
+                    "city_name": "Matosinhos"
+                },
+                {
+                    "city_name": "Pacos de Ferreira"
+                },
+                {
+                    "city_name": "Paredes"
+                },
+                {
+                    "city_name": "Penafiel"
+                },
+                {
+                    "city_name": "Povoa de Varzim"
+                },
+                {
+                    "city_name": "Santo Tirso"
+                },
+                {
+                    "city_name": "Valongo"
+                },
+                {
+                    "city_name": "Vila do Conde"
+                },
+                {
+                    "city_name": "Vila Nova de Gaia"
+                },
+                {
+                    "city_name": "Trofa"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito da Guarda",
+            "cities": [
+                {
+                    "city_name": "Municipio de Gouveia"
+                },
+                {
+                    "city_name": "Aguiar da Beira"
+                },
+                {
+                    "city_name": "Almeida"
+                },
+                {
+                    "city_name": "Celorico da Beira"
+                },
+                {
+                    "city_name": "Figueira de Castelo Rodrigo"
+                },
+                {
+                    "city_name": "Fornos de Algodres"
+                },
+                {
+                    "city_name": "Guarda"
+                },
+                {
+                    "city_name": "Manteigas"
+                },
+                {
+                    "city_name": "Meda"
+                },
+                {
+                    "city_name": "Pinhel"
+                },
+                {
+                    "city_name": "Sabugal"
+                },
+                {
+                    "city_name": "Seia"
+                },
+                {
+                    "city_name": "Trancoso"
+                },
+                {
+                    "city_name": "Vila Nova de Foz Coa"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Coimbra",
+            "cities": [
+                {
+                    "city_name": "Arganil"
+                },
+                {
+                    "city_name": "Cantanhede"
+                },
+                {
+                    "city_name": "Coimbra"
+                },
+                {
+                    "city_name": "Condeixa-A-Nova"
+                },
+                {
+                    "city_name": "Figueira da Foz"
+                },
+                {
+                    "city_name": "Gois"
+                },
+                {
+                    "city_name": "Lousa"
+                },
+                {
+                    "city_name": "Mira"
+                },
+                {
+                    "city_name": "Miranda do Corvo"
+                },
+                {
+                    "city_name": "Montemor-O-Velho"
+                },
+                {
+                    "city_name": "Oliveira do Hospital"
+                },
+                {
+                    "city_name": "Pampilhosa da Serra"
+                },
+                {
+                    "city_name": "Penacova"
+                },
+                {
+                    "city_name": "Penela"
+                },
+                {
+                    "city_name": "Soure"
+                },
+                {
+                    "city_name": "Tabua"
+                },
+                {
+                    "city_name": "Vila Nova de Poiares"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Braganca",
+            "cities": [
+                {
+                    "city_name": "Alfandega da Fe"
+                },
+                {
+                    "city_name": "Braganca Municipality"
+                },
+                {
+                    "city_name": "Carrazeda de Ansiaes"
+                },
+                {
+                    "city_name": "Freixo de Espada A Cinta"
+                },
+                {
+                    "city_name": "Macedo de Cavaleiros"
+                },
+                {
+                    "city_name": "Miranda do Douro"
+                },
+                {
+                    "city_name": "Mirandela"
+                },
+                {
+                    "city_name": "Mogadouro"
+                },
+                {
+                    "city_name": "Torre de Moncorvo"
+                },
+                {
+                    "city_name": "Vila Flor"
+                },
+                {
+                    "city_name": "Vimioso"
+                },
+                {
+                    "city_name": "Vinhais"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Braga",
+            "cities": [
+                {
+                    "city_name": "Amares"
+                },
+                {
+                    "city_name": "Barcelos"
+                },
+                {
+                    "city_name": "Braga"
+                },
+                {
+                    "city_name": "Cabeceiras de Basto"
+                },
+                {
+                    "city_name": "Celorico de Basto"
+                },
+                {
+                    "city_name": "Esposende"
+                },
+                {
+                    "city_name": "Fafe"
+                },
+                {
+                    "city_name": "Guimaraes"
+                },
+                {
+                    "city_name": "Povoa de Lanhoso"
+                },
+                {
+                    "city_name": "Terras de Bouro"
+                },
+                {
+                    "city_name": "Vieira do Minho"
+                },
+                {
+                    "city_name": "Vila Nova de Famalicao"
+                },
+                {
+                    "city_name": "Vila Verde"
+                },
+                {
+                    "city_name": "Vizela"
+                }
+            ]
+        },
+        {
+            "province_name": "Distrito de Aveiro",
+            "cities": [
+                {
+                    "city_name": "Agueda"
+                },
+                {
+                    "city_name": "Albergaria-A-Velha"
+                },
+                {
+                    "city_name": "Anadia"
+                },
+                {
+                    "city_name": "Arouca"
+                },
+                {
+                    "city_name": "Aveiro"
+                },
+                {
+                    "city_name": "Castelo de Paiva"
+                },
+                {
+                    "city_name": "Espinho"
+                },
+                {
+                    "city_name": "Estarreja"
+                },
+                {
+                    "city_name": "Santa Maria da Feira"
+                },
+                {
+                    "city_name": "Ilhavo"
+                },
+                {
+                    "city_name": "Mealhada"
+                },
+                {
+                    "city_name": "Murtosa"
+                },
+                {
+                    "city_name": "Oliveira de Azemeis"
+                },
+                {
+                    "city_name": "Oliveira do Bairro"
+                },
+                {
+                    "city_name": "Ovar"
+                },
+                {
+                    "city_name": "Sao Joao da Madeira"
+                },
+                {
+                    "city_name": "Sever do Vouga"
+                },
+                {
+                    "city_name": "Vagos"
+                },
+                {
+                    "city_name": "Vale de Cambra"
+                }
+            ]
+        },
+        {
+            "province_name": "Azores",
+            "cities": [
+                {
+                    "city_name": "Vila do Porto"
+                },
+                {
+                    "city_name": "Lagoa"
+                },
+                {
+                    "city_name": "Nordeste"
+                },
+                {
+                    "city_name": "Ponta Delgada"
+                },
+                {
+                    "city_name": "Povoacao"
+                },
+                {
+                    "city_name": "Ribeira Grande"
+                },
+                {
+                    "city_name": "Vila Franca do Campo"
+                },
+                {
+                    "city_name": "Angra do Heroismo"
+                },
+                {
+                    "city_name": "Praia da Vitoria"
+                },
+                {
+                    "city_name": "Santa Cruz da Graciosa"
+                },
+                {
+                    "city_name": "Calheta de Sao Jorge"
+                },
+                {
+                    "city_name": "Velas"
+                },
+                {
+                    "city_name": "Lajes do Pico"
+                },
+                {
+                    "city_name": "Madalena"
+                },
+                {
+                    "city_name": "Sao Roque do Pico"
+                },
+                {
+                    "city_name": "Horta"
+                },
+                {
+                    "city_name": "Lajes Das Flores"
+                },
+                {
+                    "city_name": "Santa Cruz Das Flores"
+                },
+                {
+                    "city_name": "Corvo"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "country_name": "Kiribati",
+    "country_id": "KI",
+    "provinces": [
+        {
+            "province_name": "Gilbert Islands",
+            "cities": [
+                {
+                    "city_name": "Abaiang"
+                },
+                {
+                    "city_name": "Abemama"
+                },
+                {
+                    "city_name": "Aranuka"
+                },
+                {
+                    "city_name": "Arorae"
+                },
+                {
+                    "city_name": "Banaba"
+                },
+                {
+                    "city_name": "Beru"
+                },
+                {
+                    "city_name": "Butaritari"
+                },
+                {
+                    "city_name": "Kuria"
+                },
+                {
+                    "city_name": "Maiana"
+                },
+                {
+                    "city_name": "Makin"
+                },
+                {
+                    "city_name": "Marakei"
+                },
+                {
+                    "city_name": "Nikunau"
+                },
+                {
+                    "city_name": "Nonouti"
+                },
+                {
+                    "city_name": "Onotoa"
+                },
+                {
+                    "city_name": "Tabiteuea"
+                },
+                {
+                    "city_name": "Tamana"
+                },
+                {
+                    "city_name": "Tarawa"
+                }
+            ]
+        },
+        {
+            "province_name": "Line Islands",
+            "cities": [
+                {
+                    "city_name": "Caroline"
+                },
+                {
+                    "city_name": "Flint"
+                },
+                {
+                    "city_name": "Kiritimati"
+                },
+                {
+                    "city_name": "Malden"
+                },
+                {
+                    "city_name": "Starbuck"
+                },
+                {
+                    "city_name": "Tabuaeran"
+                },
+                {
+                    "city_name": "Teraina"
+                },
+                {
+                    "city_name": "Vostok"
+                }
+            ]
+        },
+        {
+            "province_name": "Phoenix Islands",
+            "cities": [
+                {
+                    "city_name": "Birnie"
+                },
+                {
+                    "city_name": "Enderbury"
+                },
+                {
+                    "city_name": "Kanton"
+                },
+                {
+                    "city_name": "Manra"
+                },
+                {
+                    "city_name": "McKean"
+                },
+                {
+                    "city_name": "Nikumaroro"
+                },
+                {
+                    "city_name": "Orona"
+                },
+                {
+                    "city_name": "Rawaki"
+                }
+            ]
+        }
+    ]
+}

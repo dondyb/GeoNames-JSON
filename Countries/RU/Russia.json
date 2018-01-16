@@ -1,0 +1,4871 @@
+{
+    "country_name": "Russia",
+    "country_id": "RU",
+    "provinces": [
+        {
+            "province_name": "Yaroslavskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yaroslavskiy Rayon"
+                },
+                {
+                    "city_name": "Uglichskiy Rayon"
+                },
+                {
+                    "city_name": "Tutayevskiy Rayon"
+                },
+                {
+                    "city_name": "Rybinskiy Rayon"
+                },
+                {
+                    "city_name": "Rostovskiy Rayon"
+                },
+                {
+                    "city_name": "Poshekhonskiy Rayon"
+                },
+                {
+                    "city_name": "Pervomayskiy Rayon"
+                },
+                {
+                    "city_name": "Pereslavskiy Rayon"
+                },
+                {
+                    "city_name": "Nekrasovskiy Rayon"
+                },
+                {
+                    "city_name": "Nekouzskiy Rayon"
+                },
+                {
+                    "city_name": "Myshkinskiy Rayon"
+                },
+                {
+                    "city_name": "Lyubimskiy Rayon"
+                },
+                {
+                    "city_name": "Gavrilov-Yamskiy Rayon"
+                },
+                {
+                    "city_name": "Danilovskiy Rayon"
+                },
+                {
+                    "city_name": "Breytovskiy Rayon"
+                },
+                {
+                    "city_name": "Borisoglebskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'shesel'skiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Voronezhskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vorob'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnemamonskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnekhavskiy Rayon"
+                },
+                {
+                    "city_name": "Ternovskiy Rayon"
+                },
+                {
+                    "city_name": "Talovskiy Rayon"
+                },
+                {
+                    "city_name": "Semilukskiy Rayon"
+                },
+                {
+                    "city_name": "Rossoshanskiy Rayon"
+                },
+                {
+                    "city_name": "Rep'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Ramonskiy Rayon"
+                },
+                {
+                    "city_name": "Povorinskiy Rayon"
+                },
+                {
+                    "city_name": "Podgorenskiy Rayon"
+                },
+                {
+                    "city_name": "Petropavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Pavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Paninskiy Rayon"
+                },
+                {
+                    "city_name": "Ostrogozhskiy Rayon"
+                },
+                {
+                    "city_name": "Ol'khovatskiy Rayon"
+                },
+                {
+                    "city_name": "Novousmanskiy Rayon"
+                },
+                {
+                    "city_name": "Novokhoperskiy Rayon"
+                },
+                {
+                    "city_name": "Nizhnedevitskiy Rayon"
+                },
+                {
+                    "city_name": "Liskinskiy Rayon"
+                },
+                {
+                    "city_name": "Khokhol'skiy Rayon"
+                },
+                {
+                    "city_name": "Kashirskiy Rayon"
+                },
+                {
+                    "city_name": "Kantemirovskiy Rayon"
+                },
+                {
+                    "city_name": "Kamenskiy Rayon"
+                },
+                {
+                    "city_name": "Kalacheyevskiy Rayon"
+                },
+                {
+                    "city_name": "Gribanovskiy Rayon"
+                },
+                {
+                    "city_name": "Ertil'skiy Rayon"
+                },
+                {
+                    "city_name": "Buturlinovskiy Rayon"
+                },
+                {
+                    "city_name": "Borisoglebsky Urban Okrug"
+                },
+                {
+                    "city_name": "Bogucharskiy Rayon"
+                },
+                {
+                    "city_name": "Bobrovskiy Rayon"
+                },
+                {
+                    "city_name": "Anninskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Vologodskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vytegorskiy Rayon"
+                },
+                {
+                    "city_name": "Vozhegodskiy Rayon"
+                },
+                {
+                    "city_name": "Vologodskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhovazhskiy Rayon"
+                },
+                {
+                    "city_name": "Velikoustyugskiy Rayon"
+                },
+                {
+                    "city_name": "Vashkinskiy Rayon"
+                },
+                {
+                    "city_name": "Ustyuzhenskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Kubinskiy Rayon"
+                },
+                {
+                    "city_name": "Totemskiy Rayon"
+                },
+                {
+                    "city_name": "Tarnogskiy Rayon"
+                },
+                {
+                    "city_name": "Syamzhenskiy Rayon"
+                },
+                {
+                    "city_name": "Sokol'skiy Rayon"
+                },
+                {
+                    "city_name": "Sheksninskiy Rayon"
+                },
+                {
+                    "city_name": "Mezhdurechenskiy Rayon"
+                },
+                {
+                    "city_name": "Kirillovskiy Rayon"
+                },
+                {
+                    "city_name": "Kichmengsko-Gorodetskiy Rayon"
+                },
+                {
+                    "city_name": "Kharovskiy Rayon"
+                },
+                {
+                    "city_name": "Kaduyskiy Rayon"
+                },
+                {
+                    "city_name": "Gryazovetskiy Rayon"
+                },
+                {
+                    "city_name": "Cherepovetskiy Rayon"
+                },
+                {
+                    "city_name": "Chagodoshchenskiy Rayon"
+                },
+                {
+                    "city_name": "Belozerskiy Rayon"
+                },
+                {
+                    "city_name": "Babushkinskiy Rayon"
+                },
+                {
+                    "city_name": "Babayevskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Volgogradskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zhirnovskiy Rayon"
+                },
+                {
+                    "city_name": "Yelanskiy Rayon"
+                },
+                {
+                    "city_name": "Uryupinskiy Rayon"
+                },
+                {
+                    "city_name": "Svetloyarskiy Rayon"
+                },
+                {
+                    "city_name": "Surovikinskiy Rayon"
+                },
+                {
+                    "city_name": "Staropoltavskiy Rayon"
+                },
+                {
+                    "city_name": "Sredneakhtubinskiy Rayon"
+                },
+                {
+                    "city_name": "Serafimovichskiy Rayon"
+                },
+                {
+                    "city_name": "Rudnyanskiy Rayon"
+                },
+                {
+                    "city_name": "Kumylzhenskiy Rayon"
+                },
+                {
+                    "city_name": "Pallasovskiy Rayon"
+                },
+                {
+                    "city_name": "Ol'khovskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Novonikolayevskiy Rayon"
+                },
+                {
+                    "city_name": "Novoanninskiy Rayon"
+                },
+                {
+                    "city_name": "Nikolayevskiy Rayon"
+                },
+                {
+                    "city_name": "Nekhayevskiy Rayon"
+                },
+                {
+                    "city_name": "Mikhaylovka Urban Okrug"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Kotovskiy Rayon"
+                },
+                {
+                    "city_name": "Kotel'nikovskiy Rayon"
+                },
+                {
+                    "city_name": "Kletskiy Rayon"
+                },
+                {
+                    "city_name": "Kikvidzenskiy Rayon"
+                },
+                {
+                    "city_name": "Kamyshinskiy Rayon"
+                },
+                {
+                    "city_name": "Kalachevskiy Rayon"
+                },
+                {
+                    "city_name": "Ilovlinskiy Rayon"
+                },
+                {
+                    "city_name": "Gorodishchenskiy Rayon"
+                },
+                {
+                    "city_name": "Frolovskiy Rayon"
+                },
+                {
+                    "city_name": "Dubovskiy Rayon"
+                },
+                {
+                    "city_name": "Danilovskiy Rayon"
+                },
+                {
+                    "city_name": "Chernyshkovskiy Rayon"
+                },
+                {
+                    "city_name": "Bykovskiy Rayon"
+                },
+                {
+                    "city_name": "Alekseyevskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Ulyanovsk Oblast",
+            "cities": [
+                {
+                    "city_name": "Ulyanovskiy Rayon"
+                },
+                {
+                    "city_name": "Tsil'ninskiy Rayon"
+                },
+                {
+                    "city_name": "Teren'gul'skiy Rayon"
+                },
+                {
+                    "city_name": "Starokulatkinskiy Rayon"
+                },
+                {
+                    "city_name": "Pavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Maynskiy Rayon"
+                },
+                {
+                    "city_name": "Karsunskiy Rayon"
+                },
+                {
+                    "city_name": "Cherdaklinskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Udmurtskaya Respublika",
+            "cities": [
+                {
+                    "city_name": "Zav'yalovskiy Rayon"
+                },
+                {
+                    "city_name": "Sarapul'skiy Rayon"
+                },
+                {
+                    "city_name": "Kiyasovskiy Rayon"
+                },
+                {
+                    "city_name": "Karakulinskiy Rayon"
+                },
+                {
+                    "city_name": "Malopurginskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tverskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zubtsovskiy Rayon"
+                },
+                {
+                    "city_name": "Vyshnevolotskiy Rayon"
+                },
+                {
+                    "city_name": "Ves'yegonskiy Rayon"
+                },
+                {
+                    "city_name": "Udomel'skiy Rayon"
+                },
+                {
+                    "city_name": "Torzhokskiy Rayon"
+                },
+                {
+                    "city_name": "Toropetskiy Rayon"
+                },
+                {
+                    "city_name": "Staritskiy Rayon"
+                },
+                {
+                    "city_name": "Spirovskiy Rayon"
+                },
+                {
+                    "city_name": "Selizharovskiy Rayon"
+                },
+                {
+                    "city_name": "Sandovskiy Rayon"
+                },
+                {
+                    "city_name": "Rameshkovskiy Rayon"
+                },
+                {
+                    "city_name": "Penovskiy Rayon"
+                },
+                {
+                    "city_name": "Ostashkovskiy Rayon"
+                },
+                {
+                    "city_name": "Maksatikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Likhoslavl'skiy Rayon"
+                },
+                {
+                    "city_name": "Lesnoy Rayon"
+                },
+                {
+                    "city_name": "Kuvshinovskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnokholmskiy Rayon"
+                },
+                {
+                    "city_name": "Konakovskiy Rayon"
+                },
+                {
+                    "city_name": "Kimrskiy Rayon"
+                },
+                {
+                    "city_name": "Kesovogorskiy Rayon"
+                },
+                {
+                    "city_name": "Kashinskiy Rayon"
+                },
+                {
+                    "city_name": "Kalyazinskiy Rayon"
+                },
+                {
+                    "city_name": "Kalininskiy Rayon"
+                },
+                {
+                    "city_name": "Firovskiy Rayon"
+                },
+                {
+                    "city_name": "Bologovskiy Rayon"
+                },
+                {
+                    "city_name": "Bezhetskiy Rayon"
+                },
+                {
+                    "city_name": "Bel'skiy Rayon"
+                },
+                {
+                    "city_name": "Andreapol'skiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tul'skaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zaokskiy Rayon"
+                },
+                {
+                    "city_name": "Yasnogorskiy Rayon"
+                },
+                {
+                    "city_name": "Venevskiy Rayon"
+                },
+                {
+                    "city_name": "Teplo-Ogarevskiy Rayon"
+                },
+                {
+                    "city_name": "Suvorovskiy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Kireyevskiy Rayon"
+                },
+                {
+                    "city_name": "Kamenskiy Rayon"
+                },
+                {
+                    "city_name": "Arsen'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Aleksinskiy Rayon"
+                },
+                {
+                    "city_name": "Arsen'yevskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tatarstan",
+            "cities": [
+                {
+                    "city_name": "Zelenodol'skiy Rayon"
+                },
+                {
+                    "city_name": "Zainskiy Rayon"
+                },
+                {
+                    "city_name": "Yelabuzhskiy Rayon"
+                },
+                {
+                    "city_name": "Vysokogorskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhneuslonskiy Rayon"
+                },
+                {
+                    "city_name": "Tukayevskiy Rayon"
+                },
+                {
+                    "city_name": "Tetyushskiy Rayon"
+                },
+                {
+                    "city_name": "Sarmanovskiy Rayon"
+                },
+                {
+                    "city_name": "Sabinskiy Rayon"
+                },
+                {
+                    "city_name": "Rybno-Slobodskiy Rayon"
+                },
+                {
+                    "city_name": "Pestrechinskiy Rayon"
+                },
+                {
+                    "city_name": "Nurlatskiy Rayon"
+                },
+                {
+                    "city_name": "Nizhnekamskiy Rayon"
+                },
+                {
+                    "city_name": "Muslyumovskiy Rayon"
+                },
+                {
+                    "city_name": "Menzelinskiy Rayon"
+                },
+                {
+                    "city_name": "Mamadyshskiy Rayon"
+                },
+                {
+                    "city_name": "Leninogorskiy Rayon"
+                },
+                {
+                    "city_name": "Laishevskiy Rayon"
+                },
+                {
+                    "city_name": "Spasskiy Rayon"
+                },
+                {
+                    "city_name": "Kukmorskiy Rayon"
+                },
+                {
+                    "city_name": "Kamsko-Ust'inskiy Rayon"
+                },
+                {
+                    "city_name": "Drozhzhanovskiy Rayon"
+                },
+                {
+                    "city_name": "Chistopol'skiy Rayon"
+                },
+                {
+                    "city_name": "Cheremshanskiy Rayon"
+                },
+                {
+                    "city_name": "Buinskiy Rayon"
+                },
+                {
+                    "city_name": "Bugul'minskiy Rayon"
+                },
+                {
+                    "city_name": "Bavlinskiy Rayon"
+                },
+                {
+                    "city_name": "Baltasinskiy Rayon"
+                },
+                {
+                    "city_name": "Aznakayevskiy Rayon"
+                },
+                {
+                    "city_name": "Arskiy Rayon"
+                },
+                {
+                    "city_name": "Apastovskiy Rayon"
+                },
+                {
+                    "city_name": "Al'met'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Al'keyevskiy Rayon"
+                },
+                {
+                    "city_name": "Alekseyevskiy Rayon"
+                },
+                {
+                    "city_name": "Aktanyshskiy Rayon"
+                },
+                {
+                    "city_name": "Aksubayevskiy Rayon"
+                },
+                {
+                    "city_name": "Agryzskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Kazan'"
+                },
+                {
+                    "city_name": "Atninskiy Rayon"
+                },
+                {
+                    "city_name": "Kaybitskiy Rayon"
+                },
+                {
+                    "city_name": "Mendeleyevskiy Rayon"
+                },
+                {
+                    "city_name": "Novosheshminskiy Rayon"
+                },
+                {
+                    "city_name": "Tyulyachinskiy Rayon"
+                },
+                {
+                    "city_name": "Yutazinskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Al'met'yevsk"
+                },
+                {
+                    "city_name": "Gorod Aznakayevo"
+                },
+                {
+                    "city_name": "Gorod Bugul'ma"
+                },
+                {
+                    "city_name": "Gorod Yelabuga"
+                },
+                {
+                    "city_name": "Gorod Zainsk"
+                },
+                {
+                    "city_name": "Gorod Zelenodol'sk"
+                },
+                {
+                    "city_name": "Gorod Leninogorsk"
+                },
+                {
+                    "city_name": "Gorod Naberezhnyye Chelny"
+                },
+                {
+                    "city_name": "Gorod Nizhnekamsk"
+                },
+                {
+                    "city_name": "Gorod Chistopol'"
+                },
+                {
+                    "city_name": "Gorod Buinsk"
+                },
+                {
+                    "city_name": "Gorod Bavly"
+                },
+                {
+                    "city_name": "Nurlatskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tambovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Znamenskiy Rayon"
+                },
+                {
+                    "city_name": "Tokarevskiy Rayon"
+                },
+                {
+                    "city_name": "Sampurskiy Rayon"
+                },
+                {
+                    "city_name": "Rasskazovskiy Rayon"
+                },
+                {
+                    "city_name": "Kirsanovskiy Rayon"
+                },
+                {
+                    "city_name": "Bondarskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Stavropol'skiy Kray",
+            "cities": [
+                {
+                    "city_name": "Kurskiy Rayon"
+                },
+                {
+                    "city_name": "Georgiyevskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Smolenskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Ugranskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Saratovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Voskresenskiy Rayon"
+                },
+                {
+                    "city_name": "Vol'skiy Rayon"
+                },
+                {
+                    "city_name": "Sovetskiy Rayon"
+                },
+                {
+                    "city_name": "Saratovskiy Rayon"
+                },
+                {
+                    "city_name": "Marksovskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnokutskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoarmeyskiy Rayon"
+                },
+                {
+                    "city_name": "Khvalynskiy Rayon"
+                },
+                {
+                    "city_name": "Engel'sskiy Rayon"
+                },
+                {
+                    "city_name": "Bazarno-Karabulakskiy Rayon"
+                },
+                {
+                    "city_name": "Baltayskiy Rayon"
+                },
+                {
+                    "city_name": "Atkarskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Samarskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Neftegorskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoyarskiy Rayon"
+                },
+                {
+                    "city_name": "Koshkinskiy Rayon"
+                },
+                {
+                    "city_name": "Kinel'skiy Rayon"
+                },
+                {
+                    "city_name": "Borskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'sheglushitskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'shechernigovskiy Rayon"
+                },
+                {
+                    "city_name": "Bogatovskiy Rayon"
+                },
+                {
+                    "city_name": "Bezenchukskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Ryazanskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zakharovskiy Rayon"
+                },
+                {
+                    "city_name": "Rybnovskiy Rayon"
+                },
+                {
+                    "city_name": "Ryazanskiy Rayon"
+                },
+                {
+                    "city_name": "Klepikovskiy Rayon"
+                },
+                {
+                    "city_name": "Kasimovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Rostovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Milyutinskiy Rayon"
+                },
+                {
+                    "city_name": "Martynovskiy Rayon"
+                },
+                {
+                    "city_name": "Kamenskiy Rayon"
+                },
+                {
+                    "city_name": "Dubovskiy Rayon"
+                },
+                {
+                    "city_name": "Belokalitvenskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnosulinskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Pskovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Velikolukskiy Rayon"
+                },
+                {
+                    "city_name": "Strugo-Krasnenskiy Rayon"
+                },
+                {
+                    "city_name": "Sebezhskiy Rayon"
+                },
+                {
+                    "city_name": "Pytalovskiy Rayon"
+                },
+                {
+                    "city_name": "Pustoshkinskiy Rayon"
+                },
+                {
+                    "city_name": "Pushkino-Gorskiy Rayon"
+                },
+                {
+                    "city_name": "Pskovskiy Rayon"
+                },
+                {
+                    "city_name": "Porkhovskiy Rayon"
+                },
+                {
+                    "city_name": "Pechorskiy Rayon"
+                },
+                {
+                    "city_name": "Palkinskiy Rayon"
+                },
+                {
+                    "city_name": "Ostrovskiy Rayon"
+                },
+                {
+                    "city_name": "Opochetskiy Rayon"
+                },
+                {
+                    "city_name": "Novosokol'nicheskiy Rayon"
+                },
+                {
+                    "city_name": "Novorzhevskiy Rayon"
+                },
+                {
+                    "city_name": "Kun'inskiy Rayon"
+                },
+                {
+                    "city_name": "Gdovskiy Rayon"
+                },
+                {
+                    "city_name": "Bezhanitskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Perm Krai",
+            "cities": [
+                {
+                    "city_name": "Yus'vinskiy Rayon"
+                },
+                {
+                    "city_name": "Yurlinskiy Rayon"
+                },
+                {
+                    "city_name": "Kudymkarskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnovisherskiy Rayon"
+                },
+                {
+                    "city_name": "Kosinskiy Rayon"
+                },
+                {
+                    "city_name": "Kochevskiy Rayon"
+                },
+                {
+                    "city_name": "Gaynskiy Rayon"
+                },
+                {
+                    "city_name": "Dobryanskiy Rayon"
+                },
+                {
+                    "city_name": "Cherdynskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Penzenskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Neverkinskiy Rayon"
+                },
+                {
+                    "city_name": "Kuznetskiy Rayon"
+                },
+                {
+                    "city_name": "Kameshkirskiy Rayon"
+                },
+                {
+                    "city_name": "Issinskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Orlovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Bolkhovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Orenburgskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Saraktashskiy Rayon"
+                },
+                {
+                    "city_name": "Novoorskiy Rayon"
+                },
+                {
+                    "city_name": "Kvarkenskiy Rayon"
+                },
+                {
+                    "city_name": "Gayskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Novgorodskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Volotovskiy Rayon"
+                },
+                {
+                    "city_name": "Valdayskiy Rayon"
+                },
+                {
+                    "city_name": "Starorusskiy Rayon"
+                },
+                {
+                    "city_name": "Soletskiy Rayon"
+                },
+                {
+                    "city_name": "Shimskiy Rayon"
+                },
+                {
+                    "city_name": "Poddorskiy Rayon"
+                },
+                {
+                    "city_name": "Pestovskiy Rayon"
+                },
+                {
+                    "city_name": "Parfinskiy Rayon"
+                },
+                {
+                    "city_name": "Okulovskiy Rayon"
+                },
+                {
+                    "city_name": "Novgorodskiy Rayon"
+                },
+                {
+                    "city_name": "Moshenskoy Rayon"
+                },
+                {
+                    "city_name": "Marevskiy Rayon"
+                },
+                {
+                    "city_name": "Malovisherskiy Rayon"
+                },
+                {
+                    "city_name": "Lyubytinskiy Rayon"
+                },
+                {
+                    "city_name": "Krestetskiy Rayon"
+                },
+                {
+                    "city_name": "Khvoyninskiy Rayon"
+                },
+                {
+                    "city_name": "Kholmskiy Rayon"
+                },
+                {
+                    "city_name": "Demyanskiy Rayon"
+                },
+                {
+                    "city_name": "Chudovskiy Rayon"
+                },
+                {
+                    "city_name": "Borovichskiy Rayon"
+                },
+                {
+                    "city_name": "Batetskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "North Ossetia",
+            "cities": [
+                {
+                    "city_name": "Prigorodnyy Rayon"
+                },
+                {
+                    "city_name": "Pravoberezhnyy Rayon"
+                },
+                {
+                    "city_name": "Mozdokskiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Irafskiy Rayon"
+                },
+                {
+                    "city_name": "Digorskiy Rayon"
+                },
+                {
+                    "city_name": "Ardonskiy Rayon"
+                },
+                {
+                    "city_name": "Alagirskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Nenetskiy Avtonomnyy Okrug",
+            "cities": []
+        },
+        {
+            "province_name": "Murmanskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Terskiy Rayon"
+                },
+                {
+                    "city_name": "Pechengskiy Rayon"
+                },
+                {
+                    "city_name": "Lovozerskiy Rayon"
+                },
+                {
+                    "city_name": "Kovdorskiy Rayon"
+                },
+                {
+                    "city_name": "Kol'skiy Rayon"
+                },
+                {
+                    "city_name": "Kandalakshskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Moskva",
+            "cities": [
+                {
+                    "city_name": "Severnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Severo-Zapadnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Yuzhnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Zapadnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Yugo-Vostochnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Yugo-Zapadnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Tsentral'nyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Severo-Vostochnyy Administrativnyy Okrug"
+                },
+                {
+                    "city_name": "Zelenogradsky Administrative Okrug"
+                },
+                {
+                    "city_name": "Eastern Administrative Okrug"
+                },
+                {
+                    "city_name": "Novomoskovsky Administrative Okrug"
+                },
+                {
+                    "city_name": "Troitsky Administrative Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Moscow Oblast",
+            "cities": [
+                {
+                    "city_name": "Zarayskiy Rayon"
+                },
+                {
+                    "city_name": "Sergiyevo-Posadskiy Rayon"
+                },
+                {
+                    "city_name": "Yegor'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Voskresenskiy Rayon"
+                },
+                {
+                    "city_name": "Volokolamskiy Rayon"
+                },
+                {
+                    "city_name": "Taldomskiy Rayon"
+                },
+                {
+                    "city_name": "Stupinskiy Rayon"
+                },
+                {
+                    "city_name": "Solnechnogorskiy Rayon"
+                },
+                {
+                    "city_name": "Shchelkovskiy Rayon"
+                },
+                {
+                    "city_name": "Shaturskiy Rayon"
+                },
+                {
+                    "city_name": "Shakhovskoy Rayon"
+                },
+                {
+                    "city_name": "Serpukhovskiy Rayon"
+                },
+                {
+                    "city_name": "Serebryano-Prudskiy Rayon"
+                },
+                {
+                    "city_name": "Ruzskiy Rayon"
+                },
+                {
+                    "city_name": "Ramenskiy Rayon"
+                },
+                {
+                    "city_name": "Pushkinskiy Rayon"
+                },
+                {
+                    "city_name": "Podolsk Urban Okrug"
+                },
+                {
+                    "city_name": "Pavlovo-Posadskiy Rayon"
+                },
+                {
+                    "city_name": "Ozyory Urban Okrug"
+                },
+                {
+                    "city_name": "Orekhovo-Zuyevskiy Rayon"
+                },
+                {
+                    "city_name": "Odintsovskiy Rayon"
+                },
+                {
+                    "city_name": "Noginskiy Rayon"
+                },
+                {
+                    "city_name": "Naro-Fominskiy Rayon"
+                },
+                {
+                    "city_name": "Mytishchi Urban Okrug"
+                },
+                {
+                    "city_name": "Mozhayskiy Rayon"
+                },
+                {
+                    "city_name": "Lyuberetskiy Rayon"
+                },
+                {
+                    "city_name": "Lukhovitskiy Rayon"
+                },
+                {
+                    "city_name": "Lotoshinskiy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogorskiy Rayon"
+                },
+                {
+                    "city_name": "Kolomenskiy Rayon"
+                },
+                {
+                    "city_name": "Klinskiy Rayon"
+                },
+                {
+                    "city_name": "Khimki Urban Okrug"
+                },
+                {
+                    "city_name": "Kashira Urban Okrug"
+                },
+                {
+                    "city_name": "Istrinskiy Rayon"
+                },
+                {
+                    "city_name": "Domodedovskiy Rayon"
+                },
+                {
+                    "city_name": "Dmitrovskiy Rayon"
+                },
+                {
+                    "city_name": "Chekhovskiy Rayon"
+                },
+                {
+                    "city_name": "Balashikha Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Mordoviya",
+            "cities": [
+                {
+                    "city_name": "Zubovo-Polyanskiy Rayon"
+                },
+                {
+                    "city_name": "Yel'nikovskiy Rayon"
+                },
+                {
+                    "city_name": "Torbeyevskiy Rayon"
+                },
+                {
+                    "city_name": "Ten'gushevskiy Rayon"
+                },
+                {
+                    "city_name": "Temnikovskiy Rayon"
+                },
+                {
+                    "city_name": "Staroshaygovskiy Rayon"
+                },
+                {
+                    "city_name": "Ruzayevskiy Rayon"
+                },
+                {
+                    "city_name": "Romodanovskiy Rayon"
+                },
+                {
+                    "city_name": "Lyambirskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoslobodskiy Rayon"
+                },
+                {
+                    "city_name": "Kovylkinskiy Rayon"
+                },
+                {
+                    "city_name": "Kochkurovskiy Rayon"
+                },
+                {
+                    "city_name": "Insarskiy Rayon"
+                },
+                {
+                    "city_name": "Ichalkovskiy Rayon"
+                },
+                {
+                    "city_name": "Dubenskiy Rayon"
+                },
+                {
+                    "city_name": "Chamzinskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'sheignatovskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'shebereznikovskiy Rayon"
+                },
+                {
+                    "city_name": "Atyur'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Atyashevskiy Rayon"
+                },
+                {
+                    "city_name": "Ardatovskiy Rayon"
+                },
+                {
+                    "city_name": "Kadoshkinskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Mariy-El",
+            "cities": [
+                {
+                    "city_name": "Zvenigovskiy Rayon"
+                },
+                {
+                    "city_name": "Yurinskiy Rayon"
+                },
+                {
+                    "city_name": "Volzhskiy Rayon"
+                },
+                {
+                    "city_name": "Sovetskiy Rayon"
+                },
+                {
+                    "city_name": "Sernurskiy Rayon"
+                },
+                {
+                    "city_name": "Paran'ginskiy Rayon"
+                },
+                {
+                    "city_name": "Orshanskiy Rayon"
+                },
+                {
+                    "city_name": "Novotor\"yal'skiy Rayon"
+                },
+                {
+                    "city_name": "Morkinskiy Rayon"
+                },
+                {
+                    "city_name": "Medvedevskiy Rayon"
+                },
+                {
+                    "city_name": "Mari-Turekskiy Rayon"
+                },
+                {
+                    "city_name": "Kuzhenerskiy Rayon"
+                },
+                {
+                    "city_name": "Kilemarskiy Rayon"
+                },
+                {
+                    "city_name": "Gornomariyskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Lipetskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zadonskiy Rayon"
+                },
+                {
+                    "city_name": "Yeletskiy Rayon"
+                },
+                {
+                    "city_name": "Volovskiy Rayon"
+                },
+                {
+                    "city_name": "Usmanskiy Rayon"
+                },
+                {
+                    "city_name": "Terbunskiy Rayon"
+                },
+                {
+                    "city_name": "Stanovlyanskiy Rayon"
+                },
+                {
+                    "city_name": "Lipetskiy Rayon"
+                },
+                {
+                    "city_name": "Lev-Tolstovskiy Rayon"
+                },
+                {
+                    "city_name": "Lebedyanskiy Rayon"
+                },
+                {
+                    "city_name": "Krasninskiy Rayon"
+                },
+                {
+                    "city_name": "Khlevenskiy Rayon"
+                },
+                {
+                    "city_name": "Izmalkovskiy Rayon"
+                },
+                {
+                    "city_name": "Gryazinskiy Rayon"
+                },
+                {
+                    "city_name": "Dolgorukovskiy Rayon"
+                },
+                {
+                    "city_name": "Dobrovskiy Rayon"
+                },
+                {
+                    "city_name": "Dobrinskiy Rayon"
+                },
+                {
+                    "city_name": "Dankovskiy Rayon"
+                },
+                {
+                    "city_name": "Chaplyginskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Leningradskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vyborgskiy Rayon"
+                },
+                {
+                    "city_name": "Vsevolozhskiy Rayon"
+                },
+                {
+                    "city_name": "Volosovskiy Rayon"
+                },
+                {
+                    "city_name": "Volkhovskiy rayon"
+                },
+                {
+                    "city_name": "Tosnenskiy Rayon"
+                },
+                {
+                    "city_name": "Tikhvinskiy Rayon"
+                },
+                {
+                    "city_name": "Slantsevskiy Rayon"
+                },
+                {
+                    "city_name": "Podporozhskiy Rayon"
+                },
+                {
+                    "city_name": "Luzhskiy Rayon"
+                },
+                {
+                    "city_name": "Lomonosovskiy Rayon"
+                },
+                {
+                    "city_name": "Lodeynopol'skiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Kirishskiy Rayon"
+                },
+                {
+                    "city_name": "Kingiseppskiy Rayon"
+                },
+                {
+                    "city_name": "Gatchinskiy Rayon"
+                },
+                {
+                    "city_name": "Boksitogorskiy Rayon"
+                },
+                {
+                    "city_name": "Priozersky"
+                },
+                {
+                    "city_name": "Sosnovoborsky Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Sankt-Peterburg",
+            "cities": [
+                {
+                    "city_name": "Primorskiy Rayon"
+                },
+                {
+                    "city_name": "Vyborgskiy Rayon"
+                },
+                {
+                    "city_name": "Vasileostrovskiy Rayon"
+                },
+                {
+                    "city_name": "Sestroretskiy Rayon"
+                },
+                {
+                    "city_name": "Petrogradskiy Rayon"
+                },
+                {
+                    "city_name": "Nevskiy Rayon"
+                },
+                {
+                    "city_name": "Moskovskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnosel'skiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogvardeyskiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Kalininskiy Rayon"
+                },
+                {
+                    "city_name": "Frunzenskiy Rayon"
+                },
+                {
+                    "city_name": "Admiralteysky Rayon"
+                },
+                {
+                    "city_name": "Kolpinskiy Rayon"
+                },
+                {
+                    "city_name": "Kronshtadtskiy Rayon"
+                },
+                {
+                    "city_name": "Kurortnyy Rayon"
+                },
+                {
+                    "city_name": "Petrodvortsovyy Rayon"
+                },
+                {
+                    "city_name": "Pushkinskiy Rayon"
+                },
+                {
+                    "city_name": "Tsentralniy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Kurskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zolotukhinskiy Rayon"
+                },
+                {
+                    "city_name": "Zheleznogorskiy Rayon"
+                },
+                {
+                    "city_name": "Timskiy Rayon"
+                },
+                {
+                    "city_name": "Sudzhanskiy Rayon"
+                },
+                {
+                    "city_name": "Sovetskiy Rayon"
+                },
+                {
+                    "city_name": "Solntsevskiy Rayon"
+                },
+                {
+                    "city_name": "Shchigrovskiy Rayon"
+                },
+                {
+                    "city_name": "Ryl'skiy Rayon"
+                },
+                {
+                    "city_name": "Pristenskiy Rayon"
+                },
+                {
+                    "city_name": "Ponyrovskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Oboyanskiy Rayon"
+                },
+                {
+                    "city_name": "Medvenskiy Rayon"
+                },
+                {
+                    "city_name": "Manturovskiy Rayon"
+                },
+                {
+                    "city_name": "L'govskiy Rayon"
+                },
+                {
+                    "city_name": "Kurskiy Rayon"
+                },
+                {
+                    "city_name": "Kurchatovskiy Rayon"
+                },
+                {
+                    "city_name": "Korenevskiy Rayon"
+                },
+                {
+                    "city_name": "Konyshevskiy Rayon"
+                },
+                {
+                    "city_name": "Khomutovskiy Rayon"
+                },
+                {
+                    "city_name": "Kastorenskiy Rayon"
+                },
+                {
+                    "city_name": "Gorshechenskiy Rayon"
+                },
+                {
+                    "city_name": "Glushkovskiy Rayon"
+                },
+                {
+                    "city_name": "Fatezhskiy Rayon"
+                },
+                {
+                    "city_name": "Dmitriyevskiy Rayon"
+                },
+                {
+                    "city_name": "Cheremisinovskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'shesoldatskiy Rayon"
+                },
+                {
+                    "city_name": "Belovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Krasnodarskiy Kray",
+            "cities": [
+                {
+                    "city_name": "Yeyskiy Rayon"
+                },
+                {
+                    "city_name": "Vyselkovskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Labinskiy Rayon"
+                },
+                {
+                    "city_name": "Uspenskiy Rayon"
+                },
+                {
+                    "city_name": "Tuapsinskiy Rayon"
+                },
+                {
+                    "city_name": "Timashevskiy Rayon"
+                },
+                {
+                    "city_name": "Tikhoretskiy Rayon"
+                },
+                {
+                    "city_name": "Temruksky rayon"
+                },
+                {
+                    "city_name": "Tbilisskiy Rayon"
+                },
+                {
+                    "city_name": "Starominskiy Rayon"
+                },
+                {
+                    "city_name": "Slavyansky rayon"
+                },
+                {
+                    "city_name": "Shcherbinovskiy Rayon"
+                },
+                {
+                    "city_name": "Severskiy Rayon"
+                },
+                {
+                    "city_name": "Primorsko-Akhtarskiy Rayon"
+                },
+                {
+                    "city_name": "Pavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Otradnenskiy Rayon"
+                },
+                {
+                    "city_name": "Novopokrovskiy Rayon"
+                },
+                {
+                    "city_name": "Novokubanskiy Rayon"
+                },
+                {
+                    "city_name": "Mostovskiy Rayon"
+                },
+                {
+                    "city_name": "Leningradskiy Rayon"
+                },
+                {
+                    "city_name": "Labinskiy Rayon"
+                },
+                {
+                    "city_name": "Kushchevskiy Rayon"
+                },
+                {
+                    "city_name": "Kurganinskiy Rayon"
+                },
+                {
+                    "city_name": "Krymskiy Rayon"
+                },
+                {
+                    "city_name": "Krylovskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoarmeyskiy Rayon"
+                },
+                {
+                    "city_name": "Korenovskiy Rayon"
+                },
+                {
+                    "city_name": "Kavkazskiy Rayon"
+                },
+                {
+                    "city_name": "Kanevskiy Rayon"
+                },
+                {
+                    "city_name": "Kalininskiy Rayon"
+                },
+                {
+                    "city_name": "Gul'kevichskiy Rayon"
+                },
+                {
+                    "city_name": "Dinskoy Rayon"
+                },
+                {
+                    "city_name": "Bryukhovetskiy Rayon"
+                },
+                {
+                    "city_name": "Belorechenskiy Rayon"
+                },
+                {
+                    "city_name": "Beloglinskiy Rayon"
+                },
+                {
+                    "city_name": "Apsheronskiy Rayon"
+                },
+                {
+                    "city_name": "Anapskiy Rayon"
+                },
+                {
+                    "city_name": "Abinskiy Rayon"
+                },
+                {
+                    "city_name": "Sochi City"
+                }
+            ]
+        },
+        {
+            "province_name": "Kostromskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vokhomskiy Rayon"
+                },
+                {
+                    "city_name": "Susaninskiy Rayon"
+                },
+                {
+                    "city_name": "Sudislavskiy Rayon"
+                },
+                {
+                    "city_name": "Soligalichskiy Rayon"
+                },
+                {
+                    "city_name": "Shar'inskiy Rayon"
+                },
+                {
+                    "city_name": "Pyshchugskiy Rayon"
+                },
+                {
+                    "city_name": "Ponazyrevskiy Rayon"
+                },
+                {
+                    "city_name": "Pavinskiy Rayon"
+                },
+                {
+                    "city_name": "Parfen'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Ostrovskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Neyskiy Rayon"
+                },
+                {
+                    "city_name": "Nerekhtskiy Rayon"
+                },
+                {
+                    "city_name": "Mezhevskoy Rayon"
+                },
+                {
+                    "city_name": "Manturovskiy Rayon"
+                },
+                {
+                    "city_name": "Makar'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnosel'skiy Rayon"
+                },
+                {
+                    "city_name": "Kostromskoy Rayon"
+                },
+                {
+                    "city_name": "Kologrivskiy Rayon"
+                },
+                {
+                    "city_name": "Kadyyskiy Rayon"
+                },
+                {
+                    "city_name": "Galichskiy Rayon"
+                },
+                {
+                    "city_name": "Chukhlomskiy Rayon"
+                },
+                {
+                    "city_name": "Buyskiy Rayon"
+                },
+                {
+                    "city_name": "Antropovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Komi",
+            "cities": [
+                {
+                    "city_name": "Ust'-Vymskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Tsilemskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Kulomskiy Rayon"
+                },
+                {
+                    "city_name": "Udorskiy Rayon"
+                },
+                {
+                    "city_name": "Troitsko-Pechorskiy Rayon"
+                },
+                {
+                    "city_name": "Sysol'skiy Rayon"
+                },
+                {
+                    "city_name": "Syktyvdinskiy Rayon"
+                },
+                {
+                    "city_name": "Priluzskiy Rayon"
+                },
+                {
+                    "city_name": "Koygorodskiy Rayon"
+                },
+                {
+                    "city_name": "Kortkerosskiy Rayon"
+                },
+                {
+                    "city_name": "Knyazhpogostskiy Rayon"
+                },
+                {
+                    "city_name": "Izhemskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zuyevskiy Rayon"
+                },
+                {
+                    "city_name": "Yur'yanskiy Rayon"
+                },
+                {
+                    "city_name": "Yaranskiy Rayon"
+                },
+                {
+                    "city_name": "Vyatsko-Polyanskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhoshizhemskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnekamskiy Rayon"
+                },
+                {
+                    "city_name": "Urzhumskiy Rayon"
+                },
+                {
+                    "city_name": "Uninskiy Rayon"
+                },
+                {
+                    "city_name": "Tuzhinskiy Rayon"
+                },
+                {
+                    "city_name": "Svechinskiy Rayon"
+                },
+                {
+                    "city_name": "Sunskiy Rayon"
+                },
+                {
+                    "city_name": "Sovetskiy Rayon"
+                },
+                {
+                    "city_name": "Slobodskoy Rayon"
+                },
+                {
+                    "city_name": "Shabalinskiy Rayon"
+                },
+                {
+                    "city_name": "Sanchurskiy Rayon"
+                },
+                {
+                    "city_name": "Podosinovskiy Rayon"
+                },
+                {
+                    "city_name": "Pizhanskiy Rayon"
+                },
+                {
+                    "city_name": "Orichevskiy Rayon"
+                },
+                {
+                    "city_name": "Oparinskiy Rayon"
+                },
+                {
+                    "city_name": "Omutninskiy Rayon"
+                },
+                {
+                    "city_name": "Nolinskiy Rayon"
+                },
+                {
+                    "city_name": "Nemskiy Rayon"
+                },
+                {
+                    "city_name": "Nagorskiy Rayon"
+                },
+                {
+                    "city_name": "Murashinskiy Rayon"
+                },
+                {
+                    "city_name": "Malmyzhskiy Rayon"
+                },
+                {
+                    "city_name": "Luzskiy Rayon"
+                },
+                {
+                    "city_name": "Lebyazhskiy Rayon"
+                },
+                {
+                    "city_name": "Kumenskiy Rayon"
+                },
+                {
+                    "city_name": "Kotel'nichskiy Rayon"
+                },
+                {
+                    "city_name": "Kirovo-Chepetskiy Rayon"
+                },
+                {
+                    "city_name": "Kil'mezskiy Rayon"
+                },
+                {
+                    "city_name": "Kiknurskiy Rayon"
+                },
+                {
+                    "city_name": "Orlovskiy Rayon"
+                },
+                {
+                    "city_name": "Falenskiy Rayon"
+                },
+                {
+                    "city_name": "Darovskiy Rayon"
+                },
+                {
+                    "city_name": "Bogorodskiy Rayon"
+                },
+                {
+                    "city_name": "Belokholunitskiy Rayon"
+                },
+                {
+                    "city_name": "Arbazhskiy Rayon"
+                },
+                {
+                    "city_name": "Afanas'yevskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Kareliya",
+            "cities": [
+                {
+                    "city_name": "Sortaval'skiy Rayon"
+                },
+                {
+                    "city_name": "Suoyarvskiy Rayon"
+                },
+                {
+                    "city_name": "Segezhskiy Rayon"
+                },
+                {
+                    "city_name": "Pudozhskiy Rayon"
+                },
+                {
+                    "city_name": "Pryazhinskiy Rayon"
+                },
+                {
+                    "city_name": "Prionezhskiy Rayon"
+                },
+                {
+                    "city_name": "Pitkyarantskiy Rayon"
+                },
+                {
+                    "city_name": "Olonetskiy Rayon"
+                },
+                {
+                    "city_name": "Muyezerskiy Rayon"
+                },
+                {
+                    "city_name": "Medvezh'yegorskiy Rayon"
+                },
+                {
+                    "city_name": "Loukhskiy Rayon"
+                },
+                {
+                    "city_name": "Lakhdenpokhskiy Rayon"
+                },
+                {
+                    "city_name": "Kondopozhskiy Rayon"
+                },
+                {
+                    "city_name": "Kemskiy Rayon"
+                },
+                {
+                    "city_name": "Kaleval'skiy Rayon"
+                },
+                {
+                    "city_name": "Belomorskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Karachayevo-Cherkesiya",
+            "cities": [
+                {
+                    "city_name": "Zelenchukskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Dzhegutinskiy Rayon"
+                },
+                {
+                    "city_name": "Urupskiy Rayon"
+                },
+                {
+                    "city_name": "Prikubanskiy Rayon"
+                },
+                {
+                    "city_name": "Malokarachayevskiy Rayon"
+                },
+                {
+                    "city_name": "Khabezskiy Rayon"
+                },
+                {
+                    "city_name": "Karachayevskiy Rayon"
+                },
+                {
+                    "city_name": "Adyge-Khabl'skiy Rayon"
+                },
+                {
+                    "city_name": "Nogayskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaluzhskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zhukovskiy Rayon"
+                },
+                {
+                    "city_name": "Zhizdrinskiy Rayon"
+                },
+                {
+                    "city_name": "Yukhnovskiy Rayon"
+                },
+                {
+                    "city_name": "Ul'yanovskiy Rayon"
+                },
+                {
+                    "city_name": "Tarusskiy Rayon"
+                },
+                {
+                    "city_name": "Sukhinichskiy Rayon"
+                },
+                {
+                    "city_name": "Spas-Demenskiy Rayon"
+                },
+                {
+                    "city_name": "Peremyshl'skiy Rayon"
+                },
+                {
+                    "city_name": "Mosal'skiy Rayon"
+                },
+                {
+                    "city_name": "Meshchovskiy Rayon"
+                },
+                {
+                    "city_name": "Medynskiy Rayon"
+                },
+                {
+                    "city_name": "Maloyaroslavetskiy Rayon"
+                },
+                {
+                    "city_name": "Lyudinovskiy Rayon"
+                },
+                {
+                    "city_name": "Kuybyshevskiy Rayon"
+                },
+                {
+                    "city_name": "Kozel'skiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Khvastovichskiy Rayon"
+                },
+                {
+                    "city_name": "Ferzikovskiy Rayon"
+                },
+                {
+                    "city_name": "Dzerzhinskiy Rayon"
+                },
+                {
+                    "city_name": "Duminichskiy Rayon"
+                },
+                {
+                    "city_name": "Borovskiy Rayon"
+                },
+                {
+                    "city_name": "Baryatinskiy Rayon"
+                },
+                {
+                    "city_name": "Babyninskiy Rayon"
+                },
+                {
+                    "city_name": "Iznoskovskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Kalmykiya",
+            "cities": [
+                {
+                    "city_name": "Yustinskiy Rayon"
+                },
+                {
+                    "city_name": "Yashkul'skiy Rayon"
+                },
+                {
+                    "city_name": "Yashaltinskiy Rayon"
+                },
+                {
+                    "city_name": "Tselinnyy Rayon"
+                },
+                {
+                    "city_name": "Sarpinskiy Rayon"
+                },
+                {
+                    "city_name": "Priyutnenskiy Rayon"
+                },
+                {
+                    "city_name": "Ketchenerovskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Maloderbetovskiy Rayon"
+                },
+                {
+                    "city_name": "Laganskiy Rayon"
+                },
+                {
+                    "city_name": "Iki-Burul'skiy Rayon"
+                },
+                {
+                    "city_name": "Gorodovikovskiy Rayon"
+                },
+                {
+                    "city_name": "Chernozemel'skiy Rayon"
+                },
+                {
+                    "city_name": "Elista Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaliningradskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zelenogradskiy Rayon"
+                },
+                {
+                    "city_name": "Slavskiy Rayon"
+                },
+                {
+                    "city_name": "Pravdinskiy Rayon"
+                },
+                {
+                    "city_name": "Polesskiy Rayon"
+                },
+                {
+                    "city_name": "Ozerskiy Rayon"
+                },
+                {
+                    "city_name": "Nesterovskiy Rayon"
+                },
+                {
+                    "city_name": "Nemanskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoznamenskiy Rayon"
+                },
+                {
+                    "city_name": "Gvardeyskiy Rayon"
+                },
+                {
+                    "city_name": "Gusevskiy Rayon"
+                },
+                {
+                    "city_name": "Gur'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Chernyakhovskiy Rayon"
+                },
+                {
+                    "city_name": "Bagrationovskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Sovetsk"
+                },
+                {
+                    "city_name": "Gorod Neman"
+                },
+                {
+                    "city_name": "Gorod Svetlogorsk"
+                },
+                {
+                    "city_name": "Gorod Pionerskiy"
+                },
+                {
+                    "city_name": "Gorod Svetlyy"
+                },
+                {
+                    "city_name": "Gorod Kaliningrad"
+                },
+                {
+                    "city_name": "Gorod Baltiysk"
+                }
+            ]
+        },
+        {
+            "province_name": "Kabardino-Balkarskaya Respublika",
+            "cities": [
+                {
+                    "city_name": "Zol'skiy Rayon"
+                },
+                {
+                    "city_name": "Urvanskiy Rayon"
+                },
+                {
+                    "city_name": "Terskiy Rayon"
+                },
+                {
+                    "city_name": "Cherekskiy Rayon"
+                },
+                {
+                    "city_name": "Prokhladnenskiy Rayon"
+                },
+                {
+                    "city_name": "Mayskiy Rayon"
+                },
+                {
+                    "city_name": "Chegemskiy Rayon"
+                },
+                {
+                    "city_name": "Baksanskiy Rayon"
+                },
+                {
+                    "city_name": "El'brusskiy Rayon"
+                },
+                {
+                    "city_name": "Nalchik Urban Okrug"
+                },
+                {
+                    "city_name": "Leskenskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Ivanovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zavolzhskiy Rayon"
+                },
+                {
+                    "city_name": "Yuzhskiy Rayon"
+                },
+                {
+                    "city_name": "Yur'yevetskiy Rayon"
+                },
+                {
+                    "city_name": "Vichugskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnelandekhovskiy Rayon"
+                },
+                {
+                    "city_name": "Teykovskiy Rayon"
+                },
+                {
+                    "city_name": "Shuyskiy Rayon"
+                },
+                {
+                    "city_name": "Savinskiy Rayon"
+                },
+                {
+                    "city_name": "Rodnikovskiy Rayon"
+                },
+                {
+                    "city_name": "Puchezhskiy Rayon"
+                },
+                {
+                    "city_name": "Privolzhskiy Rayon"
+                },
+                {
+                    "city_name": "Pestyakovskiy Rayon"
+                },
+                {
+                    "city_name": "Palekhskiy Rayon"
+                },
+                {
+                    "city_name": "Lukhskiy Rayon"
+                },
+                {
+                    "city_name": "Komsomol'skiy Rayon"
+                },
+                {
+                    "city_name": "Kineshemskiy Rayon"
+                },
+                {
+                    "city_name": "Ivanovskiy Rayon"
+                },
+                {
+                    "city_name": "Il'inskiy Rayon"
+                },
+                {
+                    "city_name": "Gavrilovo-Posadskiy Rayon"
+                },
+                {
+                    "city_name": "Furmanovskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Vichuga"
+                },
+                {
+                    "city_name": "Gorod Kineshma"
+                },
+                {
+                    "city_name": "Gorod Shuya"
+                },
+                {
+                    "city_name": "Gorod Ivanovo"
+                },
+                {
+                    "city_name": "Gorod Teykovo"
+                },
+                {
+                    "city_name": "Lezhnevskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Furmanovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Ingushetiya",
+            "cities": [
+                {
+                    "city_name": "Sunzhenskiy Rayon"
+                },
+                {
+                    "city_name": "Nazranovskiy Rayon"
+                },
+                {
+                    "city_name": "Malgobekskiy Rayon"
+                },
+                {
+                    "city_name": "Dzhayrakhskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Nizhegorodskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Voznesenskiy Rayon"
+                },
+                {
+                    "city_name": "Voskresenskiy Rayon"
+                },
+                {
+                    "city_name": "Vorotynskiy Rayon"
+                },
+                {
+                    "city_name": "Volodarskiy Rayon"
+                },
+                {
+                    "city_name": "Vetluzhskiy Rayon"
+                },
+                {
+                    "city_name": "Varnavinskiy Rayon"
+                },
+                {
+                    "city_name": "Vadskiy Rayon"
+                },
+                {
+                    "city_name": "Vachskiy Rayon"
+                },
+                {
+                    "city_name": "Sosnovskiy Rayon"
+                },
+                {
+                    "city_name": "Semenovskiy Rayon"
+                },
+                {
+                    "city_name": "Pavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Lukoyanovskiy Rayon"
+                },
+                {
+                    "city_name": "Kstovskiy Rayon"
+                },
+                {
+                    "city_name": "Koverninskiy Rayon"
+                },
+                {
+                    "city_name": "Knyagininskiy Rayon"
+                },
+                {
+                    "city_name": "Gorodetskiy Rayon"
+                },
+                {
+                    "city_name": "Gaginskiy Rayon"
+                },
+                {
+                    "city_name": "Diveyevskiy Rayon"
+                },
+                {
+                    "city_name": "Dal'nekonstantinovskiy Rayon"
+                },
+                {
+                    "city_name": "Buturlinskiy Rayon"
+                },
+                {
+                    "city_name": "Borskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'shemurashkinskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'sheboldinskiy Rayon"
+                },
+                {
+                    "city_name": "Bogorodskiy Rayon"
+                },
+                {
+                    "city_name": "Balakhninskiy Rayon"
+                },
+                {
+                    "city_name": "Arzamasskiy Rayon"
+                },
+                {
+                    "city_name": "Ardatovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Dagestan",
+            "cities": [
+                {
+                    "city_name": "Untsukul'skiy Rayon"
+                },
+                {
+                    "city_name": "Tsuntinskiy Rayon"
+                },
+                {
+                    "city_name": "Tsumadinskiy Rayon"
+                },
+                {
+                    "city_name": "Tlyaratinskiy Rayon"
+                },
+                {
+                    "city_name": "Tarumovskiy Rayon"
+                },
+                {
+                    "city_name": "Tabasaranskiy Rayon"
+                },
+                {
+                    "city_name": "Suleyman-Stal'skiy Rayon"
+                },
+                {
+                    "city_name": "Shamil'skiy Rayon"
+                },
+                {
+                    "city_name": "Sergokalinskiy Rayon"
+                },
+                {
+                    "city_name": "Rutul'skiy Rayon"
+                },
+                {
+                    "city_name": "Novolakskiy Rayon"
+                },
+                {
+                    "city_name": "Nogayskiy Rayon"
+                },
+                {
+                    "city_name": "Magaramkentskiy Rayon"
+                },
+                {
+                    "city_name": "Levashinskiy Rayon"
+                },
+                {
+                    "city_name": "Karabudakhkentskiy Rayon"
+                },
+                {
+                    "city_name": "Lakskiy Rayon"
+                },
+                {
+                    "city_name": "Kurakhskiy Rayon"
+                },
+                {
+                    "city_name": "Kulinskiy Rayon"
+                },
+                {
+                    "city_name": "Kizlyarskiy Rayon"
+                },
+                {
+                    "city_name": "Kizilyurtovskiy Rayon"
+                },
+                {
+                    "city_name": "Khunzakhskiy Rayon"
+                },
+                {
+                    "city_name": "Khivskiy Rayon"
+                },
+                {
+                    "city_name": "Khasavyurtovskiy Rayon"
+                },
+                {
+                    "city_name": "Kazbekovskiy Rayon"
+                },
+                {
+                    "city_name": "Kaytagskiy Rayon"
+                },
+                {
+                    "city_name": "Kayakentskiy Rayon"
+                },
+                {
+                    "city_name": "Gunibskiy Rayon"
+                },
+                {
+                    "city_name": "Gumbetovskiy Rayon"
+                },
+                {
+                    "city_name": "Gergebil'skiy Rayon"
+                },
+                {
+                    "city_name": "Derbentskiy Rayon"
+                },
+                {
+                    "city_name": "Dakhadayevskiy Rayon"
+                },
+                {
+                    "city_name": "Charodinskiy Rayon"
+                },
+                {
+                    "city_name": "Buynakskiy Rayon"
+                },
+                {
+                    "city_name": "Botlikhskiy Rayon"
+                },
+                {
+                    "city_name": "Babayurtovskiy Rayon"
+                },
+                {
+                    "city_name": "Akushinskiy Rayon"
+                },
+                {
+                    "city_name": "Akhvakhskiy Rayon"
+                },
+                {
+                    "city_name": "Akhtynskiy Rayon"
+                },
+                {
+                    "city_name": "Agul'skiy Rayon"
+                },
+                {
+                    "city_name": "Dokuzparinskiy Rayon"
+                },
+                {
+                    "city_name": "Kumtorkalinskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Makhachkala"
+                },
+                {
+                    "city_name": "Bezhtinskiy Uchastok Rayon"
+                },
+                {
+                    "city_name": "Gorod Buynaksk"
+                },
+                {
+                    "city_name": "Gorod Derbent"
+                },
+                {
+                    "city_name": "Gorod Dagestanskiye Ogni"
+                },
+                {
+                    "city_name": "Gorod Izberbash"
+                },
+                {
+                    "city_name": "Gorod Kaspiysk"
+                },
+                {
+                    "city_name": "Gorod Kizlyar"
+                },
+                {
+                    "city_name": "Gorod Yuzhno-Sukhokumsk"
+                }
+            ]
+        },
+        {
+            "province_name": "Chuvashskaya Respublika",
+            "cities": [
+                {
+                    "city_name": "Yantikovskiy Rayon"
+                },
+                {
+                    "city_name": "Yal'chikskiy Rayon"
+                },
+                {
+                    "city_name": "Yadrinskiy Rayon"
+                },
+                {
+                    "city_name": "Vurnarskiy Rayon"
+                },
+                {
+                    "city_name": "Urmarskiy Rayon"
+                },
+                {
+                    "city_name": "Tsivil'skiy Rayon"
+                },
+                {
+                    "city_name": "Shumerlinskiy Rayon"
+                },
+                {
+                    "city_name": "Shemurshinskiy Rayon"
+                },
+                {
+                    "city_name": "Poretskiy Rayon"
+                },
+                {
+                    "city_name": "Morgaushskiy Rayon"
+                },
+                {
+                    "city_name": "Mariinsko-Posadskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoarmeyskiy Rayon"
+                },
+                {
+                    "city_name": "Kozlovskiy Rayon"
+                },
+                {
+                    "city_name": "Komsomol'skiy Rayon"
+                },
+                {
+                    "city_name": "Kanashskiy Rayon"
+                },
+                {
+                    "city_name": "Ibresinskiy Rayon"
+                },
+                {
+                    "city_name": "Cheboksarskiy Rayon"
+                },
+                {
+                    "city_name": "Batyrevskiy Rayon"
+                },
+                {
+                    "city_name": "Alikovskiy Rayon"
+                },
+                {
+                    "city_name": "Alatyrskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnochetayskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Chechenskaya Respublika",
+            "cities": [
+                {
+                    "city_name": "Vedenskiy Rayon"
+                },
+                {
+                    "city_name": "Urus-Martanovskiy Rayon"
+                },
+                {
+                    "city_name": "Shelkovskiy Rayon"
+                },
+                {
+                    "city_name": "Shalinskiy Rayon"
+                },
+                {
+                    "city_name": "Nozhay-Yurtovskiy Rayon"
+                },
+                {
+                    "city_name": "Naurskiy Rayon"
+                },
+                {
+                    "city_name": "Nadterechnyy Rayon"
+                },
+                {
+                    "city_name": "Gudermesskiy Rayon"
+                },
+                {
+                    "city_name": "Groznenskiy Rayon"
+                },
+                {
+                    "city_name": "Achkhoy-Martanovskiy Rayon"
+                },
+                {
+                    "city_name": "Itum-Kalinskiy Rayon"
+                },
+                {
+                    "city_name": "Kurchaloyevskiy rayon"
+                },
+                {
+                    "city_name": "Grozny Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Bryanskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zhukovskiy Rayon"
+                },
+                {
+                    "city_name": "Vygonichskiy Rayon"
+                },
+                {
+                    "city_name": "Unechskiy Rayon"
+                },
+                {
+                    "city_name": "Trubchevskiy Rayon"
+                },
+                {
+                    "city_name": "Suzemskiy Rayon"
+                },
+                {
+                    "city_name": "Surazhskiy Rayon"
+                },
+                {
+                    "city_name": "Starodubskiy Rayon"
+                },
+                {
+                    "city_name": "Sevskiy Rayon"
+                },
+                {
+                    "city_name": "Rognedinskiy Rayon"
+                },
+                {
+                    "city_name": "Pogarskiy Rayon"
+                },
+                {
+                    "city_name": "Pochepskiy Rayon"
+                },
+                {
+                    "city_name": "Novozybkovskiy Rayon"
+                },
+                {
+                    "city_name": "Navlinskiy Rayon"
+                },
+                {
+                    "city_name": "Mglinskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogorskiy Rayon"
+                },
+                {
+                    "city_name": "Komarichskiy Rayon"
+                },
+                {
+                    "city_name": "Klintsovskiy Rayon"
+                },
+                {
+                    "city_name": "Klimovskiy Rayon"
+                },
+                {
+                    "city_name": "Kletnyanskiy Rayon"
+                },
+                {
+                    "city_name": "Karachevskiy Rayon"
+                },
+                {
+                    "city_name": "Dyat'kovskiy Rayon"
+                },
+                {
+                    "city_name": "Dubrovskiy Rayon"
+                },
+                {
+                    "city_name": "Bryanskiy Rayon"
+                },
+                {
+                    "city_name": "Brasovskiy Rayon"
+                },
+                {
+                    "city_name": "Gordeyevskiy Rayon"
+                },
+                {
+                    "city_name": "Zhiryatinskiy Rayon"
+                },
+                {
+                    "city_name": "Zlynkovskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Novozybkov"
+                },
+                {
+                    "city_name": "Gorod Bryansk"
+                },
+                {
+                    "city_name": "Gorod Dyat'kovo"
+                }
+            ]
+        },
+        {
+            "province_name": "Belgorodskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yakovlevskiy Rayon"
+                },
+                {
+                    "city_name": "Volokonovskiy Rayon"
+                },
+                {
+                    "city_name": "Veydelevskiy Rayon"
+                },
+                {
+                    "city_name": "Valuyskiy Rayon"
+                },
+                {
+                    "city_name": "Starooskolsky Urban Okrug"
+                },
+                {
+                    "city_name": "Shebekinskiy Rayon"
+                },
+                {
+                    "city_name": "Roven'skiy Rayon"
+                },
+                {
+                    "city_name": "Rakityanskiy Rayon"
+                },
+                {
+                    "city_name": "Prokhorovskiy Rayon"
+                },
+                {
+                    "city_name": "Novooskol'skiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogvardeyskiy Rayon"
+                },
+                {
+                    "city_name": "Korochanskiy Rayon"
+                },
+                {
+                    "city_name": "Ivnyanskiy Rayon"
+                },
+                {
+                    "city_name": "Gubkinsky Urban Okrug"
+                },
+                {
+                    "city_name": "Chernyanskiy Rayon"
+                },
+                {
+                    "city_name": "Borisovskiy Rayon"
+                },
+                {
+                    "city_name": "Belgorodskiy Rayon"
+                },
+                {
+                    "city_name": "Alekseyevskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Alekseyevka"
+                },
+                {
+                    "city_name": "Grayvoronskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnenskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoyaruzhskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Bashkortostan",
+            "cities": [
+                {
+                    "city_name": "Zilairskiy Rayon"
+                },
+                {
+                    "city_name": "Zianchurinskiy Rayon"
+                },
+                {
+                    "city_name": "Yermekeyevskiy Rayon"
+                },
+                {
+                    "city_name": "Yanaul'skiy Rayon"
+                },
+                {
+                    "city_name": "Ufimskiy Rayon"
+                },
+                {
+                    "city_name": "Uchalinskiy Rayon"
+                },
+                {
+                    "city_name": "Tuymazinskiy Rayon"
+                },
+                {
+                    "city_name": "Tatyshlinskiy Rayon"
+                },
+                {
+                    "city_name": "Sterlitamakskiy Rayon"
+                },
+                {
+                    "city_name": "Sterlibashevskiy Rayon"
+                },
+                {
+                    "city_name": "Sharanskiy Rayon"
+                },
+                {
+                    "city_name": "Salavatskiy Rayon"
+                },
+                {
+                    "city_name": "Nurimanovskiy Rayon"
+                },
+                {
+                    "city_name": "Miyakinskiy Rayon"
+                },
+                {
+                    "city_name": "Mishkinskiy Rayon"
+                },
+                {
+                    "city_name": "Meleuzovskiy Rayon"
+                },
+                {
+                    "city_name": "Mechetlinskiy Rayon"
+                },
+                {
+                    "city_name": "Kushnarenkovskiy Rayon"
+                },
+                {
+                    "city_name": "Kumertau Urban Okrug"
+                },
+                {
+                    "city_name": "Kugarchinskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnokamskiy Rayon"
+                },
+                {
+                    "city_name": "Kiginskiy Rayon"
+                },
+                {
+                    "city_name": "Khaybullinskiy Rayon"
+                },
+                {
+                    "city_name": "Karmaskalinskiy Rayon"
+                },
+                {
+                    "city_name": "Karaidel'skiy Rayon"
+                },
+                {
+                    "city_name": "Kaltasinskiy Rayon"
+                },
+                {
+                    "city_name": "Ishimbayskiy Rayon"
+                },
+                {
+                    "city_name": "Ilishevskiy Rayon"
+                },
+                {
+                    "city_name": "Iglinskiy Rayon"
+                },
+                {
+                    "city_name": "Gafuriyskiy Rayon"
+                },
+                {
+                    "city_name": "Fedorovskiy Rayon"
+                },
+                {
+                    "city_name": "Dyurtyulinskiy Rayon"
+                },
+                {
+                    "city_name": "Duvanskiy Rayon"
+                },
+                {
+                    "city_name": "Davlekanovskiy Rayon"
+                },
+                {
+                    "city_name": "Chishminskiy Rayon"
+                },
+                {
+                    "city_name": "Chekmagushevskiy Rayon"
+                },
+                {
+                    "city_name": "Buzdyakskiy Rayon"
+                },
+                {
+                    "city_name": "Burzyanskiy Rayon"
+                },
+                {
+                    "city_name": "Burayevskiy Rayon"
+                },
+                {
+                    "city_name": "Blagoveshchenskiy Rayon"
+                },
+                {
+                    "city_name": "Blagovarskiy Rayon"
+                },
+                {
+                    "city_name": "Bizhbulyakskiy Rayon"
+                },
+                {
+                    "city_name": "Birskiy Rayon"
+                },
+                {
+                    "city_name": "Beloretskiy Rayon"
+                },
+                {
+                    "city_name": "Belokatayskiy Rayon"
+                },
+                {
+                    "city_name": "Belebeyevskiy Rayon"
+                },
+                {
+                    "city_name": "Baymakskiy Rayon"
+                },
+                {
+                    "city_name": "Bakalinskiy Rayon"
+                },
+                {
+                    "city_name": "Aurgazinskiy Rayon"
+                },
+                {
+                    "city_name": "Askinskiy Rayon"
+                },
+                {
+                    "city_name": "Arkhangel'skiy Rayon"
+                },
+                {
+                    "city_name": "Al'sheyevskiy Rayon"
+                },
+                {
+                    "city_name": "Abzelilovskiy Rayon"
+                },
+                {
+                    "city_name": "Baltachevskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Astrakhanskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yenotayevskiy Rayon"
+                },
+                {
+                    "city_name": "Volodarskiy Rayon"
+                },
+                {
+                    "city_name": "Privolzhskiy Rayon"
+                },
+                {
+                    "city_name": "Narimanovskiy Rayon"
+                },
+                {
+                    "city_name": "Limanskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoyarskiy Rayon"
+                },
+                {
+                    "city_name": "Kharabalinskiy Rayon"
+                },
+                {
+                    "city_name": "Kamyzyakskiy Rayon"
+                },
+                {
+                    "city_name": "Ikryaninskiy Rayon"
+                },
+                {
+                    "city_name": "Chernoyarskiy Rayon"
+                },
+                {
+                    "city_name": "Akhtubinskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Astrakhan'"
+                }
+            ]
+        },
+        {
+            "province_name": "Arkhangel'skaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vinogradovskiy Rayon"
+                },
+                {
+                    "city_name": "Vilegodskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnetoyemskiy Rayon"
+                },
+                {
+                    "city_name": "Vel'skiy Rayon"
+                },
+                {
+                    "city_name": "Ust'yanskiy Rayon"
+                },
+                {
+                    "city_name": "Shenkurskiy Rayon"
+                },
+                {
+                    "city_name": "Primorskiy Rayon"
+                },
+                {
+                    "city_name": "Pinezhskiy Rayon"
+                },
+                {
+                    "city_name": "Onezhskiy Rayon"
+                },
+                {
+                    "city_name": "Nyandomskiy Rayon"
+                },
+                {
+                    "city_name": "Mezenskiy Rayon"
+                },
+                {
+                    "city_name": "Leshukonskiy Rayon"
+                },
+                {
+                    "city_name": "Lenskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoborskiy Rayon"
+                },
+                {
+                    "city_name": "Kotlasskiy Rayon"
+                },
+                {
+                    "city_name": "Konoshskiy Rayon"
+                },
+                {
+                    "city_name": "Kholmogorskiy Rayon"
+                },
+                {
+                    "city_name": "Kargopol'skiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Adygeya",
+            "cities": [
+                {
+                    "city_name": "Teuchezhskiy Rayon"
+                },
+                {
+                    "city_name": "Shovgenovskiy Rayon"
+                },
+                {
+                    "city_name": "Maykopskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogvardeyskiy Rayon"
+                },
+                {
+                    "city_name": "Koshekhabl'skiy Rayon"
+                },
+                {
+                    "city_name": "Giaginskiy Rayon"
+                },
+                {
+                    "city_name": "Takhtamukayskiy Rayon"
+                },
+                {
+                    "city_name": "Maykop Republican Urban Okrug"
+                },
+                {
+                    "city_name": "Adygeysk Republican Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Vladimirskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yur'yev-Pol'skiy Rayon"
+                },
+                {
+                    "city_name": "Vyaznikovskiy Rayon"
+                },
+                {
+                    "city_name": "Suzdal'skiy Rayon"
+                },
+                {
+                    "city_name": "Sudogodskiy Rayon"
+                },
+                {
+                    "city_name": "Sobinskiy Rayon"
+                },
+                {
+                    "city_name": "Selivanovskiy Rayon"
+                },
+                {
+                    "city_name": "Petushinskiy Rayon"
+                },
+                {
+                    "city_name": "Muromskiy Rayon"
+                },
+                {
+                    "city_name": "Melenkovskiy Rayon"
+                },
+                {
+                    "city_name": "Kovrovskiy Rayon"
+                },
+                {
+                    "city_name": "Kol'chuginskiy Rayon"
+                },
+                {
+                    "city_name": "Kirzhachskiy Rayon"
+                },
+                {
+                    "city_name": "Kameshkovskiy Rayon"
+                },
+                {
+                    "city_name": "Gus'-Khrustal'nyy Rayon"
+                },
+                {
+                    "city_name": "Gorokhovetskiy Rayon"
+                },
+                {
+                    "city_name": "Aleksandrovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+            "cities": [
+                {
+                    "city_name": "Yamal'skiy Rayon"
+                },
+                {
+                    "city_name": "Tazovskiy Rayon"
+                },
+                {
+                    "city_name": "Shuryshkarskiy Rayon"
+                },
+                {
+                    "city_name": "Purovskiy Rayon"
+                },
+                {
+                    "city_name": "Priural'skiy Rayon"
+                },
+                {
+                    "city_name": "Nadymskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnosel'kupskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tyumenskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vagayskiy Rayon"
+                },
+                {
+                    "city_name": "Uporovskiy Rayon"
+                },
+                {
+                    "city_name": "Sladkovskiy Rayon"
+                },
+                {
+                    "city_name": "Omutinskiy Rayon"
+                },
+                {
+                    "city_name": "Kazanskiy Rayon"
+                },
+                {
+                    "city_name": "Ishimskiy Rayon"
+                },
+                {
+                    "city_name": "Isetskiy Rayon"
+                },
+                {
+                    "city_name": "Golyshmanovskiy Rayon"
+                },
+                {
+                    "city_name": "Berdyuzhskiy Rayon"
+                },
+                {
+                    "city_name": "Armizonskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Tyva",
+            "cities": [
+                {
+                    "city_name": "Ovyurskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tomskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Verkhneketskiy Rayon"
+                },
+                {
+                    "city_name": "Tomskiy Rayon"
+                },
+                {
+                    "city_name": "Tegul'detskiy Rayon"
+                },
+                {
+                    "city_name": "Molchanovskiy Rayon"
+                },
+                {
+                    "city_name": "Chainskiy Rayon"
+                },
+                {
+                    "city_name": "Bakcharskiy Rayon"
+                },
+                {
+                    "city_name": "Asinovkiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Sverdlovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Krasnoufimskiy Rayon"
+                },
+                {
+                    "city_name": "Sysertskiy Rayon"
+                },
+                {
+                    "city_name": "Sukholozhskiy Rayon"
+                },
+                {
+                    "city_name": "Kamenskiy Rayon"
+                },
+                {
+                    "city_name": "Bogdanovichskiy Rayon"
+                },
+                {
+                    "city_name": "Beloyarskiy Rayon"
+                },
+                {
+                    "city_name": "Polevskoy Gorod"
+                }
+            ]
+        },
+        {
+            "province_name": "Omskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Znamenskiy Rayon"
+                },
+                {
+                    "city_name": "Tyukalinskiy Rayon"
+                },
+                {
+                    "city_name": "Tevrizskiy Rayon"
+                },
+                {
+                    "city_name": "Tavricheskiy Rayon"
+                },
+                {
+                    "city_name": "Tarskiy Rayon"
+                },
+                {
+                    "city_name": "Sedel'nikovskiy Rayon"
+                },
+                {
+                    "city_name": "Sargatskiy Rayon"
+                },
+                {
+                    "city_name": "Okoneshnikovskiy Rayon"
+                },
+                {
+                    "city_name": "Nizhneomskiy Rayon"
+                },
+                {
+                    "city_name": "Muromtsevskiy Rayon"
+                },
+                {
+                    "city_name": "Mar'yanovskiy Rayon"
+                },
+                {
+                    "city_name": "Lyubinskiy Rayon"
+                },
+                {
+                    "city_name": "Krutinskiy Rayon"
+                },
+                {
+                    "city_name": "Kormilovskiy Rayon"
+                },
+                {
+                    "city_name": "Kolosovskiy Rayon"
+                },
+                {
+                    "city_name": "Kalachinskiy Rayon"
+                },
+                {
+                    "city_name": "Isil'kul'skiy Rayon"
+                },
+                {
+                    "city_name": "Gor'kovskiy Rayon"
+                },
+                {
+                    "city_name": "Cherlakskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'sheukovskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'sherechenskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Novosibirskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zdvinskiy Rayon"
+                },
+                {
+                    "city_name": "Vengerovskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Tarkskiy Rayon"
+                },
+                {
+                    "city_name": "Ubinskiy Rayon"
+                },
+                {
+                    "city_name": "Toguchinskiy Rayon"
+                },
+                {
+                    "city_name": "Tatarskiy Rayon"
+                },
+                {
+                    "city_name": "Suzunskiy Rayon"
+                },
+                {
+                    "city_name": "Severnyy Rayon"
+                },
+                {
+                    "city_name": "Ordynskiy Rayon"
+                },
+                {
+                    "city_name": "Novosibirskiy Rayon"
+                },
+                {
+                    "city_name": "Moshkovskiy Rayon"
+                },
+                {
+                    "city_name": "Maslyaninskiy Rayon"
+                },
+                {
+                    "city_name": "Kyshtovskiy Rayon"
+                },
+                {
+                    "city_name": "Kuybyshevskiy Rayon"
+                },
+                {
+                    "city_name": "Kupinskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnozerskiy Rayon"
+                },
+                {
+                    "city_name": "Kolyvanskiy Rayon"
+                },
+                {
+                    "city_name": "Kochkovskiy Rayon"
+                },
+                {
+                    "city_name": "Kochenevskiy Rayon"
+                },
+                {
+                    "city_name": "Kargatskiy Rayon"
+                },
+                {
+                    "city_name": "Karasukskiy Rayon"
+                },
+                {
+                    "city_name": "Iskitimskiy Rayon"
+                },
+                {
+                    "city_name": "Dovolenskiy Rayon"
+                },
+                {
+                    "city_name": "Chulymskiy Rayon"
+                },
+                {
+                    "city_name": "Chistoozernyy Rayon"
+                },
+                {
+                    "city_name": "Cherepanovskiy Rayon"
+                },
+                {
+                    "city_name": "Chanovskiy Rayon"
+                },
+                {
+                    "city_name": "Bolotninskiy Rayon"
+                },
+                {
+                    "city_name": "Barabinskiy Rayon"
+                },
+                {
+                    "city_name": "Baganskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Kurganskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yurgamyshskiy Rayon"
+                },
+                {
+                    "city_name": "Vargashinskiy Rayon"
+                },
+                {
+                    "city_name": "Tselinnyy Rayon"
+                },
+                {
+                    "city_name": "Shumikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Shchuchanskiy Rayon"
+                },
+                {
+                    "city_name": "Shatrovskiy Rayon"
+                },
+                {
+                    "city_name": "Shadrinskiy Rayon"
+                },
+                {
+                    "city_name": "Safakulevskiy Rayon"
+                },
+                {
+                    "city_name": "Pritobol'nyy Rayon"
+                },
+                {
+                    "city_name": "Polovinskiy Rayon"
+                },
+                {
+                    "city_name": "Petukhovskiy Rayon"
+                },
+                {
+                    "city_name": "Mokrousovskiy Rayon"
+                },
+                {
+                    "city_name": "Mishkinskiy Rayon"
+                },
+                {
+                    "city_name": "Makushinskiy Rayon"
+                },
+                {
+                    "city_name": "Lebyazh'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Kurtamyshskiy Rayon"
+                },
+                {
+                    "city_name": "Ketovskiy Rayon"
+                },
+                {
+                    "city_name": "Katayskiy Rayon"
+                },
+                {
+                    "city_name": "Kargapol'skiy Rayon"
+                },
+                {
+                    "city_name": "Dalmatovskiy Rayon"
+                },
+                {
+                    "city_name": "Chastoozerskiy Rayon"
+                },
+                {
+                    "city_name": "Belozerskiy Rayon"
+                },
+                {
+                    "city_name": "Al'menevskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Krasnoyarskiy Kray",
+            "cities": [
+                {
+                    "city_name": "Yermakovskiy Rayon"
+                },
+                {
+                    "city_name": "Yeniseyskiy Rayon"
+                },
+                {
+                    "city_name": "Yemel'yanovskiy Rayon"
+                },
+                {
+                    "city_name": "Uzhurskiy Rayon"
+                },
+                {
+                    "city_name": "Uyarskiy Rayon"
+                },
+                {
+                    "city_name": "Tyukhtetskiy Rayon"
+                },
+                {
+                    "city_name": "Turukhanskiy Rayon"
+                },
+                {
+                    "city_name": "Taymyrsky Dolgano-Nenetsky District"
+                },
+                {
+                    "city_name": "Taseyevskiy Rayon"
+                },
+                {
+                    "city_name": "Sukhobuzimskiy Rayon"
+                },
+                {
+                    "city_name": "Shushenskiy Rayon"
+                },
+                {
+                    "city_name": "Sharypovskiy Rayon"
+                },
+                {
+                    "city_name": "Severo-Yeniseyskiy Rayon"
+                },
+                {
+                    "city_name": "Sayanskiy Rayon"
+                },
+                {
+                    "city_name": "Rybinskiy Rayon"
+                },
+                {
+                    "city_name": "Pirovskiy Rayon"
+                },
+                {
+                    "city_name": "Partizanskiy Rayon"
+                },
+                {
+                    "city_name": "Novoselovskiy Rayon"
+                },
+                {
+                    "city_name": "Nizhneingashskiy Rayon"
+                },
+                {
+                    "city_name": "Nazarovskiy Rayon"
+                },
+                {
+                    "city_name": "Motyginskiy Rayon"
+                },
+                {
+                    "city_name": "Minusinskiy Rayon"
+                },
+                {
+                    "city_name": "Manskiy Rayon"
+                },
+                {
+                    "city_name": "Kuraginskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoturanskiy Rayon"
+                },
+                {
+                    "city_name": "Kozul'skiy Rayon"
+                },
+                {
+                    "city_name": "Kazachinskiy Rayon"
+                },
+                {
+                    "city_name": "Karatuzskiy Rayon"
+                },
+                {
+                    "city_name": "Kanskiy Rayon"
+                },
+                {
+                    "city_name": "Irbeyskiy Rayon"
+                },
+                {
+                    "city_name": "Ilanskiy Rayon"
+                },
+                {
+                    "city_name": "Idrinskiy Rayon"
+                },
+                {
+                    "city_name": "Evenkiyskiy District"
+                },
+                {
+                    "city_name": "Dzerzhinskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'sheuluyskiy Rayon"
+                },
+                {
+                    "city_name": "Bol'shemurtinskiy Rayon"
+                },
+                {
+                    "city_name": "Boguchanskiy Rayon"
+                },
+                {
+                    "city_name": "Bogotol'skiy Rayon"
+                },
+                {
+                    "city_name": "Birilyusskiy Rayon"
+                },
+                {
+                    "city_name": "Balakhtinskiy Rayon"
+                },
+                {
+                    "city_name": "Achinskiy Rayon"
+                },
+                {
+                    "city_name": "Abanskiy Rayon"
+                },
+                {
+                    "city_name": "Kezhemskiy Rayon"
+                },
+                {
+                    "city_name": "Berezovskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+            "cities": []
+        },
+        {
+            "province_name": "Respublika Khakasiya",
+            "cities": [
+                {
+                    "city_name": "Ust'-Abakanskiy Rayon"
+                },
+                {
+                    "city_name": "Tashtypskiy Rayon"
+                },
+                {
+                    "city_name": "Shirinskiy Rayon"
+                },
+                {
+                    "city_name": "Ordzhonikidzevskiy Rayon"
+                },
+                {
+                    "city_name": "Bogradskiy Rayon"
+                },
+                {
+                    "city_name": "Beyskiy Rayon"
+                },
+                {
+                    "city_name": "Askizskiy Rayon"
+                },
+                {
+                    "city_name": "Altayskiy Rayon"
+                },
+                {
+                    "city_name": "Chernogorsk Gorod"
+                },
+                {
+                    "city_name": "Abakan Gorod"
+                },
+                {
+                    "city_name": "Sayanogorsk Gorod"
+                }
+            ]
+        },
+        {
+            "province_name": "Kemerovskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yurginskiy Rayon"
+                },
+                {
+                    "city_name": "Yayskiy Rayon"
+                },
+                {
+                    "city_name": "Yashkinskiy Rayon"
+                },
+                {
+                    "city_name": "Tyazhinskiy Rayon"
+                },
+                {
+                    "city_name": "Topkinskiy Rayon"
+                },
+                {
+                    "city_name": "Tisul'skiy Rayon"
+                },
+                {
+                    "city_name": "Tashtagol'skiy Rayon"
+                },
+                {
+                    "city_name": "Promyshlennovskiy Rayon"
+                },
+                {
+                    "city_name": "Prokop'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Novokuznetskiy Rayon"
+                },
+                {
+                    "city_name": "Mariinskiy Rayon"
+                },
+                {
+                    "city_name": "Leninsk-Kuznetskiy Rayon"
+                },
+                {
+                    "city_name": "Krapivinskiy Rayon"
+                },
+                {
+                    "city_name": "Kemerovskiy Rayon"
+                },
+                {
+                    "city_name": "Izhmorskiy Rayon"
+                },
+                {
+                    "city_name": "Chebulinskiy Rayon"
+                },
+                {
+                    "city_name": "Belovskiy Rayon"
+                },
+                {
+                    "city_name": "Guryevskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Altay",
+            "cities": [
+                {
+                    "city_name": "Ust'-Koksinskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Kanskiy Rayon"
+                },
+                {
+                    "city_name": "Ulaganskiy Rayon"
+                },
+                {
+                    "city_name": "Turochakskiy Rayon"
+                },
+                {
+                    "city_name": "Shebalinskiy Rayon"
+                },
+                {
+                    "city_name": "Ongudayskiy Rayon"
+                },
+                {
+                    "city_name": "Mayminskiy Rayon"
+                },
+                {
+                    "city_name": "Kosh-Agachskiy Rayon"
+                },
+                {
+                    "city_name": "Choyskiy Rayon"
+                },
+                {
+                    "city_name": "Chemal'skiy Rayon"
+                },
+                {
+                    "city_name": "Gorno-Altaysk Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Chelyabinskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Verkhneural'skiy Rayon"
+                },
+                {
+                    "city_name": "Satkinskiy Rayon"
+                },
+                {
+                    "city_name": "Nyazepetrovskiy Rayon"
+                },
+                {
+                    "city_name": "Nagaybakskiy Rayon"
+                },
+                {
+                    "city_name": "Kusinskiy Rayon"
+                },
+                {
+                    "city_name": "Kizil'skiy Rayon"
+                },
+                {
+                    "city_name": "Katav-Ivanovskiy Rayon"
+                },
+                {
+                    "city_name": "Ashinskiy Rayon"
+                },
+                {
+                    "city_name": "Agapovskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Zlatoust"
+                },
+                {
+                    "city_name": "Gorod Magnitogorsk"
+                },
+                {
+                    "city_name": "Gorod Ust'-Katav"
+                },
+                {
+                    "city_name": "Yetkul'skiy Rayon"
+                },
+                {
+                    "city_name": "Varnenskiy Rayon"
+                },
+                {
+                    "city_name": "Uyskiy Rayon"
+                },
+                {
+                    "city_name": "Uvel'skiy Rayon"
+                },
+                {
+                    "city_name": "Troitskiy Rayon"
+                },
+                {
+                    "city_name": "Sosnovskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Kunashakskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoarmeyskiy Rayon"
+                },
+                {
+                    "city_name": "Kaslinskiy Rayon"
+                },
+                {
+                    "city_name": "Kartalinskiy Rayon"
+                },
+                {
+                    "city_name": "Chesmenskiy Rayon"
+                },
+                {
+                    "city_name": "Chebarkul'skiy Rayon"
+                },
+                {
+                    "city_name": "Bredinskiy Rayon"
+                },
+                {
+                    "city_name": "Argayashskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Chelyabinsk"
+                },
+                {
+                    "city_name": "Gorod Verkhniy Ufaley"
+                },
+                {
+                    "city_name": "Yemanzhelinskiy rayon"
+                },
+                {
+                    "city_name": "Gorod Karabash"
+                },
+                {
+                    "city_name": "Gorod Kopeysk"
+                },
+                {
+                    "city_name": "Korkinskij rayon"
+                },
+                {
+                    "city_name": "Gorod Kyshtym"
+                },
+                {
+                    "city_name": "Gorod Miass"
+                },
+                {
+                    "city_name": "Plastovskij rayon"
+                },
+                {
+                    "city_name": "Gorod Yuzhnoural'sk"
+                }
+            ]
+        },
+        {
+            "province_name": "Altayskiy Kray",
+            "cities": [
+                {
+                    "city_name": "Zonal'nyy Rayon"
+                },
+                {
+                    "city_name": "Zmeinogorskiy Rayon"
+                },
+                {
+                    "city_name": "Zav'yalovskiy Rayon"
+                },
+                {
+                    "city_name": "Zarinskiy Rayon"
+                },
+                {
+                    "city_name": "Zalesovskiy Rayon"
+                },
+                {
+                    "city_name": "Yel'tsovskiy Rayon"
+                },
+                {
+                    "city_name": "Yegor'yevskiy Rayon"
+                },
+                {
+                    "city_name": "Volchikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Pristanskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Kalmanskiy Rayon"
+                },
+                {
+                    "city_name": "Uglovskiy Rayon"
+                },
+                {
+                    "city_name": "Tyumentsevskiy Rayon"
+                },
+                {
+                    "city_name": "Tselinnyy Rayon"
+                },
+                {
+                    "city_name": "Troitskiy Rayon"
+                },
+                {
+                    "city_name": "Tret'yakovskiy Rayon"
+                },
+                {
+                    "city_name": "Topchikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Togul'skiy Rayon"
+                },
+                {
+                    "city_name": "Tal'menskiy Rayon"
+                },
+                {
+                    "city_name": "Tabunskiy Rayon"
+                },
+                {
+                    "city_name": "Sovetskiy Rayon"
+                },
+                {
+                    "city_name": "Soltonskiy Rayon"
+                },
+                {
+                    "city_name": "Soloneshenskiy Rayon"
+                },
+                {
+                    "city_name": "Smolenskiy Rayon"
+                },
+                {
+                    "city_name": "Slavgorodskiy Rayon"
+                },
+                {
+                    "city_name": "Shipunovskiy Rayon"
+                },
+                {
+                    "city_name": "Rubtsovskiy Rayon"
+                },
+                {
+                    "city_name": "Romanovskiy Rayon"
+                },
+                {
+                    "city_name": "Rodinskiy Rayon"
+                },
+                {
+                    "city_name": "Rebrikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Pospelikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Petropavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Pervomayskiy Rayon"
+                },
+                {
+                    "city_name": "Pavlovskiy Rayon"
+                },
+                {
+                    "city_name": "Pankrushikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Novichikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Mikhaylovskiy Rayon"
+                },
+                {
+                    "city_name": "Mamontovskiy Rayon"
+                },
+                {
+                    "city_name": "Loktevskiy Rayon"
+                },
+                {
+                    "city_name": "Kytmanovskiy Rayon"
+                },
+                {
+                    "city_name": "Kur'inskiy Rayon"
+                },
+                {
+                    "city_name": "Kulundinskiy Rayon"
+                },
+                {
+                    "city_name": "Krutikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnoshchekovskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogorskiy Rayon"
+                },
+                {
+                    "city_name": "Kosikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Klyuchevskiy Rayon"
+                },
+                {
+                    "city_name": "Khabarskiy Rayon"
+                },
+                {
+                    "city_name": "Kamenskiy Rayon"
+                },
+                {
+                    "city_name": "Kalmanskiy Rayon"
+                },
+                {
+                    "city_name": "Charyshskiy Rayon"
+                },
+                {
+                    "city_name": "Bystroistokskiy Rayon"
+                },
+                {
+                    "city_name": "Burlinskiy Rayon"
+                },
+                {
+                    "city_name": "Blagoveshchenskiy Rayon"
+                },
+                {
+                    "city_name": "Biyskiy Rayon"
+                },
+                {
+                    "city_name": "Bayevskiy Rayon"
+                },
+                {
+                    "city_name": "Altayskiy Rayon"
+                },
+                {
+                    "city_name": "Aleyskiy Rayon"
+                },
+                {
+                    "city_name": "Natsional'nyy Rayon Nemetskiy"
+                },
+                {
+                    "city_name": "Suyetskiy Rayon"
+                },
+                {
+                    "city_name": "Shelabolikhinskiy Rayon"
+                },
+                {
+                    "city_name": "Barnaul Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Sakha (Yakutiya)",
+            "cities": [
+                {
+                    "city_name": "Zhigansky District"
+                },
+                {
+                    "city_name": "Verkhoyansky District"
+                },
+                {
+                    "city_name": "Verkhnevilyuysky District"
+                },
+                {
+                    "city_name": "Ust'-Yanskiy Rayon"
+                },
+                {
+                    "city_name": "Ust-Aldansky District"
+                },
+                {
+                    "city_name": "Tomponskiy District"
+                },
+                {
+                    "city_name": "Suntarskiy District"
+                },
+                {
+                    "city_name": "Olenyoksky District"
+                },
+                {
+                    "city_name": "Olyokminsky District"
+                },
+                {
+                    "city_name": "Nyurbinsky District"
+                },
+                {
+                    "city_name": "Anabarskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnekolymsky District"
+                },
+                {
+                    "city_name": "Srednekolymsky District"
+                },
+                {
+                    "city_name": "Oymyakonskiy District"
+                },
+                {
+                    "city_name": "Momsky District"
+                },
+                {
+                    "city_name": "Abyysky District"
+                },
+                {
+                    "city_name": "Yakutsk"
+                },
+                {
+                    "city_name": "Eveno-Bytantaysky National District"
+                },
+                {
+                    "city_name": "Vilyuysky District"
+                }
+            ]
+        },
+        {
+            "province_name": "Primorskiy Kray",
+            "cities": [
+                {
+                    "city_name": "Yakovlevskiy Rayon"
+                },
+                {
+                    "city_name": "Ussuriyskiy Rayon"
+                },
+                {
+                    "city_name": "Terneyskiy Rayon"
+                },
+                {
+                    "city_name": "Spasskiy Rayon"
+                },
+                {
+                    "city_name": "Shkotovskiy Rayon"
+                },
+                {
+                    "city_name": "Nadezhdinskiy Rayon"
+                },
+                {
+                    "city_name": "Mikhaylovskiy Rayon"
+                },
+                {
+                    "city_name": "Lazovskiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Khorol'skiy Rayon"
+                },
+                {
+                    "city_name": "Khasanskiy Rayon"
+                },
+                {
+                    "city_name": "Chernigovskiy Rayon"
+                },
+                {
+                    "city_name": "Anuchinskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Khabarovskiy Kray",
+            "cities": [
+                {
+                    "city_name": "Vyazemskiy Rayon"
+                },
+                {
+                    "city_name": "Verkhnebureinskiy Rayon"
+                },
+                {
+                    "city_name": "Ul'chskiy Rayon"
+                },
+                {
+                    "city_name": "Tuguro-Chumikanskiy Rayon"
+                },
+                {
+                    "city_name": "Khabarovskiy Rayon"
+                },
+                {
+                    "city_name": "Bikinskiy Rayon"
+                },
+                {
+                    "city_name": "Amurskiy Rayon"
+                },
+                {
+                    "city_name": "Vaninskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Irkutskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Tayshetskiy Rayon"
+                },
+                {
+                    "city_name": "Nizhneudinskiy Rayon"
+                },
+                {
+                    "city_name": "Chunskiy Rayon"
+                },
+                {
+                    "city_name": "Ziminskiy Rayon"
+                },
+                {
+                    "city_name": "Zhigalovskiy Rayon"
+                },
+                {
+                    "city_name": "Zalarinskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Udinskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Kutskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Ilimskiy Rayon"
+                },
+                {
+                    "city_name": "Usol'skiy Rayon"
+                },
+                {
+                    "city_name": "Tulunskiy Rayon"
+                },
+                {
+                    "city_name": "Slyudyanskiy Rayon"
+                },
+                {
+                    "city_name": "Osinskiy Rayon"
+                },
+                {
+                    "city_name": "Ol'khonskiy Rayon"
+                },
+                {
+                    "city_name": "Nukutskiy Rayon"
+                },
+                {
+                    "city_name": "Nizhneilimskiy Rayon"
+                },
+                {
+                    "city_name": "Mamsko-Chuyskiy Rayon"
+                },
+                {
+                    "city_name": "Kuytunskiy Rayon"
+                },
+                {
+                    "city_name": "Kirenskiy Rayon"
+                },
+                {
+                    "city_name": "Kazachinsko-Lenskiy Rayon"
+                },
+                {
+                    "city_name": "Katangskiy Rayon"
+                },
+                {
+                    "city_name": "Kachugskiy Rayon"
+                },
+                {
+                    "city_name": "Irkutskiy Rayon"
+                },
+                {
+                    "city_name": "Ekhirit-Bulagatskiy Rayon"
+                },
+                {
+                    "city_name": "Cheremkhovskiy Rayon"
+                },
+                {
+                    "city_name": "Bratskiy Rayon"
+                },
+                {
+                    "city_name": "Bokhanskiy Rayon"
+                },
+                {
+                    "city_name": "Bodaybinskiy Rayon"
+                },
+                {
+                    "city_name": "Bayandayevskiy Rayon"
+                },
+                {
+                    "city_name": "Alarskiy Rayon"
+                },
+                {
+                    "city_name": "Angarskiy Rayon"
+                },
+                {
+                    "city_name": "Balaganskiy Rayon"
+                },
+                {
+                    "city_name": "Shelekhovskiy Rayon"
+                },
+                {
+                    "city_name": "Bratsk Urban Okrug"
+                }
+            ]
+        },
+        {
+            "province_name": "Yevreyskaya Avtonomnaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Smidovichskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Obluchenskiy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Birobidzhanskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Amurskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zeyskiy Rayon"
+                },
+                {
+                    "city_name": "Zavitinskiy Rayon"
+                },
+                {
+                    "city_name": "Tyndinskiy Rayon"
+                },
+                {
+                    "city_name": "Tambovskiy Rayon"
+                },
+                {
+                    "city_name": "Svobodnenskiy Rayon"
+                },
+                {
+                    "city_name": "Skovorodinskiy Rayon"
+                },
+                {
+                    "city_name": "Shimanovskiy Rayon"
+                },
+                {
+                    "city_name": "Seryshevskiy Rayon"
+                },
+                {
+                    "city_name": "Selemdzhinskiy Rayon"
+                },
+                {
+                    "city_name": "Romnenskiy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Mikhaylovskiy Rayon"
+                },
+                {
+                    "city_name": "Mazanovskiy Rayon"
+                },
+                {
+                    "city_name": "Magdagachinskiy Rayon"
+                },
+                {
+                    "city_name": "Konstantinovskiy Rayon"
+                },
+                {
+                    "city_name": "Ivanovskiy Rayon"
+                },
+                {
+                    "city_name": "Bureyskiy Rayon"
+                },
+                {
+                    "city_name": "Blagoveshchenskiy Rayon"
+                },
+                {
+                    "city_name": "Belogorskiy Rayon"
+                },
+                {
+                    "city_name": "Arkharinskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Blagoveshchensk"
+                },
+                {
+                    "city_name": "Gorod Raychikhinsk"
+                }
+            ]
+        },
+        {
+            "province_name": "Respublika Buryatiya",
+            "cities": [
+                {
+                    "city_name": "Zakamenskiy Rayon"
+                },
+                {
+                    "city_name": "Zaigrayevskiy Rayon"
+                },
+                {
+                    "city_name": "Yeravninskiy Rayon"
+                },
+                {
+                    "city_name": "Tunkinskiy Rayon"
+                },
+                {
+                    "city_name": "Severo-Baykal'skiy Rayon"
+                },
+                {
+                    "city_name": "Selenginskiy Rayon"
+                },
+                {
+                    "city_name": "Pribaykal'skiy Rayon"
+                },
+                {
+                    "city_name": "Okinskiy Rayon"
+                },
+                {
+                    "city_name": "Mukhorshibirskiy Rayon"
+                },
+                {
+                    "city_name": "Kyakhtinskiy Rayon"
+                },
+                {
+                    "city_name": "Kurumkanskiy Rayon"
+                },
+                {
+                    "city_name": "Kizhinginskiy Rayon"
+                },
+                {
+                    "city_name": "Khorinskiy Rayon"
+                },
+                {
+                    "city_name": "Kabanskiy Rayon"
+                },
+                {
+                    "city_name": "Dzhidinskiy Rayon"
+                },
+                {
+                    "city_name": "Bichurskiy Rayon"
+                },
+                {
+                    "city_name": "Bauntovskiy Rayon"
+                },
+                {
+                    "city_name": "Barguzinskiy Rayon"
+                },
+                {
+                    "city_name": "Ivolginskiy Rayon"
+                },
+                {
+                    "city_name": "Tarbagatayskiy Rayon"
+                },
+                {
+                    "city_name": "Muyskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Sakhalinskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yuzhno-Kurilsky District"
+                },
+                {
+                    "city_name": "Uglegorskiy Rayon"
+                },
+                {
+                    "city_name": "Tomarinskiy Rayon"
+                },
+                {
+                    "city_name": "Smirnykhovskiy Rayon"
+                },
+                {
+                    "city_name": "Poronayskiy Rayon"
+                },
+                {
+                    "city_name": "Okhinskiy Rayon"
+                },
+                {
+                    "city_name": "Nevel'skiy Rayon"
+                },
+                {
+                    "city_name": "Kurilsky District"
+                },
+                {
+                    "city_name": "Korsakovskiy Rayon"
+                },
+                {
+                    "city_name": "Anivskiy Rayon"
+                },
+                {
+                    "city_name": "Aleksandrovsk-Sakhalinskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Magadanskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Yagodninskiy Rayon"
+                },
+                {
+                    "city_name": "Ten'kinskiy Rayon"
+                },
+                {
+                    "city_name": "Susumanskiy Rayon"
+                },
+                {
+                    "city_name": "Srednekanskiy Rayon"
+                },
+                {
+                    "city_name": "Severo-Evenskiy Rayon"
+                },
+                {
+                    "city_name": "Omsukchanskiy Rayon"
+                },
+                {
+                    "city_name": "Ol'skiy Rayon"
+                },
+                {
+                    "city_name": "Khasynskiy Rayon"
+                },
+                {
+                    "city_name": "Gorod Magadan"
+                }
+            ]
+        },
+        {
+            "province_name": "Kamtchatski Kray",
+            "cities": [
+                {
+                    "city_name": "Yelizovskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Kamchatskiy Rayon"
+                },
+                {
+                    "city_name": "Ust'-Bol'sheretskiy Rayon"
+                },
+                {
+                    "city_name": "Tigil'skiy Rayon"
+                },
+                {
+                    "city_name": "Sobolevskiy Rayon"
+                },
+                {
+                    "city_name": "Penzhinskiy Rayon"
+                },
+                {
+                    "city_name": "Olyutorskiy Rayon"
+                },
+                {
+                    "city_name": "Mil'kovskiy Rayon"
+                },
+                {
+                    "city_name": "Karaginsky District"
+                },
+                {
+                    "city_name": "Bystrinskiy Rayon"
+                },
+                {
+                    "city_name": "Aleutskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Chukotskiy Avtonomnyy Okrug",
+            "cities": [
+                {
+                    "city_name": "Chaunskiy Rayon"
+                },
+                {
+                    "city_name": "Bilibinskiy Rayon"
+                },
+                {
+                    "city_name": "Anadyrskiy Rayon"
+                },
+                {
+                    "city_name": "Providenskiy Rayon"
+                },
+                {
+                    "city_name": "Iul'tinskiy Rayon"
+                },
+                {
+                    "city_name": "Chukotskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Zabaykal'skiy Kray",
+            "cities": [
+                {
+                    "city_name": "Zabaykal'skiy Rayon"
+                },
+                {
+                    "city_name": "Uletovskiy Rayon"
+                },
+                {
+                    "city_name": "Tungokochenskiy Rayon"
+                },
+                {
+                    "city_name": "Tungiro-Olekminskiy Rayon"
+                },
+                {
+                    "city_name": "Sretenskiy Rayon"
+                },
+                {
+                    "city_name": "Shilkinskiy Rayon"
+                },
+                {
+                    "city_name": "Shelopuginskiy Rayon"
+                },
+                {
+                    "city_name": "Priargunskiy Rayon"
+                },
+                {
+                    "city_name": "Petrovsk-Zabaykal'skiy Rayon"
+                },
+                {
+                    "city_name": "Ononskiy Rayon"
+                },
+                {
+                    "city_name": "Olovyanninskiy Rayon"
+                },
+                {
+                    "city_name": "Nerchinsko-Zavodskiy Rayon"
+                },
+                {
+                    "city_name": "Nerchinskiy Rayon"
+                },
+                {
+                    "city_name": "Mogochinskiy Rayon"
+                },
+                {
+                    "city_name": "Kyrinskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnokamenskiy Rayon"
+                },
+                {
+                    "city_name": "Khilokskiy Rayon"
+                },
+                {
+                    "city_name": "Karymskiy Rayon"
+                },
+                {
+                    "city_name": "Kalganskiy Rayon"
+                },
+                {
+                    "city_name": "Kalarskiy Rayon"
+                },
+                {
+                    "city_name": "Gazimuro-Zavodskiy Rayon"
+                },
+                {
+                    "city_name": "Chitinskiy Rayon"
+                },
+                {
+                    "city_name": "Chernyshevskiy Rayon"
+                },
+                {
+                    "city_name": "Borzinskiy Rayon"
+                },
+                {
+                    "city_name": "Baleyskiy Rayon"
+                },
+                {
+                    "city_name": "Aleksandrovo-Zavodskiy Rayon"
+                },
+                {
+                    "city_name": "Akshinskiy Rayon"
+                },
+                {
+                    "city_name": "Aginskiy Buryatskiy Okrug"
+                },
+                {
+                    "city_name": "Krasnochikoyskiy rayon"
+                }
+            ]
+        }
+    ]
+}

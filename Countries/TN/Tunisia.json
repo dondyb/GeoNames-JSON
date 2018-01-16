@@ -1,0 +1,789 @@
+{
+    "country_name": "Tunisia",
+    "country_id": "TN",
+    "provinces": [
+        {
+            "province_name": "Gouvernorat de Zaghouan",
+            "cities": [
+                {
+                    "city_name": "Zaghouan"
+                },
+                {
+                    "city_name": "Nadhour"
+                },
+                {
+                    "city_name": "Bir Mcherga"
+                },
+                {
+                    "city_name": "Zriba"
+                },
+                {
+                    "city_name": "Saouaf"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Tunis",
+            "cities": [
+                {
+                    "city_name": "Delegation de la Medina"
+                },
+                {
+                    "city_name": "Delegation de la Banlieue Sud"
+                },
+                {
+                    "city_name": "Bardo Museum"
+                },
+                {
+                    "city_name": "Sijoumi"
+                },
+                {
+                    "city_name": "Sidi Hassine"
+                },
+                {
+                    "city_name": "El Hrairia"
+                },
+                {
+                    "city_name": "El Kabaria"
+                },
+                {
+                    "city_name": "Jebel Jelloud"
+                },
+                {
+                    "city_name": "El Ouardia"
+                },
+                {
+                    "city_name": "Delegation de Sidi El Bechir"
+                },
+                {
+                    "city_name": "Bab Souika"
+                },
+                {
+                    "city_name": "Ezzouhour"
+                },
+                {
+                    "city_name": "Le Bardo"
+                },
+                {
+                    "city_name": "Ettahrir"
+                },
+                {
+                    "city_name": "Delegation d'El Omrane Superieur"
+                },
+                {
+                    "city_name": "El Omrane"
+                },
+                {
+                    "city_name": "El Menzah"
+                },
+                {
+                    "city_name": "Bab El Bhar"
+                },
+                {
+                    "city_name": "Delegation de Cite El Khadra"
+                },
+                {
+                    "city_name": "La Goulette"
+                },
+                {
+                    "city_name": "Le Kram"
+                },
+                {
+                    "city_name": "Carthage"
+                },
+                {
+                    "city_name": "La Marsa"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Tozeur",
+            "cities": [
+                {
+                    "city_name": "Tozeur"
+                },
+                {
+                    "city_name": "Nefta"
+                },
+                {
+                    "city_name": "Hazoua"
+                },
+                {
+                    "city_name": "Degache"
+                },
+                {
+                    "city_name": "Tamaghza"
+                }
+            ]
+        },
+        {
+            "province_name": "Tataouine",
+            "cities": [
+                {
+                    "city_name": "Tataouine Nord"
+                },
+                {
+                    "city_name": "Smar"
+                },
+                {
+                    "city_name": "Bir Lahmar"
+                },
+                {
+                    "city_name": "Tataouine Sud"
+                },
+                {
+                    "city_name": "Dhehiba"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Sousse",
+            "cities": [
+                {
+                    "city_name": "Sousse Medina"
+                },
+                {
+                    "city_name": "Bouficha"
+                },
+                {
+                    "city_name": "Hergla"
+                },
+                {
+                    "city_name": "Sidi Bou Ali"
+                },
+                {
+                    "city_name": "Kondar"
+                },
+                {
+                    "city_name": "Sidi El Hani"
+                },
+                {
+                    "city_name": "Akouda"
+                },
+                {
+                    "city_name": "Kalaa Sghira"
+                },
+                {
+                    "city_name": "Hammam Sousse"
+                },
+                {
+                    "city_name": "Sousse Jawhara"
+                },
+                {
+                    "city_name": "Sousse Sidi Abdelhamid"
+                },
+                {
+                    "city_name": "Sousse Riadh"
+                },
+                {
+                    "city_name": "Zaouia-Ksiba-Thrayet"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Siliana",
+            "cities": [
+                {
+                    "city_name": "Siliana Sud"
+                },
+                {
+                    "city_name": "Elkrib"
+                },
+                {
+                    "city_name": "Bourouis"
+                },
+                {
+                    "city_name": "Siliana Nord"
+                },
+                {
+                    "city_name": "El Aroussa"
+                },
+                {
+                    "city_name": "Bargou"
+                },
+                {
+                    "city_name": "Kesra"
+                },
+                {
+                    "city_name": "Rouhia"
+                },
+                {
+                    "city_name": "Gaafour"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Sidi Bouzid",
+            "cities": [
+                {
+                    "city_name": "Sidi Bouzid Ouest"
+                },
+                {
+                    "city_name": "Menzel Bouzaiene"
+                },
+                {
+                    "city_name": "Sidi Ali Ben Aoun"
+                },
+                {
+                    "city_name": "Bir El Hafey"
+                },
+                {
+                    "city_name": "Souk Jedid"
+                },
+                {
+                    "city_name": "Ouled Haffouz"
+                },
+                {
+                    "city_name": "Sidi Bouzid Est"
+                },
+                {
+                    "city_name": "Jelma"
+                },
+                {
+                    "city_name": "Cebalet Ouled Asker"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Sfax",
+            "cities": [
+                {
+                    "city_name": "Sfax Ville"
+                },
+                {
+                    "city_name": "Mu`tamadiyat al Mahras"
+                },
+                {
+                    "city_name": "Sfax Ouest"
+                },
+                {
+                    "city_name": "Thyna"
+                },
+                {
+                    "city_name": "Sfax Sud"
+                },
+                {
+                    "city_name": "Sakiet Ezzit"
+                },
+                {
+                    "city_name": "Sakiet Eddaier"
+                },
+                {
+                    "city_name": "El Amra"
+                },
+                {
+                    "city_name": "El Hencha"
+                },
+                {
+                    "city_name": "Agareb"
+                },
+                {
+                    "city_name": "Ghraiba"
+                },
+                {
+                    "city_name": "Skhira"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Kebili",
+            "cities": [
+                {
+                    "city_name": "Delegation de Kebili Sud"
+                },
+                {
+                    "city_name": "Delegation de Kebili Nord"
+                },
+                {
+                    "city_name": "Rejim Maatoug"
+                },
+                {
+                    "city_name": "El Faouar"
+                },
+                {
+                    "city_name": "Souk Lahad"
+                },
+                {
+                    "city_name": "Douz Sud"
+                }
+            ]
+        },
+        {
+            "province_name": "Gafsa Governorate",
+            "cities": [
+                {
+                    "city_name": "Gafsa Municipality"
+                },
+                {
+                    "city_name": "Ksar District"
+                },
+                {
+                    "city_name": "Mdhila"
+                },
+                {
+                    "city_name": "Delegation d'Om El Araies"
+                },
+                {
+                    "city_name": "El Ksar"
+                },
+                {
+                    "city_name": "Belkhir"
+                },
+                {
+                    "city_name": "Sned"
+                },
+                {
+                    "city_name": "Gafsa Nord"
+                },
+                {
+                    "city_name": "Delegation de Sidi Aich"
+                },
+                {
+                    "city_name": "Gafsa Sud"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Gabes",
+            "cities": [
+                {
+                    "city_name": "Delegation de Gabes Ville"
+                },
+                {
+                    "city_name": "Metouia"
+                },
+                {
+                    "city_name": "Menzel Habib"
+                },
+                {
+                    "city_name": "Dekhilet Toujane"
+                },
+                {
+                    "city_name": "Nouvelle Matmata"
+                },
+                {
+                    "city_name": "Ghannouch"
+                },
+                {
+                    "city_name": "Delegation de Gabes Ouest"
+                },
+                {
+                    "city_name": "Delegation de Gabes Sud"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Nabeul",
+            "cities": [
+                {
+                    "city_name": "Nabeul"
+                },
+                {
+                    "city_name": "Hammamet"
+                },
+                {
+                    "city_name": "El Haouaria"
+                },
+                {
+                    "city_name": "Hammam El Guezaz"
+                },
+                {
+                    "city_name": "Takelsa"
+                },
+                {
+                    "city_name": "El Mida"
+                },
+                {
+                    "city_name": "Menzel Bouzelfa"
+                },
+                {
+                    "city_name": "Bou Argoub"
+                },
+                {
+                    "city_name": "Dar Chaabane El Fehri"
+                },
+                {
+                    "city_name": "Beni Khalled"
+                },
+                {
+                    "city_name": "Beni Khiar"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Medenine",
+            "cities": [
+                {
+                    "city_name": "Delegation de Medenine Sud"
+                },
+                {
+                    "city_name": "Zarzis"
+                },
+                {
+                    "city_name": "Beni Khedeche"
+                },
+                {
+                    "city_name": "Medenine Nord"
+                },
+                {
+                    "city_name": "Medenine Sud"
+                },
+                {
+                    "city_name": "Sidi Makhlouf"
+                },
+                {
+                    "city_name": "Ben Guerdane"
+                },
+                {
+                    "city_name": "Jerba Midoun"
+                },
+                {
+                    "city_name": "Jerba Ajim"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Jendouba",
+            "cities": [
+                {
+                    "city_name": "Jendouba"
+                },
+                {
+                    "city_name": "Balta Bou Aouane"
+                },
+                {
+                    "city_name": "Bou Salem"
+                },
+                {
+                    "city_name": "Jendouba Nord"
+                },
+                {
+                    "city_name": "Oued Meliz"
+                },
+                {
+                    "city_name": "Fernana"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Ben Arous",
+            "cities": [
+                {
+                    "city_name": "Oudhna"
+                },
+                {
+                    "city_name": "Mornag"
+                },
+                {
+                    "city_name": "Hammam Chott"
+                },
+                {
+                    "city_name": "Delegation de Rades"
+                },
+                {
+                    "city_name": "Ezzahra"
+                },
+                {
+                    "city_name": "Mohamedia"
+                },
+                {
+                    "city_name": "Fouchana"
+                },
+                {
+                    "city_name": "El Mourouj"
+                },
+                {
+                    "city_name": "Delegation de la Nouvelle Medina"
+                },
+                {
+                    "city_name": "Delegation de Megrine"
+                },
+                {
+                    "city_name": "Bou Mhel El Bassatine"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Bizerte",
+            "cities": [
+                {
+                    "city_name": "Bizerte Sud"
+                },
+                {
+                    "city_name": "Sejnane"
+                },
+                {
+                    "city_name": "Joumine"
+                },
+                {
+                    "city_name": "Ghazala"
+                },
+                {
+                    "city_name": "Tinja"
+                },
+                {
+                    "city_name": "Utique"
+                },
+                {
+                    "city_name": "Bizerte Nord"
+                },
+                {
+                    "city_name": "Zarzouna"
+                },
+                {
+                    "city_name": "Menzel Jemil"
+                },
+                {
+                    "city_name": "El Alia"
+                },
+                {
+                    "city_name": "Ghar El Melh"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Beja",
+            "cities": [
+                {
+                    "city_name": "Delegation de Beja Nord"
+                },
+                {
+                    "city_name": "Nefza"
+                },
+                {
+                    "city_name": "Nefza"
+                },
+                {
+                    "city_name": "Beja Sud"
+                },
+                {
+                    "city_name": "Goubellat"
+                },
+                {
+                    "city_name": "Tibar"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de l'Ariana",
+            "cities": [
+                {
+                    "city_name": "Raoued"
+                },
+                {
+                    "city_name": "Ariana Ville"
+                },
+                {
+                    "city_name": "Soukra"
+                },
+                {
+                    "city_name": "Delegation de Cite Ettadhamen"
+                },
+                {
+                    "city_name": "El Mnihla"
+                },
+                {
+                    "city_name": "Sidi Thabet"
+                },
+                {
+                    "city_name": "Kalaat El Andalous"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Kairouan",
+            "cities": [
+                {
+                    "city_name": "Oueslatia"
+                },
+                {
+                    "city_name": "Kairouan Sud"
+                },
+                {
+                    "city_name": "El Ala"
+                },
+                {
+                    "city_name": "Kairouan Nord"
+                },
+                {
+                    "city_name": "Cherarda"
+                },
+                {
+                    "city_name": "Chebika"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Kasserine",
+            "cities": [
+                {
+                    "city_name": "Thala"
+                },
+                {
+                    "city_name": "Sbeitla"
+                },
+                {
+                    "city_name": "Feriana"
+                },
+                {
+                    "city_name": "Kasserine Sud"
+                },
+                {
+                    "city_name": "Djedliane"
+                },
+                {
+                    "city_name": "Ayoun"
+                },
+                {
+                    "city_name": "Sbiba"
+                },
+                {
+                    "city_name": "Hidra"
+                },
+                {
+                    "city_name": "Foussana"
+                },
+                {
+                    "city_name": "Ezzouhour"
+                },
+                {
+                    "city_name": "Kasserine Nord"
+                },
+                {
+                    "city_name": "Delegation de Mejel Bel Abbes"
+                },
+                {
+                    "city_name": "Hassi El Ferid"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Monastir",
+            "cities": [
+                {
+                    "city_name": "Monastir"
+                },
+                {
+                    "city_name": "Ksibet El Mediouni"
+                },
+                {
+                    "city_name": "Bekalta"
+                },
+                {
+                    "city_name": "Delegation de Teboulba"
+                },
+                {
+                    "city_name": "Sayada Lamta Bouhjar"
+                },
+                {
+                    "city_name": "Ksar Helal"
+                },
+                {
+                    "city_name": "Sahline"
+                },
+                {
+                    "city_name": "Ouerdanine"
+                },
+                {
+                    "city_name": "Bembla"
+                },
+                {
+                    "city_name": "Zeramdine"
+                },
+                {
+                    "city_name": "Beni Hassen"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Mahdia",
+            "cities": [
+                {
+                    "city_name": "Chorbane"
+                },
+                {
+                    "city_name": "Souassi"
+                },
+                {
+                    "city_name": "Mahdia"
+                },
+                {
+                    "city_name": "El Jem"
+                },
+                {
+                    "city_name": "Chebba"
+                },
+                {
+                    "city_name": "Ouled Chamekh"
+                },
+                {
+                    "city_name": "Delegation de Bou Merdes"
+                },
+                {
+                    "city_name": "Hbira"
+                },
+                {
+                    "city_name": "Sidi Alouane"
+                },
+                {
+                    "city_name": "Melloulech"
+                }
+            ]
+        },
+        {
+            "province_name": "Gouvernorat de Kef",
+            "cities": [
+                {
+                    "city_name": "Kef Est"
+                },
+                {
+                    "city_name": "Kef Quest"
+                },
+                {
+                    "city_name": "Kef Est"
+                },
+                {
+                    "city_name": "Es Sers"
+                },
+                {
+                    "city_name": "Nebeur"
+                },
+                {
+                    "city_name": "Dahmani"
+                },
+                {
+                    "city_name": "Jerissa"
+                },
+                {
+                    "city_name": "Kalaa Khasba"
+                },
+                {
+                    "city_name": "Kalaat Senan"
+                }
+            ]
+        },
+        {
+            "province_name": "Manouba",
+            "cities": [
+                {
+                    "city_name": "El Battane"
+                },
+                {
+                    "city_name": "Borj El Amri"
+                },
+                {
+                    "city_name": "Mornaguia"
+                },
+                {
+                    "city_name": "Douar Hicher"
+                },
+                {
+                    "city_name": "Oued Ellil"
+                },
+                {
+                    "city_name": "Delegation de Jedaida"
+                }
+            ]
+        }
+    ]
+}

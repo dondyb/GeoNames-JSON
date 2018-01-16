@@ -1,0 +1,3808 @@
+{
+    "country_name": "Japan",
+    "country_id": "JP",
+    "provinces": [
+        {
+            "province_name": "Yamanashi",
+            "cities": [
+                {
+                    "city_name": "Yamanashi-shi"
+                },
+                {
+                    "city_name": "Uenohara-shi"
+                },
+                {
+                    "city_name": "Tsuru-shi"
+                },
+                {
+                    "city_name": "Otsuki-shi"
+                },
+                {
+                    "city_name": "Nishiyatsushiro-gun"
+                },
+                {
+                    "city_name": "Nirasaki-shi"
+                },
+                {
+                    "city_name": "Minamikoma-gun"
+                },
+                {
+                    "city_name": "Kofu-shi"
+                },
+                {
+                    "city_name": "Kitatsuru-gun"
+                },
+                {
+                    "city_name": "Fuji-yoshida Shi"
+                },
+                {
+                    "city_name": "Minamitsuru-gun"
+                },
+                {
+                    "city_name": "Nakakoma-gun"
+                },
+                {
+                    "city_name": "Minami Alps-shi"
+                },
+                {
+                    "city_name": "Hokuto-shi"
+                },
+                {
+                    "city_name": "Fuefuki-shi"
+                },
+                {
+                    "city_name": "Koshu-shi"
+                },
+                {
+                    "city_name": "Chuo-shi"
+                },
+                {
+                    "city_name": "Kai-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Yamaguchi",
+            "cities": [
+                {
+                    "city_name": "Yanai Shi"
+                },
+                {
+                    "city_name": "Yamaguchi Shi"
+                },
+                {
+                    "city_name": "Ube Shi"
+                },
+                {
+                    "city_name": "Shimonoseki Shi"
+                },
+                {
+                    "city_name": "Oshima-gun"
+                },
+                {
+                    "city_name": "Nagato Shi"
+                },
+                {
+                    "city_name": "Mine Shi"
+                },
+                {
+                    "city_name": "Kuga Gun"
+                },
+                {
+                    "city_name": "Kudamatsu Shi"
+                },
+                {
+                    "city_name": "Iwakuni Shi"
+                },
+                {
+                    "city_name": "Hofu Shi"
+                },
+                {
+                    "city_name": "Hikari Shi"
+                },
+                {
+                    "city_name": "Hagi Shi"
+                },
+                {
+                    "city_name": "Abu-gun"
+                },
+                {
+                    "city_name": "Sanyoonoda Shi"
+                },
+                {
+                    "city_name": "Shunan Shi"
+                },
+                {
+                    "city_name": "Kumage-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Wakayama",
+            "cities": [
+                {
+                    "city_name": "Wakayama Shi"
+                },
+                {
+                    "city_name": "Tanabe-shi"
+                },
+                {
+                    "city_name": "Shingu-shi"
+                },
+                {
+                    "city_name": "Nishimuro-gun"
+                },
+                {
+                    "city_name": "Kaiso-gun"
+                },
+                {
+                    "city_name": "Kainan Shi"
+                },
+                {
+                    "city_name": "Ito-gun"
+                },
+                {
+                    "city_name": "Higashimuro-gun"
+                },
+                {
+                    "city_name": "Hidaka-gun"
+                },
+                {
+                    "city_name": "Hashimoto Shi"
+                },
+                {
+                    "city_name": "Arida Shi"
+                },
+                {
+                    "city_name": "Arida-gun"
+                },
+                {
+                    "city_name": "Gobo-shi"
+                },
+                {
+                    "city_name": "Iwade Shi"
+                },
+                {
+                    "city_name": "Kinokawa Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Toyama-ken",
+            "cities": [
+                {
+                    "city_name": "Uozu Shi"
+                },
+                {
+                    "city_name": "Toyama Shi"
+                },
+                {
+                    "city_name": "Tonami Shi"
+                },
+                {
+                    "city_name": "Takaoka Shi"
+                },
+                {
+                    "city_name": "Shimoniikawa Gun"
+                },
+                {
+                    "city_name": "Oyabe Shi"
+                },
+                {
+                    "city_name": "Namerikawa-shi"
+                },
+                {
+                    "city_name": "Nakaniikawa Gun"
+                },
+                {
+                    "city_name": "Kurobe Shi"
+                },
+                {
+                    "city_name": "Imizu Shi"
+                },
+                {
+                    "city_name": "Himi Shi"
+                },
+                {
+                    "city_name": "Nanto Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tottori",
+            "cities": [
+                {
+                    "city_name": "Yonago Shi"
+                },
+                {
+                    "city_name": "Yazu-gun"
+                },
+                {
+                    "city_name": "Tottori-shi"
+                },
+                {
+                    "city_name": "Tohaku-gun"
+                },
+                {
+                    "city_name": "Sakaiminato Shi"
+                },
+                {
+                    "city_name": "Saihaku-gun"
+                },
+                {
+                    "city_name": "Hino Gun"
+                },
+                {
+                    "city_name": "Kurayoshi-shi"
+                },
+                {
+                    "city_name": "Iwami-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Tokyo Prefecture",
+            "cities": [
+                {
+                    "city_name": "Tama-shi"
+                },
+                {
+                    "city_name": "Tachikawa-shi"
+                },
+                {
+                    "city_name": "Sumida-ku"
+                },
+                {
+                    "city_name": "Suginami-ku"
+                },
+                {
+                    "city_name": "Shinjuku-ku"
+                },
+                {
+                    "city_name": "Shinagawa-ku"
+                },
+                {
+                    "city_name": "Shibuya-ku"
+                },
+                {
+                    "city_name": "Setagaya-ku"
+                },
+                {
+                    "city_name": "Ota-ku"
+                },
+                {
+                    "city_name": "Oshima Shicho"
+                },
+                {
+                    "city_name": "Ome-shi"
+                },
+                {
+                    "city_name": "Nishitama-gun"
+                },
+                {
+                    "city_name": "Nerima-ku"
+                },
+                {
+                    "city_name": "Nakano-ku"
+                },
+                {
+                    "city_name": "Musashino-shi"
+                },
+                {
+                    "city_name": "Musashimurayama-shi"
+                },
+                {
+                    "city_name": "Miyake Shicho"
+                },
+                {
+                    "city_name": "Mitaka-shi"
+                },
+                {
+                    "city_name": "Minato-ku"
+                },
+                {
+                    "city_name": "Meguro-ku"
+                },
+                {
+                    "city_name": "Machida-shi"
+                },
+                {
+                    "city_name": "Kunitachi-shi"
+                },
+                {
+                    "city_name": "Koto-ku"
+                },
+                {
+                    "city_name": "Komae-shi"
+                },
+                {
+                    "city_name": "Kokubunji-shi"
+                },
+                {
+                    "city_name": "Koganei-shi"
+                },
+                {
+                    "city_name": "Kodaira-shi"
+                },
+                {
+                    "city_name": "Kiyose-shi"
+                },
+                {
+                    "city_name": "Kita-ku"
+                },
+                {
+                    "city_name": "Katsushika Ku"
+                },
+                {
+                    "city_name": "Itabashi-ku"
+                },
+                {
+                    "city_name": "Inagi-shi"
+                },
+                {
+                    "city_name": "Hino-shi"
+                },
+                {
+                    "city_name": "Higashiyamato-shi"
+                },
+                {
+                    "city_name": "Higashi-murayama-shi"
+                },
+                {
+                    "city_name": "Higashikurume-shi"
+                },
+                {
+                    "city_name": "Hamura-shi"
+                },
+                {
+                    "city_name": "Hachijo Shicho"
+                },
+                {
+                    "city_name": "Fussa-shi"
+                },
+                {
+                    "city_name": "Fuchu-shi"
+                },
+                {
+                    "city_name": "Edogawa Ku"
+                },
+                {
+                    "city_name": "Chuo Ku"
+                },
+                {
+                    "city_name": "Chofu-shi"
+                },
+                {
+                    "city_name": "Chiyoda-ku"
+                },
+                {
+                    "city_name": "Arakawa Ku"
+                },
+                {
+                    "city_name": "Akishima-shi"
+                },
+                {
+                    "city_name": "Adachi Ku"
+                },
+                {
+                    "city_name": "Ogasawara Shicho"
+                },
+                {
+                    "city_name": "Bunkyo-ku"
+                },
+                {
+                    "city_name": "Taito-ku"
+                },
+                {
+                    "city_name": "Toshima-ku"
+                },
+                {
+                    "city_name": "Akiruno-shi"
+                },
+                {
+                    "city_name": "Hachioji-shi"
+                },
+                {
+                    "city_name": "Nishitokyo-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tokushima-ken",
+            "cities": [
+                {
+                    "city_name": "Tokushima Shi"
+                },
+                {
+                    "city_name": "Myozai Gun"
+                },
+                {
+                    "city_name": "Miyoshi-gun"
+                },
+                {
+                    "city_name": "Komatsushima Shi"
+                },
+                {
+                    "city_name": "Katsuura Gun"
+                },
+                {
+                    "city_name": "Kaifu Gun"
+                },
+                {
+                    "city_name": "Itano-gun"
+                },
+                {
+                    "city_name": "Awa-shi"
+                },
+                {
+                    "city_name": "Anan Shi"
+                },
+                {
+                    "city_name": "Mima Gun"
+                },
+                {
+                    "city_name": "Myodo Gun"
+                },
+                {
+                    "city_name": "Naka Gun"
+                },
+                {
+                    "city_name": "Yoshinogawa Shi"
+                },
+                {
+                    "city_name": "Mima Shi"
+                },
+                {
+                    "city_name": "Miyoshi Shi"
+                },
+                {
+                    "city_name": "Naruto-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tochigi",
+            "cities": [
+                {
+                    "city_name": "Yaita-shi"
+                },
+                {
+                    "city_name": "Utsunomiya-shi"
+                },
+                {
+                    "city_name": "Shioya-gun"
+                },
+                {
+                    "city_name": "Shimotsuga-gun"
+                },
+                {
+                    "city_name": "Oyama-shi"
+                },
+                {
+                    "city_name": "Kawachi-gun"
+                },
+                {
+                    "city_name": "Kanuma-shi"
+                },
+                {
+                    "city_name": "Nikko-shi"
+                },
+                {
+                    "city_name": "Ashikaga Shi"
+                },
+                {
+                    "city_name": "Otawara-shi"
+                },
+                {
+                    "city_name": "Nasu-gun"
+                },
+                {
+                    "city_name": "Mooka-shi"
+                },
+                {
+                    "city_name": "Haga-gun"
+                },
+                {
+                    "city_name": "Nasukarasuyama-shi"
+                },
+                {
+                    "city_name": "Nasushiobara-shi"
+                },
+                {
+                    "city_name": "Sakura-shi"
+                },
+                {
+                    "city_name": "Sano-shi"
+                },
+                {
+                    "city_name": "Tochigi-shi"
+                },
+                {
+                    "city_name": "Shimotsuke-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Shizuoka",
+            "cities": [
+                {
+                    "city_name": "Yaizu Shi"
+                },
+                {
+                    "city_name": "Tagata-gun"
+                },
+                {
+                    "city_name": "Susono Shi"
+                },
+                {
+                    "city_name": "Sunto-gun"
+                },
+                {
+                    "city_name": "Shizuoka-shi"
+                },
+                {
+                    "city_name": "Shimoda-shi"
+                },
+                {
+                    "city_name": "Omaezaki-shi"
+                },
+                {
+                    "city_name": "Numazu-shi"
+                },
+                {
+                    "city_name": "Mishima Shi"
+                },
+                {
+                    "city_name": "Kikugawa-shi"
+                },
+                {
+                    "city_name": "Kamo-gun"
+                },
+                {
+                    "city_name": "Iwata-shi"
+                },
+                {
+                    "city_name": "Hamamatsu-shi"
+                },
+                {
+                    "city_name": "Haibara-gun"
+                },
+                {
+                    "city_name": "Gotenba Shi"
+                },
+                {
+                    "city_name": "Fukuroi-shi"
+                },
+                {
+                    "city_name": "Fuji Shi"
+                },
+                {
+                    "city_name": "Fujinomiya Shi"
+                },
+                {
+                    "city_name": "Fujieda Shi"
+                },
+                {
+                    "city_name": "Atami-shi"
+                },
+                {
+                    "city_name": "Shuchi-gun"
+                },
+                {
+                    "city_name": "Izunokuni-shi"
+                },
+                {
+                    "city_name": "Makinohara Shi"
+                },
+                {
+                    "city_name": "Shimada-shi"
+                },
+                {
+                    "city_name": "Ito Shi"
+                },
+                {
+                    "city_name": "Kakegawa Shi"
+                },
+                {
+                    "city_name": "Kosai-shi"
+                },
+                {
+                    "city_name": "Izu-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Shimane-ken",
+            "cities": [
+                {
+                    "city_name": "Oki-gun"
+                },
+                {
+                    "city_name": "Oda Shi"
+                },
+                {
+                    "city_name": "Ochi Gun"
+                },
+                {
+                    "city_name": "Matsue Shi"
+                },
+                {
+                    "city_name": "Masuda Shi"
+                },
+                {
+                    "city_name": "Izumo Shi"
+                },
+                {
+                    "city_name": "Hamada Shi"
+                },
+                {
+                    "city_name": "Gotsu Shi"
+                },
+                {
+                    "city_name": "Ishii Gun"
+                },
+                {
+                    "city_name": "Nita Gun"
+                },
+                {
+                    "city_name": "Kanoashi Gun"
+                },
+                {
+                    "city_name": "Unnan Shi"
+                },
+                {
+                    "city_name": "Yasugi Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Shiga",
+            "cities": [
+                {
+                    "city_name": "Yasu-shi"
+                },
+                {
+                    "city_name": "Ritto-shi"
+                },
+                {
+                    "city_name": "Otsu-shi"
+                },
+                {
+                    "city_name": "Omihachiman-shi"
+                },
+                {
+                    "city_name": "Nagahama-shi"
+                },
+                {
+                    "city_name": "Moriyama-shi"
+                },
+                {
+                    "city_name": "Kusatsu-shi"
+                },
+                {
+                    "city_name": "Konan-shi"
+                },
+                {
+                    "city_name": "Koka-shi"
+                },
+                {
+                    "city_name": "Hikone-shi"
+                },
+                {
+                    "city_name": "Gamo-gun"
+                },
+                {
+                    "city_name": "Echi-gun"
+                },
+                {
+                    "city_name": "Higashiomi-shi"
+                },
+                {
+                    "city_name": "Maibara-shi"
+                },
+                {
+                    "city_name": "Inukami-gun"
+                },
+                {
+                    "city_name": "Takashima-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Saitama-ken",
+            "cities": [
+                {
+                    "city_name": "Warabi-shi"
+                },
+                {
+                    "city_name": "Wako-shi"
+                },
+                {
+                    "city_name": "Saitama-shi"
+                },
+                {
+                    "city_name": "Tsurugashima-shi"
+                },
+                {
+                    "city_name": "Tokorozawa-shi"
+                },
+                {
+                    "city_name": "Toda-shi"
+                },
+                {
+                    "city_name": "Shiraoka-shi"
+                },
+                {
+                    "city_name": "Sayama-shi"
+                },
+                {
+                    "city_name": "Sakado-shi"
+                },
+                {
+                    "city_name": "Okegawa-shi"
+                },
+                {
+                    "city_name": "Niiza-shi"
+                },
+                {
+                    "city_name": "Misato Shi"
+                },
+                {
+                    "city_name": "Minamisaitama Gun"
+                },
+                {
+                    "city_name": "Koshigaya Shi"
+                },
+                {
+                    "city_name": "Kitakatsushika Gun"
+                },
+                {
+                    "city_name": "Kitaadachi-gun"
+                },
+                {
+                    "city_name": "Kazo-shi"
+                },
+                {
+                    "city_name": "Kawaguchi-shi"
+                },
+                {
+                    "city_name": "Kawagoe-shi"
+                },
+                {
+                    "city_name": "Iruma-shi"
+                },
+                {
+                    "city_name": "Iruma-gun"
+                },
+                {
+                    "city_name": "Honjo Shi"
+                },
+                {
+                    "city_name": "Hiki-gun"
+                },
+                {
+                    "city_name": "Higashimatsuyama Shi"
+                },
+                {
+                    "city_name": "Hasuda-shi"
+                },
+                {
+                    "city_name": "Hanno-shi"
+                },
+                {
+                    "city_name": "Gyoda Shi"
+                },
+                {
+                    "city_name": "Fukaya-shi"
+                },
+                {
+                    "city_name": "Fujimi-shi"
+                },
+                {
+                    "city_name": "Chichibu-gun"
+                },
+                {
+                    "city_name": "Asaka-shi"
+                },
+                {
+                    "city_name": "Kodama-gun"
+                },
+                {
+                    "city_name": "Osato-gun"
+                },
+                {
+                    "city_name": "Chichibu-shi"
+                },
+                {
+                    "city_name": "Hanyu-shi"
+                },
+                {
+                    "city_name": "Soka Shi"
+                },
+                {
+                    "city_name": "Kuki-shi"
+                },
+                {
+                    "city_name": "Kitamoto Shi"
+                },
+                {
+                    "city_name": "Satte Shi"
+                },
+                {
+                    "city_name": "Yoshikawa Shi"
+                },
+                {
+                    "city_name": "Fujimino Shi"
+                },
+                {
+                    "city_name": "Kumagaya Shi"
+                },
+                {
+                    "city_name": "Kasukabe Shi"
+                },
+                {
+                    "city_name": "Ageo Shi"
+                },
+                {
+                    "city_name": "Shiki Shi"
+                },
+                {
+                    "city_name": "Hidaka-shi"
+                },
+                {
+                    "city_name": "Konosu-Shi"
+                },
+                {
+                    "city_name": "Yashio-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Saga-ken",
+            "cities": [
+                {
+                    "city_name": "Tosu Shi"
+                },
+                {
+                    "city_name": "Taku Shi"
+                },
+                {
+                    "city_name": "Takeo Shi"
+                },
+                {
+                    "city_name": "Saga Shi"
+                },
+                {
+                    "city_name": "Ogi-shi"
+                },
+                {
+                    "city_name": "Nishimatsuura-gun"
+                },
+                {
+                    "city_name": "Miyaki-gun"
+                },
+                {
+                    "city_name": "Kashima Shi"
+                },
+                {
+                    "city_name": "Higashimatsuura-gun"
+                },
+                {
+                    "city_name": "Fujitsu-gun"
+                },
+                {
+                    "city_name": "Imari Shi"
+                },
+                {
+                    "city_name": "Kanzaki-gun"
+                },
+                {
+                    "city_name": "Kanzaki Shi"
+                },
+                {
+                    "city_name": "Kishima-gun"
+                },
+                {
+                    "city_name": "Ureshino Shi"
+                },
+                {
+                    "city_name": "Karatsu Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Osaka-fu",
+            "cities": [
+                {
+                    "city_name": "Yao-shi"
+                },
+                {
+                    "city_name": "Tondabayashi Shi"
+                },
+                {
+                    "city_name": "Takatsuki Shi"
+                },
+                {
+                    "city_name": "Takaishi Shi"
+                },
+                {
+                    "city_name": "Suita Shi"
+                },
+                {
+                    "city_name": "Shijonawate Shi"
+                },
+                {
+                    "city_name": "Settsu Shi"
+                },
+                {
+                    "city_name": "Sennan-gun"
+                },
+                {
+                    "city_name": "Sakai Shi"
+                },
+                {
+                    "city_name": "Osaka-shi"
+                },
+                {
+                    "city_name": "Neyagawa Shi"
+                },
+                {
+                    "city_name": "Mishima-gun"
+                },
+                {
+                    "city_name": "Minoo Shi"
+                },
+                {
+                    "city_name": "Minamikawachi-gun"
+                },
+                {
+                    "city_name": "Matsubara-shi"
+                },
+                {
+                    "city_name": "Kishiwada Shi"
+                },
+                {
+                    "city_name": "Kawachi-nagano Shi"
+                },
+                {
+                    "city_name": "Katano Shi"
+                },
+                {
+                    "city_name": "Kashiwara-shi"
+                },
+                {
+                    "city_name": "Kaizuka Shi"
+                },
+                {
+                    "city_name": "Kadoma Shi"
+                },
+                {
+                    "city_name": "Izumi Shi"
+                },
+                {
+                    "city_name": "Izumiotsu Shi"
+                },
+                {
+                    "city_name": "Ikeda Shi"
+                },
+                {
+                    "city_name": "Ibaraki Shi"
+                },
+                {
+                    "city_name": "Hirakata Shi"
+                },
+                {
+                    "city_name": "Higashiosaka Shi"
+                },
+                {
+                    "city_name": "Hannan Shi"
+                },
+                {
+                    "city_name": "Habikino-shi"
+                },
+                {
+                    "city_name": "Fujiidera-shi"
+                },
+                {
+                    "city_name": "Daito Shi"
+                },
+                {
+                    "city_name": "Izumisano Shi"
+                },
+                {
+                    "city_name": "Osaka-sayama Shi"
+                },
+                {
+                    "city_name": "Sennan Shi"
+                },
+                {
+                    "city_name": "Toyonaka Shi"
+                },
+                {
+                    "city_name": "Senboku-gun"
+                },
+                {
+                    "city_name": "Moriguchi Shi"
+                },
+                {
+                    "city_name": "Toyono Gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Okinawa",
+            "cities": [
+                {
+                    "city_name": "Yaeyama-gun"
+                },
+                {
+                    "city_name": "Urasoe Shi"
+                },
+                {
+                    "city_name": "Tomigusuku-shi"
+                },
+                {
+                    "city_name": "Shimajiri-gun"
+                },
+                {
+                    "city_name": "Okinawa Shi"
+                },
+                {
+                    "city_name": "Nakagami-gun"
+                },
+                {
+                    "city_name": "Naha Shi"
+                },
+                {
+                    "city_name": "Nago Shi"
+                },
+                {
+                    "city_name": "Kunigami-gun"
+                },
+                {
+                    "city_name": "Itoman Shi"
+                },
+                {
+                    "city_name": "Ishigaki-shi"
+                },
+                {
+                    "city_name": "Ginowan Shi"
+                },
+                {
+                    "city_name": "Miyako-gun"
+                },
+                {
+                    "city_name": "Miyakojima Shi"
+                },
+                {
+                    "city_name": "Nanjo Shi"
+                },
+                {
+                    "city_name": "Uruma Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Okayama-ken",
+            "cities": [
+                {
+                    "city_name": "Tsuyama-shi"
+                },
+                {
+                    "city_name": "Tsukubo-gun"
+                },
+                {
+                    "city_name": "Tomata-gun"
+                },
+                {
+                    "city_name": "Tamano Shi"
+                },
+                {
+                    "city_name": "Takahashi Shi"
+                },
+                {
+                    "city_name": "Okayama Shi"
+                },
+                {
+                    "city_name": "Oda-gun"
+                },
+                {
+                    "city_name": "Mimasaka-shi"
+                },
+                {
+                    "city_name": "Kurashiki Shi"
+                },
+                {
+                    "city_name": "Kume-gun"
+                },
+                {
+                    "city_name": "Katsuta-gun"
+                },
+                {
+                    "city_name": "Kasaoka Shi"
+                },
+                {
+                    "city_name": "Bizen Shi"
+                },
+                {
+                    "city_name": "Asakuchi-gun"
+                },
+                {
+                    "city_name": "Aida-gun"
+                },
+                {
+                    "city_name": "Kaga-gun"
+                },
+                {
+                    "city_name": "Maniwa-gun"
+                },
+                {
+                    "city_name": "Wake-gun"
+                },
+                {
+                    "city_name": "Ibara Shi"
+                },
+                {
+                    "city_name": "Soja Shi"
+                },
+                {
+                    "city_name": "Niimi Shi"
+                },
+                {
+                    "city_name": "Setouchi Shi"
+                },
+                {
+                    "city_name": "Akaiwa Shi"
+                },
+                {
+                    "city_name": "Maniwa-shi"
+                },
+                {
+                    "city_name": "Asakuchi Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Oita Prefecture",
+            "cities": [
+                {
+                    "city_name": "Usuki Shi"
+                },
+                {
+                    "city_name": "Usa Shi"
+                },
+                {
+                    "city_name": "Tsukumi-shi"
+                },
+                {
+                    "city_name": "Taketa-shi"
+                },
+                {
+                    "city_name": "Saiki-shi"
+                },
+                {
+                    "city_name": "Oita-shi"
+                },
+                {
+                    "city_name": "Nakatsu Shi"
+                },
+                {
+                    "city_name": "Kusu-gun"
+                },
+                {
+                    "city_name": "Kitsuki Shi"
+                },
+                {
+                    "city_name": "Hita Shi"
+                },
+                {
+                    "city_name": "Bungo-takada Shi"
+                },
+                {
+                    "city_name": "Kunisaki-shi"
+                },
+                {
+                    "city_name": "Hayami-gun"
+                },
+                {
+                    "city_name": "Higashikunisaki-gun"
+                },
+                {
+                    "city_name": "Beppu Shi"
+                },
+                {
+                    "city_name": "Bungo-ono Shi"
+                },
+                {
+                    "city_name": "Yufu-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Niigata-ken",
+            "cities": [
+                {
+                    "city_name": "Tsubame Shi"
+                },
+                {
+                    "city_name": "Tokamachi-shi"
+                },
+                {
+                    "city_name": "Shibata Shi"
+                },
+                {
+                    "city_name": "Santo-gun"
+                },
+                {
+                    "city_name": "Sanjo Shi"
+                },
+                {
+                    "city_name": "Sado Shi"
+                },
+                {
+                    "city_name": "Ojiya-shi"
+                },
+                {
+                    "city_name": "Nishikanbara-gun"
+                },
+                {
+                    "city_name": "Niigata Shi"
+                },
+                {
+                    "city_name": "Nagaoka Shi"
+                },
+                {
+                    "city_name": "Mitsuke Shi"
+                },
+                {
+                    "city_name": "Kitakambara-gun"
+                },
+                {
+                    "city_name": "Kashiwazaki Shi"
+                },
+                {
+                    "city_name": "Kamo Shi"
+                },
+                {
+                    "city_name": "Joetsu Shi"
+                },
+                {
+                    "city_name": "Iwafune-gun"
+                },
+                {
+                    "city_name": "Higashikambara-gun"
+                },
+                {
+                    "city_name": "Gosen Shi"
+                },
+                {
+                    "city_name": "Myoko-shi"
+                },
+                {
+                    "city_name": "Minamikanbara-gun"
+                },
+                {
+                    "city_name": "Minamionuma-gun"
+                },
+                {
+                    "city_name": "Nakaonuma-gun"
+                },
+                {
+                    "city_name": "Kariwa-gun"
+                },
+                {
+                    "city_name": "Murakami Shi"
+                },
+                {
+                    "city_name": "Itoigawa Shi"
+                },
+                {
+                    "city_name": "Agano Shi"
+                },
+                {
+                    "city_name": "Uonuma Shi"
+                },
+                {
+                    "city_name": "Minamiuonuma Shi"
+                },
+                {
+                    "city_name": "Tainai Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Nara-ken",
+            "cities": [
+                {
+                    "city_name": "Yoshino-gun"
+                },
+                {
+                    "city_name": "Yamatotakada-shi"
+                },
+                {
+                    "city_name": "Yamatokoriyama-shi"
+                },
+                {
+                    "city_name": "Uda-gun"
+                },
+                {
+                    "city_name": "Tenri-shi"
+                },
+                {
+                    "city_name": "Shiki-gun"
+                },
+                {
+                    "city_name": "Sakurai-shi"
+                },
+                {
+                    "city_name": "Nara-shi"
+                },
+                {
+                    "city_name": "Kashiba-shi"
+                },
+                {
+                    "city_name": "Ikoma-shi"
+                },
+                {
+                    "city_name": "Ikoma-gun"
+                },
+                {
+                    "city_name": "Gose Shi"
+                },
+                {
+                    "city_name": "Gojo-shi"
+                },
+                {
+                    "city_name": "Kitakatsuragi-gun"
+                },
+                {
+                    "city_name": "Takaichi-gun"
+                },
+                {
+                    "city_name": "Yamabe-gun"
+                },
+                {
+                    "city_name": "Katsuragi Shi"
+                },
+                {
+                    "city_name": "Uda Shi"
+                },
+                {
+                    "city_name": "Kashihara-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Nagasaki Prefecture",
+            "cities": [
+                {
+                    "city_name": "Sasebo Shi"
+                },
+                {
+                    "city_name": "Nishisonogi-gun"
+                },
+                {
+                    "city_name": "Nagasaki-shi"
+                },
+                {
+                    "city_name": "Minamimatsuura Gun"
+                },
+                {
+                    "city_name": "Matsuura Shi"
+                },
+                {
+                    "city_name": "Kitamatsuura-gun"
+                },
+                {
+                    "city_name": "Iki Shi"
+                },
+                {
+                    "city_name": "Higashisonigi-gun"
+                },
+                {
+                    "city_name": "Goto Shi"
+                },
+                {
+                    "city_name": "Hirado Shi"
+                },
+                {
+                    "city_name": "Minamishimabara-shi"
+                },
+                {
+                    "city_name": "Omura-shi"
+                },
+                {
+                    "city_name": "Saikai-shi"
+                },
+                {
+                    "city_name": "Shimabara-shi"
+                },
+                {
+                    "city_name": "Tsushima Shi"
+                },
+                {
+                    "city_name": "Unzen-shi"
+                },
+                {
+                    "city_name": "Isahaya-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Nagano-ken",
+            "cities": [
+                {
+                    "city_name": "Ueda Shi"
+                },
+                {
+                    "city_name": "Suzaka-shi"
+                },
+                {
+                    "city_name": "Suwa Shi"
+                },
+                {
+                    "city_name": "Suwa-gun"
+                },
+                {
+                    "city_name": "Shiojiri-shi"
+                },
+                {
+                    "city_name": "Shimotakai-gun"
+                },
+                {
+                    "city_name": "Shimominochi-gun"
+                },
+                {
+                    "city_name": "Shimoina-gun"
+                },
+                {
+                    "city_name": "Saku Shi"
+                },
+                {
+                    "city_name": "Omachi-shi"
+                },
+                {
+                    "city_name": "Okaya Shi"
+                },
+                {
+                    "city_name": "Nakano Shi"
+                },
+                {
+                    "city_name": "Nagano Shi"
+                },
+                {
+                    "city_name": "Minamisaku-gun"
+                },
+                {
+                    "city_name": "Matsumoto Shi"
+                },
+                {
+                    "city_name": "Komoro Shi"
+                },
+                {
+                    "city_name": "Komagane-shi"
+                },
+                {
+                    "city_name": "Kitasaku-gun"
+                },
+                {
+                    "city_name": "Kitaazumi Gun"
+                },
+                {
+                    "city_name": "Kamitakai-gun"
+                },
+                {
+                    "city_name": "Kamiina-gun"
+                },
+                {
+                    "city_name": "Ina-shi"
+                },
+                {
+                    "city_name": "Iiyama Shi"
+                },
+                {
+                    "city_name": "Iida-shi"
+                },
+                {
+                    "city_name": "Higashichikuma Gun"
+                },
+                {
+                    "city_name": "Hanishina-gun"
+                },
+                {
+                    "city_name": "Chino Shi"
+                },
+                {
+                    "city_name": "Chiisakata-gun"
+                },
+                {
+                    "city_name": "Kamiminochi-gun"
+                },
+                {
+                    "city_name": "Kiso-gun"
+                },
+                {
+                    "city_name": "Chikuma Shi"
+                },
+                {
+                    "city_name": "Tomi Shi"
+                },
+                {
+                    "city_name": "Azumino-Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Miyazaki",
+            "cities": [
+                {
+                    "city_name": "Saito-shi"
+                },
+                {
+                    "city_name": "Nobeoka-shi"
+                },
+                {
+                    "city_name": "Nichinan Shi"
+                },
+                {
+                    "city_name": "Miyazaki-shi"
+                },
+                {
+                    "city_name": "Miyakonojo Shi"
+                },
+                {
+                    "city_name": "Kushima Shi"
+                },
+                {
+                    "city_name": "Koyu-gun"
+                },
+                {
+                    "city_name": "Hyuga-shi"
+                },
+                {
+                    "city_name": "Higashiusuki-gun"
+                },
+                {
+                    "city_name": "Ebino-shi"
+                },
+                {
+                    "city_name": "HIgashimorokata Gun"
+                },
+                {
+                    "city_name": "Kitamorokata Gun"
+                },
+                {
+                    "city_name": "Nishimorokata Gun"
+                },
+                {
+                    "city_name": "Nishiusuki-gun"
+                },
+                {
+                    "city_name": "Kobayashi Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Mie-ken",
+            "cities": [
+                {
+                    "city_name": "Yokkaichi-shi"
+                },
+                {
+                    "city_name": "Watarai-gun"
+                },
+                {
+                    "city_name": "Tsu-shi"
+                },
+                {
+                    "city_name": "Toba-shi"
+                },
+                {
+                    "city_name": "Suzuka-shi"
+                },
+                {
+                    "city_name": "Shima-shi"
+                },
+                {
+                    "city_name": "Owase Shi"
+                },
+                {
+                    "city_name": "Nabari-shi"
+                },
+                {
+                    "city_name": "Mie-gun"
+                },
+                {
+                    "city_name": "Matsuzaka-shi"
+                },
+                {
+                    "city_name": "Kuwana-shi"
+                },
+                {
+                    "city_name": "Kuwana-gun"
+                },
+                {
+                    "city_name": "Kumano-shi"
+                },
+                {
+                    "city_name": "Kitamuro-gun"
+                },
+                {
+                    "city_name": "Ise-shi"
+                },
+                {
+                    "city_name": "Iga-shi"
+                },
+                {
+                    "city_name": "Inabe-gun"
+                },
+                {
+                    "city_name": "Minamimuro-gun"
+                },
+                {
+                    "city_name": "Taki-gun"
+                },
+                {
+                    "city_name": "Inabe-shi"
+                },
+                {
+                    "city_name": "Kameyama Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kyoto Prefecture",
+            "cities": [
+                {
+                    "city_name": "Yosa-gun"
+                },
+                {
+                    "city_name": "Uji Shi"
+                },
+                {
+                    "city_name": "Soraku-gun"
+                },
+                {
+                    "city_name": "Nagaokakyo Shi"
+                },
+                {
+                    "city_name": "Maizuru-shi"
+                },
+                {
+                    "city_name": "Kyoto-shi"
+                },
+                {
+                    "city_name": "Kizugawa-shi"
+                },
+                {
+                    "city_name": "Kameoka-shi"
+                },
+                {
+                    "city_name": "Joyo Shi"
+                },
+                {
+                    "city_name": "Fukuchiyama-shi"
+                },
+                {
+                    "city_name": "Ayabe-shi"
+                },
+                {
+                    "city_name": "Funai-gun"
+                },
+                {
+                    "city_name": "Kuse-gun"
+                },
+                {
+                    "city_name": "Otokuni-gun"
+                },
+                {
+                    "city_name": "Tsuzuki-gun"
+                },
+                {
+                    "city_name": "Miyazu-shi"
+                },
+                {
+                    "city_name": "Muko Shi"
+                },
+                {
+                    "city_name": "Yawata Shi"
+                },
+                {
+                    "city_name": "Kyotango-shi"
+                },
+                {
+                    "city_name": "Nantan-shi"
+                },
+                {
+                    "city_name": "Kyotanabe Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kumamoto",
+            "cities": [
+                {
+                    "city_name": "Yatsushiro Shi"
+                },
+                {
+                    "city_name": "Yatsushiro-gun"
+                },
+                {
+                    "city_name": "Uto Shi"
+                },
+                {
+                    "city_name": "Tamana Shi"
+                },
+                {
+                    "city_name": "Tamana-gun"
+                },
+                {
+                    "city_name": "Minamata Shi"
+                },
+                {
+                    "city_name": "Kumamoto Shi"
+                },
+                {
+                    "city_name": "Kikuchi Shi"
+                },
+                {
+                    "city_name": "Kikuchi-gun"
+                },
+                {
+                    "city_name": "Hitoyoshi Shi"
+                },
+                {
+                    "city_name": "Aso-shi"
+                },
+                {
+                    "city_name": "Aso-gun"
+                },
+                {
+                    "city_name": "Arao Shi"
+                },
+                {
+                    "city_name": "Amakusa Shi"
+                },
+                {
+                    "city_name": "Amakusa Gun"
+                },
+                {
+                    "city_name": "Ashikita-gun"
+                },
+                {
+                    "city_name": "Kamimashiki-gun"
+                },
+                {
+                    "city_name": "Kuma-gun"
+                },
+                {
+                    "city_name": "Shimomashiki-gun"
+                },
+                {
+                    "city_name": "Yamaga Shi"
+                },
+                {
+                    "city_name": "Kamiamakusa Shi"
+                },
+                {
+                    "city_name": "Uki Shi"
+                },
+                {
+                    "city_name": "Koshi Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kochi Prefecture",
+            "cities": [
+                {
+                    "city_name": "Tosashimizu-shi"
+                },
+                {
+                    "city_name": "Tosa-shi"
+                },
+                {
+                    "city_name": "Tosa-gun"
+                },
+                {
+                    "city_name": "Takaoka-gun"
+                },
+                {
+                    "city_name": "Susaki-shi"
+                },
+                {
+                    "city_name": "Nankoku Shi"
+                },
+                {
+                    "city_name": "Nagaoka Gun"
+                },
+                {
+                    "city_name": "Muroto Shi"
+                },
+                {
+                    "city_name": "Kochi Shi"
+                },
+                {
+                    "city_name": "Hata-gun"
+                },
+                {
+                    "city_name": "Aki Shi"
+                },
+                {
+                    "city_name": "Aki Gun"
+                },
+                {
+                    "city_name": "Agawa-gun"
+                },
+                {
+                    "city_name": "Sukumo-shi"
+                },
+                {
+                    "city_name": "Shimanto-shi"
+                },
+                {
+                    "city_name": "Konan Shi"
+                },
+                {
+                    "city_name": "Kami Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanagawa",
+            "cities": [
+                {
+                    "city_name": "Zama Shi"
+                },
+                {
+                    "city_name": "Yokosuka Shi"
+                },
+                {
+                    "city_name": "Yokohama Shi"
+                },
+                {
+                    "city_name": "Yamato-shi"
+                },
+                {
+                    "city_name": "Sagamihara-shi"
+                },
+                {
+                    "city_name": "Odawara-shi"
+                },
+                {
+                    "city_name": "Naka-gun"
+                },
+                {
+                    "city_name": "Miura Shi"
+                },
+                {
+                    "city_name": "Miura-gun"
+                },
+                {
+                    "city_name": "Koza-gun"
+                },
+                {
+                    "city_name": "Kawasaki-shi"
+                },
+                {
+                    "city_name": "Kamakura Shi"
+                },
+                {
+                    "city_name": "Isehara Shi"
+                },
+                {
+                    "city_name": "Hiratsuka Shi"
+                },
+                {
+                    "city_name": "Hadano-shi"
+                },
+                {
+                    "city_name": "Fujisawa Shi"
+                },
+                {
+                    "city_name": "Chigasaki Shi"
+                },
+                {
+                    "city_name": "Ayase Shi"
+                },
+                {
+                    "city_name": "Atsugi Shi"
+                },
+                {
+                    "city_name": "Ashigarashimo-gun"
+                },
+                {
+                    "city_name": "Ashigarakami-gun"
+                },
+                {
+                    "city_name": "Aiko-gun"
+                },
+                {
+                    "city_name": "Zushi Shi"
+                },
+                {
+                    "city_name": "Ebina Shi"
+                },
+                {
+                    "city_name": "Minamiashigara Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kagoshima-ken",
+            "cities": [
+                {
+                    "city_name": "Tarumizu Shi"
+                },
+                {
+                    "city_name": "Soo Gun"
+                },
+                {
+                    "city_name": "Shibushi-shi"
+                },
+                {
+                    "city_name": "Satsuma Gun"
+                },
+                {
+                    "city_name": "Oshima-gun"
+                },
+                {
+                    "city_name": "Nishinoomote Shi"
+                },
+                {
+                    "city_name": "Makurazaki Shi"
+                },
+                {
+                    "city_name": "Kagoshima Shi"
+                },
+                {
+                    "city_name": "Izumi Shi"
+                },
+                {
+                    "city_name": "Ibusuki Shi"
+                },
+                {
+                    "city_name": "Akune Shi"
+                },
+                {
+                    "city_name": "Aira Gun"
+                },
+                {
+                    "city_name": "Aira Shi"
+                },
+                {
+                    "city_name": "Amami Shi"
+                },
+                {
+                    "city_name": "Hioki Shi"
+                },
+                {
+                    "city_name": "Ichikikushikino Shi"
+                },
+                {
+                    "city_name": "Isa Shi"
+                },
+                {
+                    "city_name": "Kirishima Shi"
+                },
+                {
+                    "city_name": "Minamikyushu Shi"
+                },
+                {
+                    "city_name": "Minamisatsuma Shi"
+                },
+                {
+                    "city_name": "Satsumasendai Shi"
+                },
+                {
+                    "city_name": "Soo Shi"
+                },
+                {
+                    "city_name": "Izumi-gun"
+                },
+                {
+                    "city_name": "Kagoshima-gun"
+                },
+                {
+                    "city_name": "Kimotsuki Gun"
+                },
+                {
+                    "city_name": "Kanoya Shi"
+                },
+                {
+                    "city_name": "Kumage-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Kagawa-ken",
+            "cities": [
+                {
+                    "city_name": "Zentsuji Shi"
+                },
+                {
+                    "city_name": "Takamatsu Shi"
+                },
+                {
+                    "city_name": "Shozu-gun"
+                },
+                {
+                    "city_name": "Sakaide Shi"
+                },
+                {
+                    "city_name": "Nakatado-gun"
+                },
+                {
+                    "city_name": "Mitoyo Shi"
+                },
+                {
+                    "city_name": "Marugame Shi"
+                },
+                {
+                    "city_name": "Kita-gun"
+                },
+                {
+                    "city_name": "Kan'onji Shi"
+                },
+                {
+                    "city_name": "Kagawa-gun"
+                },
+                {
+                    "city_name": "Higashikagawa Shi"
+                },
+                {
+                    "city_name": "Ayauta-gun"
+                },
+                {
+                    "city_name": "Sanuki-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Ishikawa-ken",
+            "cities": [
+                {
+                    "city_name": "Wajima Shi"
+                },
+                {
+                    "city_name": "Suzu Shi"
+                },
+                {
+                    "city_name": "Nonoichi-shi"
+                },
+                {
+                    "city_name": "Nomi Gun"
+                },
+                {
+                    "city_name": "Komatsu Shi"
+                },
+                {
+                    "city_name": "Kanazawa-shi"
+                },
+                {
+                    "city_name": "Kahoku Gun"
+                },
+                {
+                    "city_name": "Kaga Shi"
+                },
+                {
+                    "city_name": "Hakui Shi"
+                },
+                {
+                    "city_name": "Hakui Gun"
+                },
+                {
+                    "city_name": "Hosu Gun"
+                },
+                {
+                    "city_name": "Kashima Gun"
+                },
+                {
+                    "city_name": "Nanao Shi"
+                },
+                {
+                    "city_name": "Kahoku Shi"
+                },
+                {
+                    "city_name": "Hakusan Shi"
+                },
+                {
+                    "city_name": "Nomi Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Hyogo",
+            "cities": [
+                {
+                    "city_name": "Tatsuno-shi"
+                },
+                {
+                    "city_name": "Yabu-shi"
+                },
+                {
+                    "city_name": "Toyooka-shi"
+                },
+                {
+                    "city_name": "Takasago Shi"
+                },
+                {
+                    "city_name": "Takarazuka Shi"
+                },
+                {
+                    "city_name": "Taka-gun"
+                },
+                {
+                    "city_name": "Sayo-gun"
+                },
+                {
+                    "city_name": "Nishiwaki-shi"
+                },
+                {
+                    "city_name": "Nishinomiya Shi"
+                },
+                {
+                    "city_name": "Kobe Shi"
+                },
+                {
+                    "city_name": "Kawanishi Shi"
+                },
+                {
+                    "city_name": "Kawanabe-gun"
+                },
+                {
+                    "city_name": "Kako-gun"
+                },
+                {
+                    "city_name": "Kakogawa Shi"
+                },
+                {
+                    "city_name": "Itami Shi"
+                },
+                {
+                    "city_name": "Ibo-gun"
+                },
+                {
+                    "city_name": "Himeji Shi"
+                },
+                {
+                    "city_name": "Ashiya Shi"
+                },
+                {
+                    "city_name": "Amagasaki Shi"
+                },
+                {
+                    "city_name": "Ako Shi"
+                },
+                {
+                    "city_name": "Ako-gun"
+                },
+                {
+                    "city_name": "Akashi Shi"
+                },
+                {
+                    "city_name": "Kanzaki-gun"
+                },
+                {
+                    "city_name": "Mikata-gun"
+                },
+                {
+                    "city_name": "Sumoto Shi"
+                },
+                {
+                    "city_name": "Miki Shi"
+                },
+                {
+                    "city_name": "Ono Shi"
+                },
+                {
+                    "city_name": "Sanda Shi"
+                },
+                {
+                    "city_name": "Kasai Shi"
+                },
+                {
+                    "city_name": "Sasayama-shi"
+                },
+                {
+                    "city_name": "Tanba-shi"
+                },
+                {
+                    "city_name": "Minamiawaji Shi"
+                },
+                {
+                    "city_name": "Asago-shi"
+                },
+                {
+                    "city_name": "Awaji Shi"
+                },
+                {
+                    "city_name": "Shiso-shi"
+                },
+                {
+                    "city_name": "Kato Shi"
+                },
+                {
+                    "city_name": "Aioi Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Hiroshima-ken",
+            "cities": [
+                {
+                    "city_name": "Yamagata-gun"
+                },
+                {
+                    "city_name": "Toyota-gun"
+                },
+                {
+                    "city_name": "Takehara-shi"
+                },
+                {
+                    "city_name": "Otake-shi"
+                },
+                {
+                    "city_name": "Onomichi-shi"
+                },
+                {
+                    "city_name": "Miyoshi Shi"
+                },
+                {
+                    "city_name": "Mihara Shi"
+                },
+                {
+                    "city_name": "Kure-shi"
+                },
+                {
+                    "city_name": "Jinseki-gun"
+                },
+                {
+                    "city_name": "Hiroshima-shi"
+                },
+                {
+                    "city_name": "Higashihiroshima Shi"
+                },
+                {
+                    "city_name": "Hatsukaichi-shi"
+                },
+                {
+                    "city_name": "Fukuyama Shi"
+                },
+                {
+                    "city_name": "Fuchu-shi"
+                },
+                {
+                    "city_name": "Aki-gun"
+                },
+                {
+                    "city_name": "Aki-takata Shi"
+                },
+                {
+                    "city_name": "Shobara-shi"
+                },
+                {
+                    "city_name": "Sera-gun"
+                },
+                {
+                    "city_name": "Etajima-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Gunma-ken",
+            "cities": [
+                {
+                    "city_name": "Tomioka-shi"
+                },
+                {
+                    "city_name": "Tano-gun"
+                },
+                {
+                    "city_name": "Takasaki Shi"
+                },
+                {
+                    "city_name": "Shibukawa-shi"
+                },
+                {
+                    "city_name": "Sawa-gun"
+                },
+                {
+                    "city_name": "Ota-shi"
+                },
+                {
+                    "city_name": "Ora-gun"
+                },
+                {
+                    "city_name": "Maebashi Shi"
+                },
+                {
+                    "city_name": "Kitagumma-gun"
+                },
+                {
+                    "city_name": "Kanra-gun"
+                },
+                {
+                    "city_name": "Isesaki Shi"
+                },
+                {
+                    "city_name": "Agatsuma-gun"
+                },
+                {
+                    "city_name": "Tone-gun"
+                },
+                {
+                    "city_name": "Annaka Shi"
+                },
+                {
+                    "city_name": "Fujioka Shi"
+                },
+                {
+                    "city_name": "Kiryu Shi"
+                },
+                {
+                    "city_name": "Midori Shi"
+                },
+                {
+                    "city_name": "Numata Shi"
+                },
+                {
+                    "city_name": "Tatebayashi-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Gifu",
+            "cities": [
+                {
+                    "city_name": "Toki-shi"
+                },
+                {
+                    "city_name": "Takayama Shi"
+                },
+                {
+                    "city_name": "Tajimi-shi"
+                },
+                {
+                    "city_name": "Seki-shi"
+                },
+                {
+                    "city_name": "Ogaki-shi"
+                },
+                {
+                    "city_name": "Nakatsugawa-shi"
+                },
+                {
+                    "city_name": "Motosu-gun"
+                },
+                {
+                    "city_name": "Mizunami-shi"
+                },
+                {
+                    "city_name": "Minokamo-shi"
+                },
+                {
+                    "city_name": "Kani-gun"
+                },
+                {
+                    "city_name": "Kani-shi"
+                },
+                {
+                    "city_name": "Kamo-gun"
+                },
+                {
+                    "city_name": "Kakamigahara-shi"
+                },
+                {
+                    "city_name": "Kaizu-shi"
+                },
+                {
+                    "city_name": "Hashima-shi"
+                },
+                {
+                    "city_name": "Hashima-gun"
+                },
+                {
+                    "city_name": "Gifu-shi"
+                },
+                {
+                    "city_name": "Gero-shi"
+                },
+                {
+                    "city_name": "Fuwa-gun"
+                },
+                {
+                    "city_name": "Ena-shi"
+                },
+                {
+                    "city_name": "Ampachi-gun"
+                },
+                {
+                    "city_name": "Ibi-gun"
+                },
+                {
+                    "city_name": "Ono Gun"
+                },
+                {
+                    "city_name": "Yoro-gun"
+                },
+                {
+                    "city_name": "Gujo-shi"
+                },
+                {
+                    "city_name": "Hida Shi"
+                },
+                {
+                    "city_name": "Mino-shi"
+                },
+                {
+                    "city_name": "Mizuho-shi"
+                },
+                {
+                    "city_name": "Motosu-shi"
+                },
+                {
+                    "city_name": "Yamagata-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Fukuoka Prefecture",
+            "cities": [
+                {
+                    "city_name": "Yukuhashi Shi"
+                },
+                {
+                    "city_name": "Yanagawa Shi"
+                },
+                {
+                    "city_name": "Yame Shi"
+                },
+                {
+                    "city_name": "Yame-gun"
+                },
+                {
+                    "city_name": "Tagawa Shi"
+                },
+                {
+                    "city_name": "Tagawa-gun"
+                },
+                {
+                    "city_name": "Onojo Shi"
+                },
+                {
+                    "city_name": "Onga-gun"
+                },
+                {
+                    "city_name": "Omuta Shi"
+                },
+                {
+                    "city_name": "Okawa-shi"
+                },
+                {
+                    "city_name": "Ogori-shi"
+                },
+                {
+                    "city_name": "Nakama Shi"
+                },
+                {
+                    "city_name": "Munakata-shi"
+                },
+                {
+                    "city_name": "Kurume Shi"
+                },
+                {
+                    "city_name": "Kuraten-gun"
+                },
+                {
+                    "city_name": "Koga-shi"
+                },
+                {
+                    "city_name": "Kitakyushu-shi"
+                },
+                {
+                    "city_name": "Kasuya-gun"
+                },
+                {
+                    "city_name": "Kasuga Shi"
+                },
+                {
+                    "city_name": "Kaho-gun"
+                },
+                {
+                    "city_name": "Iizuka Shi"
+                },
+                {
+                    "city_name": "Fukuoka-shi"
+                },
+                {
+                    "city_name": "Dazaifu-shi"
+                },
+                {
+                    "city_name": "Chikushino-shi"
+                },
+                {
+                    "city_name": "Chikushi-gun"
+                },
+                {
+                    "city_name": "Chikujo-gun"
+                },
+                {
+                    "city_name": "Chikugo Shi"
+                },
+                {
+                    "city_name": "Buzen-shi"
+                },
+                {
+                    "city_name": "Asakura-gun"
+                },
+                {
+                    "city_name": "Mii-gun"
+                },
+                {
+                    "city_name": "Miyako-gun"
+                },
+                {
+                    "city_name": "Mizuma-gun"
+                },
+                {
+                    "city_name": "Asakura Shi"
+                },
+                {
+                    "city_name": "Fukutsu Shi"
+                },
+                {
+                    "city_name": "Kama Shi"
+                },
+                {
+                    "city_name": "Miyama Shi"
+                },
+                {
+                    "city_name": "Miyawaka Shi"
+                },
+                {
+                    "city_name": "Nogata Shi"
+                },
+                {
+                    "city_name": "Ukiha Shi"
+                },
+                {
+                    "city_name": "Itoshima-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Fukui",
+            "cities": [
+                {
+                    "city_name": "Tsuruga-shi"
+                },
+                {
+                    "city_name": "Oi-gun"
+                },
+                {
+                    "city_name": "Obama-shi"
+                },
+                {
+                    "city_name": "Nyu-gun"
+                },
+                {
+                    "city_name": "Katsuyama Shi"
+                },
+                {
+                    "city_name": "Imadate-gun"
+                },
+                {
+                    "city_name": "Fukui-shi"
+                },
+                {
+                    "city_name": "Yoshida Gun"
+                },
+                {
+                    "city_name": "Nanjo-gun"
+                },
+                {
+                    "city_name": "Mikata-gun"
+                },
+                {
+                    "city_name": "Mikatakaminaka-gun"
+                },
+                {
+                    "city_name": "Ono-shi"
+                },
+                {
+                    "city_name": "Awara-shi"
+                },
+                {
+                    "city_name": "Echizen-shi"
+                },
+                {
+                    "city_name": "Sakai-shi"
+                },
+                {
+                    "city_name": "Sabae-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Ehime",
+            "cities": [
+                {
+                    "city_name": "Uwajima-shi"
+                },
+                {
+                    "city_name": "Saijo-shi"
+                },
+                {
+                    "city_name": "Ozu-shi"
+                },
+                {
+                    "city_name": "Ochi-gun"
+                },
+                {
+                    "city_name": "Nishiuwa-gun"
+                },
+                {
+                    "city_name": "Niihama-shi"
+                },
+                {
+                    "city_name": "Minamiuwa-gun"
+                },
+                {
+                    "city_name": "Matsuyama-shi"
+                },
+                {
+                    "city_name": "Kitauwa-gun"
+                },
+                {
+                    "city_name": "Kita-gun"
+                },
+                {
+                    "city_name": "Iyo-gun"
+                },
+                {
+                    "city_name": "Iyo-shi"
+                },
+                {
+                    "city_name": "Yawatahama-shi"
+                },
+                {
+                    "city_name": "Imabari-shi"
+                },
+                {
+                    "city_name": "Toon-shi"
+                },
+                {
+                    "city_name": "Kamiukena-gun"
+                },
+                {
+                    "city_name": "Shikoku-chuo Shi"
+                },
+                {
+                    "city_name": "Seiyo-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Aichi-ken",
+            "cities": [
+                {
+                    "city_name": "Yatomi-shi"
+                },
+                {
+                    "city_name": "Tsushima-shi"
+                },
+                {
+                    "city_name": "Toyota-shi"
+                },
+                {
+                    "city_name": "Toyokawa-shi"
+                },
+                {
+                    "city_name": "Toyoake-shi"
+                },
+                {
+                    "city_name": "Tokoname-shi"
+                },
+                {
+                    "city_name": "Tokai-shi"
+                },
+                {
+                    "city_name": "Tahara-shi"
+                },
+                {
+                    "city_name": "Shinshiro-shi"
+                },
+                {
+                    "city_name": "Seto-shi"
+                },
+                {
+                    "city_name": "Owariasahi-shi"
+                },
+                {
+                    "city_name": "Okazaki-shi"
+                },
+                {
+                    "city_name": "Obu-shi"
+                },
+                {
+                    "city_name": "Nukata-gun"
+                },
+                {
+                    "city_name": "Niwa-gun"
+                },
+                {
+                    "city_name": "Nisshin-shi"
+                },
+                {
+                    "city_name": "Nishio-shi"
+                },
+                {
+                    "city_name": "Nishikasugai-gun"
+                },
+                {
+                    "city_name": "Nagoya-shi"
+                },
+                {
+                    "city_name": "Nagakute-shi"
+                },
+                {
+                    "city_name": "Miyoshi-shi"
+                },
+                {
+                    "city_name": "Konan-shi"
+                },
+                {
+                    "city_name": "Komaki-shi"
+                },
+                {
+                    "city_name": "Kitashitara-gun"
+                },
+                {
+                    "city_name": "Kasugai-shi"
+                },
+                {
+                    "city_name": "Kariya-shi"
+                },
+                {
+                    "city_name": "Inuyama-shi"
+                },
+                {
+                    "city_name": "Inazawa-shi"
+                },
+                {
+                    "city_name": "Ichinomiya-shi"
+                },
+                {
+                    "city_name": "Hekinan-shi"
+                },
+                {
+                    "city_name": "Handa-shi"
+                },
+                {
+                    "city_name": "Gamagori-shi"
+                },
+                {
+                    "city_name": "Chita-shi"
+                },
+                {
+                    "city_name": "Chita-gun"
+                },
+                {
+                    "city_name": "Chiryu-shi"
+                },
+                {
+                    "city_name": "Anjo-shi"
+                },
+                {
+                    "city_name": "Ama-gun"
+                },
+                {
+                    "city_name": "Aichi-gun"
+                },
+                {
+                    "city_name": "Kiyosu-shi"
+                },
+                {
+                    "city_name": "Aisai-shi"
+                },
+                {
+                    "city_name": "Iwakura-shi"
+                },
+                {
+                    "city_name": "Kitanagoya-shi"
+                },
+                {
+                    "city_name": "Takahama-shi"
+                },
+                {
+                    "city_name": "Toyohashi-shi"
+                },
+                {
+                    "city_name": "Ama-Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Yamagata-ken",
+            "cities": [
+                {
+                    "city_name": "Tsuruoka Shi"
+                },
+                {
+                    "city_name": "Sakata Shi"
+                },
+                {
+                    "city_name": "Nishiokitama-gun"
+                },
+                {
+                    "city_name": "Higashitagawa-gun"
+                },
+                {
+                    "city_name": "Yonezawa Shi"
+                },
+                {
+                    "city_name": "Yamagata Shi"
+                },
+                {
+                    "city_name": "Shinjo Shi"
+                },
+                {
+                    "city_name": "Sagae-shi"
+                },
+                {
+                    "city_name": "Nishimurayama-gun"
+                },
+                {
+                    "city_name": "Nanyo Shi"
+                },
+                {
+                    "city_name": "Nagai-shi"
+                },
+                {
+                    "city_name": "Murayama Shi"
+                },
+                {
+                    "city_name": "Mogami-gun"
+                },
+                {
+                    "city_name": "Kaminoyama-shi"
+                },
+                {
+                    "city_name": "Higashiokitama-gun"
+                },
+                {
+                    "city_name": "Higashimurayama-gun"
+                },
+                {
+                    "city_name": "Higashine Shi"
+                },
+                {
+                    "city_name": "Obanazawa Shi"
+                },
+                {
+                    "city_name": "Akumi-gun"
+                },
+                {
+                    "city_name": "Kitamurayama-gun"
+                },
+                {
+                    "city_name": "Tendo Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Miyagi-ken",
+            "cities": [
+                {
+                    "city_name": "Tome Shi"
+                },
+                {
+                    "city_name": "Shiroishi Shi"
+                },
+                {
+                    "city_name": "Shiogama Shi"
+                },
+                {
+                    "city_name": "Shibata-gun"
+                },
+                {
+                    "city_name": "Sendai Shi"
+                },
+                {
+                    "city_name": "Motoyoshi Gun"
+                },
+                {
+                    "city_name": "Miyagi Gun"
+                },
+                {
+                    "city_name": "Kurokawa-gun"
+                },
+                {
+                    "city_name": "Kurihara Shi"
+                },
+                {
+                    "city_name": "Kesennuma Shi"
+                },
+                {
+                    "city_name": "Katta-gun"
+                },
+                {
+                    "city_name": "Iwanuma-shi"
+                },
+                {
+                    "city_name": "Ishinomaki Shi"
+                },
+                {
+                    "city_name": "Igu-gun"
+                },
+                {
+                    "city_name": "Kami-gun"
+                },
+                {
+                    "city_name": "Oshika Gun"
+                },
+                {
+                    "city_name": "Toda Gun"
+                },
+                {
+                    "city_name": "Watari-gun"
+                },
+                {
+                    "city_name": "Higashimatshushima Shi"
+                },
+                {
+                    "city_name": "Kakuda Shi"
+                },
+                {
+                    "city_name": "Osaki Shi"
+                },
+                {
+                    "city_name": "Natori Shi"
+                },
+                {
+                    "city_name": "Tagajo Shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Iwate",
+            "cities": [
+                {
+                    "city_name": "Waga-gun"
+                },
+                {
+                    "city_name": "Tono-shi"
+                },
+                {
+                    "city_name": "Takizawa-shi"
+                },
+                {
+                    "city_name": "Shiwa-gun"
+                },
+                {
+                    "city_name": "Ofunato-shi"
+                },
+                {
+                    "city_name": "Morioka-shi"
+                },
+                {
+                    "city_name": "Miyako-shi"
+                },
+                {
+                    "city_name": "Kitakami-shi"
+                },
+                {
+                    "city_name": "Kesen-gun"
+                },
+                {
+                    "city_name": "Kamihei-gun"
+                },
+                {
+                    "city_name": "Kamaishi-shi"
+                },
+                {
+                    "city_name": "Ichinoseki-shi"
+                },
+                {
+                    "city_name": "Hanamaki Shi"
+                },
+                {
+                    "city_name": "Ninohe Shi"
+                },
+                {
+                    "city_name": "Ninohe-gun"
+                },
+                {
+                    "city_name": "Kunohe-gun"
+                },
+                {
+                    "city_name": "Kuji-shi"
+                },
+                {
+                    "city_name": "Iwate-gun"
+                },
+                {
+                    "city_name": "Nishiiwai Gun"
+                },
+                {
+                    "city_name": "Shimohei-gun"
+                },
+                {
+                    "city_name": "Hachimantai Shi"
+                },
+                {
+                    "city_name": "Oshu-shi"
+                },
+                {
+                    "city_name": "Rikuzentakata-shi"
+                },
+                {
+                    "city_name": "Isawa-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Ibaraki",
+            "cities": [
+                {
+                    "city_name": "Yuki-shi"
+                },
+                {
+                    "city_name": "Yuki-gun"
+                },
+                {
+                    "city_name": "Shimotsuma-shi"
+                },
+                {
+                    "city_name": "Sashima-gun"
+                },
+                {
+                    "city_name": "Koga-shi"
+                },
+                {
+                    "city_name": "Tsuchiura-shi"
+                },
+                {
+                    "city_name": "Toride-shi"
+                },
+                {
+                    "city_name": "Ryugasaki-shi"
+                },
+                {
+                    "city_name": "Naka-gun"
+                },
+                {
+                    "city_name": "Naka-gun"
+                },
+                {
+                    "city_name": "Mito-shi"
+                },
+                {
+                    "city_name": "Kuji-gun"
+                },
+                {
+                    "city_name": "Kitaibaraki-shi"
+                },
+                {
+                    "city_name": "Kashima-shi"
+                },
+                {
+                    "city_name": "Kasama-shi"
+                },
+                {
+                    "city_name": "Kamisu-shi"
+                },
+                {
+                    "city_name": "Inashiki-gun"
+                },
+                {
+                    "city_name": "Hitachi-shi"
+                },
+                {
+                    "city_name": "Hitachiota-shi"
+                },
+                {
+                    "city_name": "Higashiibaraki-gun"
+                },
+                {
+                    "city_name": "Moriya-shi"
+                },
+                {
+                    "city_name": "Bando-shi"
+                },
+                {
+                    "city_name": "Chikusei-shi"
+                },
+                {
+                    "city_name": "Hitachiomiya-shi"
+                },
+                {
+                    "city_name": "Hokota-shi"
+                },
+                {
+                    "city_name": "Ishioka-shi"
+                },
+                {
+                    "city_name": "Itako-shi"
+                },
+                {
+                    "city_name": "Joso-shi"
+                },
+                {
+                    "city_name": "Namegata-shi"
+                },
+                {
+                    "city_name": "Omitama-shi"
+                },
+                {
+                    "city_name": "Takahagi-shi"
+                },
+                {
+                    "city_name": "Tsukubamirai-shi"
+                },
+                {
+                    "city_name": "Tsukuba-shi"
+                },
+                {
+                    "city_name": "Ushiku-shi"
+                },
+                {
+                    "city_name": "Hitachinaka-shi"
+                },
+                {
+                    "city_name": "Inashiki-shi"
+                },
+                {
+                    "city_name": "Sakuragawa-shi"
+                },
+                {
+                    "city_name": "Kasumigaura-shi"
+                },
+                {
+                    "city_name": "Kitasoma-gun"
+                }
+            ]
+        },
+        {
+            "province_name": "Fukushima-ken",
+            "cities": [
+                {
+                    "city_name": "Yama-gun"
+                },
+                {
+                    "city_name": "Minamiaizu-gun"
+                },
+                {
+                    "city_name": "Kitakata-shi"
+                },
+                {
+                    "city_name": "Kawanuma-gun"
+                },
+                {
+                    "city_name": "Aizu-wakamatsu Shi"
+                },
+                {
+                    "city_name": "Tamura-gun"
+                },
+                {
+                    "city_name": "Sukagawa Shi"
+                },
+                {
+                    "city_name": "Soma Shi"
+                },
+                {
+                    "city_name": "Soma-gun"
+                },
+                {
+                    "city_name": "Shirakawa Shi"
+                },
+                {
+                    "city_name": "Nishishirakawa-gun"
+                },
+                {
+                    "city_name": "Nihonmatsu Shi"
+                },
+                {
+                    "city_name": "Koriyama Shi"
+                },
+                {
+                    "city_name": "Iwaki-shi"
+                },
+                {
+                    "city_name": "Fukushima Shi"
+                },
+                {
+                    "city_name": "Date-shi"
+                },
+                {
+                    "city_name": "Date-gun"
+                },
+                {
+                    "city_name": "Adachi-gun"
+                },
+                {
+                    "city_name": "Futaba-gun"
+                },
+                {
+                    "city_name": "Higashishirakawa-gun"
+                },
+                {
+                    "city_name": "Ishikawa-gun"
+                },
+                {
+                    "city_name": "Iwase-gun"
+                },
+                {
+                    "city_name": "Onuma-gun"
+                },
+                {
+                    "city_name": "Minamisoma Shi"
+                },
+                {
+                    "city_name": "Tamura-shi"
+                },
+                {
+                    "city_name": "Motomiya-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Chiba-ken",
+            "cities": [
+                {
+                    "city_name": "Urayasu-shi"
+                },
+                {
+                    "city_name": "Tateyama-shi"
+                },
+                {
+                    "city_name": "Noda-shi"
+                },
+                {
+                    "city_name": "Nagareyama-shi"
+                },
+                {
+                    "city_name": "Matsudo Shi"
+                },
+                {
+                    "city_name": "Kimitsu Shi"
+                },
+                {
+                    "city_name": "Ichikawa Shi"
+                },
+                {
+                    "city_name": "Futtsu Shi"
+                },
+                {
+                    "city_name": "Funabashi-shi"
+                },
+                {
+                    "city_name": "Awa-gun"
+                },
+                {
+                    "city_name": "Yachiyo-shi"
+                },
+                {
+                    "city_name": "Tomisato-shi"
+                },
+                {
+                    "city_name": "Togane-shi"
+                },
+                {
+                    "city_name": "Sodegaura-shi"
+                },
+                {
+                    "city_name": "Shiroi-shi"
+                },
+                {
+                    "city_name": "Katori-shi"
+                },
+                {
+                    "city_name": "Sambu-gun"
+                },
+                {
+                    "city_name": "Sakura-shi"
+                },
+                {
+                    "city_name": "Narita-shi"
+                },
+                {
+                    "city_name": "Narashino-shi"
+                },
+                {
+                    "city_name": "Mobara Shi"
+                },
+                {
+                    "city_name": "Katori-gun"
+                },
+                {
+                    "city_name": "Kashiwa Shi"
+                },
+                {
+                    "city_name": "Kamogawa-shi"
+                },
+                {
+                    "city_name": "Kamagaya Shi"
+                },
+                {
+                    "city_name": "Isumi-gun"
+                },
+                {
+                    "city_name": "Inzai-shi"
+                },
+                {
+                    "city_name": "Imba-gun"
+                },
+                {
+                    "city_name": "Ichihara Shi"
+                },
+                {
+                    "city_name": "Choshi-shi"
+                },
+                {
+                    "city_name": "Chosei-gun"
+                },
+                {
+                    "city_name": "Chiba-shi"
+                },
+                {
+                    "city_name": "Asahi-shi"
+                },
+                {
+                    "city_name": "Abiko-shi"
+                },
+                {
+                    "city_name": "Yotsukaido-shi"
+                },
+                {
+                    "city_name": "Minamiboso Shi"
+                },
+                {
+                    "city_name": "Sosa-shi"
+                },
+                {
+                    "city_name": "Sanmu-shi"
+                },
+                {
+                    "city_name": "Isumi Shi"
+                },
+                {
+                    "city_name": "Oamishirasato-shi"
+                },
+                {
+                    "city_name": "Kisarazu Shi"
+                },
+                {
+                    "city_name": "Yachimata-shi"
+                },
+                {
+                    "city_name": "Katsuura-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Akita",
+            "cities": [
+                {
+                    "city_name": "Oga-shi"
+                },
+                {
+                    "city_name": "Nikaho-shi"
+                },
+                {
+                    "city_name": "Yuzawa-shi"
+                },
+                {
+                    "city_name": "Yokote-shi"
+                },
+                {
+                    "city_name": "Semboku-gun"
+                },
+                {
+                    "city_name": "Minamiakita-gun"
+                },
+                {
+                    "city_name": "Kitaakita-gun"
+                },
+                {
+                    "city_name": "Akita Shi"
+                },
+                {
+                    "city_name": "Yamamoto-gun"
+                },
+                {
+                    "city_name": "Odate-shi"
+                },
+                {
+                    "city_name": "Noshiro Shi"
+                },
+                {
+                    "city_name": "Kazuno Shi"
+                },
+                {
+                    "city_name": "Kazuno-gun"
+                },
+                {
+                    "city_name": "Ogachi-gun"
+                },
+                {
+                    "city_name": "Daisen-shi"
+                },
+                {
+                    "city_name": "Katagami-shi"
+                },
+                {
+                    "city_name": "Kitaakita-shi"
+                },
+                {
+                    "city_name": "Yurihonjo-shi"
+                },
+                {
+                    "city_name": "Semboku-shi"
+                }
+            ]
+        },
+        {
+            "province_name": "Hokkaido",
+            "cities": [
+                {
+                    "city_name": "Okushiri-gun"
+                },
+                {
+                    "city_name": "Yubari-shi"
+                },
+                {
+                    "city_name": "Yoichi-gun"
+                },
+                {
+                    "city_name": "Wakkanai Shi"
+                },
+                {
+                    "city_name": "Utashinai-shi"
+                },
+                {
+                    "city_name": "Tomamae Gun"
+                },
+                {
+                    "city_name": "Tomakomai Shi"
+                },
+                {
+                    "city_name": "Teshio Gun"
+                },
+                {
+                    "city_name": "Takikawa-shi"
+                },
+                {
+                    "city_name": "Sunagawa-shi"
+                },
+                {
+                    "city_name": "Shibetsu Shi"
+                },
+                {
+                    "city_name": "Sapporo-shi"
+                },
+                {
+                    "city_name": "Rumoi-shi"
+                },
+                {
+                    "city_name": "Rishiri Gun"
+                },
+                {
+                    "city_name": "Rebun Gun"
+                },
+                {
+                    "city_name": "Otaru-shi"
+                },
+                {
+                    "city_name": "Obihiro Shi"
+                },
+                {
+                    "city_name": "Noboribetsu-shi"
+                },
+                {
+                    "city_name": "Nemuro-shi"
+                },
+                {
+                    "city_name": "Muroran-shi"
+                },
+                {
+                    "city_name": "Kushiro Shi"
+                },
+                {
+                    "city_name": "Kushiro-gun"
+                },
+                {
+                    "city_name": "Ktiami Shi"
+                },
+                {
+                    "city_name": "Kayabe-gun"
+                },
+                {
+                    "city_name": "Kamikawa-gun"
+                },
+                {
+                    "city_name": "Kamiiso-gun"
+                },
+                {
+                    "city_name": "Kameda-gun"
+                },
+                {
+                    "city_name": "Iwanai-gun"
+                },
+                {
+                    "city_name": "Iwamizawa-shi"
+                },
+                {
+                    "city_name": "Hiyama-gun"
+                },
+                {
+                    "city_name": "Hiroo-gun"
+                },
+                {
+                    "city_name": "Hakodate-shi"
+                },
+                {
+                    "city_name": "Furubira-gun"
+                },
+                {
+                    "city_name": "Furano-shi"
+                },
+                {
+                    "city_name": "Fukagawa-shi"
+                },
+                {
+                    "city_name": "Eniwa-shi"
+                },
+                {
+                    "city_name": "Ebetsu-shi"
+                },
+                {
+                    "city_name": "Date-shi"
+                },
+                {
+                    "city_name": "Chitose Shi"
+                },
+                {
+                    "city_name": "Bibai-shi"
+                },
+                {
+                    "city_name": "Ashibetsu-shi"
+                },
+                {
+                    "city_name": "Asahikawa-shi"
+                },
+                {
+                    "city_name": "Akabira-shi"
+                },
+                {
+                    "city_name": "Abuta-gun"
+                },
+                {
+                    "city_name": "Abashiri Shi"
+                },
+                {
+                    "city_name": "Abashiri-gun"
+                },
+                {
+                    "city_name": "Akan-gun"
+                },
+                {
+                    "city_name": "Akkeshi-gun"
+                },
+                {
+                    "city_name": "Ashoro-gun"
+                },
+                {
+                    "city_name": "Esashi Gun"
+                },
+                {
+                    "city_name": "Furuu-gun"
+                },
+                {
+                    "city_name": "Futami-gun"
+                },
+                {
+                    "city_name": "Hidaka-gun"
+                },
+                {
+                    "city_name": "Horoizumi-gun"
+                },
+                {
+                    "city_name": "Ishikari-gun"
+                },
+                {
+                    "city_name": "Isoya-gun"
+                },
+                {
+                    "city_name": "Kabato-gun"
+                },
+                {
+                    "city_name": "Kasai-gun"
+                },
+                {
+                    "city_name": "Kato-gun"
+                },
+                {
+                    "city_name": "Kawakami-gun"
+                },
+                {
+                    "city_name": "Kudo-gun"
+                },
+                {
+                    "city_name": "Mashike-gun"
+                },
+                {
+                    "city_name": "Matsumae-gun"
+                },
+                {
+                    "city_name": "Menashi-gun"
+                },
+                {
+                    "city_name": "Monbetsu Gun"
+                },
+                {
+                    "city_name": "Nakagawa Gun"
+                },
+                {
+                    "city_name": "Nakagawa-gun"
+                },
+                {
+                    "city_name": "Niikappu-gun"
+                },
+                {
+                    "city_name": "Nishi-gun"
+                },
+                {
+                    "city_name": "Notsuke-gun"
+                },
+                {
+                    "city_name": "Rumoi Gun"
+                },
+                {
+                    "city_name": "Samani-gun"
+                },
+                {
+                    "city_name": "Saru-gun"
+                },
+                {
+                    "city_name": "Setana-gun"
+                },
+                {
+                    "city_name": "Shakotan-gun"
+                },
+                {
+                    "city_name": "Shari-gun"
+                },
+                {
+                    "city_name": "Shibetsu-gun"
+                },
+                {
+                    "city_name": "Shimamaki-gun"
+                },
+                {
+                    "city_name": "Shiranuka-gun"
+                },
+                {
+                    "city_name": "Shiraoi-gun"
+                },
+                {
+                    "city_name": "Sorachi-gun"
+                },
+                {
+                    "city_name": "Soya Gun"
+                },
+                {
+                    "city_name": "Suttsu-gun"
+                },
+                {
+                    "city_name": "Tokachi-gun"
+                },
+                {
+                    "city_name": "Tokoro-gun"
+                },
+                {
+                    "city_name": "Urukawa-gun"
+                },
+                {
+                    "city_name": "Uryu Gun"
+                },
+                {
+                    "city_name": "Usu-gun"
+                },
+                {
+                    "city_name": "Yamakoshi-gun"
+                },
+                {
+                    "city_name": "Yubari-gun"
+                },
+                {
+                    "city_name": "Yufutsu-gun"
+                },
+                {
+                    "city_name": "Hokuto-shi"
+                },
+                {
+                    "city_name": "Ishikari-shi"
+                },
+                {
+                    "city_name": "Monbetsu Shi"
+                },
+                {
+                    "city_name": "Nayoro Shi"
+                },
+                {
+                    "city_name": "Mikasa-shi"
+                },
+                {
+                    "city_name": "Kitahiroshima-shi"
+                },
+                {
+                    "city_name": "Kamikawa-gun"
+                },
+                {
+                    "city_name": "Kamikawa-gun (Teshio no kuni)"
+                }
+            ]
+        },
+        {
+            "province_name": "Aomori-ken",
+            "cities": [
+                {
+                    "city_name": "Towada Shi"
+                },
+                {
+                    "city_name": "Shimokita-gun"
+                },
+                {
+                    "city_name": "Sannohe Gun"
+                },
+                {
+                    "city_name": "Mutsu-shi"
+                },
+                {
+                    "city_name": "Minamitsugaru Gun"
+                },
+                {
+                    "city_name": "Kuroishi Shi"
+                },
+                {
+                    "city_name": "Kitatsugaru Gun"
+                },
+                {
+                    "city_name": "Kamikita-gun"
+                },
+                {
+                    "city_name": "Hirosaki Shi"
+                },
+                {
+                    "city_name": "Higashitsugaru-gun"
+                },
+                {
+                    "city_name": "Hachinohe Shi"
+                },
+                {
+                    "city_name": "Goshogawara Shi"
+                },
+                {
+                    "city_name": "Aomori Shi"
+                },
+                {
+                    "city_name": "Nakatsugaru Gun"
+                },
+                {
+                    "city_name": "Hirakawa Shi"
+                },
+                {
+                    "city_name": "Misawa Shi"
+                },
+                {
+                    "city_name": "Tsugaru Shi"
+                },
+                {
+                    "city_name": "Nishitsugaru-gun"
+                }
+            ]
+        }
+    ]
+}

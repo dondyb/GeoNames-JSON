@@ -1,0 +1,50 @@
+{
+    "country_name": "Barbados",
+    "country_id": "BB",
+    "provinces": [
+        {
+            "province_name": "Saint Thomas",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Philip",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Peter",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Michael",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Lucy",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Joseph",
+            "cities": []
+        },
+        {
+            "province_name": "Saint John",
+            "cities": []
+        },
+        {
+            "province_name": "Saint James",
+            "cities": []
+        },
+        {
+            "province_name": "Saint George",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Andrew",
+            "cities": []
+        },
+        {
+            "province_name": "Christ Church",
+            "cities": []
+        }
+    ]
+}

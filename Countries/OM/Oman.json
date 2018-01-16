@@ -1,0 +1,54 @@
+{
+    "country_name": "Oman",
+    "country_id": "OM",
+    "provinces": [
+        {
+            "province_name": "Muhafazat ad Dakhiliyah",
+            "cities": []
+        },
+        {
+            "province_name": "Al Batinah South Governorate",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat al Wusta",
+            "cities": []
+        },
+        {
+            "province_name": "Ash Sharqiyah South",
+            "cities": []
+        },
+        {
+            "province_name": "Az Zahirah",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat Masqat",
+            "cities": []
+        },
+        {
+            "province_name": "Musandam",
+            "cities": [
+                {
+                    "city_name": "Madha"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Zufar",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat al Buraymi",
+            "cities": []
+        },
+        {
+            "province_name": "Muhafazat Shamal ash Sharqiyah",
+            "cities": []
+        },
+        {
+            "province_name": "Al Batinah North Governorate",
+            "cities": []
+        }
+    ]
+}

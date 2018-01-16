@@ -1,0 +1,216 @@
+{
+    "country_name": "Mali",
+    "country_id": "ML",
+    "provinces": [
+        {
+            "province_name": "Tombouctou Region",
+            "cities": [
+                {
+                    "city_name": "Cercle de Goundam"
+                }
+            ]
+        },
+        {
+            "province_name": "Sikasso Region",
+            "cities": [
+                {
+                    "city_name": "Koutiala Cercle"
+                },
+                {
+                    "city_name": "Bla"
+                },
+                {
+                    "city_name": "Bougouni Cercle"
+                },
+                {
+                    "city_name": "Sikasso Cercle"
+                },
+                {
+                    "city_name": "Kolondieba Cercle"
+                },
+                {
+                    "city_name": "Cercle de Yanfolila"
+                },
+                {
+                    "city_name": "Cercle de Kadiolo"
+                },
+                {
+                    "city_name": "Cercle de Yorosso"
+                }
+            ]
+        },
+        {
+            "province_name": "Segou Region",
+            "cities": [
+                {
+                    "city_name": "Baroueli"
+                },
+                {
+                    "city_name": "Segou"
+                },
+                {
+                    "city_name": "ke-Macina"
+                },
+                {
+                    "city_name": "Tominian"
+                },
+                {
+                    "city_name": "Cercle de Niono"
+                },
+                {
+                    "city_name": "Cercle de Macina"
+                },
+                {
+                    "city_name": "Cercle de San"
+                }
+            ]
+        },
+        {
+            "province_name": "Mopti Region",
+            "cities": [
+                {
+                    "city_name": "Douentza Cercle"
+                },
+                {
+                    "city_name": "Mopti Cercle"
+                },
+                {
+                    "city_name": "Bankass Cercle"
+                },
+                {
+                    "city_name": "Koro Cercle"
+                },
+                {
+                    "city_name": "Youwarou Cercle"
+                },
+                {
+                    "city_name": "Niafunke Cercle"
+                },
+                {
+                    "city_name": "Tenenkou Cercle"
+                },
+                {
+                    "city_name": "Djenne Cercle"
+                },
+                {
+                    "city_name": "Bandiagara Cercle"
+                }
+            ]
+        },
+        {
+            "province_name": "Koulikoro Region",
+            "cities": [
+                {
+                    "city_name": "Cercle de Kangaba"
+                }
+            ]
+        },
+        {
+            "province_name": "Kayes Region",
+            "cities": [
+                {
+                    "city_name": "Kayes Cercle"
+                },
+                {
+                    "city_name": "Kita Cercle"
+                },
+                {
+                    "city_name": "Diema Cercle"
+                },
+                {
+                    "city_name": "Nioro Cercle"
+                },
+                {
+                    "city_name": "Kenieba Cercle"
+                },
+                {
+                    "city_name": "Bafoulabe Cercle"
+                },
+                {
+                    "city_name": "Cercle de Yelimane"
+                }
+            ]
+        },
+        {
+            "province_name": "Gao Region",
+            "cities": [
+                {
+                    "city_name": "Gourma-Rharous Cercle"
+                },
+                {
+                    "city_name": "Gao Cercle"
+                },
+                {
+                    "city_name": "Kidal"
+                },
+                {
+                    "city_name": "Tombouctou"
+                },
+                {
+                    "city_name": "Dire"
+                },
+                {
+                    "city_name": "Cercle de Bourem"
+                },
+                {
+                    "city_name": "Ansongo Cercle"
+                },
+                {
+                    "city_name": "Cercle de Menaka"
+                }
+            ]
+        },
+        {
+            "province_name": "Bamako Region",
+            "cities": [
+                {
+                    "city_name": "Commune 3"
+                },
+                {
+                    "city_name": "Commune 1"
+                },
+                {
+                    "city_name": "Commune 2"
+                },
+                {
+                    "city_name": "Commune 5"
+                },
+                {
+                    "city_name": "Commune 6"
+                },
+                {
+                    "city_name": "Kati Cercle"
+                },
+                {
+                    "city_name": "Dioila"
+                },
+                {
+                    "city_name": "Koulikoro"
+                },
+                {
+                    "city_name": "Kolokani Cercle"
+                },
+                {
+                    "city_name": "Banamba Cercle"
+                },
+                {
+                    "city_name": "Nara Cercle"
+                }
+            ]
+        },
+        {
+            "province_name": "Kidal Region",
+            "cities": [
+                {
+                    "city_name": "Ti-n-Essako"
+                },
+                {
+                    "city_name": "Cercle d'Abeibara"
+                },
+                {
+                    "city_name": "Cercle de Tessalit"
+                }
+            ]
+        }
+    ]
+}

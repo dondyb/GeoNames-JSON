@@ -1,0 +1,140 @@
+{
+    "country_name": "Swaziland",
+    "country_id": "SZ",
+    "provinces": [
+        {
+            "province_name": "Shiselweni District",
+            "cities": [
+                {
+                    "city_name": "Matsanjeni"
+                },
+                {
+                    "city_name": "Maseyisini"
+                },
+                {
+                    "city_name": "Ngudzeni"
+                },
+                {
+                    "city_name": "Mtsambama"
+                },
+                {
+                    "city_name": "Nkwene"
+                },
+                {
+                    "city_name": "Sigwe Inkhundla"
+                },
+                {
+                    "city_name": "Zombodze Ikhundla"
+                },
+                {
+                    "city_name": "Hosea"
+                },
+                {
+                    "city_name": "Shiselweni I"
+                },
+                {
+                    "city_name": "Matsanjeni North"
+                }
+            ]
+        },
+        {
+            "province_name": "Manzini District",
+            "cities": [
+                {
+                    "city_name": "Manzini North"
+                },
+                {
+                    "city_name": "Mkhiweni"
+                },
+                {
+                    "city_name": "Nhlambeni"
+                },
+                {
+                    "city_name": "Ekukhanyeni"
+                },
+                {
+                    "city_name": "Ngwempisi"
+                },
+                {
+                    "city_name": "Manzini South"
+                },
+                {
+                    "city_name": "Ntondozi"
+                },
+                {
+                    "city_name": "Mahlangatsha"
+                },
+                {
+                    "city_name": "Mafutseni"
+                },
+                {
+                    "city_name": "Ludzeludze Inkhundla"
+                },
+                {
+                    "city_name": "Lamgabhi"
+                },
+                {
+                    "city_name": "Kwaluseni"
+                },
+                {
+                    "city_name": "Mangcongco"
+                }
+            ]
+        },
+        {
+            "province_name": "Lubombo District",
+            "cities": [
+                {
+                    "city_name": "Siphofaneni"
+                },
+                {
+                    "city_name": "Lomashasha"
+                },
+                {
+                    "city_name": "Hlane"
+                },
+                {
+                    "city_name": "Mpholonjeni"
+                },
+                {
+                    "city_name": "Dvokodvweni Inkhundla"
+                },
+                {
+                    "city_name": "Inkhundla Sithobela"
+                }
+            ]
+        },
+        {
+            "province_name": "Hhohho District",
+            "cities": [
+                {
+                    "city_name": "Motjane"
+                },
+                {
+                    "city_name": "Mayiwane"
+                },
+                {
+                    "city_name": "Emkhuzweni Mission"
+                },
+                {
+                    "city_name": "Nkhaba"
+                },
+                {
+                    "city_name": "Mhlangatane"
+                },
+                {
+                    "city_name": "Hhukwini"
+                },
+                {
+                    "city_name": "Madlangempisi"
+                },
+                {
+                    "city_name": "Ntfonjeni"
+                },
+                {
+                    "city_name": "Maphalaleni"
+                }
+            ]
+        }
+    ]
+}

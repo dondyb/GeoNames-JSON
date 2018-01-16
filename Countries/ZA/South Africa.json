@@ -1,0 +1,207 @@
+{
+    "country_name": "South Africa",
+    "country_id": "ZA",
+    "provinces": [
+        {
+            "province_name": "Free State",
+            "cities": [
+                {
+                    "city_name": "Xhariep District Municipality"
+                },
+                {
+                    "city_name": "Lejweleputswa District Municipality"
+                },
+                {
+                    "city_name": "Thabo Mofutsanyana District Municipality"
+                },
+                {
+                    "city_name": "Fezile Dabi District Municipality"
+                },
+                {
+                    "city_name": "Mangaung Metropolitan Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Province of KwaZulu-Natal",
+            "cities": [
+                {
+                    "city_name": "eThekwini Metropolitan Municipality"
+                },
+                {
+                    "city_name": "Amajuba District Municipality"
+                },
+                {
+                    "city_name": "Ugu District Municipality"
+                },
+                {
+                    "city_name": "uMgungundlovu District Municipality"
+                },
+                {
+                    "city_name": "uThukela District Municipality"
+                },
+                {
+                    "city_name": "uMzinyathi District Municipality"
+                },
+                {
+                    "city_name": "Zululand District Municipality"
+                },
+                {
+                    "city_name": "uThungulu District Municipality"
+                },
+                {
+                    "city_name": "iLembe District Municipality"
+                },
+                {
+                    "city_name": "Sisonke District Municipality"
+                },
+                {
+                    "city_name": "uMkhanyakude District Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Cape",
+            "cities": [
+                {
+                    "city_name": "Buffalo City Metropolitan Municipality"
+                },
+                {
+                    "city_name": "Cacadu District Municipality"
+                },
+                {
+                    "city_name": "Amathole District Municipality"
+                },
+                {
+                    "city_name": "Chris Hani District Municipality"
+                },
+                {
+                    "city_name": "Alfred Nzo District Municipality"
+                },
+                {
+                    "city_name": "Joe Gqabi District Municipality"
+                },
+                {
+                    "city_name": "OR Tambo District Municipality"
+                },
+                {
+                    "city_name": "Nelson Mandela Bay Metropolitan Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Gauteng",
+            "cities": [
+                {
+                    "city_name": "Ekurhuleni Metropolitan Municipality"
+                },
+                {
+                    "city_name": "City of Johannesburg Metropolitan Municipality"
+                },
+                {
+                    "city_name": "City of Tshwane Metropolitan Municipality"
+                },
+                {
+                    "city_name": "Sedibeng District Municipality"
+                },
+                {
+                    "city_name": "West Rand District Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Mpumalanga",
+            "cities": [
+                {
+                    "city_name": "Ehlanzeni District"
+                },
+                {
+                    "city_name": "Gert Sibande District Municipality"
+                },
+                {
+                    "city_name": "Nkangala District Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Province of Northern Cape",
+            "cities": [
+                {
+                    "city_name": "John Taolo Gaetsewe District Municipality"
+                },
+                {
+                    "city_name": "Namakwa District Municipality"
+                },
+                {
+                    "city_name": "Pixley ka Seme District Municipality"
+                },
+                {
+                    "city_name": "Siyanda District Municipality"
+                },
+                {
+                    "city_name": "Frances Baard District Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Limpopo",
+            "cities": [
+                {
+                    "city_name": "Capricorn District Municipality"
+                },
+                {
+                    "city_name": "Mopani District Municipality"
+                },
+                {
+                    "city_name": "Vhembe District Municipality"
+                },
+                {
+                    "city_name": "Waterberg District Municipality"
+                },
+                {
+                    "city_name": "Sekhukhune District Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Province of North West",
+            "cities": [
+                {
+                    "city_name": "Bojanala Platinum District Municipality"
+                },
+                {
+                    "city_name": "Dr Ruth Segomotsi Mompati District Municipality"
+                },
+                {
+                    "city_name": "Dr Kenneth Kaunda District Municipality"
+                },
+                {
+                    "city_name": "Ngaka Modiri Molema District Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Cape",
+            "cities": [
+                {
+                    "city_name": "City of Cape Town"
+                },
+                {
+                    "city_name": "Cape Winelands District Municipality"
+                },
+                {
+                    "city_name": "Eden District Municipality"
+                },
+                {
+                    "city_name": "Central Karoo District Municipality"
+                },
+                {
+                    "city_name": "West Coast District Municipality"
+                },
+                {
+                    "city_name": "Overberg District Municipality"
+                }
+            ]
+        }
+    ]
+}

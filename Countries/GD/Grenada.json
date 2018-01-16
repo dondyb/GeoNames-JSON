@@ -1,0 +1,34 @@
+{
+    "country_name": "Grenada",
+    "country_id": "GD",
+    "provinces": [
+        {
+            "province_name": "Saint Patrick",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Mark",
+            "cities": []
+        },
+        {
+            "province_name": "Saint John",
+            "cities": []
+        },
+        {
+            "province_name": "Saint George",
+            "cities": []
+        },
+        {
+            "province_name": "Saint David",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Andrew",
+            "cities": []
+        },
+        {
+            "province_name": "Carriacou and Petite Martinique",
+            "cities": []
+        }
+    ]
+}

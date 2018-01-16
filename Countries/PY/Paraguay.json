@@ -1,0 +1,82 @@
+{
+    "country_name": "Paraguay",
+    "country_id": "PY",
+    "provinces": [
+        {
+            "province_name": "Departamento de San Pedro",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Presidente Hayes",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Paraguari",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Neembucu",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Misiones",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Itapua",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento del Guaira",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de la Cordillera",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Concepcion",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento Central",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Canindeyu",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Caazapa",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Caaguazu",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento del Amambay",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento del Alto Parana",
+            "cities": [
+                {
+                    "city_name": "Minga Pora District"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Alto Paraguay",
+            "cities": []
+        },
+        {
+            "province_name": "Asuncion",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Boqueron",
+            "cities": []
+        }
+    ]
+}

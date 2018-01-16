@@ -1,0 +1,91 @@
+{
+    "country_name": "Serbia",
+    "country_id": "RS",
+    "provinces": [
+        {
+            "province_name": "Autonomna Pokrajina Vojvodina",
+            "cities": [
+                {
+                    "city_name": "South Backa"
+                },
+                {
+                    "city_name": "South Banat"
+                },
+                {
+                    "city_name": "North Backa"
+                },
+                {
+                    "city_name": "North Banat"
+                },
+                {
+                    "city_name": "Central Banat"
+                },
+                {
+                    "city_name": "Srem"
+                },
+                {
+                    "city_name": "West Backa"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Serbia",
+            "cities": [
+                {
+                    "city_name": "Bor"
+                },
+                {
+                    "city_name": "Branicevo"
+                },
+                {
+                    "city_name": "Jablanica"
+                },
+                {
+                    "city_name": "Kolubara"
+                },
+                {
+                    "city_name": "Macva"
+                },
+                {
+                    "city_name": "Morava"
+                },
+                {
+                    "city_name": "Nisava"
+                },
+                {
+                    "city_name": "Pcinja"
+                },
+                {
+                    "city_name": "Pirot"
+                },
+                {
+                    "city_name": "Podunavlje District"
+                },
+                {
+                    "city_name": "Pomoravlje"
+                },
+                {
+                    "city_name": "Rasina"
+                },
+                {
+                    "city_name": "Raska"
+                },
+                {
+                    "city_name": "Sumadija"
+                },
+                {
+                    "city_name": "Toplica"
+                },
+                {
+                    "city_name": "Zajecar"
+                },
+                {
+                    "city_name": "Zlatibor"
+                },
+                {
+                    "city_name": "Belgrade"
+                }
+            ]
+        }
+    ]
+}

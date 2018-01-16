@@ -1,0 +1,200 @@
+{
+    "country_name": "South Sudan",
+    "country_id": "SS",
+    "provinces": [
+        {
+            "province_name": "Ruweng",
+            "cities": []
+        },
+        {
+            "province_name": "Maiwut",
+            "cities": []
+        },
+        {
+            "province_name": "Akobo",
+            "cities": []
+        },
+        {
+            "province_name": "Aweil",
+            "cities": []
+        },
+        {
+            "province_name": "Eastern Lakes",
+            "cities": []
+        },
+        {
+            "province_name": "Gogrial",
+            "cities": []
+        },
+        {
+            "province_name": "Lol",
+            "cities": []
+        },
+        {
+            "province_name": "Amadi State",
+            "cities": []
+        },
+        {
+            "province_name": "Yei River",
+            "cities": [
+                {
+                    "city_name": "Lainya County"
+                },
+                {
+                    "city_name": "Morobo County"
+                }
+            ]
+        },
+        {
+            "province_name": "Fashoda",
+            "cities": []
+        },
+        {
+            "province_name": "Gok",
+            "cities": []
+        },
+        {
+            "province_name": "Tonj",
+            "cities": []
+        },
+        {
+            "province_name": "Twic",
+            "cities": []
+        },
+        {
+            "province_name": "Wau",
+            "cities": [
+                {
+                    "city_name": "Jur River County"
+                }
+            ]
+        },
+        {
+            "province_name": "Gbudwe",
+            "cities": []
+        },
+        {
+            "province_name": "Imatong",
+            "cities": [
+                {
+                    "city_name": "Magwi County"
+                },
+                {
+                    "city_name": "Ikotos"
+                },
+                {
+                    "city_name": "Torit County"
+                },
+                {
+                    "city_name": "Lafon County"
+                }
+            ]
+        },
+        {
+            "province_name": "Jubek",
+            "cities": [
+                {
+                    "city_name": "Juba County"
+                }
+            ]
+        },
+        {
+            "province_name": "Maridi",
+            "cities": []
+        },
+        {
+            "province_name": "Terekeka",
+            "cities": [
+                {
+                    "city_name": "Terkaka"
+                }
+            ]
+        },
+        {
+            "province_name": "Boma",
+            "cities": [
+                {
+                    "city_name": "Pochalla County"
+                }
+            ]
+        },
+        {
+            "province_name": "Bieh",
+            "cities": [
+                {
+                    "city_name": "Uror County"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Upper Nile",
+            "cities": [
+                {
+                    "city_name": "Malakal County"
+                }
+            ]
+        },
+        {
+            "province_name": "Jonglei",
+            "cities": []
+        },
+        {
+            "province_name": "Latjoor",
+            "cities": []
+        },
+        {
+            "province_name": "Northern Liech",
+            "cities": [
+                {
+                    "city_name": "Rubkona"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Liech",
+            "cities": []
+        },
+        {
+            "province_name": "Fangak",
+            "cities": []
+        },
+        {
+            "province_name": "Western Lakes",
+            "cities": []
+        },
+        {
+            "province_name": "Aweil East",
+            "cities": [
+                {
+                    "city_name": "Aweil East"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Upper Nile",
+            "cities": [
+                {
+                    "city_name": "Maban County"
+                },
+                {
+                    "city_name": "Melut County"
+                },
+                {
+                    "city_name": "Renk County"
+                }
+            ]
+        },
+        {
+            "province_name": "Tambura",
+            "cities": []
+        },
+        {
+            "province_name": "Kapoeta",
+            "cities": [
+                {
+                    "city_name": "Budi"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "country_name": "Malawi",
+    "country_id": "MW",
+    "provinces": [
+        {
+            "province_name": "Southern Region",
+            "cities": [
+                {
+                    "city_name": "Zomba District"
+                },
+                {
+                    "city_name": "Nsanje District"
+                },
+                {
+                    "city_name": "Mwanza District"
+                },
+                {
+                    "city_name": "Mulanje District"
+                },
+                {
+                    "city_name": "Mangochi District"
+                },
+                {
+                    "city_name": "Machinga District"
+                },
+                {
+                    "city_name": "Thyolo District"
+                },
+                {
+                    "city_name": "Chiradzulu District"
+                },
+                {
+                    "city_name": "Chikwawa District"
+                },
+                {
+                    "city_name": "Blantyre District"
+                },
+                {
+                    "city_name": "Balaka District"
+                },
+                {
+                    "city_name": "Phalombe District"
+                },
+                {
+                    "city_name": "Neno District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Region",
+            "cities": [
+                {
+                    "city_name": "Chitipa District"
+                },
+                {
+                    "city_name": "Rumphi District"
+                },
+                {
+                    "city_name": "Nkhata Bay District"
+                },
+                {
+                    "city_name": "Mzimba District"
+                },
+                {
+                    "city_name": "Karonga District"
+                },
+                {
+                    "city_name": "Likoma District"
+                },
+                {
+                    "city_name": "Mwenemisuku"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Region",
+            "cities": [
+                {
+                    "city_name": "Salima District"
+                },
+                {
+                    "city_name": "Ntchisi District"
+                },
+                {
+                    "city_name": "Nkhotakota District"
+                },
+                {
+                    "city_name": "Ntcheu District"
+                },
+                {
+                    "city_name": "Mchinji District"
+                },
+                {
+                    "city_name": "Lilongwe District"
+                },
+                {
+                    "city_name": "Kasungu District"
+                },
+                {
+                    "city_name": "Dowa District"
+                },
+                {
+                    "city_name": "Dedza District"
+                }
+            ]
+        }
+    ]
+}

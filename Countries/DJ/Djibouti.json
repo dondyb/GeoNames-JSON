@@ -1,0 +1,41 @@
+{
+    "country_name": "Djibouti",
+    "country_id": "DJ",
+    "provinces": [
+        {
+            "province_name": "Tadjourah",
+            "cities": []
+        },
+        {
+            "province_name": "Obock",
+            "cities": [
+                {
+                    "city_name": "Obock"
+                }
+            ]
+        },
+        {
+            "province_name": "Djibouti Region",
+            "cities": []
+        },
+        {
+            "province_name": "Dikhil",
+            "cities": [
+                {
+                    "city_name": "Yoboki"
+                },
+                {
+                    "city_name": "As Eyla"
+                }
+            ]
+        },
+        {
+            "province_name": "Ali Sabieh Region",
+            "cities": []
+        },
+        {
+            "province_name": "Arta Region",
+            "cities": []
+        }
+    ]
+}

@@ -1,0 +1,299 @@
+{
+    "country_name": "Panama",
+    "country_id": "PA",
+    "provinces": [
+        {
+            "province_name": "Provincia de Veraguas",
+            "cities": [
+                {
+                    "city_name": "Distrito de Sona"
+                },
+                {
+                    "city_name": "Distrito de Santiago"
+                },
+                {
+                    "city_name": "Distrito de Santa Fe"
+                },
+                {
+                    "city_name": "Distrito de San Francisco"
+                },
+                {
+                    "city_name": "Distrito de Rio de Jesus"
+                },
+                {
+                    "city_name": "Distrito de Montijo"
+                },
+                {
+                    "city_name": "Distrito de Las Palmas"
+                },
+                {
+                    "city_name": "Distrito de La Mesa"
+                },
+                {
+                    "city_name": "Distrito de Canazas"
+                },
+                {
+                    "city_name": "Distrito de Calobre"
+                },
+                {
+                    "city_name": "Distrito de Atalaya"
+                },
+                {
+                    "city_name": "Mariato District"
+                }
+            ]
+        },
+        {
+            "province_name": "Guna Yala",
+            "cities": [
+                {
+                    "city_name": "El Porvenir"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Panama",
+            "cities": [
+                {
+                    "city_name": "Distrito de Taboga"
+                },
+                {
+                    "city_name": "Distrito San Miguelito"
+                },
+                {
+                    "city_name": "Distrito de Panama"
+                },
+                {
+                    "city_name": "Distrito de Chiman"
+                },
+                {
+                    "city_name": "Distrito de Chepo"
+                },
+                {
+                    "city_name": "Distrito de Balboa"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Los Santos",
+            "cities": [
+                {
+                    "city_name": "Distrito de Tonosi"
+                },
+                {
+                    "city_name": "Distrito de Pocri"
+                },
+                {
+                    "city_name": "Distrito de Pedasi"
+                },
+                {
+                    "city_name": "Distrito de Macaracas"
+                },
+                {
+                    "city_name": "Distrito de Los Santos"
+                },
+                {
+                    "city_name": "Distrito de Las Tablas"
+                },
+                {
+                    "city_name": "Distrito de Guarare"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Herrera",
+            "cities": [
+                {
+                    "city_name": "Distrito de Santa Maria"
+                },
+                {
+                    "city_name": "Distrito de Pese"
+                },
+                {
+                    "city_name": "Distrito de Parita"
+                },
+                {
+                    "city_name": "Distrito de Ocu"
+                },
+                {
+                    "city_name": "Distrito de Los Pozos"
+                },
+                {
+                    "city_name": "Distrito de Las Minas"
+                },
+                {
+                    "city_name": "Distrito de Chitre"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia del Darien",
+            "cities": [
+                {
+                    "city_name": "Distrito de Pinogana"
+                },
+                {
+                    "city_name": "Distrito de Chepigana"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Colon",
+            "cities": [
+                {
+                    "city_name": "Distrito de Santa Isabel"
+                },
+                {
+                    "city_name": "Distrito de Portobelo"
+                },
+                {
+                    "city_name": "Distrito de Donoso"
+                },
+                {
+                    "city_name": "Distrito de Colon"
+                },
+                {
+                    "city_name": "Distrito de Chagres"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Cocle",
+            "cities": [
+                {
+                    "city_name": "Distrito Penonome"
+                },
+                {
+                    "city_name": "Distrito de Ola"
+                },
+                {
+                    "city_name": "Distrito de Nata"
+                },
+                {
+                    "city_name": "Distrito de La Pintada"
+                },
+                {
+                    "city_name": "Distrito de Anton"
+                },
+                {
+                    "city_name": "Distrito de Aguadulce"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Chiriqui",
+            "cities": [
+                {
+                    "city_name": "Distrito de Tole"
+                },
+                {
+                    "city_name": "Distrito de San Lorenzo"
+                },
+                {
+                    "city_name": "Distrito de San Felix"
+                },
+                {
+                    "city_name": "Distrito de Renacimiento"
+                },
+                {
+                    "city_name": "Distrito de Remedios"
+                },
+                {
+                    "city_name": "Distrito de Gualaca"
+                },
+                {
+                    "city_name": "Distrito de Dolega"
+                },
+                {
+                    "city_name": "Distrito de David"
+                },
+                {
+                    "city_name": "Distrito de Bugaba"
+                },
+                {
+                    "city_name": "Distrito de Boquete"
+                },
+                {
+                    "city_name": "Distrito de Boqueron"
+                },
+                {
+                    "city_name": "Distrito de Baru"
+                },
+                {
+                    "city_name": "Distrito de Alanje"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Bocas del Toro",
+            "cities": [
+                {
+                    "city_name": "Distrito Chiriqui Grande"
+                },
+                {
+                    "city_name": "Distrito de Changuinola"
+                },
+                {
+                    "city_name": "Distrito de Bocas del Toro"
+                }
+            ]
+        },
+        {
+            "province_name": "Embera-Wounaan",
+            "cities": [
+                {
+                    "city_name": "Sambu"
+                },
+                {
+                    "city_name": "Cemaco"
+                }
+            ]
+        },
+        {
+            "province_name": "Ngoebe-Bugle",
+            "cities": [
+                {
+                    "city_name": "Nole Dueima"
+                },
+                {
+                    "city_name": "Muena"
+                },
+                {
+                    "city_name": "Mirono"
+                },
+                {
+                    "city_name": "Kusapin"
+                },
+                {
+                    "city_name": "Kankintu"
+                },
+                {
+                    "city_name": "Besiko"
+                },
+                {
+                    "city_name": "Nurun"
+                }
+            ]
+        },
+        {
+            "province_name": "Panama Oeste",
+            "cities": [
+                {
+                    "city_name": "Distrito de San Carlos"
+                },
+                {
+                    "city_name": "Distrito de La Chorrera"
+                },
+                {
+                    "city_name": "Distrito de Chame"
+                },
+                {
+                    "city_name": "Distrito de Capira"
+                },
+                {
+                    "city_name": "Distrito Arraijan"
+                }
+            ]
+        }
+    ]
+}

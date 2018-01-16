@@ -1,0 +1,540 @@
+{
+    "country_name": "Laos",
+    "country_id": "LA",
+    "provinces": [
+        {
+            "province_name": "Xiangkhouang",
+            "cities": [
+                {
+                    "city_name": "Muang Pek"
+                },
+                {
+                    "city_name": "Muang Mok"
+                },
+                {
+                    "city_name": "Muang Kham"
+                },
+                {
+                    "city_name": "Muang Nonghet"
+                },
+                {
+                    "city_name": "Muang Phaxai"
+                },
+                {
+                    "city_name": "Muang Khoun"
+                },
+                {
+                    "city_name": "Muang Phou Kont"
+                }
+            ]
+        },
+        {
+            "province_name": "Xaignabouli",
+            "cities": [
+                {
+                    "city_name": "Muang Ngeun"
+                },
+                {
+                    "city_name": "Muang Xianghon"
+                },
+                {
+                    "city_name": "Muang Xaignabouli"
+                },
+                {
+                    "city_name": "Muang Paklay"
+                },
+                {
+                    "city_name": "Muang Kenthao"
+                },
+                {
+                    "city_name": "Muang Hongsa"
+                },
+                {
+                    "city_name": "Muang Phiang"
+                },
+                {
+                    "city_name": "Muang Khop"
+                },
+                {
+                    "city_name": "Botene"
+                },
+                {
+                    "city_name": "Thongmyxay"
+                },
+                {
+                    "city_name": "Xaysathan"
+                }
+            ]
+        },
+        {
+            "province_name": "Vientiane Province",
+            "cities": [
+                {
+                    "city_name": "Muang Vangviang"
+                },
+                {
+                    "city_name": "Muang Thoulakhom"
+                },
+                {
+                    "city_name": "Muang Phon-Hong"
+                },
+                {
+                    "city_name": "Muang Kasi"
+                },
+                {
+                    "city_name": "Muang Keo-Oudom"
+                },
+                {
+                    "city_name": "Muang Fuang"
+                },
+                {
+                    "city_name": "Xanakharm"
+                },
+                {
+                    "city_name": "Mad"
+                },
+                {
+                    "city_name": "Viengkham"
+                },
+                {
+                    "city_name": "Hinherb"
+                }
+            ]
+        },
+        {
+            "province_name": "Khoueng Savannakhet",
+            "cities": [
+                {
+                    "city_name": "Muang Xepon"
+                },
+                {
+                    "city_name": "Muang Songkhon"
+                },
+                {
+                    "city_name": "Muang Phin"
+                },
+                {
+                    "city_name": "Muang Nong"
+                },
+                {
+                    "city_name": "Muang Champhon"
+                },
+                {
+                    "city_name": "Muang Thapangthong"
+                },
+                {
+                    "city_name": "Muang Xonbouli"
+                },
+                {
+                    "city_name": "Muang Outhoumphon"
+                },
+                {
+                    "city_name": "Muang Alsaphangthong"
+                },
+                {
+                    "city_name": "Muang Xaibouli"
+                },
+                {
+                    "city_name": "Muang Atsaphan"
+                },
+                {
+                    "city_name": "Muang Vilabouli"
+                },
+                {
+                    "city_name": "Thaphalanxay"
+                },
+                {
+                    "city_name": "Muang Xayphoothong"
+                },
+                {
+                    "city_name": "Kaysone Phomvihane"
+                }
+            ]
+        },
+        {
+            "province_name": "Salavan",
+            "cities": [
+                {
+                    "city_name": "Muang Vapi"
+                },
+                {
+                    "city_name": "Muang Ta-Oy"
+                },
+                {
+                    "city_name": "Muang Saravan"
+                },
+                {
+                    "city_name": "Muang Laongam"
+                },
+                {
+                    "city_name": "Muang Lakhonpheng"
+                },
+                {
+                    "city_name": "Muang Khongxedon"
+                },
+                {
+                    "city_name": "Muang Toumlan"
+                },
+                {
+                    "city_name": "Muang Samouay"
+                }
+            ]
+        },
+        {
+            "province_name": "Khoueng Phongsali",
+            "cities": [
+                {
+                    "city_name": "Muang Phongsali"
+                },
+                {
+                    "city_name": "Muang Khoa"
+                },
+                {
+                    "city_name": "Muang Boun Tai"
+                },
+                {
+                    "city_name": "Muang Mai"
+                },
+                {
+                    "city_name": "Muang Boun-Nua"
+                },
+                {
+                    "city_name": "Muang Gnot-Ou"
+                },
+                {
+                    "city_name": "Samphanh"
+                }
+            ]
+        },
+        {
+            "province_name": "Khoueng Oudomxai",
+            "cities": [
+                {
+                    "city_name": "Muang Xai"
+                },
+                {
+                    "city_name": "Muang Pakbeng"
+                },
+                {
+                    "city_name": "Muang Namo"
+                },
+                {
+                    "city_name": "Muang La"
+                },
+                {
+                    "city_name": "Muang Houn"
+                },
+                {
+                    "city_name": "Muang Beng"
+                },
+                {
+                    "city_name": "Muang Nga"
+                }
+            ]
+        },
+        {
+            "province_name": "Luang Prabang Province",
+            "cities": [
+                {
+                    "city_name": "Muang Pak-Ou"
+                },
+                {
+                    "city_name": "Muang Ngoy"
+                },
+                {
+                    "city_name": "Muang Nan"
+                },
+                {
+                    "city_name": "Muang Nambak"
+                },
+                {
+                    "city_name": "Muang Louangphabang"
+                },
+                {
+                    "city_name": "Muang Chomphet"
+                },
+                {
+                    "city_name": "Muang Phou Khoun"
+                },
+                {
+                    "city_name": "Muang Phonxai"
+                },
+                {
+                    "city_name": "Muang Pakxeng"
+                },
+                {
+                    "city_name": "Muang Viangkhan"
+                },
+                {
+                    "city_name": "Xieng ngeun"
+                },
+                {
+                    "city_name": "Phonthong"
+                }
+            ]
+        },
+        {
+            "province_name": "Louangnamtha",
+            "cities": [
+                {
+                    "city_name": "Muang Sing"
+                },
+                {
+                    "city_name": "Muang Louang Namtha"
+                },
+                {
+                    "city_name": "Muang Nale"
+                },
+                {
+                    "city_name": "Muang Viangphoukha"
+                },
+                {
+                    "city_name": "Muang Long"
+                }
+            ]
+        },
+        {
+            "province_name": "Khammouan",
+            "cities": [
+                {
+                    "city_name": "Muang Mahaxai"
+                },
+                {
+                    "city_name": "Muang Thakhek"
+                },
+                {
+                    "city_name": "Muang Hinboun"
+                },
+                {
+                    "city_name": "Muang Gnommarat"
+                },
+                {
+                    "city_name": "Muang Nongbok"
+                },
+                {
+                    "city_name": "Muang Xebangfai"
+                },
+                {
+                    "city_name": "Muang Xaibouathong"
+                },
+                {
+                    "city_name": "Muang Boualapha"
+                },
+                {
+                    "city_name": "Muang Na Kay"
+                },
+                {
+                    "city_name": "Kounkham"
+                }
+            ]
+        },
+        {
+            "province_name": "Houaphan",
+            "cities": [
+                {
+                    "city_name": "Muang Xiengkhor"
+                },
+                {
+                    "city_name": "Muang Houamuang"
+                },
+                {
+                    "city_name": "Muang Hiam"
+                },
+                {
+                    "city_name": "Muang Xam-Tai"
+                },
+                {
+                    "city_name": "Muang Viangxai"
+                },
+                {
+                    "city_name": "Sopbao"
+                },
+                {
+                    "city_name": "Muang Et"
+                },
+                {
+                    "city_name": "Xam Neua"
+                },
+                {
+                    "city_name": "Viengxon"
+                },
+                {
+                    "city_name": "Kuan"
+                }
+            ]
+        },
+        {
+            "province_name": "Champasak",
+            "cities": [
+                {
+                    "city_name": "Muang Soukhouma"
+                },
+                {
+                    "city_name": "Muang Phonthong"
+                },
+                {
+                    "city_name": "Muang Pathoumphon"
+                },
+                {
+                    "city_name": "Muang Pakxong"
+                },
+                {
+                    "city_name": "Muang Pakxe"
+                },
+                {
+                    "city_name": "Muang Mounlapamok"
+                },
+                {
+                    "city_name": "Muang Khong"
+                },
+                {
+                    "city_name": "Muang Champasak"
+                },
+                {
+                    "city_name": "Muang Bachiangchaleunsook"
+                },
+                {
+                    "city_name": "Muang Xanasomboun"
+                }
+            ]
+        },
+        {
+            "province_name": "Attapu",
+            "cities": [
+                {
+                    "city_name": "Muang Xaisettha"
+                },
+                {
+                    "city_name": "Muang Samakhixai"
+                },
+                {
+                    "city_name": "Muang Sanamxai"
+                },
+                {
+                    "city_name": "Muang Phouvong"
+                },
+                {
+                    "city_name": "Muang Sanxai"
+                }
+            ]
+        },
+        {
+            "province_name": "Khoueng Xekong",
+            "cities": [
+                {
+                    "city_name": "Muang Thateng"
+                },
+                {
+                    "city_name": "Muang Dakchung"
+                },
+                {
+                    "city_name": "Muang Laman"
+                },
+                {
+                    "city_name": "Muang Khaleum"
+                }
+            ]
+        },
+        {
+            "province_name": "Khoueng Bokeo",
+            "cities": [
+                {
+                    "city_name": "Muang Houayxay"
+                },
+                {
+                    "city_name": "Muang Paktha"
+                },
+                {
+                    "city_name": "Muang Pha Oudom"
+                },
+                {
+                    "city_name": "Muang Tonpheung"
+                },
+                {
+                    "city_name": "Muang Meung"
+                }
+            ]
+        },
+        {
+            "province_name": "Bolikhamxai",
+            "cities": [
+                {
+                    "city_name": "Muang Pakkading"
+                },
+                {
+                    "city_name": "Muang Khamkeut"
+                },
+                {
+                    "city_name": "Muang Bolikhan"
+                },
+                {
+                    "city_name": "Muang Thaphabat"
+                },
+                {
+                    "city_name": "Muang Viangthong"
+                },
+                {
+                    "city_name": "Paksane"
+                },
+                {
+                    "city_name": "Xaychamphone"
+                },
+                {
+                    "city_name": "Muen"
+                }
+            ]
+        },
+        {
+            "province_name": "Vientiane Prefecture",
+            "cities": [
+                {
+                    "city_name": "Muang Hatxayfong"
+                },
+                {
+                    "city_name": "Muang Chanthabouli"
+                },
+                {
+                    "city_name": "Muang Sisattanak"
+                },
+                {
+                    "city_name": "Muang Xaisettha"
+                },
+                {
+                    "city_name": "Muang Sikhottabong"
+                },
+                {
+                    "city_name": "Muang Xaithani"
+                },
+                {
+                    "city_name": "Muang Naxaythong"
+                },
+                {
+                    "city_name": "Muang Sangthong"
+                },
+                {
+                    "city_name": "Muang Maypakngum"
+                }
+            ]
+        },
+        {
+            "province_name": "Xaisomboun Province",
+            "cities": [
+                {
+                    "city_name": "Muang Thathom"
+                },
+                {
+                    "city_name": "Muang Longxan"
+                },
+                {
+                    "city_name": "Muang Hom"
+                },
+                {
+                    "city_name": "Anouvong district"
+                },
+                {
+                    "city_name": "Longchaeng"
+                }
+            ]
+        }
+    ]
+}

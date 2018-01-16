@@ -1,0 +1,137 @@
+{
+    "country_name": "Equatorial Guinea",
+    "country_id": "GQ",
+    "provinces": [
+        {
+            "province_name": "Provincia de Annobon",
+            "cities": [
+                {
+                    "city_name": "Mabana"
+                },
+                {
+                    "city_name": "San Antonio de Pale"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Bioko Norte",
+            "cities": [
+                {
+                    "city_name": "Rebola"
+                },
+                {
+                    "city_name": "Malabo"
+                },
+                {
+                    "city_name": "Baney"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Bioko Sur",
+            "cities": [
+                {
+                    "city_name": "Riaba"
+                },
+                {
+                    "city_name": "Luba"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Centro Sur",
+            "cities": [
+                {
+                    "city_name": "Sevilla de Niefang"
+                },
+                {
+                    "city_name": "Evinayong"
+                },
+                {
+                    "city_name": "Acurenam"
+                },
+                {
+                    "city_name": "Bicurga"
+                },
+                {
+                    "city_name": "Nkimi"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Kie-Ntem",
+            "cities": [
+                {
+                    "city_name": "Micomeseng"
+                },
+                {
+                    "city_name": "Ebebiyin"
+                },
+                {
+                    "city_name": "Nsang"
+                },
+                {
+                    "city_name": "Ncue"
+                },
+                {
+                    "city_name": "Bidjabidjan"
+                },
+                {
+                    "city_name": "Nsork-Nzomo"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Litoral",
+            "cities": [
+                {
+                    "city_name": "Cogo"
+                },
+                {
+                    "city_name": "Distrito de Mbini"
+                },
+                {
+                    "city_name": "Bata"
+                },
+                {
+                    "city_name": "Rio Campo"
+                },
+                {
+                    "city_name": "Corisco"
+                },
+                {
+                    "city_name": "Bitica"
+                },
+                {
+                    "city_name": "Machinda"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Wele-Nzas",
+            "cities": [
+                {
+                    "city_name": "Anisoc"
+                },
+                {
+                    "city_name": "Nsoc"
+                },
+                {
+                    "city_name": "Mongomo"
+                },
+                {
+                    "city_name": "Ayene"
+                },
+                {
+                    "city_name": "Mengomeyen"
+                },
+                {
+                    "city_name": "Aconibe"
+                },
+                {
+                    "city_name": "Ciudad Nueva Oyala"
+                }
+            ]
+        }
+    ]
+}

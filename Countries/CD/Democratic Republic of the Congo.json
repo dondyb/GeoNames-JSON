@@ -1,0 +1,270 @@
+{
+    "country_name": "Democratic Republic of the Congo",
+    "country_id": "CD",
+    "provinces": [
+        {
+            "province_name": "Tshuapa",
+            "cities": []
+        },
+        {
+            "province_name": "Tshopo",
+            "cities": [
+                {
+                    "city_name": "Ville de Kisangani"
+                }
+            ]
+        },
+        {
+            "province_name": "Tanganika",
+            "cities": []
+        },
+        {
+            "province_name": "South Kivu Province",
+            "cities": [
+                {
+                    "city_name": "South Kivu"
+                },
+                {
+                    "city_name": "Bukavu"
+                },
+                {
+                    "city_name": "Kalehe"
+                },
+                {
+                    "city_name": "Mwenga"
+                },
+                {
+                    "city_name": "Fizi"
+                },
+                {
+                    "city_name": "Kabare"
+                }
+            ]
+        },
+        {
+            "province_name": "Sankuru",
+            "cities": []
+        },
+        {
+            "province_name": "Province du Nord-Kivu",
+            "cities": [
+                {
+                    "city_name": "Lubero"
+                },
+                {
+                    "city_name": "Goma"
+                },
+                {
+                    "city_name": "Beni"
+                },
+                {
+                    "city_name": "North Kivu"
+                },
+                {
+                    "city_name": "Nyirangongo"
+                },
+                {
+                    "city_name": "Butembo"
+                },
+                {
+                    "city_name": "Oicha"
+                },
+                {
+                    "city_name": "Masisi Territory"
+                },
+                {
+                    "city_name": "Rutshuru Territory"
+                }
+            ]
+        },
+        {
+            "province_name": "Mongala",
+            "cities": []
+        },
+        {
+            "province_name": "Province du Maniema",
+            "cities": [
+                {
+                    "city_name": "Maniema"
+                },
+                {
+                    "city_name": "Maniema"
+                }
+            ]
+        },
+        {
+            "province_name": "Kasai-Central",
+            "cities": [
+                {
+                    "city_name": "Ville de Kananga"
+                }
+            ]
+        },
+        {
+            "province_name": "Province du Kasai Oriental",
+            "cities": [
+                {
+                    "city_name": "Mbuji-Mayi City"
+                },
+                {
+                    "city_name": "Sous-Region du Kabinda"
+                },
+                {
+                    "city_name": "Tshilenge District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kasai District",
+            "cities": [
+                {
+                    "city_name": "Tshikapa City"
+                }
+            ]
+        },
+        {
+            "province_name": "Ituri",
+            "cities": []
+        },
+        {
+            "province_name": "Haut Uele",
+            "cities": []
+        },
+        {
+            "province_name": "Haut-Lomani",
+            "cities": [
+                {
+                    "city_name": "Haut-Lomami"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de l'Equateur",
+            "cities": [
+                {
+                    "city_name": "Ville de Zongo"
+                },
+                {
+                    "city_name": "Ville de Mbandaka"
+                },
+                {
+                    "city_name": "Sous-Region de l' Equateur"
+                },
+                {
+                    "city_name": "Nord-Ubangi"
+                },
+                {
+                    "city_name": "Sud-Ubangi"
+                },
+                {
+                    "city_name": "Akula"
+                },
+                {
+                    "city_name": "Tshuapa District"
+                },
+                {
+                    "city_name": "Nord-Ubangi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Bas Uele",
+            "cities": []
+        },
+        {
+            "province_name": "Lualaba",
+            "cities": [
+                {
+                    "city_name": "Kolwezi City"
+                }
+            ]
+        },
+        {
+            "province_name": "Mai Ndombe",
+            "cities": []
+        },
+        {
+            "province_name": "Kwilu",
+            "cities": []
+        },
+        {
+            "province_name": "Kwango",
+            "cities": []
+        },
+        {
+            "province_name": "Kinshasa City",
+            "cities": [
+                {
+                    "city_name": "Kinshasa rural"
+                },
+                {
+                    "city_name": "Kinshasa Urban"
+                },
+                {
+                    "city_name": "Lukunga District"
+                },
+                {
+                    "city_name": "Tshangu District"
+                },
+                {
+                    "city_name": "Makala District"
+                },
+                {
+                    "city_name": "Funa"
+                },
+                {
+                    "city_name": "Mont Amba District"
+                }
+            ]
+        },
+        {
+            "province_name": "Province du Kongo Central",
+            "cities": [
+                {
+                    "city_name": "Sous-Region des Catarates"
+                },
+                {
+                    "city_name": "Ville de Boma"
+                },
+                {
+                    "city_name": "Sous-Region du Bas-Fleuve"
+                },
+                {
+                    "city_name": "Lukaya"
+                },
+                {
+                    "city_name": "Cataractes District"
+                },
+                {
+                    "city_name": "Bas Fleuve District"
+                },
+                {
+                    "city_name": "Matadi (city)"
+                },
+                {
+                    "city_name": "Boma (city)"
+                }
+            ]
+        },
+        {
+            "province_name": "Province du Haut-Katanga",
+            "cities": [
+                {
+                    "city_name": "Haut-Katanga"
+                }
+            ]
+        },
+        {
+            "province_name": "Lomami",
+            "cities": []
+        },
+        {
+            "province_name": "Province du Nord-Ubangi",
+            "cities": []
+        },
+        {
+            "province_name": "Province du Sud-Ubangi",
+            "cities": []
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "country_name": "Zambia",
+    "country_id": "ZM",
+    "provinces": [
+        {
+            "province_name": "Western Province",
+            "cities": [
+                {
+                    "city_name": "Sesheke District"
+                },
+                {
+                    "city_name": "Senanga District"
+                },
+                {
+                    "city_name": "Mongu District"
+                },
+                {
+                    "city_name": "Lukulu District"
+                },
+                {
+                    "city_name": "Kaoma District"
+                },
+                {
+                    "city_name": "Kalabo District"
+                },
+                {
+                    "city_name": "Shangombo"
+                },
+                {
+                    "city_name": "Mitete District"
+                },
+                {
+                    "city_name": "Sikongo District"
+                },
+                {
+                    "city_name": "Limulunga District"
+                },
+                {
+                    "city_name": "Nkeyema District"
+                },
+                {
+                    "city_name": "Luampa District"
+                },
+                {
+                    "city_name": "Nalolo District"
+                },
+                {
+                    "city_name": "Sioma District"
+                },
+                {
+                    "city_name": "Mulobezi District"
+                },
+                {
+                    "city_name": "Mwandi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Province",
+            "cities": [
+                {
+                    "city_name": "Namwala District"
+                },
+                {
+                    "city_name": "Monze District"
+                },
+                {
+                    "city_name": "Mazabuka District"
+                },
+                {
+                    "city_name": "Livingstone District"
+                },
+                {
+                    "city_name": "Kalomo District"
+                },
+                {
+                    "city_name": "Gwembe District"
+                },
+                {
+                    "city_name": "Choma District"
+                },
+                {
+                    "city_name": "Siavonga District"
+                },
+                {
+                    "city_name": "Kazungula District"
+                },
+                {
+                    "city_name": "Itezhi-Tezhi District"
+                },
+                {
+                    "city_name": "Sinazongwe District"
+                },
+                {
+                    "city_name": "Zimba District"
+                },
+                {
+                    "city_name": "Pemba District"
+                },
+                {
+                    "city_name": "Chikankata District"
+                }
+            ]
+        },
+        {
+            "province_name": "North-Western Province",
+            "cities": [
+                {
+                    "city_name": "Zambezi District"
+                },
+                {
+                    "city_name": "Solwezi District"
+                },
+                {
+                    "city_name": "Mwinilunga District"
+                },
+                {
+                    "city_name": "Kasempa District"
+                },
+                {
+                    "city_name": "Kabompo District"
+                },
+                {
+                    "city_name": "Ikelenge"
+                },
+                {
+                    "city_name": "Chavuma"
+                },
+                {
+                    "city_name": "Mufumbwe"
+                },
+                {
+                    "city_name": "Manyinga District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Province",
+            "cities": [
+                {
+                    "city_name": "Mporokoso District"
+                },
+                {
+                    "city_name": "Mbala District"
+                },
+                {
+                    "city_name": "Kaputa District"
+                },
+                {
+                    "city_name": "Luwingu District"
+                },
+                {
+                    "city_name": "Kasama District"
+                },
+                {
+                    "city_name": "Mpulungu District"
+                },
+                {
+                    "city_name": "Mungwi District"
+                },
+                {
+                    "city_name": "Chilubi"
+                },
+                {
+                    "city_name": "Nsama District"
+                }
+            ]
+        },
+        {
+            "province_name": "Lusaka Province",
+            "cities": [
+                {
+                    "city_name": "Lusaka District"
+                },
+                {
+                    "city_name": "Luangwa District"
+                },
+                {
+                    "city_name": "Kafue district"
+                },
+                {
+                    "city_name": "Chongwe District"
+                },
+                {
+                    "city_name": "Chirundu District"
+                },
+                {
+                    "city_name": "Shibuyunji District"
+                },
+                {
+                    "city_name": "Chilanga District"
+                },
+                {
+                    "city_name": "Rufunsa District"
+                }
+            ]
+        },
+        {
+            "province_name": "Luapula Province",
+            "cities": [
+                {
+                    "city_name": "Nchelenge District"
+                },
+                {
+                    "city_name": "Kawambwa District"
+                },
+                {
+                    "city_name": "Samfya District"
+                },
+                {
+                    "city_name": "Mwense District"
+                },
+                {
+                    "city_name": "Mansa District"
+                },
+                {
+                    "city_name": "Chienge"
+                },
+                {
+                    "city_name": "Milenge"
+                },
+                {
+                    "city_name": "Mwansabombwe District"
+                },
+                {
+                    "city_name": "Chipili District"
+                },
+                {
+                    "city_name": "Chembe District"
+                },
+                {
+                    "city_name": "Lunga District"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Province",
+            "cities": [
+                {
+                    "city_name": "Petauke District"
+                },
+                {
+                    "city_name": "Lundazi District"
+                },
+                {
+                    "city_name": "Katete District"
+                },
+                {
+                    "city_name": "Chipata District"
+                },
+                {
+                    "city_name": "Chadiza District"
+                },
+                {
+                    "city_name": "Nyimba District"
+                },
+                {
+                    "city_name": "Mambwe"
+                },
+                {
+                    "city_name": "Sinda District"
+                },
+                {
+                    "city_name": "Vubwi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Copperbelt Province",
+            "cities": [
+                {
+                    "city_name": "Ndola Rural District"
+                },
+                {
+                    "city_name": "Ndola District"
+                },
+                {
+                    "city_name": "Mufulira District"
+                },
+                {
+                    "city_name": "Luanshya District"
+                },
+                {
+                    "city_name": "Kitwe District"
+                },
+                {
+                    "city_name": "Kalulushi District"
+                },
+                {
+                    "city_name": "Chingola District"
+                },
+                {
+                    "city_name": "Chililabombwe District"
+                },
+                {
+                    "city_name": "Masaiti District"
+                },
+                {
+                    "city_name": "Mpongwe District"
+                },
+                {
+                    "city_name": "Lufwanyama"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Province",
+            "cities": [
+                {
+                    "city_name": "Serenje District"
+                },
+                {
+                    "city_name": "Mumbwa District"
+                },
+                {
+                    "city_name": "Mkushi District"
+                },
+                {
+                    "city_name": "Kapiri Mposhi"
+                },
+                {
+                    "city_name": "Kabwe District"
+                },
+                {
+                    "city_name": "Kapiri-Mposhi District"
+                },
+                {
+                    "city_name": "Chibombo District"
+                },
+                {
+                    "city_name": "Ngabwe District"
+                },
+                {
+                    "city_name": "Chisamba District"
+                },
+                {
+                    "city_name": "Luano District"
+                },
+                {
+                    "city_name": "Chitambo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Muchinga Province",
+            "cities": [
+                {
+                    "city_name": "Mpika District"
+                },
+                {
+                    "city_name": "Isoka District"
+                },
+                {
+                    "city_name": "Chinsali District"
+                },
+                {
+                    "city_name": "Chama District"
+                },
+                {
+                    "city_name": "Mafinga"
+                },
+                {
+                    "city_name": "Nakonde"
+                },
+                {
+                    "city_name": "Shiwang'andu District"
+                }
+            ]
+        }
+    ]
+}

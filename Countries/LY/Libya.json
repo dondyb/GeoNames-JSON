@@ -1,0 +1,98 @@
+{
+    "country_name": "Libya",
+    "country_id": "LY",
+    "provinces": [
+        {
+            "province_name": "Darnah",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat Banghazi",
+            "cities": []
+        },
+        {
+            "province_name": "Al Marj",
+            "cities": []
+        },
+        {
+            "province_name": "Al Kufrah",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat al Jabal al Akhdar",
+            "cities": []
+        },
+        {
+            "province_name": "Tripoli",
+            "cities": []
+        },
+        {
+            "province_name": "Surt",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat Sabha",
+            "cities": []
+        },
+        {
+            "province_name": "Sha`biyat Nalut",
+            "cities": [
+                {
+                    "city_name": "Mutusarrifiyat Ghadamis"
+                }
+            ]
+        },
+        {
+            "province_name": "Murzuq",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat Misratah",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat Ghat",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat az Zawiyah",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat Wadi ash Shati'",
+            "cities": []
+        },
+        {
+            "province_name": "Al Jufrah",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat an Nuqat al Khams",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat al Butnan",
+            "cities": []
+        },
+        {
+            "province_name": "Jabal al Gharbi District",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat al Jafarah",
+            "cities": []
+        },
+        {
+            "province_name": "Al Marqab",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat al Wahat",
+            "cities": []
+        },
+        {
+            "province_name": "Sha'biyat Wadi al Hayat",
+            "cities": []
+        }
+    ]
+}

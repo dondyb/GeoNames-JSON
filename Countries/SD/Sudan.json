@@ -1,0 +1,196 @@
+{
+    "country_name": "Sudan",
+    "country_id": "SD",
+    "provinces": [
+        {
+            "province_name": "Northern",
+            "cities": [
+                {
+                    "city_name": "Al Mudiriyah ash Shamaliyah"
+                },
+                {
+                    "city_name": "Merawi"
+                }
+            ]
+        },
+        {
+            "province_name": "Khartoum",
+            "cities": [
+                {
+                    "city_name": "Omdurman"
+                },
+                {
+                    "city_name": "Karary"
+                },
+                {
+                    "city_name": "Khartoum"
+                },
+                {
+                    "city_name": "Khartoum North"
+                },
+                {
+                    "city_name": "Sharg En Nile"
+                }
+            ]
+        },
+        {
+            "province_name": "Red Sea",
+            "cities": [
+                {
+                    "city_name": "Sinkat"
+                },
+                {
+                    "city_name": "Port Sudan"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Jazirah State",
+            "cities": [
+                {
+                    "city_name": "El Meilig Rural Council"
+                },
+                {
+                    "city_name": "Mudiriyat al Jazirah"
+                },
+                {
+                    "city_name": "Um Al Gura"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Qadarif State",
+            "cities": [
+                {
+                    "city_name": "Gedaref North Rural Council"
+                },
+                {
+                    "city_name": "Al Fushqa"
+                },
+                {
+                    "city_name": "Seteet"
+                }
+            ]
+        },
+        {
+            "province_name": "White Nile",
+            "cities": [
+                {
+                    "city_name": "Mudiriyat al Bahr al Abyad"
+                },
+                {
+                    "city_name": "Kosti"
+                },
+                {
+                    "city_name": "Al Jabalian"
+                }
+            ]
+        },
+        {
+            "province_name": "Blue Nile",
+            "cities": [
+                {
+                    "city_name": "Baw"
+                }
+            ]
+        },
+        {
+            "province_name": "West Darfur",
+            "cities": []
+        },
+        {
+            "province_name": "West Kordofan State",
+            "cities": []
+        },
+        {
+            "province_name": "South Darfur",
+            "cities": [
+                {
+                    "city_name": "Mudiriyat Darfur al Janubiyah"
+                },
+                {
+                    "city_name": "Kas District"
+                },
+                {
+                    "city_name": "Nyala District"
+                }
+            ]
+        },
+        {
+            "province_name": "South Kordofan",
+            "cities": []
+        },
+        {
+            "province_name": "Kassala State",
+            "cities": [
+                {
+                    "city_name": "Mudiriyat Kassala"
+                }
+            ]
+        },
+        {
+            "province_name": "River Nile",
+            "cities": [
+                {
+                    "city_name": "Shendi"
+                },
+                {
+                    "city_name": "Ad Damer"
+                },
+                {
+                    "city_name": "Atbara"
+                }
+            ]
+        },
+        {
+            "province_name": "North Darfur",
+            "cities": [
+                {
+                    "city_name": "Mudiriyat Darfur ash Shamaliyah"
+                },
+                {
+                    "city_name": "Kutum District"
+                }
+            ]
+        },
+        {
+            "province_name": "North Kordofan",
+            "cities": [
+                {
+                    "city_name": "Mudiriyat Kurdufan ash Shamaliyah"
+                },
+                {
+                    "city_name": "Ghebeish"
+                },
+                {
+                    "city_name": "En Nuhud"
+                },
+                {
+                    "city_name": "Sheikan"
+                },
+                {
+                    "city_name": "Um Rawaba"
+                },
+                {
+                    "city_name": "Bara"
+                }
+            ]
+        },
+        {
+            "province_name": "Sennar",
+            "cities": [
+                {
+                    "city_name": "Mudiriyat an Nil al Azraq"
+                }
+            ]
+        },
+        {
+            "province_name": "East Darfur",
+            "cities": []
+        },
+        {
+            "province_name": "Central Darfur State",
+            "cities": []
+        }
+    ]
+}

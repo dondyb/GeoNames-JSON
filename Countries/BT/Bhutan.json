@@ -1,0 +1,177 @@
+{
+    "country_name": "Bhutan",
+    "country_id": "BT",
+    "provinces": [
+        {
+            "province_name": "Bumthang Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Chhukha Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Phuentsholing"
+                },
+                {
+                    "city_name": "Bongo"
+                },
+                {
+                    "city_name": "Chabchha"
+                }
+            ]
+        },
+        {
+            "province_name": "Dagana Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Tsangkha"
+                },
+                {
+                    "city_name": "Lajab"
+                },
+                {
+                    "city_name": "Drukgyegang"
+                },
+                {
+                    "city_name": "Khiphisa"
+                }
+            ]
+        },
+        {
+            "province_name": "Tsirang Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Kikhorthang"
+                },
+                {
+                    "city_name": "Beteni"
+                }
+            ]
+        },
+        {
+            "province_name": "Sarpang Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Haa Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Lhuentse Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Mongar Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Paro Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Mewang"
+                }
+            ]
+        },
+        {
+            "province_name": "Pemagatshel Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Khar"
+                },
+                {
+                    "city_name": "Chongshing"
+                },
+                {
+                    "city_name": "Yurung"
+                }
+            ]
+        },
+        {
+            "province_name": "Punakha Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Samtse Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Samdrup Jongkhar Dzongkhag",
+            "cities": []
+        },
+        {
+            "province_name": "Zhemgang Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Nangkor"
+                },
+                {
+                    "city_name": "Goshing"
+                },
+                {
+                    "city_name": "Bardo"
+                },
+                {
+                    "city_name": "Trong"
+                }
+            ]
+        },
+        {
+            "province_name": "Trashigang Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Tashigang"
+                },
+                {
+                    "city_name": "Radi"
+                },
+                {
+                    "city_name": "Lumang"
+                },
+                {
+                    "city_name": "Thrimshing"
+                }
+            ]
+        },
+        {
+            "province_name": "Thimphu Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Lingzhi Gewog"
+                }
+            ]
+        },
+        {
+            "province_name": "Trongsa Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Nubi"
+                },
+                {
+                    "city_name": "Bjakteng"
+                }
+            ]
+        },
+        {
+            "province_name": "Wangdue Phodrang Dzongkhag",
+            "cities": [
+                {
+                    "city_name": "Dangchu"
+                },
+                {
+                    "city_name": "Ruepaisa"
+                },
+                {
+                    "city_name": "Nahi"
+                }
+            ]
+        },
+        {
+            "province_name": "Gasa",
+            "cities": []
+        },
+        {
+            "province_name": "Trashi Yangste",
+            "cities": []
+        }
+    ]
+}

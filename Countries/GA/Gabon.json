@@ -1,0 +1,150 @@
+{
+    "country_name": "Gabon",
+    "country_id": "GA",
+    "provinces": [
+        {
+            "province_name": "Province du Woleu-Ntem",
+            "cities": [
+                {
+                    "city_name": "Woleu"
+                },
+                {
+                    "city_name": "Okano Department"
+                },
+                {
+                    "city_name": "Ntem Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de l'Ogooue-Maritime",
+            "cities": [
+                {
+                    "city_name": "Ndougou Department"
+                },
+                {
+                    "city_name": "Etimboue Department"
+                },
+                {
+                    "city_name": "Bendje District"
+                },
+                {
+                    "city_name": "Bendje"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de l'Ogooue-Lolo",
+            "cities": [
+                {
+                    "city_name": "Lolo Bouenguidi Department"
+                },
+                {
+                    "city_name": "Mouloundou Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de l'Ogooue-Ivindo",
+            "cities": [
+                {
+                    "city_name": "Lope Department"
+                },
+                {
+                    "city_name": "Kelle"
+                },
+                {
+                    "city_name": "Zadie"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de la Nyanga",
+            "cities": [
+                {
+                    "city_name": "Basse-Banio Department"
+                },
+                {
+                    "city_name": "Mougoutsi Department"
+                },
+                {
+                    "city_name": "Haute-Banio Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de la Ngounie",
+            "cities": [
+                {
+                    "city_name": "Douya-Onoye Department"
+                },
+                {
+                    "city_name": "Ndolou Department"
+                },
+                {
+                    "city_name": "Ogoulou Department"
+                },
+                {
+                    "city_name": "Tsamba-Magotsi Department"
+                },
+                {
+                    "city_name": "Dola Department"
+                },
+                {
+                    "city_name": "Louetsi-Wano Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Province du Moyen-Ogooue",
+            "cities": [
+                {
+                    "city_name": "Abanga-Bigne Department"
+                },
+                {
+                    "city_name": "Ogooue et Lacs District"
+                },
+                {
+                    "city_name": "Ogooue et des Lacs"
+                }
+            ]
+        },
+        {
+            "province_name": "Province du Haut-Ogooue",
+            "cities": [
+                {
+                    "city_name": "Plateaux Department"
+                },
+                {
+                    "city_name": "Mpassa Department"
+                },
+                {
+                    "city_name": "Passa"
+                },
+                {
+                    "city_name": "Leboumbi-Leyou Department"
+                },
+                {
+                    "city_name": "Lekoko Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Estuaire",
+            "cities": [
+                {
+                    "city_name": "Komo Mondah District"
+                },
+                {
+                    "city_name": "Commune of Libreville"
+                },
+                {
+                    "city_name": "Komo-Mondah Department"
+                },
+                {
+                    "city_name": "Komo Department"
+                }
+            ]
+        }
+    ]
+}

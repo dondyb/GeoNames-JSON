@@ -1,0 +1,1298 @@
+{
+    "country_name": "Mongolia",
+    "country_id": "MN",
+    "provinces": [
+        {
+            "province_name": "Uvs Aymag",
+            "cities": [
+                {
+                    "city_name": "Davst"
+                },
+                {
+                    "city_name": "Sagil"
+                },
+                {
+                    "city_name": "Tuergen"
+                },
+                {
+                    "city_name": "Tarialan"
+                },
+                {
+                    "city_name": "Ulaangom"
+                },
+                {
+                    "city_name": "Naranbulag"
+                },
+                {
+                    "city_name": "OElgiy"
+                },
+                {
+                    "city_name": "OEmnoegovi"
+                },
+                {
+                    "city_name": "Hovd"
+                },
+                {
+                    "city_name": "Boehmoeroen"
+                },
+                {
+                    "city_name": "Tes"
+                },
+                {
+                    "city_name": "Dzueuengovi"
+                },
+                {
+                    "city_name": "Malchin"
+                },
+                {
+                    "city_name": "Dzavhan"
+                },
+                {
+                    "city_name": "Hyargas"
+                },
+                {
+                    "city_name": "Tsagaanhayrhan"
+                },
+                {
+                    "city_name": "Baruunturuun"
+                },
+                {
+                    "city_name": "OEndoerhangay"
+                },
+                {
+                    "city_name": "Dzueuenhangay"
+                },
+                {
+                    "city_name": "Dzuungovi Sum"
+                },
+                {
+                    "city_name": "OEndoerkhangai"
+                },
+                {
+                    "city_name": "Zueuengovi"
+                },
+                {
+                    "city_name": "Zueuenkhangai"
+                }
+            ]
+        },
+        {
+            "province_name": "Hovd",
+            "cities": [
+                {
+                    "city_name": "Doergoen"
+                },
+                {
+                    "city_name": "Erdenebueren"
+                },
+                {
+                    "city_name": "Buyant"
+                },
+                {
+                    "city_name": "Myangad"
+                },
+                {
+                    "city_name": "Jargalant"
+                },
+                {
+                    "city_name": "Khovd"
+                },
+                {
+                    "city_name": "Duut"
+                },
+                {
+                    "city_name": "Manhan"
+                },
+                {
+                    "city_name": "Dzereg"
+                },
+                {
+                    "city_name": "Moenhhayrhan"
+                },
+                {
+                    "city_name": "Chandmani"
+                },
+                {
+                    "city_name": "Darvi"
+                },
+                {
+                    "city_name": "Tsetseg"
+                },
+                {
+                    "city_name": "Moest"
+                },
+                {
+                    "city_name": "UEyoench"
+                },
+                {
+                    "city_name": "Altay"
+                },
+                {
+                    "city_name": "Bulgan District"
+                },
+                {
+                    "city_name": "Moenkhkhairkhan"
+                }
+            ]
+        },
+        {
+            "province_name": "Govi-Altay Aymag",
+            "cities": [
+                {
+                    "city_name": "Hoehmorit"
+                },
+                {
+                    "city_name": "Bayan-Uul"
+                },
+                {
+                    "city_name": "Jargalan"
+                },
+                {
+                    "city_name": "Tayshir"
+                },
+                {
+                    "city_name": "Delger"
+                },
+                {
+                    "city_name": "Sharga"
+                },
+                {
+                    "city_name": "Darvi"
+                },
+                {
+                    "city_name": "Tonhil"
+                },
+                {
+                    "city_name": "Toegroeg"
+                },
+                {
+                    "city_name": "Bugat"
+                },
+                {
+                    "city_name": "Yoesoenbulag"
+                },
+                {
+                    "city_name": "Haliun"
+                },
+                {
+                    "city_name": "Tseel"
+                },
+                {
+                    "city_name": "Altay"
+                },
+                {
+                    "city_name": "Tsogt"
+                },
+                {
+                    "city_name": "Biger"
+                },
+                {
+                    "city_name": "Chandmani"
+                },
+                {
+                    "city_name": "Erdene"
+                },
+                {
+                    "city_name": "Doervoeljin"
+                },
+                {
+                    "city_name": "Yesoenbulag"
+                }
+            ]
+        },
+        {
+            "province_name": "Dzavhan Aymag",
+            "cities": [
+                {
+                    "city_name": "Songino"
+                },
+                {
+                    "city_name": "Bayantes"
+                },
+                {
+                    "city_name": "Tes"
+                },
+                {
+                    "city_name": "Asgat"
+                },
+                {
+                    "city_name": "Bayanhayrhan"
+                },
+                {
+                    "city_name": "Tuedevtey"
+                },
+                {
+                    "city_name": "Tsetsen-Uul"
+                },
+                {
+                    "city_name": "Noemroeg"
+                },
+                {
+                    "city_name": "Santmargats"
+                },
+                {
+                    "city_name": "Urgamal"
+                },
+                {
+                    "city_name": "Dzavhanmandal"
+                },
+                {
+                    "city_name": "Erdenehayrhan"
+                },
+                {
+                    "city_name": "Uliastay"
+                },
+                {
+                    "city_name": "Aldarhaan"
+                },
+                {
+                    "city_name": "Yaruu"
+                },
+                {
+                    "city_name": "Tsagaanhayrhan"
+                },
+                {
+                    "city_name": "Tsagaanchuluut"
+                },
+                {
+                    "city_name": "Shilueuestey"
+                },
+                {
+                    "city_name": "Otgon"
+                },
+                {
+                    "city_name": "Ider"
+                },
+                {
+                    "city_name": "Telmen"
+                },
+                {
+                    "city_name": "Tosontsengel"
+                },
+                {
+                    "city_name": "Ih-Uul"
+                },
+                {
+                    "city_name": "Dorvoljin Sum"
+                },
+                {
+                    "city_name": "Tes Sum"
+                },
+                {
+                    "city_name": "Asgat Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Bayan-OElgiy Aymag",
+            "cities": [
+                {
+                    "city_name": "Bayannuur"
+                },
+                {
+                    "city_name": "Tsagaannuur"
+                },
+                {
+                    "city_name": "Nogoonnuur"
+                },
+                {
+                    "city_name": "Ulaanhus"
+                },
+                {
+                    "city_name": "Tsengel"
+                },
+                {
+                    "city_name": "Sagsay sum"
+                },
+                {
+                    "city_name": "Bugat"
+                },
+                {
+                    "city_name": "OElgii"
+                },
+                {
+                    "city_name": "Altantsoegts"
+                },
+                {
+                    "city_name": "Tolbo"
+                },
+                {
+                    "city_name": "Altay"
+                },
+                {
+                    "city_name": "Buyant"
+                },
+                {
+                    "city_name": "Delueuen"
+                },
+                {
+                    "city_name": "Bulgan"
+                },
+                {
+                    "city_name": "Olgiy Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Bayanhongor Aymag",
+            "cities": [
+                {
+                    "city_name": "Dzag"
+                },
+                {
+                    "city_name": "Gurvanbulag"
+                },
+                {
+                    "city_name": "Jargalant"
+                },
+                {
+                    "city_name": "Bayanbulag"
+                },
+                {
+                    "city_name": "Bayantsagaan"
+                },
+                {
+                    "city_name": "Huereemaral"
+                },
+                {
+                    "city_name": "Buutsagaan"
+                },
+                {
+                    "city_name": "Boemboegoer"
+                },
+                {
+                    "city_name": "Bayan-Ovoo"
+                },
+                {
+                    "city_name": "Galuut"
+                },
+                {
+                    "city_name": "Erdenetsogt"
+                },
+                {
+                    "city_name": "Bayanhongor"
+                },
+                {
+                    "city_name": "OEldziyt"
+                },
+                {
+                    "city_name": "Jinst"
+                },
+                {
+                    "city_name": "Bogd"
+                },
+                {
+                    "city_name": "Bayangovi"
+                },
+                {
+                    "city_name": "Bayanlig"
+                },
+                {
+                    "city_name": "Baatsagaan"
+                },
+                {
+                    "city_name": "Bayan-OEndoer"
+                },
+                {
+                    "city_name": "Shinejinst"
+                },
+                {
+                    "city_name": "Bayanbulag Sum"
+                },
+                {
+                    "city_name": "Erdenetsogt Sum"
+                },
+                {
+                    "city_name": "Bayanhongor Sum"
+                },
+                {
+                    "city_name": "Olziit"
+                }
+            ]
+        },
+        {
+            "province_name": "Ulaanbaatar Hot",
+            "cities": [
+                {
+                    "city_name": "Bayandzuerh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tov Aymag",
+            "cities": [
+                {
+                    "city_name": "Bayantsogt Sum"
+                },
+                {
+                    "city_name": "Bayan-Onjuul Sum"
+                },
+                {
+                    "city_name": "Bayantal"
+                },
+                {
+                    "city_name": "Delgerhaan"
+                },
+                {
+                    "city_name": "Bueren"
+                },
+                {
+                    "city_name": "Bayantsagaan"
+                },
+                {
+                    "city_name": "Sergelen"
+                },
+                {
+                    "city_name": "Altanbulag"
+                },
+                {
+                    "city_name": "OEndoershireet"
+                },
+                {
+                    "city_name": "Erdenesant"
+                },
+                {
+                    "city_name": "Luen"
+                },
+                {
+                    "city_name": "Bayanhangay"
+                },
+                {
+                    "city_name": "Argalant"
+                },
+                {
+                    "city_name": "Bayantsogt"
+                },
+                {
+                    "city_name": "Ugtaal"
+                },
+                {
+                    "city_name": "Dzaamar"
+                },
+                {
+                    "city_name": "Tseel"
+                },
+                {
+                    "city_name": "Jargalant"
+                },
+                {
+                    "city_name": "Suember"
+                },
+                {
+                    "city_name": "Bornuur"
+                },
+                {
+                    "city_name": "Bayanchandmani"
+                },
+                {
+                    "city_name": "Batsuember"
+                },
+                {
+                    "city_name": "Moengoenmorit"
+                },
+                {
+                    "city_name": "Bayandelger"
+                },
+                {
+                    "city_name": "Erdene"
+                },
+                {
+                    "city_name": "Arhust"
+                },
+                {
+                    "city_name": "Bayan"
+                },
+                {
+                    "city_name": "Bayanjargalan"
+                },
+                {
+                    "city_name": "Dzuunmod"
+                },
+                {
+                    "city_name": "Baganuur"
+                },
+                {
+                    "city_name": "Bayan Sum"
+                },
+                {
+                    "city_name": "Ugtaaltsaydam Sum"
+                },
+                {
+                    "city_name": "Bayantsagaan Sum"
+                },
+                {
+                    "city_name": "Khan-Uul"
+                }
+            ]
+        },
+        {
+            "province_name": "Suhbaatar Aymag",
+            "cities": [
+                {
+                    "city_name": "Erdenetsagaan"
+                },
+                {
+                    "city_name": "Dariganga"
+                },
+                {
+                    "city_name": "Ongon"
+                },
+                {
+                    "city_name": "Naran"
+                },
+                {
+                    "city_name": "Bayandelger"
+                },
+                {
+                    "city_name": "Haldzan"
+                },
+                {
+                    "city_name": "Uulbayan"
+                },
+                {
+                    "city_name": "Moenhhaan"
+                },
+                {
+                    "city_name": "Tuementsogt"
+                },
+                {
+                    "city_name": "Suehbaatar"
+                },
+                {
+                    "city_name": "Tuevshinshiree"
+                },
+                {
+                    "city_name": "Asgat"
+                },
+                {
+                    "city_name": "Baruun-Urt"
+                },
+                {
+                    "city_name": "Dariganga Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Selenge Aymag",
+            "cities": [
+                {
+                    "city_name": "Bayangol"
+                },
+                {
+                    "city_name": "Mandal"
+                },
+                {
+                    "city_name": "Orhon"
+                },
+                {
+                    "city_name": "Sayhan"
+                },
+                {
+                    "city_name": "Sant"
+                },
+                {
+                    "city_name": "Baruunbueren"
+                },
+                {
+                    "city_name": "Orhontuul"
+                },
+                {
+                    "city_name": "Shaamar"
+                },
+                {
+                    "city_name": "Dzueuenbueren"
+                },
+                {
+                    "city_name": "Tsagaannuur"
+                },
+                {
+                    "city_name": "Tueshig"
+                },
+                {
+                    "city_name": "Suehbaatar"
+                },
+                {
+                    "city_name": "Altanbulag"
+                },
+                {
+                    "city_name": "Hueder"
+                },
+                {
+                    "city_name": "Javhlant"
+                },
+                {
+                    "city_name": "Hushaat"
+                },
+                {
+                    "city_name": "Orhontuul Sum"
+                },
+                {
+                    "city_name": "Yoroo Sum"
+                },
+                {
+                    "city_name": "Mandal Sum"
+                },
+                {
+                    "city_name": "Bayangol Sum"
+                },
+                {
+                    "city_name": "Khueder"
+                },
+                {
+                    "city_name": "Zueuenbueren"
+                }
+            ]
+        },
+        {
+            "province_name": "OEvoerhangay Aymag",
+            "cities": [
+                {
+                    "city_name": "Yusun Tszuyl Somon"
+                },
+                {
+                    "city_name": "Harhorin"
+                },
+                {
+                    "city_name": "Hujirt"
+                },
+                {
+                    "city_name": "Bat-OEldziy"
+                },
+                {
+                    "city_name": "Uyanga"
+                },
+                {
+                    "city_name": "Dzueuenbayan-Ulaan"
+                },
+                {
+                    "city_name": "Taragt"
+                },
+                {
+                    "city_name": "Arvayheer"
+                },
+                {
+                    "city_name": "Hayrhandulaan"
+                },
+                {
+                    "city_name": "Nariynteel"
+                },
+                {
+                    "city_name": "Baruunbayan-Ulaan"
+                },
+                {
+                    "city_name": "Guchin-Us"
+                },
+                {
+                    "city_name": "Bogd"
+                },
+                {
+                    "city_name": "Toegroeg"
+                },
+                {
+                    "city_name": "Bayangol"
+                },
+                {
+                    "city_name": "Sant"
+                },
+                {
+                    "city_name": "Bayan-OEndoer"
+                },
+                {
+                    "city_name": "OEldziyt"
+                },
+                {
+                    "city_name": "Yoesoendzueyl"
+                },
+                {
+                    "city_name": "Buerd"
+                },
+                {
+                    "city_name": "Baruun Bayan-Ulaan"
+                },
+                {
+                    "city_name": "Bat-OElzii"
+                },
+                {
+                    "city_name": "Yesoenzueil"
+                },
+                {
+                    "city_name": "Zueuenbayan-Ulaan"
+                }
+            ]
+        },
+        {
+            "province_name": "OEmnoegovi Province",
+            "cities": [
+                {
+                    "city_name": "Nomgon Sum"
+                },
+                {
+                    "city_name": "Mandal-Ovoo"
+                },
+                {
+                    "city_name": "Tsogt-Ovoo"
+                },
+                {
+                    "city_name": "Hanhongor"
+                },
+                {
+                    "city_name": "Tsogttsetsiy"
+                },
+                {
+                    "city_name": "Manlay"
+                },
+                {
+                    "city_name": "Hanbogd"
+                },
+                {
+                    "city_name": "Bayan-Ovoo"
+                },
+                {
+                    "city_name": "Huermen"
+                },
+                {
+                    "city_name": "Bayandalay"
+                },
+                {
+                    "city_name": "Bulgan"
+                },
+                {
+                    "city_name": "Sevrey"
+                },
+                {
+                    "city_name": "Noyon"
+                },
+                {
+                    "city_name": "Gurvantes"
+                },
+                {
+                    "city_name": "Dalandzadgad"
+                },
+                {
+                    "city_name": "Bayan-Ovoo Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Hovsgol Aymag",
+            "cities": [
+                {
+                    "city_name": "Tarialan"
+                },
+                {
+                    "city_name": "Renchinlhuembe"
+                },
+                {
+                    "city_name": "Tsagaannuur"
+                },
+                {
+                    "city_name": "Ulaan-Uul"
+                },
+                {
+                    "city_name": "Bayandzuerh"
+                },
+                {
+                    "city_name": "Alag-Erdene"
+                },
+                {
+                    "city_name": "Arbulag"
+                },
+                {
+                    "city_name": "Tsagaan-Uul"
+                },
+                {
+                    "city_name": "Tsetserleg"
+                },
+                {
+                    "city_name": "Moeroen"
+                },
+                {
+                    "city_name": "Buerentogtoh"
+                },
+                {
+                    "city_name": "Toemoerbulag"
+                },
+                {
+                    "city_name": "Shine-Ider"
+                },
+                {
+                    "city_name": "Galt"
+                },
+                {
+                    "city_name": "Jargalant"
+                },
+                {
+                    "city_name": "Tosontsengel"
+                },
+                {
+                    "city_name": "Ih-Uul"
+                },
+                {
+                    "city_name": "Rashaant"
+                },
+                {
+                    "city_name": "Tuenel"
+                },
+                {
+                    "city_name": "Chandmani-OEndoer"
+                },
+                {
+                    "city_name": "Tsagaan-UEuer"
+                },
+                {
+                    "city_name": "Erdenebulgan"
+                },
+                {
+                    "city_name": "Hanh"
+                },
+                {
+                    "city_name": "Jargalant Sum"
+                },
+                {
+                    "city_name": "Ih-Uul Sum"
+                },
+                {
+                    "city_name": "Tsagaan-Uul Sum"
+                },
+                {
+                    "city_name": "Moron Sum"
+                },
+                {
+                    "city_name": "Bayanzuerkh"
+                },
+                {
+                    "city_name": "Khatgal"
+                }
+            ]
+        },
+        {
+            "province_name": "Hentiy Aymag",
+            "cities": [
+                {
+                    "city_name": "OEmnoedelger"
+                },
+                {
+                    "city_name": "Darhan"
+                },
+                {
+                    "city_name": "Bayanmoenh"
+                },
+                {
+                    "city_name": "Delgerhaan"
+                },
+                {
+                    "city_name": "Jargalthaan"
+                },
+                {
+                    "city_name": "Tsenhermandal"
+                },
+                {
+                    "city_name": "Moeroen"
+                },
+                {
+                    "city_name": "Herlen"
+                },
+                {
+                    "city_name": "Bayanhutag"
+                },
+                {
+                    "city_name": "Galshar"
+                },
+                {
+                    "city_name": "Batshireet"
+                },
+                {
+                    "city_name": "Binder"
+                },
+                {
+                    "city_name": "Bayan-Adarga"
+                },
+                {
+                    "city_name": "Dadal"
+                },
+                {
+                    "city_name": "Batnorov"
+                },
+                {
+                    "city_name": "Bayan-Ovoo"
+                },
+                {
+                    "city_name": "Norovlin"
+                },
+                {
+                    "city_name": "Darhan Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Dundgovi Aymag",
+            "cities": [
+                {
+                    "city_name": "Suember"
+                },
+                {
+                    "city_name": "Sayhan-Ovoo"
+                },
+                {
+                    "city_name": "Delgerhangay"
+                },
+                {
+                    "city_name": "Huld"
+                },
+                {
+                    "city_name": "Luus"
+                },
+                {
+                    "city_name": "Erdenedalay"
+                },
+                {
+                    "city_name": "Adaatsag"
+                },
+                {
+                    "city_name": "Delgertsogt"
+                },
+                {
+                    "city_name": "Deren"
+                },
+                {
+                    "city_name": "Tsagaandelger"
+                },
+                {
+                    "city_name": "Govi-Ugtaal"
+                },
+                {
+                    "city_name": "Bayanjargalan"
+                },
+                {
+                    "city_name": "Gurvansayhan"
+                },
+                {
+                    "city_name": "OEndoershil"
+                },
+                {
+                    "city_name": "OEldziyt"
+                },
+                {
+                    "city_name": "Saintsagaan"
+                },
+                {
+                    "city_name": "Oldziyt Sum"
+                },
+                {
+                    "city_name": "Sayntsagaan Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Dornogovi Aymag",
+            "cities": [
+                {
+                    "city_name": "Dalanjargalan"
+                },
+                {
+                    "city_name": "Ayrag"
+                },
+                {
+                    "city_name": "Ihhet"
+                },
+                {
+                    "city_name": "Altanshiree"
+                },
+                {
+                    "city_name": "Delgereh"
+                },
+                {
+                    "city_name": "Saynshand"
+                },
+                {
+                    "city_name": "OErgoen"
+                },
+                {
+                    "city_name": "Erdene"
+                },
+                {
+                    "city_name": "Dzamyn UEued"
+                },
+                {
+                    "city_name": "Ulaanbadrah"
+                },
+                {
+                    "city_name": "Sayhandulaan"
+                },
+                {
+                    "city_name": "Mandah"
+                },
+                {
+                    "city_name": "Hoevsgoel"
+                },
+                {
+                    "city_name": "Hatanbulag"
+                },
+                {
+                    "city_name": "Shiveegovi"
+                },
+                {
+                    "city_name": "Saynshand Sum"
+                },
+                {
+                    "city_name": "Dzamin-Uud Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Dornod Aymag",
+            "cities": [
+                {
+                    "city_name": "Halhgol"
+                },
+                {
+                    "city_name": "Matad"
+                },
+                {
+                    "city_name": "Bayantuemen"
+                },
+                {
+                    "city_name": "Bulgan"
+                },
+                {
+                    "city_name": "Hoeloenbuyr"
+                },
+                {
+                    "city_name": "Choybalsan"
+                },
+                {
+                    "city_name": "Chuluunhoroot"
+                },
+                {
+                    "city_name": "Dashbalbar"
+                },
+                {
+                    "city_name": "Gurvandzagal"
+                },
+                {
+                    "city_name": "Sergelen"
+                },
+                {
+                    "city_name": "Tsagaan-Ovoo"
+                },
+                {
+                    "city_name": "Bayandun"
+                },
+                {
+                    "city_name": "Bayan-Uul"
+                },
+                {
+                    "city_name": "Herlen"
+                },
+                {
+                    "city_name": "Bayantumen Sum"
+                },
+                {
+                    "city_name": "Tsagaan-Ovoo Sum"
+                },
+                {
+                    "city_name": "Choybalsan Sum"
+                },
+                {
+                    "city_name": "Gurvanzagal Sum"
+                },
+                {
+                    "city_name": "Kherlen"
+                },
+                {
+                    "city_name": "Khoeloenbuir"
+                }
+            ]
+        },
+        {
+            "province_name": "Bulgan",
+            "cities": [
+                {
+                    "city_name": "Hangal"
+                },
+                {
+                    "city_name": "Selenge"
+                },
+                {
+                    "city_name": "Teshig"
+                },
+                {
+                    "city_name": "Hutag-OEndoer"
+                },
+                {
+                    "city_name": "Bugat"
+                },
+                {
+                    "city_name": "Bayan-Agt"
+                },
+                {
+                    "city_name": "Sayhan"
+                },
+                {
+                    "city_name": "Orhon"
+                },
+                {
+                    "city_name": "Hishig-OEndoer"
+                },
+                {
+                    "city_name": "Mogod"
+                },
+                {
+                    "city_name": "Buereghangay"
+                },
+                {
+                    "city_name": "Dashinchilen"
+                },
+                {
+                    "city_name": "Bayannuur"
+                },
+                {
+                    "city_name": "Gurvanbulag"
+                },
+                {
+                    "city_name": "Bulgan District"
+                },
+                {
+                    "city_name": "Rashaant Sum"
+                },
+                {
+                    "city_name": "Gurvanbulag Sum"
+                },
+                {
+                    "city_name": "Hutag-Ondor Sum"
+                },
+                {
+                    "city_name": "Dashinchilen Sum"
+                },
+                {
+                    "city_name": "Bayannuur Sum"
+                },
+                {
+                    "city_name": "Bureghangay Sum"
+                },
+                {
+                    "city_name": "Orhon Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Arhangay Aymag",
+            "cities": [
+                {
+                    "city_name": "Tariat Sum"
+                },
+                {
+                    "city_name": "Rashaant"
+                },
+                {
+                    "city_name": "Tsetserleg"
+                },
+                {
+                    "city_name": "Jargalant"
+                },
+                {
+                    "city_name": "Erdenemandal"
+                },
+                {
+                    "city_name": "Hayrhan"
+                },
+                {
+                    "city_name": "Erdenebulgan"
+                },
+                {
+                    "city_name": "Ihtamir"
+                },
+                {
+                    "city_name": "OEndoer-Ulaan"
+                },
+                {
+                    "city_name": "Chuluut"
+                },
+                {
+                    "city_name": "Hangay"
+                },
+                {
+                    "city_name": "Tsahir"
+                },
+                {
+                    "city_name": "Bulgan"
+                },
+                {
+                    "city_name": "Tsenher"
+                },
+                {
+                    "city_name": "Tuevshrueueleh"
+                },
+                {
+                    "city_name": "Hotont"
+                },
+                {
+                    "city_name": "Hashaat"
+                },
+                {
+                    "city_name": "OEgiynuur"
+                },
+                {
+                    "city_name": "Battsengel"
+                },
+                {
+                    "city_name": "OEldziyt"
+                },
+                {
+                    "city_name": "Bulgan Sum"
+                },
+                {
+                    "city_name": "Erdenebulgan Sum"
+                },
+                {
+                    "city_name": "Khairkhan"
+                }
+            ]
+        },
+        {
+            "province_name": "Darhan-Uul Aymag",
+            "cities": [
+                {
+                    "city_name": "Sharingol"
+                },
+                {
+                    "city_name": "Hongor"
+                },
+                {
+                    "city_name": "Orhon"
+                }
+            ]
+        },
+        {
+            "province_name": "Govi-Sumber",
+            "cities": [
+                {
+                    "city_name": "Bayantal Sum"
+                },
+                {
+                    "city_name": "Bayan Sum"
+                },
+                {
+                    "city_name": "Sumber Sum"
+                }
+            ]
+        },
+        {
+            "province_name": "Orhon Aymag",
+            "cities": [
+                {
+                    "city_name": "Bayan-OEndoer"
+                },
+                {
+                    "city_name": "Jargalant"
+                },
+                {
+                    "city_name": "Jargalant Sum"
+                },
+                {
+                    "city_name": "Erdenet Sum"
+                }
+            ]
+        }
+    ]
+}

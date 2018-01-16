@@ -1,0 +1,896 @@
+{
+    "country_name": "Kazakhstan",
+    "country_id": "KZ",
+    "provinces": [
+        {
+            "province_name": "West Kazakhstan",
+            "cities": [
+                {
+                    "city_name": "Zelenoe Audany"
+                },
+                {
+                    "city_name": "Orda Audany"
+                },
+                {
+                    "city_name": "Terekti Audany"
+                },
+                {
+                    "city_name": "Taypaq Audany"
+                },
+                {
+                    "city_name": "Priural'e Audany"
+                },
+                {
+                    "city_name": "Kaztalovka Audany"
+                },
+                {
+                    "city_name": "Qaratobe Audany"
+                },
+                {
+                    "city_name": "Tasqala Audany"
+                },
+                {
+                    "city_name": "Zhalpaqtal Audany"
+                },
+                {
+                    "city_name": "Zhanibek Audany"
+                },
+                {
+                    "city_name": "Zhangaqala Audany"
+                },
+                {
+                    "city_name": "Syrym Audany"
+                },
+                {
+                    "city_name": "Shyngghyrlau Audany"
+                },
+                {
+                    "city_name": "Chapaev Audany"
+                },
+                {
+                    "city_name": "Borili Audany"
+                },
+                {
+                    "city_name": "Aqzhayyq Audany"
+                },
+                {
+                    "city_name": "Oral Qalasy"
+                }
+            ]
+        },
+        {
+            "province_name": "Mangistauskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Qaraqiya Audany"
+                },
+                {
+                    "city_name": "Mangghystau Audany"
+                },
+                {
+                    "city_name": "Beyneu Audany"
+                },
+                {
+                    "city_name": "Tupqaraghan Audany"
+                },
+                {
+                    "city_name": "Aqtau Qalasy"
+                },
+                {
+                    "city_name": "Zhangaozen Qalasy"
+                }
+            ]
+        },
+        {
+            "province_name": "Atyrau Oblysy",
+            "cities": [
+                {
+                    "city_name": "Isatay Audany"
+                },
+                {
+                    "city_name": "Makhambet Audany"
+                },
+                {
+                    "city_name": "Maqat Audany"
+                },
+                {
+                    "city_name": "Qyzylqogha Audany"
+                },
+                {
+                    "city_name": "Inder Audany"
+                },
+                {
+                    "city_name": "Zhylyoy Audany"
+                },
+                {
+                    "city_name": "Kurmanghazy Audany"
+                },
+                {
+                    "city_name": "Balyqshy Audany"
+                },
+                {
+                    "city_name": "Atyrau Qalasy"
+                }
+            ]
+        },
+        {
+            "province_name": "Aktyubinskaya Oblast'",
+            "cities": [
+                {
+                    "city_name": "Oyyl Audany"
+                },
+                {
+                    "city_name": "Temir Audany"
+                },
+                {
+                    "city_name": "Oktyabr'sk Audany"
+                },
+                {
+                    "city_name": "Khromtau Audany"
+                },
+                {
+                    "city_name": "Mughalzhar Audany"
+                },
+                {
+                    "city_name": "Mortyq Audany"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Qobda Audany"
+                },
+                {
+                    "city_name": "Isatay Audany"
+                },
+                {
+                    "city_name": "Shalqar Audany"
+                },
+                {
+                    "city_name": "Bayghanin Audany"
+                },
+                {
+                    "city_name": "Algha Audany"
+                },
+                {
+                    "city_name": "Aqtobe Audany"
+                },
+                {
+                    "city_name": "Aqtobe Qalasy"
+                },
+                {
+                    "city_name": "Bogetkol Audany"
+                },
+                {
+                    "city_name": "Ayteke Bi Audany"
+                },
+                {
+                    "city_name": "Yrghyz Audany"
+                }
+            ]
+        },
+        {
+            "province_name": "East Kazakhstan",
+            "cities": [
+                {
+                    "city_name": "Zyryanovsk Audany"
+                },
+                {
+                    "city_name": "Zharma Audany"
+                },
+                {
+                    "city_name": "Zhangasemey Audany"
+                },
+                {
+                    "city_name": "Zaysan Audany"
+                },
+                {
+                    "city_name": "Urzhar Audany"
+                },
+                {
+                    "city_name": "Ulan Audany"
+                },
+                {
+                    "city_name": "Tavriya Audany"
+                },
+                {
+                    "city_name": "Taskesken Audany"
+                },
+                {
+                    "city_name": "Tarbaghatay Audany"
+                },
+                {
+                    "city_name": "Shemonaikha Audany"
+                },
+                {
+                    "city_name": "Samarskoe Audany"
+                },
+                {
+                    "city_name": "Novoshul'ba Audany"
+                },
+                {
+                    "city_name": "Marqakol Audany"
+                },
+                {
+                    "city_name": "Maqanshy Audany"
+                },
+                {
+                    "city_name": "Kurshim Audany"
+                },
+                {
+                    "city_name": "Kokpekti Audany"
+                },
+                {
+                    "city_name": "Qotanqaraghay Audany"
+                },
+                {
+                    "city_name": "Glubokoe Audany"
+                },
+                {
+                    "city_name": "Shubartau Audany"
+                },
+                {
+                    "city_name": "Shar Audany"
+                },
+                {
+                    "city_name": "Borodulikha Audany"
+                },
+                {
+                    "city_name": "Ulkennaryn Audany"
+                },
+                {
+                    "city_name": "Besqaraghay Audany"
+                },
+                {
+                    "city_name": "Ayakoz Qalasy"
+                },
+                {
+                    "city_name": "Aqsuat Audany"
+                },
+                {
+                    "city_name": "Abay Audany"
+                },
+                {
+                    "city_name": "Semey Qalasy"
+                },
+                {
+                    "city_name": "Oskemen Qalasy"
+                },
+                {
+                    "city_name": "Zyryanovsk Qalasy"
+                },
+                {
+                    "city_name": "Leninogorsk Qalasy"
+                },
+                {
+                    "city_name": "Serebryansk Qalasy"
+                },
+                {
+                    "city_name": "Abyraly Audany"
+                }
+            ]
+        },
+        {
+            "province_name": "Aqmola Oblysy",
+            "cities": [
+                {
+                    "city_name": "Zhangadala Audany"
+                },
+                {
+                    "city_name": "Zhaqsy Audany"
+                },
+                {
+                    "city_name": "Zerendi Audany"
+                },
+                {
+                    "city_name": "Esil Audany"
+                },
+                {
+                    "city_name": "Ereymentau Audany"
+                },
+                {
+                    "city_name": "Arshaly Audany"
+                },
+                {
+                    "city_name": "Tselinograd Audany"
+                },
+                {
+                    "city_name": "Shortandy Audany"
+                },
+                {
+                    "city_name": "Shchuchinsk Audany"
+                },
+                {
+                    "city_name": "Sileti Audany"
+                },
+                {
+                    "city_name": "Bulandy Audany"
+                },
+                {
+                    "city_name": "Qorghalzhyn Audany"
+                },
+                {
+                    "city_name": "Egindikol Audany"
+                },
+                {
+                    "city_name": "Qima Audany"
+                },
+                {
+                    "city_name": "Engbekshilder Audany"
+                },
+                {
+                    "city_name": "Zharqayyng Audany"
+                },
+                {
+                    "city_name": "Sandyqtau Audany"
+                },
+                {
+                    "city_name": "Atbasar Audany"
+                },
+                {
+                    "city_name": "Astrakhan Audany"
+                },
+                {
+                    "city_name": "Aqkol Audany"
+                },
+                {
+                    "city_name": "Kokshetau Qalasy"
+                },
+                {
+                    "city_name": "Shchuchinsk Qalasy"
+                },
+                {
+                    "city_name": "Atbasar Qalasy"
+                },
+                {
+                    "city_name": "Stepnogorsk Qalasy"
+                }
+            ]
+        },
+        {
+            "province_name": "North Kazakhstan",
+            "cities": [
+                {
+                    "city_name": "Vozvyshenka Audany"
+                },
+                {
+                    "city_name": "Ayyrtau Audany"
+                },
+                {
+                    "city_name": "Ualikhanov Audany"
+                },
+                {
+                    "city_name": "Timiryazev Audany"
+                },
+                {
+                    "city_name": "Sovet Audany"
+                },
+                {
+                    "city_name": "Sokolovka Audany"
+                },
+                {
+                    "city_name": "Sergeevka Audany"
+                },
+                {
+                    "city_name": "Ruzaevka Audany"
+                },
+                {
+                    "city_name": "Presnovka Audany"
+                },
+                {
+                    "city_name": "Moskva Audany"
+                },
+                {
+                    "city_name": "Mamlyutka Audany"
+                },
+                {
+                    "city_name": "Lenin Audany"
+                },
+                {
+                    "city_name": "Lenin Audany"
+                },
+                {
+                    "city_name": "Leningrad Audany"
+                },
+                {
+                    "city_name": "Qyzyltu Audany"
+                },
+                {
+                    "city_name": "Kuybyshev Audany"
+                },
+                {
+                    "city_name": "Krasnoarmeysk Audany"
+                },
+                {
+                    "city_name": "Kokshetau Audany"
+                },
+                {
+                    "city_name": "Kellerovka Audany"
+                },
+                {
+                    "city_name": "Zhambyl Audany"
+                },
+                {
+                    "city_name": "Chkalov Audany"
+                },
+                {
+                    "city_name": "Chistopol'e Audany"
+                },
+                {
+                    "city_name": "Bulaevo Audany"
+                },
+                {
+                    "city_name": "Beskol Audany"
+                },
+                {
+                    "city_name": "Aryqbalyq Audany"
+                }
+            ]
+        },
+        {
+            "province_name": "Pavlodar Oblysy",
+            "cities": [
+                {
+                    "city_name": "Zhelezin Audany"
+                },
+                {
+                    "city_name": "Aqsu Audany"
+                },
+                {
+                    "city_name": "Uspenka Audany"
+                },
+                {
+                    "city_name": "Ul'yanov Audany"
+                },
+                {
+                    "city_name": "Sharbaqty Audany"
+                },
+                {
+                    "city_name": "Pavlodar Audany"
+                },
+                {
+                    "city_name": "May Audany"
+                },
+                {
+                    "city_name": "Lebyazh'e Audany"
+                },
+                {
+                    "city_name": "Aqtoghay Audany"
+                },
+                {
+                    "city_name": "Qashyr Audany"
+                },
+                {
+                    "city_name": "Ertis Audany"
+                },
+                {
+                    "city_name": "Ekibastuz Audany"
+                },
+                {
+                    "city_name": "Bayanauyl Audany"
+                },
+                {
+                    "city_name": "Pavlodar Qalasy"
+                },
+                {
+                    "city_name": "Gorod Aksu"
+                },
+                {
+                    "city_name": "Ekibastuz Qalasy"
+                }
+            ]
+        },
+        {
+            "province_name": "Qyzylorda Oblysy",
+            "cities": [
+                {
+                    "city_name": "Zhangaqorghan Audany"
+                },
+                {
+                    "city_name": "Terengozek Audany"
+                },
+                {
+                    "city_name": "Syrdariya Audany"
+                },
+                {
+                    "city_name": "Qazaly Audany"
+                },
+                {
+                    "city_name": "Qarmaqshy Audany"
+                },
+                {
+                    "city_name": "Zhalaghash Audany"
+                },
+                {
+                    "city_name": "Shieli Audany"
+                },
+                {
+                    "city_name": "Aral Audany"
+                }
+            ]
+        },
+        {
+            "province_name": "Qostanay Oblysy",
+            "cities": [
+                {
+                    "city_name": "Uritskiy Audany"
+                },
+                {
+                    "city_name": "Taranovskiy Rayon"
+                },
+                {
+                    "city_name": "Semiozernyy Rayon"
+                },
+                {
+                    "city_name": "Nauryzym Audany"
+                },
+                {
+                    "city_name": "Lenin Audany"
+                },
+                {
+                    "city_name": "Kustanayskiy Rayon"
+                },
+                {
+                    "city_name": "Komsomol Audany"
+                },
+                {
+                    "city_name": "Qarasu Audany"
+                },
+                {
+                    "city_name": "Qamysty Audany"
+                },
+                {
+                    "city_name": "Fedorovskiy Rayon"
+                },
+                {
+                    "city_name": "Zhetiqara Audany"
+                },
+                {
+                    "city_name": "Zhangeldin Audany"
+                },
+                {
+                    "city_name": "Mendykarinskiy Rayon"
+                },
+                {
+                    "city_name": "Arqalyq Audany"
+                },
+                {
+                    "city_name": "Amantoghay Audany"
+                },
+                {
+                    "city_name": "Amangeldi Audany"
+                },
+                {
+                    "city_name": "Altynsarinskiy Rayon"
+                },
+                {
+                    "city_name": "Qostanay Qalasy"
+                },
+                {
+                    "city_name": "Zhetiqara Qalasy"
+                },
+                {
+                    "city_name": "Lisakovsk Qalasy"
+                },
+                {
+                    "city_name": "Rudnyy Qalasy"
+                },
+                {
+                    "city_name": "Oktyabr' Audany"
+                }
+            ]
+        },
+        {
+            "province_name": "Qaraghandy Oblysy",
+            "cities": [
+                {
+                    "city_name": "Zhangaarqa Audany"
+                },
+                {
+                    "city_name": "Qazybek Bi Audany"
+                },
+                {
+                    "city_name": "Ulytau Audany"
+                },
+                {
+                    "city_name": "Tengiz Audany"
+                },
+                {
+                    "city_name": "Tel'man Audany"
+                },
+                {
+                    "city_name": "Shet Audany"
+                },
+                {
+                    "city_name": "Osakarovka Audany"
+                },
+                {
+                    "city_name": "Ordzhonikidze Audany"
+                },
+                {
+                    "city_name": "Nura Audany"
+                },
+                {
+                    "city_name": "Molodezhnyy Audany"
+                },
+                {
+                    "city_name": "Michurin Audany"
+                },
+                {
+                    "city_name": "Qarqaraly Audany"
+                },
+                {
+                    "city_name": "Zhezdi Audany"
+                },
+                {
+                    "city_name": "Aqtoghay Audany"
+                },
+                {
+                    "city_name": "Aqadyr Audany"
+                },
+                {
+                    "city_name": "Toqyrauyn Audany"
+                },
+                {
+                    "city_name": "Zhezqazghan Qalasy"
+                },
+                {
+                    "city_name": "Balqash Qalasy"
+                },
+                {
+                    "city_name": "Qarazhal Qalasy"
+                },
+                {
+                    "city_name": "Qalasy Satbaev"
+                },
+                {
+                    "city_name": "Qaraghandy Qalasy"
+                },
+                {
+                    "city_name": "Abay Qalasy"
+                },
+                {
+                    "city_name": "Sorang Qalasy"
+                },
+                {
+                    "city_name": "Temirtau Qalasy"
+                },
+                {
+                    "city_name": "Shakhtinsk Qalasy"
+                },
+                {
+                    "city_name": "Bukhar-Zhyrau"
+                }
+            ]
+        },
+        {
+            "province_name": "Zhambyl Oblysy",
+            "cities": [
+                {
+                    "city_name": "Talas Audany"
+                },
+                {
+                    "city_name": "Sverdlov Audany"
+                },
+                {
+                    "city_name": "Sarysu Audany"
+                },
+                {
+                    "city_name": "Moyynqum Audany"
+                },
+                {
+                    "city_name": "Merke Audany"
+                },
+                {
+                    "city_name": "Lugovoe Audany"
+                },
+                {
+                    "city_name": "Qorday Audany"
+                },
+                {
+                    "city_name": "Zhualy Audany"
+                },
+                {
+                    "city_name": "Zhambyl Audany"
+                },
+                {
+                    "city_name": "Shu Audany"
+                },
+                {
+                    "city_name": "Zhambyl Qalasy"
+                },
+                {
+                    "city_name": "Zhangatas Qalasy"
+                },
+                {
+                    "city_name": "Qaratau Qalasy"
+                },
+                {
+                    "city_name": "Shu Qalasy"
+                },
+                {
+                    "city_name": "Bayzak District"
+                },
+                {
+                    "city_name": "Korday"
+                }
+            ]
+        },
+        {
+            "province_name": "South Kazakhstan",
+            "cities": [
+                {
+                    "city_name": "Tulkibas Audany"
+                },
+                {
+                    "city_name": "Turkistan Audany"
+                },
+                {
+                    "city_name": "Sozaq Audany"
+                },
+                {
+                    "city_name": "Sayram Audany"
+                },
+                {
+                    "city_name": "Saryaghash Audany"
+                },
+                {
+                    "city_name": "Maqtaaral Audany"
+                },
+                {
+                    "city_name": "Qazyqurt Audany"
+                },
+                {
+                    "city_name": "Tole Bi Audany"
+                },
+                {
+                    "city_name": "Otyrar Audany"
+                },
+                {
+                    "city_name": "Kirov Audany"
+                },
+                {
+                    "city_name": "Keles Audany"
+                },
+                {
+                    "city_name": "Zhetisay Audany"
+                },
+                {
+                    "city_name": "Shardara Audany"
+                },
+                {
+                    "city_name": "Ordabasy Audany"
+                },
+                {
+                    "city_name": "Alghabas Audany"
+                },
+                {
+                    "city_name": "Arys Audany"
+                },
+                {
+                    "city_name": "Shymkent Qalasy"
+                },
+                {
+                    "city_name": "Arys Qalasy"
+                },
+                {
+                    "city_name": "Kentau Qalasy"
+                },
+                {
+                    "city_name": "Lenger Qalasy"
+                },
+                {
+                    "city_name": "Turkistan Qalasy"
+                },
+                {
+                    "city_name": "Kazygurt District"
+                }
+            ]
+        },
+        {
+            "province_name": "Almaty Qalasy",
+            "cities": [
+                {
+                    "city_name": "Auezovskiy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Almaty Oblysy",
+            "cities": [
+                {
+                    "city_name": "Uyghyr Audany"
+                },
+                {
+                    "city_name": "Talghar Audany"
+                },
+                {
+                    "city_name": "Taldyqorghan Audany"
+                },
+                {
+                    "city_name": "Sarqan Audany"
+                },
+                {
+                    "city_name": "Panfilov Audany"
+                },
+                {
+                    "city_name": "Rayymbek Audany"
+                },
+                {
+                    "city_name": "Kurti Audany"
+                },
+                {
+                    "city_name": "Koksu Audany"
+                },
+                {
+                    "city_name": "Kerbulaq Audany"
+                },
+                {
+                    "city_name": "Kegen Audany"
+                },
+                {
+                    "city_name": "Qaskeleng Audany"
+                },
+                {
+                    "city_name": "Qaratal Audany"
+                },
+                {
+                    "city_name": "Qapal Audany"
+                },
+                {
+                    "city_name": "Ile Audany"
+                },
+                {
+                    "city_name": "Gvardiya Audany"
+                },
+                {
+                    "city_name": "Engbekshiqazaq Audany"
+                },
+                {
+                    "city_name": "Zhambyl Audany"
+                },
+                {
+                    "city_name": "Shelek Audany"
+                },
+                {
+                    "city_name": "Borilitobe Audany"
+                },
+                {
+                    "city_name": "Balqash Audany"
+                },
+                {
+                    "city_name": "Uygentas Audany"
+                },
+                {
+                    "city_name": "Alakol Audany"
+                },
+                {
+                    "city_name": "Aqsu Audany"
+                },
+                {
+                    "city_name": "Kapshagay city"
+                },
+                {
+                    "city_name": "Talghar Qalasy"
+                },
+                {
+                    "city_name": "Taldyqorghan Qalasy"
+                },
+                {
+                    "city_name": "Tekeli Qalasy"
+                },
+                {
+                    "city_name": "Zhambyl District"
+                }
+            ]
+        },
+        {
+            "province_name": "Baikonur",
+            "cities": []
+        },
+        {
+            "province_name": "Astana Qalasy",
+            "cities": []
+        }
+    ]
+}

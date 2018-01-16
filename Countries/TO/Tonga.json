@@ -1,0 +1,33 @@
+{
+    "country_name": "Tonga",
+    "country_id": "TO",
+    "provinces": [
+        {
+            "province_name": "Vava'u",
+            "cities": []
+        },
+        {
+            "province_name": "Tongatapu",
+            "cities": []
+        },
+        {
+            "province_name": "Ha`apai",
+            "cities": []
+        },
+        {
+            "province_name": "Eua",
+            "cities": []
+        },
+        {
+            "province_name": "Niuas",
+            "cities": [
+                {
+                    "city_name": "Niuatoputapu"
+                },
+                {
+                    "city_name": "Niuafo'ou"
+                }
+            ]
+        }
+    ]
+}

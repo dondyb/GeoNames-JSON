@@ -1,0 +1,242 @@
+{
+    "country_name": "Zimbabwe",
+    "country_id": "ZW",
+    "provinces": [
+        {
+            "province_name": "Midlands Province",
+            "cities": [
+                {
+                    "city_name": "Zvishavane District"
+                },
+                {
+                    "city_name": "Shurugwi District"
+                },
+                {
+                    "city_name": "Mberengwa District"
+                },
+                {
+                    "city_name": "Kwekwe District"
+                },
+                {
+                    "city_name": "Gweru District"
+                },
+                {
+                    "city_name": "Gokwe North District"
+                },
+                {
+                    "city_name": "Chirumanzu District"
+                },
+                {
+                    "city_name": "Gokwe South District"
+                }
+            ]
+        },
+        {
+            "province_name": "Matabeleland South Province",
+            "cities": [
+                {
+                    "city_name": "Umzingwane District"
+                },
+                {
+                    "city_name": "Matobo"
+                },
+                {
+                    "city_name": "Insiza District"
+                },
+                {
+                    "city_name": "Gwanda District"
+                },
+                {
+                    "city_name": "Mangwe District"
+                },
+                {
+                    "city_name": "Beitbridge District"
+                },
+                {
+                    "city_name": "Bulilima District"
+                }
+            ]
+        },
+        {
+            "province_name": "Matabeleland North Province",
+            "cities": [
+                {
+                    "city_name": "Tsholotsho District"
+                },
+                {
+                    "city_name": "Nkayi District"
+                },
+                {
+                    "city_name": "Lupane District"
+                },
+                {
+                    "city_name": "Hwange District"
+                },
+                {
+                    "city_name": "Bubi District"
+                },
+                {
+                    "city_name": "Binga District"
+                },
+                {
+                    "city_name": "Umguza District"
+                }
+            ]
+        },
+        {
+            "province_name": "Masvingo Province",
+            "cities": [
+                {
+                    "city_name": "Zaka"
+                },
+                {
+                    "city_name": "Mwenezi District"
+                },
+                {
+                    "city_name": "Masvingo District"
+                },
+                {
+                    "city_name": "Gutu District"
+                },
+                {
+                    "city_name": "Chivi District"
+                },
+                {
+                    "city_name": "Chiredzi District"
+                },
+                {
+                    "city_name": "Bikita District"
+                },
+                {
+                    "city_name": "Zaka District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mashonaland West Province",
+            "cities": [
+                {
+                    "city_name": "Makonde District"
+                },
+                {
+                    "city_name": "Kariba District"
+                },
+                {
+                    "city_name": "Kadoma District"
+                },
+                {
+                    "city_name": "Hurungwe District"
+                },
+                {
+                    "city_name": "Chegutu District"
+                },
+                {
+                    "city_name": "Zvimba District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mashonaland East Province",
+            "cities": [
+                {
+                    "city_name": "Hwedza District"
+                },
+                {
+                    "city_name": "Seke District"
+                },
+                {
+                    "city_name": "Mutoko District"
+                },
+                {
+                    "city_name": "Murehwa District"
+                },
+                {
+                    "city_name": "Mudzi District"
+                },
+                {
+                    "city_name": "Marondera District"
+                },
+                {
+                    "city_name": "Goromonzi District"
+                },
+                {
+                    "city_name": "Chikomba District"
+                },
+                {
+                    "city_name": "Uzumba-Maramba-Pfungwe District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mashonaland Central Province",
+            "cities": [
+                {
+                    "city_name": "Shamva District"
+                },
+                {
+                    "city_name": "Rushinga District"
+                },
+                {
+                    "city_name": "Mazowe District"
+                },
+                {
+                    "city_name": "Guruve District"
+                },
+                {
+                    "city_name": "Mount Darwin"
+                },
+                {
+                    "city_name": "Centenary District"
+                },
+                {
+                    "city_name": "Bindura District"
+                }
+            ]
+        },
+        {
+            "province_name": "Manicaland Province",
+            "cities": [
+                {
+                    "city_name": "Nyanga District"
+                },
+                {
+                    "city_name": "Mutasa District"
+                },
+                {
+                    "city_name": "Mutare District"
+                },
+                {
+                    "city_name": "Makoni District"
+                },
+                {
+                    "city_name": "Chipinge District"
+                },
+                {
+                    "city_name": "Chimanimani District"
+                },
+                {
+                    "city_name": "Buhera District"
+                },
+                {
+                    "city_name": "Mossurize District"
+                }
+            ]
+        },
+        {
+            "province_name": "Bulawayo Province",
+            "cities": [
+                {
+                    "city_name": "Bulawayo District"
+                }
+            ]
+        },
+        {
+            "province_name": "Harare Province",
+            "cities": [
+                {
+                    "city_name": "Harare District"
+                }
+            ]
+        }
+    ]
+}

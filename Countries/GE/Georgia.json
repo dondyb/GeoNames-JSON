@@ -1,0 +1,377 @@
+{
+    "country_name": "Georgia",
+    "country_id": "GE",
+    "provinces": [
+        {
+            "province_name": "K'alak'i T'bilisi",
+            "cities": []
+        },
+        {
+            "province_name": "Ajaria",
+            "cities": [
+                {
+                    "city_name": "K'obulet'is Raioni"
+                },
+                {
+                    "city_name": "Khelvachauri Municipality"
+                },
+                {
+                    "city_name": "Kedis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Kobuletis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Batumi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kvemo Kartli",
+            "cities": [
+                {
+                    "city_name": "Ts'alk'is Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Tetrits'q'alos Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Marneulis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Gardabnis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Dmanisis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Bolnisis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Kalaki Rustavi"
+                },
+                {
+                    "city_name": "Gardabani"
+                },
+                {
+                    "city_name": "Marneuli"
+                },
+                {
+                    "city_name": "Tetri Tsqaro"
+                },
+                {
+                    "city_name": "Tsalka"
+                },
+                {
+                    "city_name": "Dmanisi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kakheti",
+            "cities": [
+                {
+                    "city_name": "Dedoplists'q'aros Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Sighnaghis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Sagarejos Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Lagodekhi"
+                },
+                {
+                    "city_name": "Q'varlis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Gurjaanis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Akhmet'is Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Gurjaani"
+                },
+                {
+                    "city_name": "Telavi"
+                },
+                {
+                    "city_name": "Qvareli"
+                },
+                {
+                    "city_name": "Sagarejo"
+                },
+                {
+                    "city_name": "Sighnaghi"
+                },
+                {
+                    "city_name": "Dedoplis Tskaro"
+                }
+            ]
+        },
+        {
+            "province_name": "Guria",
+            "cities": [
+                {
+                    "city_name": "Ozurget'is Raioni"
+                },
+                {
+                    "city_name": "Lanchkhutis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Chokhat'auris Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Chokhatauri"
+                }
+            ]
+        },
+        {
+            "province_name": "Imereti",
+            "cities": [
+                {
+                    "city_name": "Zest'aponis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Vanis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Terjolis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Samtredia"
+                },
+                {
+                    "city_name": "Baghdatis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Khonis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Kharagaulis Raioni"
+                },
+                {
+                    "city_name": "Tsqaltubo"
+                },
+                {
+                    "city_name": "K'alak'i Chiat'ura"
+                },
+                {
+                    "city_name": "Kalaki Kutaisi"
+                },
+                {
+                    "city_name": "K'alak'i Tqibuli"
+                },
+                {
+                    "city_name": "Khoni"
+                },
+                {
+                    "city_name": "Baghdati"
+                },
+                {
+                    "city_name": "Sachkhere"
+                }
+            ]
+        },
+        {
+            "province_name": "Shida Kartli",
+            "cities": [
+                {
+                    "city_name": "Khashuris Raioni"
+                },
+                {
+                    "city_name": "Kaspis Raioni"
+                },
+                {
+                    "city_name": "Kareli"
+                },
+                {
+                    "city_name": "Goris Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Javis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Tskhinvali District"
+                }
+            ]
+        },
+        {
+            "province_name": "Mtskheta-Mtianeti",
+            "cities": [
+                {
+                    "city_name": "Tianetis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Mtskhetis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Akhalgoris Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Q'azbegis Munitsip'alit'et`i"
+                },
+                {
+                    "city_name": "Dushetis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Dusheti"
+                },
+                {
+                    "city_name": "Akhalgori"
+                },
+                {
+                    "city_name": "Kazbegi"
+                },
+                {
+                    "city_name": "Mtskheta"
+                }
+            ]
+        },
+        {
+            "province_name": "Racha-Lechkhumi and Kvemo Svaneti",
+            "cities": [
+                {
+                    "city_name": "Zavodskoy Rayon"
+                },
+                {
+                    "city_name": "Tsageris Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Pervomayskiy Rayon"
+                },
+                {
+                    "city_name": "Ordzhonikidzevskiy Rayon"
+                },
+                {
+                    "city_name": "Onis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Lent'ekhis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Kalininskiy Rayon"
+                },
+                {
+                    "city_name": "Imeni Dvadtsati Shesti Komissarov Rayon"
+                },
+                {
+                    "city_name": "Ambrolauris Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Tsageri"
+                },
+                {
+                    "city_name": "Lentekhi"
+                }
+            ]
+        },
+        {
+            "province_name": "Samegrelo-Zemo Svanetis Mkhare",
+            "cities": [
+                {
+                    "city_name": "Zugdidis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Ts'alenjikhis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Senakis Raioni"
+                },
+                {
+                    "city_name": "Mest'iis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Mart'vilis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Khobis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Chkhorots'q'us Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Abasha"
+                },
+                {
+                    "city_name": "Kalaki Poti"
+                },
+                {
+                    "city_name": "Mestia"
+                },
+                {
+                    "city_name": "Chkhorotsqu"
+                },
+                {
+                    "city_name": "Martvili"
+                },
+                {
+                    "city_name": "Poti"
+                },
+                {
+                    "city_name": "Tsalenjikha"
+                }
+            ]
+        },
+        {
+            "province_name": "Samtskhe-Javakheti",
+            "cities": [
+                {
+                    "city_name": "Borjomis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Ninots'mindis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Asp'indzis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Akhaltsikhis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Akhalkalakis Munitsip'alit'et'i"
+                },
+                {
+                    "city_name": "Adigeni Municipality"
+                },
+                {
+                    "city_name": "Ninotsminda"
+                }
+            ]
+        },
+        {
+            "province_name": "Abkhazia",
+            "cities": [
+                {
+                    "city_name": "Sukhumi District"
+                },
+                {
+                    "city_name": "Ochamchira District"
+                },
+                {
+                    "city_name": "Gulripshi district"
+                },
+                {
+                    "city_name": "Gudauta District"
+                },
+                {
+                    "city_name": "Gali District"
+                },
+                {
+                    "city_name": "Gagra District"
+                },
+                {
+                    "city_name": "Tkvarcheli district"
+                }
+            ]
+        }
+    ]
+}

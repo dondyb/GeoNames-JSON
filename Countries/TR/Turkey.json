@@ -1,0 +1,3300 @@
+{
+    "country_name": "Turkey",
+    "country_id": "TR",
+    "provinces": [
+        {
+            "province_name": "Yozgat",
+            "cities": [
+                {
+                    "city_name": "Sarikaya"
+                },
+                {
+                    "city_name": "Kadisehri Ilcesi"
+                },
+                {
+                    "city_name": "Cekerek Ilcesi"
+                },
+                {
+                    "city_name": "Saraykent Ilcesi"
+                },
+                {
+                    "city_name": "Akdagmadeni Ilcesi"
+                },
+                {
+                    "city_name": "Aydincik Ilcesi"
+                },
+                {
+                    "city_name": "Sorgun Ilcesi"
+                },
+                {
+                    "city_name": "Sefaatli Ilcesi"
+                },
+                {
+                    "city_name": "Candir Ilcesi"
+                },
+                {
+                    "city_name": "Cayiralan Ilcesi"
+                },
+                {
+                    "city_name": "Yenifakili Ilcesi"
+                },
+                {
+                    "city_name": "Bogazliyan Ilcesi"
+                },
+                {
+                    "city_name": "Yerkoey Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Van",
+            "cities": [
+                {
+                    "city_name": "Catak Ilcesi"
+                },
+                {
+                    "city_name": "Edremit"
+                },
+                {
+                    "city_name": "Ercis"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Muradiye"
+                },
+                {
+                    "city_name": "Baskale Ilcesi"
+                },
+                {
+                    "city_name": "Caldiran Ilcesi"
+                },
+                {
+                    "city_name": "Bahcesaray Ilcesi"
+                },
+                {
+                    "city_name": "Gevas Ilcesi"
+                },
+                {
+                    "city_name": "Guerpinar Ilcesi"
+                },
+                {
+                    "city_name": "Saray Ilcesi"
+                },
+                {
+                    "city_name": "OEzalp Ilcesi"
+                },
+                {
+                    "city_name": "Tuspa"
+                },
+                {
+                    "city_name": "Ipekyolu"
+                }
+            ]
+        },
+        {
+            "province_name": "Usak",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Karahalli Ilcesi"
+                },
+                {
+                    "city_name": "Ulubey"
+                },
+                {
+                    "city_name": "Sivasli Ilcesi"
+                },
+                {
+                    "city_name": "Banaz Ilcesi"
+                },
+                {
+                    "city_name": "Esme Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Sanliurfa",
+            "cities": [
+                {
+                    "city_name": "Akcakale Ilcesi"
+                },
+                {
+                    "city_name": "Harran Ilcesi"
+                },
+                {
+                    "city_name": "Ceylanpinar Ilcesi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Viransehir Ilcesi"
+                },
+                {
+                    "city_name": "Suruc Ilcesi"
+                },
+                {
+                    "city_name": "Siverek Ilcesi"
+                },
+                {
+                    "city_name": "Hilvan Ilcesi"
+                },
+                {
+                    "city_name": "Birecik Ilcesi"
+                },
+                {
+                    "city_name": "Bozova Ilcesi"
+                },
+                {
+                    "city_name": "Halfeti Ilcesi"
+                },
+                {
+                    "city_name": "Eyyuebiye"
+                },
+                {
+                    "city_name": "Karakoeprue"
+                },
+                {
+                    "city_name": "Haliliye"
+                }
+            ]
+        },
+        {
+            "province_name": "Tunceli",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Ovacik Ilcesi"
+                },
+                {
+                    "city_name": "Hozat Ilcesi"
+                },
+                {
+                    "city_name": "Pertek Ilcesi"
+                },
+                {
+                    "city_name": "Pueluemuer Ilcesi"
+                },
+                {
+                    "city_name": "Nazimiye Ilcesi"
+                },
+                {
+                    "city_name": "Mazgirt Ilcesi"
+                },
+                {
+                    "city_name": "Cemisgezek Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Sivas",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Zara"
+                },
+                {
+                    "city_name": "Gueruen Ilcesi"
+                },
+                {
+                    "city_name": "Susehri Ilcesi"
+                },
+                {
+                    "city_name": "Koyulhisar Ilcesi"
+                },
+                {
+                    "city_name": "Dogansar Ilcesi"
+                },
+                {
+                    "city_name": "Altinyayla Ilcesi"
+                },
+                {
+                    "city_name": "Sarkisla Ilcesi"
+                },
+                {
+                    "city_name": "Gemerek Ilcesi"
+                },
+                {
+                    "city_name": "Yildizeli Ilcesi"
+                },
+                {
+                    "city_name": "Goelova Ilcesi"
+                },
+                {
+                    "city_name": "Akincilar Ilcesi"
+                },
+                {
+                    "city_name": "Imranli Ilcesi"
+                },
+                {
+                    "city_name": "Kangal Ilcesi"
+                },
+                {
+                    "city_name": "Divrigi Ilcesi"
+                },
+                {
+                    "city_name": "Ulas Ilcesi"
+                },
+                {
+                    "city_name": "Hafik Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Siirt",
+            "cities": [
+                {
+                    "city_name": "Tillo Ilcesi"
+                },
+                {
+                    "city_name": "Pervari Ilcesi"
+                },
+                {
+                    "city_name": "Kurtalan Ilcesi"
+                },
+                {
+                    "city_name": "Siirt Merkez"
+                },
+                {
+                    "city_name": "Eruh Ilcesi"
+                },
+                {
+                    "city_name": "Baykan Ilcesi"
+                },
+                {
+                    "city_name": "Sirvan Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Nigde",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Ulukisla"
+                },
+                {
+                    "city_name": "Bor"
+                },
+                {
+                    "city_name": "Altunhisar Ilcesi"
+                },
+                {
+                    "city_name": "Camardi Ilcesi"
+                },
+                {
+                    "city_name": "Ciftlik Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Nevsehir",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "UErguep"
+                },
+                {
+                    "city_name": "Acigoel Ilcesi"
+                },
+                {
+                    "city_name": "Guelsehir Ilcesi"
+                },
+                {
+                    "city_name": "Avanos Ilcesi"
+                },
+                {
+                    "city_name": "Derinkuyu Ilcesi"
+                },
+                {
+                    "city_name": "Kozakli Ilcesi"
+                },
+                {
+                    "city_name": "Hacibektas Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Mus",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Malazgirt Ilcesi"
+                },
+                {
+                    "city_name": "Bulanik Ilcesi"
+                },
+                {
+                    "city_name": "Varto Ilcesi"
+                },
+                {
+                    "city_name": "Korkut Ilcesi"
+                },
+                {
+                    "city_name": "Haskoey Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Mugla",
+            "cities": [
+                {
+                    "city_name": "Fethiye"
+                },
+                {
+                    "city_name": "Kavaklidere"
+                },
+                {
+                    "city_name": "Marmaris"
+                },
+                {
+                    "city_name": "Yatagan"
+                },
+                {
+                    "city_name": "Bodrum"
+                },
+                {
+                    "city_name": "Dalaman"
+                },
+                {
+                    "city_name": "Ortaca Ilcesi"
+                },
+                {
+                    "city_name": "Koeycegiz Ilcesi"
+                },
+                {
+                    "city_name": "Ula Ilcesi"
+                },
+                {
+                    "city_name": "Datca Ilcesi"
+                },
+                {
+                    "city_name": "Milas Ilcesi"
+                },
+                {
+                    "city_name": "Seydikemer"
+                },
+                {
+                    "city_name": "Mentese"
+                }
+            ]
+        },
+        {
+            "province_name": "Mardin",
+            "cities": [
+                {
+                    "city_name": "Savur Ilcesi"
+                },
+                {
+                    "city_name": "Yesilli Ilcesi"
+                },
+                {
+                    "city_name": "OEmerli Ilcesi"
+                },
+                {
+                    "city_name": "Midyat Ilcesi"
+                },
+                {
+                    "city_name": "Dargecit Ilcesi"
+                },
+                {
+                    "city_name": "Mardin Merkez"
+                },
+                {
+                    "city_name": "Nusaybin Ilcesi"
+                },
+                {
+                    "city_name": "Kiziltepe Ilcesi"
+                },
+                {
+                    "city_name": "Mazidagi Ilcesi"
+                },
+                {
+                    "city_name": "Derik Ilcesi"
+                },
+                {
+                    "city_name": "Artuklu"
+                }
+            ]
+        },
+        {
+            "province_name": "Manisa",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Saruhanli"
+                },
+                {
+                    "city_name": "Kula"
+                },
+                {
+                    "city_name": "Demirci Ilcesi"
+                },
+                {
+                    "city_name": "Selendi Ilcesi"
+                },
+                {
+                    "city_name": "Koepruebasi Ilcesi"
+                },
+                {
+                    "city_name": "Soma Ilcesi"
+                },
+                {
+                    "city_name": "Kirkagac Ilcesi"
+                },
+                {
+                    "city_name": "Goerdes Ilcesi"
+                },
+                {
+                    "city_name": "Akhisar Ilcesi"
+                },
+                {
+                    "city_name": "Goelmarmara Ilcesi"
+                },
+                {
+                    "city_name": "Ahmetli Ilcesi"
+                },
+                {
+                    "city_name": "Salihli Ilcesi"
+                },
+                {
+                    "city_name": "Alasehir Ilcesi"
+                },
+                {
+                    "city_name": "Sarigoel Ilcesi"
+                },
+                {
+                    "city_name": "Turgutlu Ilcesi"
+                },
+                {
+                    "city_name": "Yunusemre"
+                },
+                {
+                    "city_name": "Sehzadeler"
+                }
+            ]
+        },
+        {
+            "province_name": "Malatya",
+            "cities": [
+                {
+                    "city_name": "Battalgazi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Yesilyurt Ilcesi"
+                },
+                {
+                    "city_name": "Kale Ilcesi"
+                },
+                {
+                    "city_name": "Arapgir Ilcesi"
+                },
+                {
+                    "city_name": "Yazihan Ilcesi"
+                },
+                {
+                    "city_name": "Hekimhan Ilcesi"
+                },
+                {
+                    "city_name": "Akcadag Ilcesi"
+                },
+                {
+                    "city_name": "Dogansehir Ilcesi"
+                },
+                {
+                    "city_name": "Darende Ilcesi"
+                },
+                {
+                    "city_name": "Kuluncak Ilcesi"
+                },
+                {
+                    "city_name": "Puetuerge"
+                },
+                {
+                    "city_name": "Doganyol"
+                },
+                {
+                    "city_name": "Arguvan"
+                }
+            ]
+        },
+        {
+            "province_name": "Kuetahya",
+            "cities": [
+                {
+                    "city_name": "Gediz Ilcesi"
+                },
+                {
+                    "city_name": "Cavdarhisar Ilcesi"
+                },
+                {
+                    "city_name": "Aslanapa Ilcesi"
+                },
+                {
+                    "city_name": "Dumlupinar Ilcesi"
+                },
+                {
+                    "city_name": "Altintas Ilcesi"
+                },
+                {
+                    "city_name": "Domanic Ilcesi"
+                },
+                {
+                    "city_name": "Tavsanli Ilcesi"
+                },
+                {
+                    "city_name": "Pazarlar Ilcesi"
+                },
+                {
+                    "city_name": "Saphane Ilcesi"
+                },
+                {
+                    "city_name": "Simav Ilcesi"
+                },
+                {
+                    "city_name": "Hisarcik Ilcesi"
+                },
+                {
+                    "city_name": "Emet Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Konya",
+            "cities": [
+                {
+                    "city_name": "Selcuklu"
+                },
+                {
+                    "city_name": "Karatay"
+                },
+                {
+                    "city_name": "Cihanbeyli District"
+                },
+                {
+                    "city_name": "Hadim Ilcesi"
+                },
+                {
+                    "city_name": "Eregli Ilcesi"
+                },
+                {
+                    "city_name": "Halkapinar Ilcesi"
+                },
+                {
+                    "city_name": "Emirgazi Ilcesi"
+                },
+                {
+                    "city_name": "Karapinar Ilcesi"
+                },
+                {
+                    "city_name": "Kulu Ilcesi"
+                },
+                {
+                    "city_name": "Sarayoenue Ilcesi"
+                },
+                {
+                    "city_name": "Altinekin Ilcesi"
+                },
+                {
+                    "city_name": "Kadinhani Ilcesi"
+                },
+                {
+                    "city_name": "Derbent Ilcesi"
+                },
+                {
+                    "city_name": "Beysehir Ilcesi"
+                },
+                {
+                    "city_name": "Seydisehir Ilcesi"
+                },
+                {
+                    "city_name": "Yalihueyuek Ilcesi"
+                },
+                {
+                    "city_name": "Ahirli Ilcesi"
+                },
+                {
+                    "city_name": "Akoeren Ilcesi"
+                },
+                {
+                    "city_name": "Bozkir Ilcesi"
+                },
+                {
+                    "city_name": "Taskent Ilcesi"
+                },
+                {
+                    "city_name": "Ilgin Ilcesi"
+                },
+                {
+                    "city_name": "Derebucak Ilcesi"
+                },
+                {
+                    "city_name": "Tuzlukcu Ilcesi"
+                },
+                {
+                    "city_name": "Yunak Ilcesi"
+                },
+                {
+                    "city_name": "Celtik Ilcesi"
+                },
+                {
+                    "city_name": "Doganhisar Ilcesi"
+                },
+                {
+                    "city_name": "Gueneysinir Ilcesi"
+                },
+                {
+                    "city_name": "Meram Ilcesi"
+                },
+                {
+                    "city_name": "Cumra Ilcesi"
+                },
+                {
+                    "city_name": "Hueyuek Ilcesi"
+                },
+                {
+                    "city_name": "Aksehir Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirsehir",
+            "cities": [
+                {
+                    "city_name": "Akcakent Ilcesi"
+                },
+                {
+                    "city_name": "Cicekdagi Ilcesi"
+                },
+                {
+                    "city_name": "Akpinar Ilcesi"
+                },
+                {
+                    "city_name": "Kaman Ilcesi"
+                },
+                {
+                    "city_name": "Boztepe Ilcesi"
+                },
+                {
+                    "city_name": "Mucur Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kayseri",
+            "cities": [
+                {
+                    "city_name": "Develi"
+                },
+                {
+                    "city_name": "Melikgazi"
+                },
+                {
+                    "city_name": "Kocasinan"
+                },
+                {
+                    "city_name": "Yesilhisar"
+                },
+                {
+                    "city_name": "Incesu"
+                },
+                {
+                    "city_name": "Yahyali"
+                },
+                {
+                    "city_name": "Akkisla Ilcesi"
+                },
+                {
+                    "city_name": "Sariz Ilcesi"
+                },
+                {
+                    "city_name": "Tomarza Ilcesi"
+                },
+                {
+                    "city_name": "Pinarbasi Ilcesi"
+                },
+                {
+                    "city_name": "Buenyan Ilcesi"
+                },
+                {
+                    "city_name": "Sarioglan Ilcesi"
+                },
+                {
+                    "city_name": "Talas Ilcesi"
+                },
+                {
+                    "city_name": "Hacilar Ilcesi"
+                },
+                {
+                    "city_name": "Felahiye Ilcesi"
+                },
+                {
+                    "city_name": "OEzvatan Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kahramanmaras",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Pazarcik Ilcesi"
+                },
+                {
+                    "city_name": "Nurhak Ilcesi"
+                },
+                {
+                    "city_name": "Caglayancerit Ilcesi"
+                },
+                {
+                    "city_name": "Tuerkoglu Ilcesi"
+                },
+                {
+                    "city_name": "Elbistan Ilcesi"
+                },
+                {
+                    "city_name": "Ekinoezue Ilcesi"
+                },
+                {
+                    "city_name": "Andirin Ilcesi"
+                },
+                {
+                    "city_name": "Goeksun Ilcesi"
+                },
+                {
+                    "city_name": "Afsin Ilcesi"
+                },
+                {
+                    "city_name": "Dulkadiroglu"
+                },
+                {
+                    "city_name": "Onikisubat"
+                }
+            ]
+        },
+        {
+            "province_name": "Izmir",
+            "cities": [
+                {
+                    "city_name": "Bornova"
+                },
+                {
+                    "city_name": "Aliaga"
+                },
+                {
+                    "city_name": "Cigli"
+                },
+                {
+                    "city_name": "Bayrakli"
+                },
+                {
+                    "city_name": "Bergama"
+                },
+                {
+                    "city_name": "Buca"
+                },
+                {
+                    "city_name": "Gaziemir"
+                },
+                {
+                    "city_name": "Kemalpasa"
+                },
+                {
+                    "city_name": "Konak"
+                },
+                {
+                    "city_name": "Menderes"
+                },
+                {
+                    "city_name": "Menemen"
+                },
+                {
+                    "city_name": "Seferihisar"
+                },
+                {
+                    "city_name": "Tire"
+                },
+                {
+                    "city_name": "Torbali"
+                },
+                {
+                    "city_name": "Beydag"
+                },
+                {
+                    "city_name": "Kinik Ilcesi"
+                },
+                {
+                    "city_name": "Bayindir Ilcesi"
+                },
+                {
+                    "city_name": "OEdemis Ilcesi"
+                },
+                {
+                    "city_name": "Kiraz Ilcesi"
+                },
+                {
+                    "city_name": "Urla Ilcesi"
+                },
+                {
+                    "city_name": "Karsiyaka Ilcesi"
+                },
+                {
+                    "city_name": "Selcuk Ilcesi"
+                },
+                {
+                    "city_name": "Cesme Ilcesi"
+                },
+                {
+                    "city_name": "Karaburun Ilcesi"
+                },
+                {
+                    "city_name": "Foca Ilcesi"
+                },
+                {
+                    "city_name": "Dikili Ilcesi"
+                },
+                {
+                    "city_name": "Karabaglar"
+                },
+                {
+                    "city_name": "Balcova"
+                },
+                {
+                    "city_name": "Narlidere"
+                },
+                {
+                    "city_name": "Guezelbahce"
+                }
+            ]
+        },
+        {
+            "province_name": "Isparta",
+            "cities": [
+                {
+                    "city_name": "Yenisarbademli Ilcesi"
+                },
+                {
+                    "city_name": "Sarkikaraagac Ilcesi"
+                },
+                {
+                    "city_name": "Suetcueler Ilcesi"
+                },
+                {
+                    "city_name": "Aksu Ilcesi"
+                },
+                {
+                    "city_name": "Keciborlu Ilcesi"
+                },
+                {
+                    "city_name": "Uluborlu Ilcesi"
+                },
+                {
+                    "city_name": "Senirkent Ilcesi"
+                },
+                {
+                    "city_name": "Goenen Ilcesi"
+                },
+                {
+                    "city_name": "Egirdir Ilcesi"
+                },
+                {
+                    "city_name": "Atabey Ilcesi"
+                },
+                {
+                    "city_name": "Gelendost Ilcesi"
+                },
+                {
+                    "city_name": "Yalvac Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Mersin",
+            "cities": [
+                {
+                    "city_name": "Tarsus"
+                },
+                {
+                    "city_name": "Mut"
+                },
+                {
+                    "city_name": "Bozyazi Ilcesi"
+                },
+                {
+                    "city_name": "Camliyayla Ilcesi"
+                },
+                {
+                    "city_name": "Mezitli Ilcesi"
+                },
+                {
+                    "city_name": "Guelnar Ilcesi"
+                },
+                {
+                    "city_name": "Aydincik Ilcesi"
+                },
+                {
+                    "city_name": "Anamur Ilcesi"
+                },
+                {
+                    "city_name": "Silifke Ilcesi"
+                },
+                {
+                    "city_name": "Erdemli Ilcesi"
+                },
+                {
+                    "city_name": "Yenisehir"
+                },
+                {
+                    "city_name": "Toroslar"
+                },
+                {
+                    "city_name": "Akdeniz"
+                }
+            ]
+        },
+        {
+            "province_name": "Hatay",
+            "cities": [
+                {
+                    "city_name": "Erzin Ilcesi"
+                },
+                {
+                    "city_name": "Doertyol Ilcesi"
+                },
+                {
+                    "city_name": "Hassa Ilcesi"
+                },
+                {
+                    "city_name": "Kumlu Ilcesi"
+                },
+                {
+                    "city_name": "Iskenderun Ilcesi"
+                },
+                {
+                    "city_name": "Kirikhan Ilcesi"
+                },
+                {
+                    "city_name": "Belen Ilcesi"
+                },
+                {
+                    "city_name": "Antakya Ilcesi"
+                },
+                {
+                    "city_name": "Altinoezue Ilcesi"
+                },
+                {
+                    "city_name": "Yayladagi Ilcesi"
+                },
+                {
+                    "city_name": "Reyhanli Ilcesi"
+                },
+                {
+                    "city_name": "Samandag"
+                },
+                {
+                    "city_name": "Defne"
+                },
+                {
+                    "city_name": "Payas"
+                },
+                {
+                    "city_name": "Arsuz"
+                }
+            ]
+        },
+        {
+            "province_name": "Hakkari",
+            "cities": [
+                {
+                    "city_name": "Yueksekova"
+                },
+                {
+                    "city_name": "Semdinni Ilcesi"
+                },
+                {
+                    "city_name": "Cukurca Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Gaziantep",
+            "cities": [
+                {
+                    "city_name": "Karkamis Ilcesi"
+                },
+                {
+                    "city_name": "Oguzeli Ilcesi"
+                },
+                {
+                    "city_name": "Islahiye Ilcesi"
+                },
+                {
+                    "city_name": "Sahinbey Ilcesi"
+                },
+                {
+                    "city_name": "Sehitkamil"
+                },
+                {
+                    "city_name": "Araban"
+                },
+                {
+                    "city_name": "Nizip Ilcesi"
+                },
+                {
+                    "city_name": "Yavuzeli Ilcesi"
+                },
+                {
+                    "city_name": "Nurdagi Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Eskisehir",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Guenyuezue Ilcesi"
+                },
+                {
+                    "city_name": "Sivrihisar Ilcesi"
+                },
+                {
+                    "city_name": "Mihaliccik Ilcesi"
+                },
+                {
+                    "city_name": "Beylikova Ilcesi"
+                },
+                {
+                    "city_name": "Alpu Ilcesi"
+                },
+                {
+                    "city_name": "Saricakaya Ilcesi"
+                },
+                {
+                    "city_name": "Mihalgazi Ilcesi"
+                },
+                {
+                    "city_name": "Inoenuei Ilcesi"
+                },
+                {
+                    "city_name": "Han Ilcesi"
+                },
+                {
+                    "city_name": "Seyitgazi Ilcesi"
+                },
+                {
+                    "city_name": "Mahmudiye Ilcesi"
+                },
+                {
+                    "city_name": "Cifteler Ilcesi"
+                },
+                {
+                    "city_name": "Tepebasi Ilcesi"
+                },
+                {
+                    "city_name": "Odunpazari Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Erzurum",
+            "cities": [
+                {
+                    "city_name": "Senkaya Ilcesi"
+                },
+                {
+                    "city_name": "Olur Ilcesi"
+                },
+                {
+                    "city_name": "Horasan Ilcesi"
+                },
+                {
+                    "city_name": "Narman Ilcesi"
+                },
+                {
+                    "city_name": "Uzundere Ilcesi"
+                },
+                {
+                    "city_name": "Koepruekoey Ilcesi"
+                },
+                {
+                    "city_name": "Tortum Ilcesi"
+                },
+                {
+                    "city_name": "Oltu Ilcesi"
+                },
+                {
+                    "city_name": "Pasinler Ilcesi"
+                },
+                {
+                    "city_name": "Tekman Ilcesi"
+                },
+                {
+                    "city_name": "Karayazi Ilcesi"
+                },
+                {
+                    "city_name": "Hinis Ilcesi"
+                },
+                {
+                    "city_name": "Karacoban Ilcesi"
+                },
+                {
+                    "city_name": "Cat Ilcesi"
+                },
+                {
+                    "city_name": "Askale Ilcesi"
+                },
+                {
+                    "city_name": "Pazaryolu Ilcesi"
+                },
+                {
+                    "city_name": "Ispir Ilcesi"
+                },
+                {
+                    "city_name": "Aziziye"
+                },
+                {
+                    "city_name": "Yakutiye"
+                },
+                {
+                    "city_name": "Palandoeken"
+                }
+            ]
+        },
+        {
+            "province_name": "Erzincan",
+            "cities": [
+                {
+                    "city_name": "Cayirli Ilcesi"
+                },
+                {
+                    "city_name": "Otlukbeli Ilcesi"
+                },
+                {
+                    "city_name": "Tercan Ilcesi"
+                },
+                {
+                    "city_name": "UEzuemlue Ilcesi"
+                },
+                {
+                    "city_name": "Kemaliye Ilcesi"
+                },
+                {
+                    "city_name": "Ilic Ilcesi"
+                },
+                {
+                    "city_name": "Refahiye Ilcesi"
+                },
+                {
+                    "city_name": "Kemah Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Elazig",
+            "cities": [
+                {
+                    "city_name": "Karakocan / Elazig"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Agin"
+                },
+                {
+                    "city_name": "Baskil Ilcesi"
+                },
+                {
+                    "city_name": "Kovancilar Ilcesi"
+                },
+                {
+                    "city_name": "Sivrice Ilcesi"
+                },
+                {
+                    "city_name": "Maden Ilcesi"
+                },
+                {
+                    "city_name": "Aricak Ilcesi"
+                },
+                {
+                    "city_name": "Palu Ilcesi"
+                },
+                {
+                    "city_name": "Keban Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Diyarbakir",
+            "cities": [
+                {
+                    "city_name": "Bismil Ilcesi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Cinar Ilcesi"
+                },
+                {
+                    "city_name": "Hazro Ilcesi"
+                },
+                {
+                    "city_name": "Dicle Ilcesi"
+                },
+                {
+                    "city_name": "Cermik Ilcesi"
+                },
+                {
+                    "city_name": "Ergani Ilcesi"
+                },
+                {
+                    "city_name": "Silvan Ilcesi"
+                },
+                {
+                    "city_name": "Lice Ilcesi"
+                },
+                {
+                    "city_name": "Kocakoey Ilcesi"
+                },
+                {
+                    "city_name": "Hani Ilcesi"
+                },
+                {
+                    "city_name": "Egil Ilcesi"
+                },
+                {
+                    "city_name": "Cuengues Ilcesi"
+                },
+                {
+                    "city_name": "Kulp Ilcesi"
+                },
+                {
+                    "city_name": "Alacakaya Ilcesi"
+                },
+                {
+                    "city_name": "Kayapinar"
+                },
+                {
+                    "city_name": "Baglar"
+                },
+                {
+                    "city_name": "Yenisehir"
+                },
+                {
+                    "city_name": "Sur"
+                }
+            ]
+        },
+        {
+            "province_name": "Denizli",
+            "cities": [
+                {
+                    "city_name": "Cardak"
+                },
+                {
+                    "city_name": "Honaz"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Saraykoey"
+                },
+                {
+                    "city_name": "Civril Ilcesi"
+                },
+                {
+                    "city_name": "Beyagac Ilcesi"
+                },
+                {
+                    "city_name": "Acipayam Ilcesi"
+                },
+                {
+                    "city_name": "Cameli Ilcesi"
+                },
+                {
+                    "city_name": "Gueney Ilcesi"
+                },
+                {
+                    "city_name": "Bekilli"
+                },
+                {
+                    "city_name": "Cal Ilcesi"
+                },
+                {
+                    "city_name": "Baklan Ilcesi"
+                },
+                {
+                    "city_name": "Bozkurt"
+                },
+                {
+                    "city_name": "Babadag Ilcesi"
+                },
+                {
+                    "city_name": "Kale Ilcesi"
+                },
+                {
+                    "city_name": "Tavas Ilcesi"
+                },
+                {
+                    "city_name": "Serinhisar Ilcesi"
+                },
+                {
+                    "city_name": "Buldan Ilcesi"
+                },
+                {
+                    "city_name": "Pamukkale Ilcesi"
+                },
+                {
+                    "city_name": "Merkezefendi Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Burdur",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Bucak Ilcesi"
+                },
+                {
+                    "city_name": "Celtikci Ilcesi"
+                },
+                {
+                    "city_name": "Aglasun Ilcesi"
+                },
+                {
+                    "city_name": "Kemer Ilcesi"
+                },
+                {
+                    "city_name": "Cavdir Ilcesi"
+                },
+                {
+                    "city_name": "Tefenni Ilcesi"
+                },
+                {
+                    "city_name": "Karamanli Ilcesi"
+                },
+                {
+                    "city_name": "Goelhisar Ilcesi"
+                },
+                {
+                    "city_name": "Altinyayla Ilcesi"
+                },
+                {
+                    "city_name": "Yesilova Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bitlis",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Gueroymak Ilcesi"
+                },
+                {
+                    "city_name": "Hizan Ilcesi"
+                },
+                {
+                    "city_name": "Tatvan Ilcesi"
+                },
+                {
+                    "city_name": "Ahlat Ilcesi"
+                },
+                {
+                    "city_name": "Adilcevaz Ilcesi"
+                },
+                {
+                    "city_name": "Mutki Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bingoel",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Yayladere Ilcesi"
+                },
+                {
+                    "city_name": "Yedisu Ilcesi"
+                },
+                {
+                    "city_name": "Adakli Ilcesi"
+                },
+                {
+                    "city_name": "Solhan Ilcesi"
+                },
+                {
+                    "city_name": "Karliova Ilcesi"
+                },
+                {
+                    "city_name": "Genc Ilcesi"
+                },
+                {
+                    "city_name": "Kigi Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bilecik",
+            "cities": [
+                {
+                    "city_name": "Yenipazar Ilcesi"
+                },
+                {
+                    "city_name": "Soeguet Ilcesi"
+                },
+                {
+                    "city_name": "Goelpazari Ilcesi"
+                },
+                {
+                    "city_name": "Osmaneli Ilcesi"
+                },
+                {
+                    "city_name": "Bozueyuek Ilcesi"
+                },
+                {
+                    "city_name": "Pazaryeri Ilcesi"
+                },
+                {
+                    "city_name": "Inhisar Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Balikesir",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Bandirma Ilcesi"
+                },
+                {
+                    "city_name": "Marmara Ilcesi"
+                },
+                {
+                    "city_name": "Dursunbey Ilcesi"
+                },
+                {
+                    "city_name": "Kepsut Ilcesi"
+                },
+                {
+                    "city_name": "Sindirgi Ilcesi"
+                },
+                {
+                    "city_name": "Bigadic Ilcesi"
+                },
+                {
+                    "city_name": "Savastepe Ilcesi"
+                },
+                {
+                    "city_name": "Ayvalik Ilcesi"
+                },
+                {
+                    "city_name": "Gomec Ilcesi"
+                },
+                {
+                    "city_name": "Ivrindi Ilcesi"
+                },
+                {
+                    "city_name": "Manyas Ilcesi"
+                },
+                {
+                    "city_name": "Susurluk Ilcesi"
+                },
+                {
+                    "city_name": "Balya Ilcesi"
+                },
+                {
+                    "city_name": "Erdek Ilcesi"
+                },
+                {
+                    "city_name": "Goenen Ilcesi"
+                },
+                {
+                    "city_name": "Burhaniye Ilcesi"
+                },
+                {
+                    "city_name": "Edremit Ilcesi"
+                },
+                {
+                    "city_name": "Havran Ilcesi"
+                },
+                {
+                    "city_name": "Altieyluel Ilcesi"
+                },
+                {
+                    "city_name": "Karesi Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Aydin",
+            "cities": [
+                {
+                    "city_name": "Soeke Ilcesi"
+                },
+                {
+                    "city_name": "Kocarli Ilcesi"
+                },
+                {
+                    "city_name": "Karpuzlu Ilcesi"
+                },
+                {
+                    "city_name": "Cine Ilcesi"
+                },
+                {
+                    "city_name": "Yenipazar Ilcesi"
+                },
+                {
+                    "city_name": "Bozdogan Ilcesi"
+                },
+                {
+                    "city_name": "Karacasu"
+                },
+                {
+                    "city_name": "Buharkent Ilcesi"
+                },
+                {
+                    "city_name": "Sultanhisar Ilcesi"
+                },
+                {
+                    "city_name": "Nazilli"
+                },
+                {
+                    "city_name": "Kuyucak Ilcesi"
+                },
+                {
+                    "city_name": "Kusadasi Ilcesi"
+                },
+                {
+                    "city_name": "Germencik Ilcesi"
+                },
+                {
+                    "city_name": "Incirliova Ilcesi"
+                },
+                {
+                    "city_name": "Koesk Ilcesi"
+                },
+                {
+                    "city_name": "Didim"
+                },
+                {
+                    "city_name": "Efeler"
+                }
+            ]
+        },
+        {
+            "province_name": "Antalya",
+            "cities": [
+                {
+                    "city_name": "Alanya"
+                },
+                {
+                    "city_name": "Finike"
+                },
+                {
+                    "city_name": "Kemer Ilcesi"
+                },
+                {
+                    "city_name": "Manavgat Ilcesi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Serik"
+                },
+                {
+                    "city_name": "Kumluca"
+                },
+                {
+                    "city_name": "Gazipasa Ilcesi"
+                },
+                {
+                    "city_name": "Guendogmus Ilcesi"
+                },
+                {
+                    "city_name": "Akseki Ilcesi"
+                },
+                {
+                    "city_name": "Ibradi Ilcesi"
+                },
+                {
+                    "city_name": "Demre Ilcesi"
+                },
+                {
+                    "city_name": "Korkuteli Ilcesi"
+                },
+                {
+                    "city_name": "Elmali Ilcesi"
+                },
+                {
+                    "city_name": "Kas Ilcesi"
+                },
+                {
+                    "city_name": "Doesemealti Ilcesi"
+                },
+                {
+                    "city_name": "Aksu"
+                },
+                {
+                    "city_name": "Konyaalti"
+                },
+                {
+                    "city_name": "Muratpasa Ilcesi"
+                },
+                {
+                    "city_name": "Kepez Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Ankara",
+            "cities": [
+                {
+                    "city_name": "Altindag"
+                },
+                {
+                    "city_name": "Cankaya"
+                },
+                {
+                    "city_name": "Goelbasi"
+                },
+                {
+                    "city_name": "Kahramankazan"
+                },
+                {
+                    "city_name": "Polatli"
+                },
+                {
+                    "city_name": "Sincan Ilcesi"
+                },
+                {
+                    "city_name": "Yenimahalle"
+                },
+                {
+                    "city_name": "Kecioeren"
+                },
+                {
+                    "city_name": "Beypazari"
+                },
+                {
+                    "city_name": "Evren Ilcesi"
+                },
+                {
+                    "city_name": "Elmadag Ilcesi"
+                },
+                {
+                    "city_name": "Kalecik Ilcesi"
+                },
+                {
+                    "city_name": "Akyurt Ilcesi"
+                },
+                {
+                    "city_name": "Cubuk Ilcesi"
+                },
+                {
+                    "city_name": "Mamak Ilcesi"
+                },
+                {
+                    "city_name": "Bala Ilcesi"
+                },
+                {
+                    "city_name": "Sereflikochisar Ilcesi"
+                },
+                {
+                    "city_name": "Nallihan Ilcesi"
+                },
+                {
+                    "city_name": "Gueduel Ilcesi"
+                },
+                {
+                    "city_name": "Haymana Ilcesi"
+                },
+                {
+                    "city_name": "Etimesgut Ilcesi"
+                },
+                {
+                    "city_name": "Ayas Ilcesi"
+                },
+                {
+                    "city_name": "Camlidere Ilcesi"
+                },
+                {
+                    "city_name": "Kizilcahamam Ilcesi"
+                },
+                {
+                    "city_name": "Pursaklar"
+                },
+                {
+                    "city_name": "Kazan Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Agri",
+            "cities": [
+                {
+                    "city_name": "Dogubayazit Ilcesi"
+                },
+                {
+                    "city_name": "Diyadin Ilcesi"
+                },
+                {
+                    "city_name": "Eleskirt Ilcesi"
+                },
+                {
+                    "city_name": "Taslicay Ilcesi"
+                },
+                {
+                    "city_name": "Patnos Ilcesi"
+                },
+                {
+                    "city_name": "Tutak Ilcesi"
+                },
+                {
+                    "city_name": "Hamur Ilcesi"
+                },
+                {
+                    "city_name": "Agri"
+                }
+            ]
+        },
+        {
+            "province_name": "Afyonkarahisar",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Iscehisar"
+                },
+                {
+                    "city_name": "Evciler Ilcesi"
+                },
+                {
+                    "city_name": "Basmakci Ilcesi"
+                },
+                {
+                    "city_name": "Dinar Ilcesi"
+                },
+                {
+                    "city_name": "Hocalar Ilcesi"
+                },
+                {
+                    "city_name": "Kiziloeren Ilcesi"
+                },
+                {
+                    "city_name": "Sandikli Ilcesi"
+                },
+                {
+                    "city_name": "Suhut Ilcesi"
+                },
+                {
+                    "city_name": "Cobanlar Ilcesi"
+                },
+                {
+                    "city_name": "Sinanpasa Ilcesi"
+                },
+                {
+                    "city_name": "Ihsaniye Ilcesi"
+                },
+                {
+                    "city_name": "Bolvadin Ilcesi"
+                },
+                {
+                    "city_name": "Cay Ilcesi"
+                },
+                {
+                    "city_name": "Sultandagi Ilcesi"
+                },
+                {
+                    "city_name": "Bayat Ilcesi"
+                },
+                {
+                    "city_name": "Emirdag Ilcesi"
+                },
+                {
+                    "city_name": "Dazkiri Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Adiyaman",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Aralik Ilcesi"
+                },
+                {
+                    "city_name": "Gerger Ilcesi"
+                },
+                {
+                    "city_name": "Samsat Ilcesi"
+                },
+                {
+                    "city_name": "Kahta Ilcesi"
+                },
+                {
+                    "city_name": "Celikhan Ilcesi"
+                },
+                {
+                    "city_name": "Besni Ilcesi"
+                },
+                {
+                    "city_name": "Tut Ilcesi"
+                },
+                {
+                    "city_name": "Sincik Ilcesi"
+                },
+                {
+                    "city_name": "Goelbasi Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Adana",
+            "cities": [
+                {
+                    "city_name": "Ceyhan"
+                },
+                {
+                    "city_name": "Seyhan"
+                },
+                {
+                    "city_name": "Yueregir"
+                },
+                {
+                    "city_name": "Kozan"
+                },
+                {
+                    "city_name": "Yumurtalik"
+                },
+                {
+                    "city_name": "Saimbeyli"
+                },
+                {
+                    "city_name": "Tufanbeyli"
+                },
+                {
+                    "city_name": "Feke"
+                },
+                {
+                    "city_name": "Aladag"
+                },
+                {
+                    "city_name": "Pozanti"
+                },
+                {
+                    "city_name": "Imamoglu"
+                },
+                {
+                    "city_name": "Karaisali"
+                },
+                {
+                    "city_name": "Karatas"
+                },
+                {
+                    "city_name": "Saricam"
+                },
+                {
+                    "city_name": "Cukurova"
+                }
+            ]
+        },
+        {
+            "province_name": "Osmaniye",
+            "cities": [
+                {
+                    "city_name": "Toprakkale"
+                },
+                {
+                    "city_name": "Duezici Ilcesi"
+                },
+                {
+                    "city_name": "Bahce Ilcesi"
+                },
+                {
+                    "city_name": "Hasanbeyli Ilcesi"
+                },
+                {
+                    "city_name": "Kadirli Ilcesi"
+                },
+                {
+                    "city_name": "Sumbas Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Igdir",
+            "cities": [
+                {
+                    "city_name": "Tuzluca Ilcesi"
+                },
+                {
+                    "city_name": "Karakoyunlu Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Aksaray",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Eskil Ilcesi"
+                },
+                {
+                    "city_name": "Sariyahsi Ilcesi"
+                },
+                {
+                    "city_name": "Agacoeren Ilcesi"
+                },
+                {
+                    "city_name": "Ortakoey Ilcesi"
+                },
+                {
+                    "city_name": "Guelagac Ilcesi"
+                },
+                {
+                    "city_name": "Guezelyurt Ilcesi"
+                },
+                {
+                    "city_name": "Sultanhani"
+                }
+            ]
+        },
+        {
+            "province_name": "Batman",
+            "cities": [
+                {
+                    "city_name": "Besiri Ilcesi"
+                },
+                {
+                    "city_name": "Hasankeyf Ilcesi"
+                },
+                {
+                    "city_name": "Gercues Ilcesi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Sason Ilcesi"
+                },
+                {
+                    "city_name": "Kozluk Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Karaman",
+            "cities": [
+                {
+                    "city_name": "Sariveliler Ilcesi"
+                },
+                {
+                    "city_name": "Basyayla Ilcesi"
+                },
+                {
+                    "city_name": "Kazimkarabekir Ilcesi"
+                },
+                {
+                    "city_name": "Ayranci Ilcesi"
+                },
+                {
+                    "city_name": "Ermenek Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirikkale",
+            "cities": [
+                {
+                    "city_name": "Yahsihan Ilcesi"
+                },
+                {
+                    "city_name": "Bahsili Ilcesi"
+                },
+                {
+                    "city_name": "Baliseyh Ilcesi"
+                },
+                {
+                    "city_name": "Delice Ilcesi"
+                },
+                {
+                    "city_name": "Sulakyurt Ilcesi"
+                },
+                {
+                    "city_name": "Keskin Ilcesi"
+                },
+                {
+                    "city_name": "Karakecili Ilcesi"
+                },
+                {
+                    "city_name": "Celebi Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Sirnak",
+            "cities": [
+                {
+                    "city_name": "Sirnak Ilcesi"
+                },
+                {
+                    "city_name": "Cizre Ilcesi"
+                },
+                {
+                    "city_name": "Uludere Ilcesi"
+                },
+                {
+                    "city_name": "Beytussebap"
+                },
+                {
+                    "city_name": "Silopi Ilcesi"
+                },
+                {
+                    "city_name": "Guecluekonak Ilcesi"
+                },
+                {
+                    "city_name": "Idil Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kilis",
+            "cities": [
+                {
+                    "city_name": "Musabeyli Ilcesi"
+                },
+                {
+                    "city_name": "Polateli Ilcesi"
+                },
+                {
+                    "city_name": "Kilis Merkez"
+                },
+                {
+                    "city_name": "Elbeyli Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Zonguldak",
+            "cities": [
+                {
+                    "city_name": "Eregli"
+                },
+                {
+                    "city_name": "Caycuma Ilcesi"
+                },
+                {
+                    "city_name": "Goekcebey Ilcesi"
+                },
+                {
+                    "city_name": "Devrek Ilcesi"
+                },
+                {
+                    "city_name": "Alapli Ilcesi"
+                },
+                {
+                    "city_name": "Kozlu"
+                },
+                {
+                    "city_name": "Kilimli"
+                }
+            ]
+        },
+        {
+            "province_name": "Trabzon",
+            "cities": [
+                {
+                    "city_name": "Arsin"
+                },
+                {
+                    "city_name": "Carsibasi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Vakfikebir"
+                },
+                {
+                    "city_name": "Arakli"
+                },
+                {
+                    "city_name": "Macka"
+                },
+                {
+                    "city_name": "Caykara Ilcesi"
+                },
+                {
+                    "city_name": "Hayrat Ilcesi"
+                },
+                {
+                    "city_name": "Of Ilcesi"
+                },
+                {
+                    "city_name": "Dernekpazari Ilcesi"
+                },
+                {
+                    "city_name": "Koepruebasi Ilcesi"
+                },
+                {
+                    "city_name": "Suermene Ilcesi"
+                },
+                {
+                    "city_name": "Salpazari Ilcesi"
+                },
+                {
+                    "city_name": "Tonya Ilcesi"
+                },
+                {
+                    "city_name": "Duezkoey Ilcesi"
+                },
+                {
+                    "city_name": "Yomra Ilcesi"
+                },
+                {
+                    "city_name": "Ortahisar"
+                },
+                {
+                    "city_name": "Besikduezue"
+                },
+                {
+                    "city_name": "Akcaabat"
+                }
+            ]
+        },
+        {
+            "province_name": "Tokat",
+            "cities": [
+                {
+                    "city_name": "Erbaa"
+                },
+                {
+                    "city_name": "Niksar"
+                },
+                {
+                    "city_name": "Resadiye"
+                },
+                {
+                    "city_name": "Basciftlik Ilcesi"
+                },
+                {
+                    "city_name": "Sulusaray Ilcesi"
+                },
+                {
+                    "city_name": "Yesilyurt Ilcesi"
+                },
+                {
+                    "city_name": "Artova Ilcesi"
+                },
+                {
+                    "city_name": "Pazar Ilcesi"
+                },
+                {
+                    "city_name": "Turhal Ilcesi"
+                },
+                {
+                    "city_name": "Almus Ilcesi"
+                },
+                {
+                    "city_name": "Zile Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tekirdag",
+            "cities": [
+                {
+                    "city_name": "Corlu"
+                },
+                {
+                    "city_name": "Cerkezkoey"
+                },
+                {
+                    "city_name": "Marmara Ereglisi Ilcesi"
+                },
+                {
+                    "city_name": "Hayrabolu Ilcesi"
+                },
+                {
+                    "city_name": "Muratli Ilcesi"
+                },
+                {
+                    "city_name": "Saray Ilcesi"
+                },
+                {
+                    "city_name": "Malkara Ilcesi"
+                },
+                {
+                    "city_name": "Sarkoey Ilcesi"
+                },
+                {
+                    "city_name": "Kapakli"
+                },
+                {
+                    "city_name": "Sueleymanpasa"
+                },
+                {
+                    "city_name": "Ergene"
+                }
+            ]
+        },
+        {
+            "province_name": "Sinop",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Ayancik"
+                },
+                {
+                    "city_name": "Gerze Ilcesi"
+                },
+                {
+                    "city_name": "Dikmen Ilcesi"
+                },
+                {
+                    "city_name": "Duragan Ilcesi"
+                },
+                {
+                    "city_name": "Sarayduezue Ilcesi"
+                },
+                {
+                    "city_name": "Erfelek Ilcesi"
+                },
+                {
+                    "city_name": "Boyabat Ilcesi"
+                },
+                {
+                    "city_name": "Tuerkeli Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Samsun",
+            "cities": [
+                {
+                    "city_name": "Bafra"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Tekkekoey"
+                },
+                {
+                    "city_name": "Vezirkoeprue Ilcesi"
+                },
+                {
+                    "city_name": "Havza Ilcesi"
+                },
+                {
+                    "city_name": "Ladik Ilcesi"
+                },
+                {
+                    "city_name": "Kavak Ilcesi"
+                },
+                {
+                    "city_name": "Asarcik Ilcesi"
+                },
+                {
+                    "city_name": "Alacam Ilcesi"
+                },
+                {
+                    "city_name": "Yakakent Ilcesi"
+                },
+                {
+                    "city_name": "Terme Ilcesi"
+                },
+                {
+                    "city_name": "Salipazari Ilcesi"
+                },
+                {
+                    "city_name": "Ayvacik Ilcesi"
+                },
+                {
+                    "city_name": "Carsamba Ilcesi"
+                },
+                {
+                    "city_name": "Ondokuzmayis Ilcesi"
+                },
+                {
+                    "city_name": "Canik"
+                },
+                {
+                    "city_name": "Ilkadim"
+                },
+                {
+                    "city_name": "Atakum"
+                }
+            ]
+        },
+        {
+            "province_name": "Sakarya",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Akyazi Ilcesi"
+                },
+                {
+                    "city_name": "Tarakli Ilcesi"
+                },
+                {
+                    "city_name": "Karapuercek Ilcesi"
+                },
+                {
+                    "city_name": "Geyve Ilcesi"
+                },
+                {
+                    "city_name": "Pamukova Ilcesi"
+                },
+                {
+                    "city_name": "Sapanca Ilcesi"
+                },
+                {
+                    "city_name": "Hendek Ilcesi"
+                },
+                {
+                    "city_name": "Karasu Ilcesi"
+                },
+                {
+                    "city_name": "Kocaali Ilcesi"
+                },
+                {
+                    "city_name": "Ferizli Ilcesi"
+                },
+                {
+                    "city_name": "Soeguetlue Ilcesi"
+                },
+                {
+                    "city_name": "Kaynarca Ilcesi"
+                },
+                {
+                    "city_name": "Adapazari"
+                },
+                {
+                    "city_name": "Serdivan"
+                },
+                {
+                    "city_name": "Erenler"
+                },
+                {
+                    "city_name": "Arifiye"
+                }
+            ]
+        },
+        {
+            "province_name": "Rize",
+            "cities": [
+                {
+                    "city_name": "Kalkandere"
+                },
+                {
+                    "city_name": "Ikizdere Ilcesi"
+                },
+                {
+                    "city_name": "Gueneysu Ilcesi"
+                },
+                {
+                    "city_name": "Hemsin Ilcesi"
+                },
+                {
+                    "city_name": "Pazar Ilcesi"
+                },
+                {
+                    "city_name": "Camlihemsin Ilcesi"
+                },
+                {
+                    "city_name": "Derepazari Ilcesi"
+                },
+                {
+                    "city_name": "Iyidere"
+                },
+                {
+                    "city_name": "Ardesen"
+                },
+                {
+                    "city_name": "Cayeli"
+                },
+                {
+                    "city_name": "Findikli"
+                }
+            ]
+        },
+        {
+            "province_name": "Ordu",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Akkus"
+                },
+                {
+                    "city_name": "Piraziz Ilcesi"
+                },
+                {
+                    "city_name": "Kabaduez Ilcesi"
+                },
+                {
+                    "city_name": "Guelyali Ilcesi"
+                },
+                {
+                    "city_name": "Goelkoey Ilcesi"
+                },
+                {
+                    "city_name": "Ulubey Ilcesi"
+                },
+                {
+                    "city_name": "Guergentepe Ilcesi"
+                },
+                {
+                    "city_name": "Persembe Ilcesi"
+                },
+                {
+                    "city_name": "Camas Ilcesi"
+                },
+                {
+                    "city_name": "Fatsa Ilcesi"
+                },
+                {
+                    "city_name": "Catalpinar Ilcesi"
+                },
+                {
+                    "city_name": "Kumru Ilcesi"
+                },
+                {
+                    "city_name": "Mesudiye Ilcesi"
+                },
+                {
+                    "city_name": "Korgan Ilcesi"
+                },
+                {
+                    "city_name": "Aybasti Ilcesi"
+                },
+                {
+                    "city_name": "Kabatas Ilcesi"
+                },
+                {
+                    "city_name": "UEnye Ilcesi"
+                },
+                {
+                    "city_name": "Ikizce Ilcesi"
+                },
+                {
+                    "city_name": "Caybasi Ilcesi"
+                },
+                {
+                    "city_name": "Altinordu"
+                }
+            ]
+        },
+        {
+            "province_name": "Kocaeli",
+            "cities": [
+                {
+                    "city_name": "Gebze"
+                },
+                {
+                    "city_name": "Dilovasi"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Kandira Ilcesi"
+                },
+                {
+                    "city_name": "Goelcuek Ilcesi"
+                },
+                {
+                    "city_name": "Derince Ilcesi"
+                },
+                {
+                    "city_name": "Koerfez Ilcesi"
+                },
+                {
+                    "city_name": "Karamuersel Ilcesi"
+                },
+                {
+                    "city_name": "Izmit"
+                },
+                {
+                    "city_name": "Kartepe"
+                },
+                {
+                    "city_name": "Basiskele"
+                },
+                {
+                    "city_name": "Darica"
+                },
+                {
+                    "city_name": "Cayirova"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirklareli",
+            "cities": [
+                {
+                    "city_name": "Pehlivankoey Ilcesi"
+                },
+                {
+                    "city_name": "Babaeski Ilcesi"
+                },
+                {
+                    "city_name": "Luleburgaz Ilcesi"
+                },
+                {
+                    "city_name": "Kofcaz Ilcesi"
+                },
+                {
+                    "city_name": "Pinarhisar Ilcesi"
+                },
+                {
+                    "city_name": "Demirkoey Ilcesi"
+                },
+                {
+                    "city_name": "Vize Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kastamonu",
+            "cities": [
+                {
+                    "city_name": "Cide"
+                },
+                {
+                    "city_name": "Taskoeprue Ilcesi"
+                },
+                {
+                    "city_name": "Hanoenue Ilcesi"
+                },
+                {
+                    "city_name": "Tosya Ilcesi"
+                },
+                {
+                    "city_name": "Arac Ilcesi"
+                },
+                {
+                    "city_name": "Ihsangazi Ilcesi"
+                },
+                {
+                    "city_name": "Pinarbasi Ilcesi"
+                },
+                {
+                    "city_name": "Daday Ilcesi"
+                },
+                {
+                    "city_name": "Azdavay Ilcesi"
+                },
+                {
+                    "city_name": "Senpazar Ilcesi"
+                },
+                {
+                    "city_name": "Doganyurt Ilcesi"
+                },
+                {
+                    "city_name": "Devrekani Ilcesi"
+                },
+                {
+                    "city_name": "Seydiler Ilcesi"
+                },
+                {
+                    "city_name": "Agli Ilcesi"
+                },
+                {
+                    "city_name": "Inebolu Ilcesi"
+                },
+                {
+                    "city_name": "Kuere Ilcesi"
+                },
+                {
+                    "city_name": "Abana Ilcesi"
+                },
+                {
+                    "city_name": "Bozkurt Ilcesi"
+                },
+                {
+                    "city_name": "Catalzeytin Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kars",
+            "cities": [
+                {
+                    "city_name": "Digor Ilcesi"
+                },
+                {
+                    "city_name": "Kagizman Ilcesi"
+                },
+                {
+                    "city_name": "Akyaka Ilcesi"
+                },
+                {
+                    "city_name": "Arpacay Ilcesi"
+                },
+                {
+                    "city_name": "Susuz Ilcesi"
+                },
+                {
+                    "city_name": "Selim Ilcesi"
+                },
+                {
+                    "city_name": "Sarikamis Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Istanbul",
+            "cities": [
+                {
+                    "city_name": "Avcilar"
+                },
+                {
+                    "city_name": "Bueyuekcekmece"
+                },
+                {
+                    "city_name": "Bahcelievler"
+                },
+                {
+                    "city_name": "Bayrampasa"
+                },
+                {
+                    "city_name": "Bagcilar"
+                },
+                {
+                    "city_name": "Bakirkoey"
+                },
+                {
+                    "city_name": "Beyoglu"
+                },
+                {
+                    "city_name": "Catalca"
+                },
+                {
+                    "city_name": "Esenler"
+                },
+                {
+                    "city_name": "Eyuepsultan"
+                },
+                {
+                    "city_name": "Gaziosmanpasa"
+                },
+                {
+                    "city_name": "Guengoeren"
+                },
+                {
+                    "city_name": "Kadikoey"
+                },
+                {
+                    "city_name": "Kagithane"
+                },
+                {
+                    "city_name": "Kartal"
+                },
+                {
+                    "city_name": "Kuecuekcekmece"
+                },
+                {
+                    "city_name": "Pendik"
+                },
+                {
+                    "city_name": "Silivri"
+                },
+                {
+                    "city_name": "Sultanbeyli"
+                },
+                {
+                    "city_name": "Tuzla"
+                },
+                {
+                    "city_name": "UEmraniye"
+                },
+                {
+                    "city_name": "UEskuedar"
+                },
+                {
+                    "city_name": "Zeytinburnu"
+                },
+                {
+                    "city_name": "Besiktas"
+                },
+                {
+                    "city_name": "Beykoz"
+                },
+                {
+                    "city_name": "Fatih"
+                },
+                {
+                    "city_name": "Maltepe"
+                },
+                {
+                    "city_name": "Adalar"
+                },
+                {
+                    "city_name": "Arnavutkoey"
+                },
+                {
+                    "city_name": "Atasehir"
+                },
+                {
+                    "city_name": "Basaksehir"
+                },
+                {
+                    "city_name": "Beylikduezue"
+                },
+                {
+                    "city_name": "Cekmekoey"
+                },
+                {
+                    "city_name": "Esenyurt"
+                },
+                {
+                    "city_name": "Sancaktepe"
+                },
+                {
+                    "city_name": "Sariyer"
+                },
+                {
+                    "city_name": "Sultangazi"
+                },
+                {
+                    "city_name": "Sile"
+                },
+                {
+                    "city_name": "Sisli"
+                }
+            ]
+        },
+        {
+            "province_name": "Guemueshane",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Koese Ilcesi"
+                },
+                {
+                    "city_name": "Torul Ilcesi"
+                },
+                {
+                    "city_name": "Kuertuen Ilcesi"
+                },
+                {
+                    "city_name": "Siran Ilcesi"
+                },
+                {
+                    "city_name": "Kelkit Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Giresun",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Canakci"
+                },
+                {
+                    "city_name": "Dereli"
+                },
+                {
+                    "city_name": "Guece Ilcesi"
+                },
+                {
+                    "city_name": "Dogankent Ilcesi"
+                },
+                {
+                    "city_name": "Goerele Ilcesi"
+                },
+                {
+                    "city_name": "Eynesil Ilcesi"
+                },
+                {
+                    "city_name": "Espiye Ilcesi"
+                },
+                {
+                    "city_name": "Yaglidere Ilcesi"
+                },
+                {
+                    "city_name": "Sebin Karahisar Ilcesi"
+                },
+                {
+                    "city_name": "Bulancak Ilcesi"
+                },
+                {
+                    "city_name": "Alucra Ilcesi"
+                },
+                {
+                    "city_name": "Camoluk Ilcesi"
+                },
+                {
+                    "city_name": "Tirebolu"
+                },
+                {
+                    "city_name": "Kesap"
+                }
+            ]
+        },
+        {
+            "province_name": "Edirne",
+            "cities": [
+                {
+                    "city_name": "Uzunkoeprue Ilcesi"
+                },
+                {
+                    "city_name": "Lalapasa Ilcesi"
+                },
+                {
+                    "city_name": "Sueloglu Ilcesi"
+                },
+                {
+                    "city_name": "Havsa Ilcesi"
+                },
+                {
+                    "city_name": "Meric Ilcesi"
+                },
+                {
+                    "city_name": "Ipsala Ilcesi"
+                },
+                {
+                    "city_name": "Kesan Ilcesi"
+                },
+                {
+                    "city_name": "Enez Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Corum",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Osmancik"
+                },
+                {
+                    "city_name": "Sungurlu"
+                },
+                {
+                    "city_name": "Dodurga Ilcesi"
+                },
+                {
+                    "city_name": "Ortakoey Ilcesi"
+                },
+                {
+                    "city_name": "Mecitoezue Ilcesi"
+                },
+                {
+                    "city_name": "Lacin Ilcesi"
+                },
+                {
+                    "city_name": "Oguzlar Ilcesi"
+                },
+                {
+                    "city_name": "Kargi Ilcesi"
+                },
+                {
+                    "city_name": "Bogazkale Ilcesi"
+                },
+                {
+                    "city_name": "Alaca Ilcesi"
+                },
+                {
+                    "city_name": "Ugurludag Ilcesi"
+                },
+                {
+                    "city_name": "Bayat Ilcesi"
+                },
+                {
+                    "city_name": "Iskilip Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Cankiri",
+            "cities": [
+                {
+                    "city_name": "Sabanoezue"
+                },
+                {
+                    "city_name": "Eldivan Ilcesi"
+                },
+                {
+                    "city_name": "Kizilirmak Ilcesi"
+                },
+                {
+                    "city_name": "Cerkes Ilcesi"
+                },
+                {
+                    "city_name": "Atkaracalar Ilcesi"
+                },
+                {
+                    "city_name": "Orta Ilcesi"
+                },
+                {
+                    "city_name": "Korgun Ilcesi"
+                },
+                {
+                    "city_name": "Bayramoeren Ilcesi"
+                },
+                {
+                    "city_name": "Ilgaz Ilcesi"
+                },
+                {
+                    "city_name": "Kursunlu Ilcesi"
+                },
+                {
+                    "city_name": "Yaprakli Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Canakkale",
+            "cities": [
+                {
+                    "city_name": "Biga"
+                },
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Bozcaada"
+                },
+                {
+                    "city_name": "Goekceada"
+                },
+                {
+                    "city_name": "Yenice Ilcesi"
+                },
+                {
+                    "city_name": "Ayvacik Ilcesi"
+                },
+                {
+                    "city_name": "Ezine Ilcesi"
+                },
+                {
+                    "city_name": "Bayramic Ilcesi"
+                },
+                {
+                    "city_name": "Can Ilcesi"
+                },
+                {
+                    "city_name": "Lapseki Ilcesi"
+                },
+                {
+                    "city_name": "Gelibolu Ilcesi"
+                },
+                {
+                    "city_name": "Eceabat"
+                }
+            ]
+        },
+        {
+            "province_name": "Bursa",
+            "cities": [
+                {
+                    "city_name": "Gemlik"
+                },
+                {
+                    "city_name": "Guersu"
+                },
+                {
+                    "city_name": "Inegoel"
+                },
+                {
+                    "city_name": "Kestel Ilcesi"
+                },
+                {
+                    "city_name": "Mudanya"
+                },
+                {
+                    "city_name": "Niluefer"
+                },
+                {
+                    "city_name": "Osmangazi"
+                },
+                {
+                    "city_name": "Yildirim Ilcesi"
+                },
+                {
+                    "city_name": "Orhangazi Ilcesi"
+                },
+                {
+                    "city_name": "Iznik Ilcesi"
+                },
+                {
+                    "city_name": "Yenisehir Ilcesi"
+                },
+                {
+                    "city_name": "Mustafakemalpasa Ilcesi"
+                },
+                {
+                    "city_name": "Karacabey Ilcesi"
+                },
+                {
+                    "city_name": "Keles Ilcesi"
+                },
+                {
+                    "city_name": "Orhaneli Ilcesi"
+                },
+                {
+                    "city_name": "Bueyuekorhan Ilcesi"
+                },
+                {
+                    "city_name": "Harmancik Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bolu",
+            "cities": [
+                {
+                    "city_name": "Gerede"
+                },
+                {
+                    "city_name": "Mengen Ilcesi"
+                },
+                {
+                    "city_name": "Yenicaga Ilcesi"
+                },
+                {
+                    "city_name": "Doertdivan Ilcesi"
+                },
+                {
+                    "city_name": "Goeynuek Ilcesi"
+                },
+                {
+                    "city_name": "Kibriscik Ilcesi"
+                },
+                {
+                    "city_name": "Seben Ilcesi"
+                },
+                {
+                    "city_name": "Mudurnu Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Artvin",
+            "cities": [
+                {
+                    "city_name": "Hopa Ilcesi"
+                },
+                {
+                    "city_name": "Savsat Ilcesi"
+                },
+                {
+                    "city_name": "Ardanuc Ilcesi"
+                },
+                {
+                    "city_name": "Yusufeli Ilcesi"
+                },
+                {
+                    "city_name": "Murgul Ilcesi"
+                },
+                {
+                    "city_name": "Borcka Ilcesi"
+                },
+                {
+                    "city_name": "Arhavi Ilcesi"
+                },
+                {
+                    "city_name": "Kemalpasa"
+                }
+            ]
+        },
+        {
+            "province_name": "Amasya",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Tasova Ilcesi"
+                },
+                {
+                    "city_name": "Goeynuecek Ilcesi"
+                },
+                {
+                    "city_name": "Guemueshacikoey Ilcesi"
+                },
+                {
+                    "city_name": "Suluova Ilcesi"
+                },
+                {
+                    "city_name": "Merzifon Ilcesi"
+                },
+                {
+                    "city_name": "Hamamoezue Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bartin",
+            "cities": [
+                {
+                    "city_name": "Amasra Ilcesi"
+                },
+                {
+                    "city_name": "Ulus Ilcesi"
+                },
+                {
+                    "city_name": "Kurucasile Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Karabuek",
+            "cities": [
+                {
+                    "city_name": "Eflani Ilcesi"
+                },
+                {
+                    "city_name": "Ovacik Ilcesi"
+                },
+                {
+                    "city_name": "Safranbolu Ilcesi"
+                },
+                {
+                    "city_name": "Yenice Ilcesi"
+                },
+                {
+                    "city_name": "Eskipazar Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Yalova",
+            "cities": [
+                {
+                    "city_name": "Merkez"
+                },
+                {
+                    "city_name": "Altinova Ilcesi"
+                },
+                {
+                    "city_name": "Termal Ilcesi"
+                },
+                {
+                    "city_name": "Ciftlikkoey Ilcesi"
+                },
+                {
+                    "city_name": "Armutlu Ilcesi"
+                },
+                {
+                    "city_name": "Cinarcik Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Ardahan",
+            "cities": [
+                {
+                    "city_name": "Cildir Ilcesi"
+                },
+                {
+                    "city_name": "Goele Ilcesi"
+                },
+                {
+                    "city_name": "Damal Ilcesi"
+                },
+                {
+                    "city_name": "Hanak Ilcesi"
+                },
+                {
+                    "city_name": "Posof Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Bayburt",
+            "cities": [
+                {
+                    "city_name": "Demiroezue Ilcesi"
+                },
+                {
+                    "city_name": "Aydintepe Ilcesi"
+                }
+            ]
+        },
+        {
+            "province_name": "Duezce",
+            "cities": [
+                {
+                    "city_name": "Yigilca Ilcesi"
+                },
+                {
+                    "city_name": "Kaynasli Ilcesi"
+                },
+                {
+                    "city_name": "Cilimli Ilcesi"
+                },
+                {
+                    "city_name": "Goelyaka Ilcesi"
+                },
+                {
+                    "city_name": "Akcakoca Ilcesi"
+                },
+                {
+                    "city_name": "Cumayeri Ilcesi"
+                },
+                {
+                    "city_name": "Guemuesova Ilcesi"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "country_name": "Ireland",
+    "country_id": "IE",
+    "provinces": [
+        {
+            "province_name": "Connaught",
+            "cities": [
+                {
+                    "city_name": "Sligo"
+                },
+                {
+                    "city_name": "Roscommon"
+                },
+                {
+                    "city_name": "Maigh Eo"
+                },
+                {
+                    "city_name": "County Leitrim"
+                },
+                {
+                    "city_name": "County Galway"
+                },
+                {
+                    "city_name": "Galway City"
+                }
+            ]
+        },
+        {
+            "province_name": "Leinster",
+            "cities": [
+                {
+                    "city_name": "Wicklow"
+                },
+                {
+                    "city_name": "Loch Garman"
+                },
+                {
+                    "city_name": "An Iarmhi"
+                },
+                {
+                    "city_name": "Uibh Fhaili"
+                },
+                {
+                    "city_name": "An Mhi"
+                },
+                {
+                    "city_name": "Lu"
+                },
+                {
+                    "city_name": "An Longfort"
+                },
+                {
+                    "city_name": "Laois"
+                },
+                {
+                    "city_name": "Kilkenny"
+                },
+                {
+                    "city_name": "Kildare"
+                },
+                {
+                    "city_name": "County Carlow"
+                },
+                {
+                    "city_name": "Fingal County"
+                },
+                {
+                    "city_name": "Dun Laoghaire-Rathdown"
+                },
+                {
+                    "city_name": "South Dublin"
+                },
+                {
+                    "city_name": "Dublin City"
+                }
+            ]
+        },
+        {
+            "province_name": "Munster",
+            "cities": [
+                {
+                    "city_name": "County Tipperary"
+                },
+                {
+                    "city_name": "Ciarrai"
+                },
+                {
+                    "city_name": "County Cork"
+                },
+                {
+                    "city_name": "An Clar"
+                },
+                {
+                    "city_name": "Cork City"
+                },
+                {
+                    "city_name": "Limerick City and County Council"
+                },
+                {
+                    "city_name": "Waterford City and County Council"
+                }
+            ]
+        },
+        {
+            "province_name": "Ulster",
+            "cities": [
+                {
+                    "city_name": "County Monaghan"
+                },
+                {
+                    "city_name": "County Donegal"
+                },
+                {
+                    "city_name": "An Cabhan"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "country_name": "Botswana",
+    "country_id": "BW",
+    "provinces": [
+        {
+            "province_name": "Southern District",
+            "cities": []
+        },
+        {
+            "province_name": "South East District",
+            "cities": [
+                {
+                    "city_name": "Gaborone"
+                }
+            ]
+        },
+        {
+            "province_name": "North East District",
+            "cities": []
+        },
+        {
+            "province_name": "North West District",
+            "cities": []
+        },
+        {
+            "province_name": "Kweneng District",
+            "cities": []
+        },
+        {
+            "province_name": "Kgatleng District",
+            "cities": [
+                {
+                    "city_name": "Kgatleng"
+                }
+            ]
+        },
+        {
+            "province_name": "Kgalagadi District",
+            "cities": []
+        },
+        {
+            "province_name": "Ghanzi District",
+            "cities": []
+        },
+        {
+            "province_name": "Central District",
+            "cities": [
+                {
+                    "city_name": "Mahalapye"
+                },
+                {
+                    "city_name": "Machaneng"
+                },
+                {
+                    "city_name": "Serowe"
+                },
+                {
+                    "city_name": "Palapye"
+                }
+            ]
+        },
+        {
+            "province_name": "City of Francistown",
+            "cities": []
+        },
+        {
+            "province_name": "Gaborone",
+            "cities": []
+        },
+        {
+            "province_name": "Jwaneng",
+            "cities": []
+        },
+        {
+            "province_name": "Lobatse",
+            "cities": []
+        },
+        {
+            "province_name": "Selibe Phikwe",
+            "cities": []
+        },
+        {
+            "province_name": "Sowa Town",
+            "cities": []
+        }
+    ]
+}

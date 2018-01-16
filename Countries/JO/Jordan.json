@@ -1,0 +1,225 @@
+{
+    "country_name": "Jordan",
+    "country_id": "JO",
+    "provinces": [
+        {
+            "province_name": "Muhafazat Ma'an",
+            "cities": [
+                {
+                    "city_name": "Liwa' Qasabat Ma`an"
+                },
+                {
+                    "city_name": "Liwa' ash Shawbak"
+                },
+                {
+                    "city_name": "Liwa' al Batra'"
+                },
+                {
+                    "city_name": "Liwa' al Husayniyah"
+                },
+                {
+                    "city_name": "Shoubak"
+                }
+            ]
+        },
+        {
+            "province_name": "Irbid",
+            "cities": [
+                {
+                    "city_name": "Liwa' Bani Kinanah"
+                },
+                {
+                    "city_name": "Liwa' ar Ramtha"
+                },
+                {
+                    "city_name": "Liwa' Qasabat Irbid"
+                },
+                {
+                    "city_name": "Liwa' al Kurah"
+                },
+                {
+                    "city_name": "Liwa' al Aghwar ash Shamaliyah"
+                },
+                {
+                    "city_name": "Liwa' Bani `Ubayd"
+                },
+                {
+                    "city_name": "Liwa' al Mazar ash Shamali"
+                },
+                {
+                    "city_name": "Liwa' at Tayyibah"
+                },
+                {
+                    "city_name": "Liwa' al Wasatiyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat az Zarqa'",
+            "cities": [
+                {
+                    "city_name": "Qasabat Az Zarqa"
+                },
+                {
+                    "city_name": "Liwa' Qasabat az Zarqa'"
+                },
+                {
+                    "city_name": "Liwa' ar Rusayfah"
+                },
+                {
+                    "city_name": "Liwa' al Hashimiyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat at Tafilah",
+            "cities": [
+                {
+                    "city_name": "Liwa' al Hasa"
+                },
+                {
+                    "city_name": "Liwa' Qasabat at Tafilah"
+                },
+                {
+                    "city_name": "Liwa' Busayra"
+                }
+            ]
+        },
+        {
+            "province_name": "Amman Governorate",
+            "cities": [
+                {
+                    "city_name": "Liwa' Sahab"
+                },
+                {
+                    "city_name": "Liwa' Qasabat `Amman"
+                },
+                {
+                    "city_name": "Liwa' Marka"
+                },
+                {
+                    "city_name": "Liwa' al Jami`ah"
+                },
+                {
+                    "city_name": "Liwa' Wadi as Sir"
+                },
+                {
+                    "city_name": "Liwa' al Muwaqqar"
+                },
+                {
+                    "city_name": "Liwa' Na`ur"
+                },
+                {
+                    "city_name": "Liwa' al Jizah"
+                },
+                {
+                    "city_name": "Liwa' al Quwaysimah"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Mafraq",
+            "cities": [
+                {
+                    "city_name": "Liwa' Qasabat al Mafraq"
+                },
+                {
+                    "city_name": "Liwa' al Badiyah ash Shamaliyah"
+                },
+                {
+                    "city_name": "Liwa' al Badiyah ash Shamaliyah al Gharbiyah"
+                },
+                {
+                    "city_name": "Liwa' ar Ruwayshid"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Karak",
+            "cities": [
+                {
+                    "city_name": "Liwa' Fuqu`"
+                },
+                {
+                    "city_name": "Liwa' al Qasr"
+                },
+                {
+                    "city_name": "Liwa' `Ayy"
+                },
+                {
+                    "city_name": "Liwa' Qasabat al Karak"
+                },
+                {
+                    "city_name": "Liwa' al Qatranah"
+                },
+                {
+                    "city_name": "Liwa' al Mazar al Janubi"
+                },
+                {
+                    "city_name": "Liwa' al Aghwar al Janubiyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Balqa'",
+            "cities": [
+                {
+                    "city_name": "Qasabat As Salt"
+                },
+                {
+                    "city_name": "Liwa' ash Shunah al Janubiyah"
+                },
+                {
+                    "city_name": "Liwa' Dayr `Alla"
+                },
+                {
+                    "city_name": "Liwa' `Ayn al Basha"
+                },
+                {
+                    "city_name": "Liwa' Mahis wa al Fuhays"
+                }
+            ]
+        },
+        {
+            "province_name": "Ajloun",
+            "cities": [
+                {
+                    "city_name": "Liwa' Qasabat `Ajlun"
+                },
+                {
+                    "city_name": "Liwa' Kufrinjah"
+                }
+            ]
+        },
+        {
+            "province_name": "Jerash",
+            "cities": [
+                {
+                    "city_name": "Liwa' Qasabat Jarash"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al 'Aqabah",
+            "cities": [
+                {
+                    "city_name": "Liwa' al Quwayrah"
+                },
+                {
+                    "city_name": "Liwa' Qasabat al `Aqabah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Madaba",
+            "cities": [
+                {
+                    "city_name": "Liwa' Qasabat Madaba"
+                },
+                {
+                    "city_name": "Liwa' Dhiban"
+                }
+            ]
+        }
+    ]
+}

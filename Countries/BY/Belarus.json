@@ -1,0 +1,515 @@
+{
+    "country_name": "Belarus",
+    "country_id": "BY",
+    "provinces": [
+        {
+            "province_name": "Vitebsk Oblast",
+            "cities": [
+                {
+                    "city_name": "Vitsyebski Rayon"
+                },
+                {
+                    "city_name": "Vyerkhnyadzvinski Rayon"
+                },
+                {
+                    "city_name": "Ushatski Rayon"
+                },
+                {
+                    "city_name": "Talachynski Rayon"
+                },
+                {
+                    "city_name": "Shumilinski Rayon"
+                },
+                {
+                    "city_name": "Sharkawshchynski Rayon"
+                },
+                {
+                    "city_name": "Syennyenski Rayon"
+                },
+                {
+                    "city_name": "Rasonski Rayon"
+                },
+                {
+                    "city_name": "Pastawski Rayon"
+                },
+                {
+                    "city_name": "Polatski Rayon"
+                },
+                {
+                    "city_name": "Arshanski Rayon"
+                },
+                {
+                    "city_name": "Myorski Rayon"
+                },
+                {
+                    "city_name": "Lyoznyenski Rayon"
+                },
+                {
+                    "city_name": "Lyepyel'ski Rayon"
+                },
+                {
+                    "city_name": "Haradotski Rayon"
+                },
+                {
+                    "city_name": "Hlybotski Rayon"
+                },
+                {
+                    "city_name": "Dubrovyenski Rayon"
+                },
+                {
+                    "city_name": "Dokshytski Rayon"
+                },
+                {
+                    "city_name": "Chashnitski Rayon"
+                },
+                {
+                    "city_name": "Braslawski Rayon"
+                },
+                {
+                    "city_name": "Byeshankovitski Rayon"
+                },
+                {
+                    "city_name": "Horad Vitsyebsk"
+                },
+                {
+                    "city_name": "Horad Lyepyel'"
+                },
+                {
+                    "city_name": "Horad Navapolatsk"
+                },
+                {
+                    "city_name": "Horad Polatsk"
+                }
+            ]
+        },
+        {
+            "province_name": "Mogilyov Oblast",
+            "cities": [
+                {
+                    "city_name": "Slawharadski Rayon"
+                },
+                {
+                    "city_name": "Shklowski Rayon"
+                },
+                {
+                    "city_name": "Asipovitski Rayon"
+                },
+                {
+                    "city_name": "Mstsislawski Rayon"
+                },
+                {
+                    "city_name": "Mahilyowski Rayon"
+                },
+                {
+                    "city_name": "Kruhlyanski Rayon"
+                },
+                {
+                    "city_name": "Krychawski Rayon"
+                },
+                {
+                    "city_name": "Krasnapol'ski Rayon"
+                },
+                {
+                    "city_name": "Kastsyukovitski Rayon"
+                },
+                {
+                    "city_name": "Klimavitski Rayon"
+                },
+                {
+                    "city_name": "Klichawski Rayon"
+                },
+                {
+                    "city_name": "Kirawski Rayon"
+                },
+                {
+                    "city_name": "Khotsimski Rayon"
+                },
+                {
+                    "city_name": "Horatski Rayon"
+                },
+                {
+                    "city_name": "Hluski Rayon"
+                },
+                {
+                    "city_name": "Cherykawski Rayon"
+                },
+                {
+                    "city_name": "Chavuski Rayon"
+                },
+                {
+                    "city_name": "Bykhawski Rayon"
+                },
+                {
+                    "city_name": "Babruyski Rayon"
+                },
+                {
+                    "city_name": "Byalynitski Rayon"
+                },
+                {
+                    "city_name": "Drybinski Rayon"
+                },
+                {
+                    "city_name": "Mahilyow"
+                },
+                {
+                    "city_name": "Horad Asipovichy"
+                },
+                {
+                    "city_name": "Kirawsk"
+                }
+            ]
+        },
+        {
+            "province_name": "Minsk Oblast",
+            "cities": [
+                {
+                    "city_name": "Valozhynski Rayon"
+                },
+                {
+                    "city_name": "Vilyeyski Rayon"
+                },
+                {
+                    "city_name": "Uzdzyenski Rayon"
+                },
+                {
+                    "city_name": "Stawbtsowski Rayon"
+                },
+                {
+                    "city_name": "Staradarozhski Rayon"
+                },
+                {
+                    "city_name": "Salihorski Rayon"
+                },
+                {
+                    "city_name": "Smalyavitski Rayon"
+                },
+                {
+                    "city_name": "Slutski Rayon"
+                },
+                {
+                    "city_name": "Pukhavichy Raion"
+                },
+                {
+                    "city_name": "Nyasvizhski Rayon"
+                },
+                {
+                    "city_name": "Myadzyel'ski Rayon"
+                },
+                {
+                    "city_name": "Maladzyechanski Rayon"
+                },
+                {
+                    "city_name": "Minski Rayon"
+                },
+                {
+                    "city_name": "Lyubanski Rayon"
+                },
+                {
+                    "city_name": "Lahoyski Rayon"
+                },
+                {
+                    "city_name": "Krupski Rayon"
+                },
+                {
+                    "city_name": "Kapyl'ski Rayon"
+                },
+                {
+                    "city_name": "Klyetski Rayon"
+                },
+                {
+                    "city_name": "Dzyarzhynski Rayon"
+                },
+                {
+                    "city_name": "Chervyen'ski Rayon"
+                },
+                {
+                    "city_name": "Barysawski Rayon"
+                },
+                {
+                    "city_name": "Byarezinski Rayon"
+                },
+                {
+                    "city_name": "Horad Barysaw"
+                },
+                {
+                    "city_name": "Horad Vilyeyka"
+                },
+                {
+                    "city_name": "Horad Dzyarzhynsk"
+                },
+                {
+                    "city_name": "Horad Zaslawye"
+                },
+                {
+                    "city_name": "Horad Maladzyechna"
+                },
+                {
+                    "city_name": "Horad Slutsk"
+                },
+                {
+                    "city_name": "Horad Salihorsk"
+                },
+                {
+                    "city_name": "Molodechnenskij Rajon"
+                }
+            ]
+        },
+        {
+            "province_name": "Horad Minsk",
+            "cities": [
+                {
+                    "city_name": "Zavodski Rayon"
+                },
+                {
+                    "city_name": "Tsentral'ny Rayon"
+                },
+                {
+                    "city_name": "Savyetski Rayon"
+                },
+                {
+                    "city_name": "Pyershamayski Rayon"
+                },
+                {
+                    "city_name": "Partyzanski Rayon"
+                },
+                {
+                    "city_name": "Kastrychnitski Rayon"
+                },
+                {
+                    "city_name": "Maskowski Rayon"
+                },
+                {
+                    "city_name": "Lyeninski Rayon"
+                },
+                {
+                    "city_name": "Frunzyenski Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Grodno Oblast",
+            "cities": [
+                {
+                    "city_name": "Zel'vyenski Rayon"
+                },
+                {
+                    "city_name": "Voranawski Rayon"
+                },
+                {
+                    "city_name": "Vawkavyski Rayon"
+                },
+                {
+                    "city_name": "Svislatski Rayon"
+                },
+                {
+                    "city_name": "Smarhonski Rayon"
+                },
+                {
+                    "city_name": "Slonimski Rayon"
+                },
+                {
+                    "city_name": "Shchuchynski Rayon"
+                },
+                {
+                    "city_name": "Astravyetski Rayon"
+                },
+                {
+                    "city_name": "Ashmyanski Rayon"
+                },
+                {
+                    "city_name": "Navahrudski Rayon"
+                },
+                {
+                    "city_name": "Mastowski Rayon"
+                },
+                {
+                    "city_name": "Lidski Rayon"
+                },
+                {
+                    "city_name": "Karelitski Rayon"
+                },
+                {
+                    "city_name": "Iwyewski Rayon"
+                },
+                {
+                    "city_name": "Hrodzyenski Rayon"
+                },
+                {
+                    "city_name": "Dzyatlawski Rayon"
+                },
+                {
+                    "city_name": "Byerastavitski Rayon"
+                },
+                {
+                    "city_name": "Horad Hrodna"
+                },
+                {
+                    "city_name": "Horad Vawkavysk"
+                },
+                {
+                    "city_name": "Horad Lida"
+                },
+                {
+                    "city_name": "Horad Navahrudak"
+                },
+                {
+                    "city_name": "Horad Slonim"
+                },
+                {
+                    "city_name": "Horad Smarhon'"
+                }
+            ]
+        },
+        {
+            "province_name": "Gomel Oblast",
+            "cities": [
+                {
+                    "city_name": "Zhlobinski Rayon"
+                },
+                {
+                    "city_name": "Zhytkavitski Rayon"
+                },
+                {
+                    "city_name": "Yel'ski Rayon"
+                },
+                {
+                    "city_name": "Vyetkawski Rayon"
+                },
+                {
+                    "city_name": "Svyetlahorski Rayon"
+                },
+                {
+                    "city_name": "Rahachowski Rayon"
+                },
+                {
+                    "city_name": "Rechytski Rayon"
+                },
+                {
+                    "city_name": "Pyetrykawski Rayon"
+                },
+                {
+                    "city_name": "Aktsyabrski Rayon"
+                },
+                {
+                    "city_name": "Narawlyanski Rayon"
+                },
+                {
+                    "city_name": "Mazyrski Rayon"
+                },
+                {
+                    "city_name": "Loyewski Rayon"
+                },
+                {
+                    "city_name": "Lyel'chytski Rayon"
+                },
+                {
+                    "city_name": "Karmyanski Rayon"
+                },
+                {
+                    "city_name": "Khoynitski Rayon"
+                },
+                {
+                    "city_name": "Kalinkavitski Rayon"
+                },
+                {
+                    "city_name": "Homyel'ski Rayon"
+                },
+                {
+                    "city_name": "Dobrushski Rayon"
+                },
+                {
+                    "city_name": "Chacherski Rayon"
+                },
+                {
+                    "city_name": "Buda-Kashalyowski Rayon"
+                },
+                {
+                    "city_name": "Brahinski Rayon"
+                },
+                {
+                    "city_name": "Uvarovichskiy Rayon"
+                },
+                {
+                    "city_name": "Horad Homyel'"
+                },
+                {
+                    "city_name": "Horad Dobrush"
+                },
+                {
+                    "city_name": "Horad Zhlobin"
+                },
+                {
+                    "city_name": "Horad Kalinkavichy"
+                },
+                {
+                    "city_name": "Horad Mazyr"
+                },
+                {
+                    "city_name": "Horad Rahachow"
+                },
+                {
+                    "city_name": "Horad Svyetlahorsk"
+                }
+            ]
+        },
+        {
+            "province_name": "Brest Oblast",
+            "cities": [
+                {
+                    "city_name": "Zhabinkawski Rayon"
+                },
+                {
+                    "city_name": "Stolinski Rayon"
+                },
+                {
+                    "city_name": "Pruzhanski Rayon"
+                },
+                {
+                    "city_name": "Pinski Rayon"
+                },
+                {
+                    "city_name": "Malarytski Rayon"
+                },
+                {
+                    "city_name": "Lyakhavitski Rayon"
+                },
+                {
+                    "city_name": "Luninyetski Rayon"
+                },
+                {
+                    "city_name": "Kobrynski Rayon"
+                },
+                {
+                    "city_name": "Kamyanyetski Rayon"
+                },
+                {
+                    "city_name": "Ivatsevitski Rayon"
+                },
+                {
+                    "city_name": "Ivanawski Rayon"
+                },
+                {
+                    "city_name": "Hantsavitski Rayon"
+                },
+                {
+                    "city_name": "Drahichynski Rayon"
+                },
+                {
+                    "city_name": "Brestski Rayon"
+                },
+                {
+                    "city_name": "Byarozawski Rayon"
+                },
+                {
+                    "city_name": "Baranavitski Rayon"
+                },
+                {
+                    "city_name": "Horad Brest"
+                },
+                {
+                    "city_name": "Horad Baranavichy"
+                }
+            ]
+        }
+    ]
+}

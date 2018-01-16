@@ -1,0 +1,387 @@
+{
+    "country_name": "Bolivia",
+    "country_id": "BO",
+    "provinces": [
+        {
+            "province_name": "Departamento de Tarija",
+            "cities": [
+                {
+                    "city_name": "Provincia O'Connor"
+                },
+                {
+                    "city_name": "Provincia Mendez"
+                },
+                {
+                    "city_name": "Provincia Gran Chaco"
+                },
+                {
+                    "city_name": "Provincia Cercado"
+                },
+                {
+                    "city_name": "Provincia Avilez"
+                },
+                {
+                    "city_name": "Provincia Arce"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Santa Cruz",
+            "cities": [
+                {
+                    "city_name": "Provincia Chiquitos"
+                },
+                {
+                    "city_name": "Provincia Angel Sandoval"
+                },
+                {
+                    "city_name": "Provincia Warnes"
+                },
+                {
+                    "city_name": "Provincia Velasco"
+                },
+                {
+                    "city_name": "Provincia Vallegrande"
+                },
+                {
+                    "city_name": "Provincia Sara"
+                },
+                {
+                    "city_name": "Provincia Santiesteban"
+                },
+                {
+                    "city_name": "Provincia Nuflo de Chavez"
+                },
+                {
+                    "city_name": "Provincia Manuel Maria Caballero"
+                },
+                {
+                    "city_name": "Provincia Ichilo"
+                },
+                {
+                    "city_name": "Provincia Florida"
+                },
+                {
+                    "city_name": "Provincia Cordillera"
+                },
+                {
+                    "city_name": "Provincia Andres Ibanez"
+                },
+                {
+                    "city_name": "German Busch"
+                },
+                {
+                    "city_name": "Guarayos"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Potosi",
+            "cities": [
+                {
+                    "city_name": "Provincia Tomas Frias"
+                },
+                {
+                    "city_name": "Provincia Sud Lipez"
+                },
+                {
+                    "city_name": "Provincia Sud Chichas"
+                },
+                {
+                    "city_name": "Provincia Saavedra"
+                },
+                {
+                    "city_name": "Provincia Rafael Bustillo"
+                },
+                {
+                    "city_name": "Provincia Quijarro"
+                },
+                {
+                    "city_name": "Provincia Nor Lipez"
+                },
+                {
+                    "city_name": "Provincia Nor Chichas"
+                },
+                {
+                    "city_name": "Provincia Modesto Omiste"
+                },
+                {
+                    "city_name": "Provincia Linares"
+                },
+                {
+                    "city_name": "Provincia General Bilbao"
+                },
+                {
+                    "city_name": "Provincia Daniel Campos"
+                },
+                {
+                    "city_name": "Provincia Chayanta"
+                },
+                {
+                    "city_name": "Provincia Charcas"
+                },
+                {
+                    "city_name": "Provincia Alonzo de Ibanez"
+                },
+                {
+                    "city_name": "Enrique Baldivieso"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Pando",
+            "cities": [
+                {
+                    "city_name": "Provincia Nicolas Suarez"
+                },
+                {
+                    "city_name": "Provincia Manuripi"
+                },
+                {
+                    "city_name": "Provincia Madre de Dios"
+                },
+                {
+                    "city_name": "Provincia General Federico Roman"
+                },
+                {
+                    "city_name": "Provincia Abuna"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Oruro",
+            "cities": [
+                {
+                    "city_name": "Provincia Tomas Barron"
+                },
+                {
+                    "city_name": "Provincia Saucari"
+                },
+                {
+                    "city_name": "Provincia San Pedro de Totora"
+                },
+                {
+                    "city_name": "Provincia Sajama"
+                },
+                {
+                    "city_name": "Provincia Poopo"
+                },
+                {
+                    "city_name": "Provincia Pantaleon Dalence"
+                },
+                {
+                    "city_name": "Sud Carangas Province"
+                },
+                {
+                    "city_name": "Provincia Ladislao Cabrera"
+                },
+                {
+                    "city_name": "Provincia Cercado"
+                },
+                {
+                    "city_name": "Provincia Carangas"
+                },
+                {
+                    "city_name": "Provincia Avaroa"
+                },
+                {
+                    "city_name": "Provincia Sabaya"
+                },
+                {
+                    "city_name": "Nor Carangas Province"
+                },
+                {
+                    "city_name": "Sebastian Pagador Province"
+                },
+                {
+                    "city_name": "Puerto de Mejillones"
+                },
+                {
+                    "city_name": "Litoral de Atacama"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de La Paz",
+            "cities": [
+                {
+                    "city_name": "Provincia Sud Yungas"
+                },
+                {
+                    "city_name": "Provincia Pacajes"
+                },
+                {
+                    "city_name": "Provincia Omasuyos"
+                },
+                {
+                    "city_name": "Provincia Nor Yungas"
+                },
+                {
+                    "city_name": "Provincia Murillo"
+                },
+                {
+                    "city_name": "Provincia Munecas"
+                },
+                {
+                    "city_name": "Provincia Manco Kapac"
+                },
+                {
+                    "city_name": "Provincia Los Andes"
+                },
+                {
+                    "city_name": "Provincia Loayza"
+                },
+                {
+                    "city_name": "Provincia Larecaja"
+                },
+                {
+                    "city_name": "Provincia Iturralde"
+                },
+                {
+                    "city_name": "Provincia Inquisivi"
+                },
+                {
+                    "city_name": "Provincia Ingavi"
+                },
+                {
+                    "city_name": "Provincia Gualberto Villarroel"
+                },
+                {
+                    "city_name": "Provincia Franz Tamayo"
+                },
+                {
+                    "city_name": "Provincia Camacho"
+                },
+                {
+                    "city_name": "Provincia Bautista Saavedra"
+                },
+                {
+                    "city_name": "Provincia Aroma"
+                },
+                {
+                    "city_name": "Caranavi"
+                },
+                {
+                    "city_name": "Jose Manuel Pando"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Cochabamba",
+            "cities": [
+                {
+                    "city_name": "Provincia Tapacari"
+                },
+                {
+                    "city_name": "Provincia Quillacollo"
+                },
+                {
+                    "city_name": "Provincia Punata"
+                },
+                {
+                    "city_name": "Provincia Mizque"
+                },
+                {
+                    "city_name": "Provincia German Jordan"
+                },
+                {
+                    "city_name": "Provincia Esteban Arce"
+                },
+                {
+                    "city_name": "Provincia Chapare"
+                },
+                {
+                    "city_name": "Provincia Cercado"
+                },
+                {
+                    "city_name": "Provincia Carrasco"
+                },
+                {
+                    "city_name": "Provincia Capinota"
+                },
+                {
+                    "city_name": "Provincia Campero"
+                },
+                {
+                    "city_name": "Provincia Ayopaya"
+                },
+                {
+                    "city_name": "Provincia Arque"
+                },
+                {
+                    "city_name": "Provincia Arani"
+                },
+                {
+                    "city_name": "Bolivar"
+                },
+                {
+                    "city_name": "Tiraque Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Chuquisaca",
+            "cities": [
+                {
+                    "city_name": "Provincia Zudanez"
+                },
+                {
+                    "city_name": "Provincia Yamparaez"
+                },
+                {
+                    "city_name": "Provincia Tomina"
+                },
+                {
+                    "city_name": "Provincia Sud Cinti"
+                },
+                {
+                    "city_name": "Provincia Oropeza"
+                },
+                {
+                    "city_name": "Provincia Nor Cinti"
+                },
+                {
+                    "city_name": "Provincia Luis Calvo"
+                },
+                {
+                    "city_name": "Provincia Hernando Siles"
+                },
+                {
+                    "city_name": "Provincia Belisario Boeto"
+                },
+                {
+                    "city_name": "Provincia Azurduy"
+                }
+            ]
+        },
+        {
+            "province_name": "El Beni",
+            "cities": [
+                {
+                    "city_name": "Provincia Yacuma"
+                },
+                {
+                    "city_name": "Provincia Vaca Diez"
+                },
+                {
+                    "city_name": "Provincia Moxos"
+                },
+                {
+                    "city_name": "Provincia Marban"
+                },
+                {
+                    "city_name": "Provincia Mamore"
+                },
+                {
+                    "city_name": "Provincia Itenez"
+                },
+                {
+                    "city_name": "Provincia General Jose Ballivian"
+                },
+                {
+                    "city_name": "Provincia Cercado"
+                }
+            ]
+        }
+    ]
+}

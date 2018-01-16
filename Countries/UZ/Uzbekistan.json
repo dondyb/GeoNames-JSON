@@ -1,0 +1,745 @@
+{
+    "country_name": "Uzbekistan",
+    "country_id": "UZ",
+    "provinces": [
+        {
+            "province_name": "Karakalpakstan",
+            "cities": [
+                {
+                    "city_name": "Shumanay Tumani"
+                },
+                {
+                    "city_name": "Nukus Tumani"
+                },
+                {
+                    "city_name": "Mo'ynoq Tumani"
+                },
+                {
+                    "city_name": "Qanliko`l Tumani"
+                },
+                {
+                    "city_name": "Qo`ng`irot Tumani"
+                },
+                {
+                    "city_name": "Xo`jayli Tumani"
+                },
+                {
+                    "city_name": "Kegeyli Tumani"
+                },
+                {
+                    "city_name": "Chimboy Tumani"
+                },
+                {
+                    "city_name": "Bo`zatov Tumani"
+                },
+                {
+                    "city_name": "To`rtko`l Tumani"
+                },
+                {
+                    "city_name": "Taxtako`pir Tumani"
+                },
+                {
+                    "city_name": "Qorao`zak Tumani"
+                },
+                {
+                    "city_name": "Ellikqala Tumani"
+                },
+                {
+                    "city_name": "Beruniy Tumani"
+                },
+                {
+                    "city_name": "Amudaryo Tumani"
+                }
+            ]
+        },
+        {
+            "province_name": "Surxondaryo Viloyati",
+            "cities": [
+                {
+                    "city_name": "Termiz Tumani"
+                },
+                {
+                    "city_name": "Sho`rchi Tumani"
+                },
+                {
+                    "city_name": "Sherobod Tumani"
+                },
+                {
+                    "city_name": "Sariosiyo Tumani"
+                },
+                {
+                    "city_name": "Qiziriq Tumani"
+                },
+                {
+                    "city_name": "Qumqurghon Tumani"
+                },
+                {
+                    "city_name": "Muzrabod Tumani"
+                },
+                {
+                    "city_name": "Jarqo`rg`on Tumani"
+                },
+                {
+                    "city_name": "Denov Tumani"
+                },
+                {
+                    "city_name": "Boysun Tumani"
+                },
+                {
+                    "city_name": "Angor Tumani"
+                },
+                {
+                    "city_name": "Oltinsoy Tumani"
+                },
+                {
+                    "city_name": "Uzun Tumani"
+                },
+                {
+                    "city_name": "Bandikhon Tumani"
+                },
+                {
+                    "city_name": "Termiz Shahri"
+                },
+                {
+                    "city_name": "Denov Shahri"
+                },
+                {
+                    "city_name": "Yangiyul Tumani"
+                }
+            ]
+        },
+        {
+            "province_name": "Samarqand Viloyati",
+            "cities": [
+                {
+                    "city_name": "Urgut Tumani"
+                },
+                {
+                    "city_name": "Nurobod Tumani"
+                },
+                {
+                    "city_name": "Samarqand Tumani"
+                },
+                {
+                    "city_name": "Payariq Tumani"
+                },
+                {
+                    "city_name": "Pastdarg`om Tumani"
+                },
+                {
+                    "city_name": "Paxtachi Tumani"
+                },
+                {
+                    "city_name": "Narpay Tumani"
+                },
+                {
+                    "city_name": "Kattaqo`rg`on Tumani"
+                },
+                {
+                    "city_name": "Ishtixon Tumani"
+                },
+                {
+                    "city_name": "Jomboy Tumani"
+                },
+                {
+                    "city_name": "Bulung`ur Tumani"
+                },
+                {
+                    "city_name": "Oqdaryo Tumani"
+                },
+                {
+                    "city_name": "Chelak Tumani"
+                },
+                {
+                    "city_name": "Go`zalkent Tumani"
+                },
+                {
+                    "city_name": "Toyloq Tumani"
+                },
+                {
+                    "city_name": "Samarqand Shahri"
+                },
+                {
+                    "city_name": "Oqtosh Shahri"
+                },
+                {
+                    "city_name": "Kattaqo`rg`on Shahri"
+                },
+                {
+                    "city_name": "Urgut Shahri"
+                },
+                {
+                    "city_name": "Qo`shrabot Tumani"
+                },
+                {
+                    "city_name": "Pastdargom"
+                },
+                {
+                    "city_name": "Toyloq District"
+                }
+            ]
+        },
+        {
+            "province_name": "Qashqadaryo Province",
+            "cities": [
+                {
+                    "city_name": "Yakkabog` Tumani"
+                },
+                {
+                    "city_name": "Usmon Yusupov Tumani"
+                },
+                {
+                    "city_name": "Kasbi Tumani"
+                },
+                {
+                    "city_name": "Shahrisabz Tumani"
+                },
+                {
+                    "city_name": "Nishon Tumani"
+                },
+                {
+                    "city_name": "Muborak Tumani"
+                },
+                {
+                    "city_name": "Kitob Tumani"
+                },
+                {
+                    "city_name": "Koson Tumani"
+                },
+                {
+                    "city_name": "Qarshi Tumani"
+                },
+                {
+                    "city_name": "Qamashi Tumani"
+                },
+                {
+                    "city_name": "G`uzor Tumani"
+                },
+                {
+                    "city_name": "Dehqonobod Tumani"
+                },
+                {
+                    "city_name": "Chiroqchi Tumani"
+                },
+                {
+                    "city_name": "Mirishkor Tumani"
+                },
+                {
+                    "city_name": "Qarshi Shahri"
+                },
+                {
+                    "city_name": "Mirishkar"
+                },
+                {
+                    "city_name": "Kamashi District"
+                },
+                {
+                    "city_name": "Guzar District"
+                }
+            ]
+        },
+        {
+            "province_name": "Bukhara Province",
+            "cities": [
+                {
+                    "city_name": "Wobkent Tumani"
+                },
+                {
+                    "city_name": "Jondor Tumani"
+                },
+                {
+                    "city_name": "Romiton Tumani"
+                },
+                {
+                    "city_name": "Qorakul Tumani"
+                },
+                {
+                    "city_name": "Kogon Tumani"
+                },
+                {
+                    "city_name": "Bukhoro Tumani"
+                },
+                {
+                    "city_name": "Olot Tumani"
+                },
+                {
+                    "city_name": "Qorovulbozor Tumani"
+                },
+                {
+                    "city_name": "Kogon Shahri"
+                },
+                {
+                    "city_name": "Shofirkon Tumani"
+                },
+                {
+                    "city_name": "Peshku Tumani"
+                },
+                {
+                    "city_name": "Ghijduwon Tumani"
+                },
+                {
+                    "city_name": "Ghijduwon Shahri"
+                },
+                {
+                    "city_name": "Alat"
+                }
+            ]
+        },
+        {
+            "province_name": "Toshkent Viloyati",
+            "cities": [
+                {
+                    "city_name": "Toshkent Tumani"
+                },
+                {
+                    "city_name": "Urta Chirchiq Tumani"
+                },
+                {
+                    "city_name": "Piskent Tumani"
+                },
+                {
+                    "city_name": "Parkent Tumani"
+                },
+                {
+                    "city_name": "Qibray Tumani"
+                },
+                {
+                    "city_name": "Yuqori Chirchiq Tumani"
+                },
+                {
+                    "city_name": "Zangiota Tumani"
+                },
+                {
+                    "city_name": "Quyi Chirchiq Tumani"
+                },
+                {
+                    "city_name": "Chinoz Tumani"
+                },
+                {
+                    "city_name": "Buka Tumani"
+                },
+                {
+                    "city_name": "Bustonliq Tumani"
+                },
+                {
+                    "city_name": "Bekobod Tumani"
+                },
+                {
+                    "city_name": "Oqqurghon Tumani"
+                },
+                {
+                    "city_name": "Ohangaron Tumani"
+                },
+                {
+                    "city_name": "Olmaliq Shahri"
+                },
+                {
+                    "city_name": "Angren Shahri"
+                },
+                {
+                    "city_name": "Ohangaron Shahri"
+                },
+                {
+                    "city_name": "Bekobod Shahri"
+                },
+                {
+                    "city_name": "Chirchiq Shahri"
+                },
+                {
+                    "city_name": "Yangiobod Shahri"
+                }
+            ]
+        },
+        {
+            "province_name": "Toshkent Shahri",
+            "cities": [
+                {
+                    "city_name": "Sirgali Tumani"
+                },
+                {
+                    "city_name": "Sobir Rahimov Tumani"
+                },
+                {
+                    "city_name": "Shaykhontohur Tumani"
+                },
+                {
+                    "city_name": "Mirobod Tumani"
+                },
+                {
+                    "city_name": "Mirzo Ulug`bek Tumani"
+                },
+                {
+                    "city_name": "Yunusobod Tumani"
+                },
+                {
+                    "city_name": "Hamza Tumani"
+                },
+                {
+                    "city_name": "Chilonzor Tumani"
+                },
+                {
+                    "city_name": "Akmal Ikromow Tumani"
+                },
+                {
+                    "city_name": "Bektemir Tumani"
+                },
+                {
+                    "city_name": "Yakkasaroy Tumani"
+                }
+            ]
+        },
+        {
+            "province_name": "Sirdaryo",
+            "cities": [
+                {
+                    "city_name": "Sayhunobod Tumani"
+                },
+                {
+                    "city_name": "Sirdaryo Tumani"
+                },
+                {
+                    "city_name": "Mirzaobod Tumani"
+                },
+                {
+                    "city_name": "Khovos Tumani"
+                },
+                {
+                    "city_name": "Sharof-Rashidow Tumani"
+                },
+                {
+                    "city_name": "Guliston Tumani"
+                },
+                {
+                    "city_name": "Boyowut Tumani"
+                },
+                {
+                    "city_name": "Oqoltin Tumani"
+                },
+                {
+                    "city_name": "Mehnatobod Tumani"
+                },
+                {
+                    "city_name": "Guliston Shahri"
+                },
+                {
+                    "city_name": "Sirdaryo Shahri"
+                },
+                {
+                    "city_name": "Shirin Shahri"
+                },
+                {
+                    "city_name": "Yangiyer Shahri"
+                },
+                {
+                    "city_name": "Bakht Shahri"
+                },
+                {
+                    "city_name": "Bayaut"
+                }
+            ]
+        },
+        {
+            "province_name": "Navoiy Province",
+            "cities": [
+                {
+                    "city_name": "Qiziltepa Tumani"
+                },
+                {
+                    "city_name": "Uchkuduk District"
+                },
+                {
+                    "city_name": "Tomdi Tumani"
+                },
+                {
+                    "city_name": "Nurota Tumani"
+                },
+                {
+                    "city_name": "Navoiy Tumani"
+                },
+                {
+                    "city_name": "Navbahor Tumani"
+                },
+                {
+                    "city_name": "Xatirchi Tumani"
+                },
+                {
+                    "city_name": "Konimex Tumani"
+                },
+                {
+                    "city_name": "Navbakhor Tumani"
+                }
+            ]
+        },
+        {
+            "province_name": "Namangan Province",
+            "cities": [
+                {
+                    "city_name": "Mingbuloq Tumani"
+                },
+                {
+                    "city_name": "Yangiqo`rg`on Tumani"
+                },
+                {
+                    "city_name": "Uychi Tumani"
+                },
+                {
+                    "city_name": "Uchqurghon Tumani"
+                },
+                {
+                    "city_name": "Turaqurghon Tumani"
+                },
+                {
+                    "city_name": "Pop Tumani"
+                },
+                {
+                    "city_name": "Norin Tumani"
+                },
+                {
+                    "city_name": "Namangan Tumani"
+                },
+                {
+                    "city_name": "Kosonsoy Tumani"
+                },
+                {
+                    "city_name": "Chust Tumani"
+                },
+                {
+                    "city_name": "Chortoq Tumani"
+                },
+                {
+                    "city_name": "Chust Tumani"
+                },
+                {
+                    "city_name": "Pap District"
+                }
+            ]
+        },
+        {
+            "province_name": "Xorazm Viloyati",
+            "cities": [
+                {
+                    "city_name": "Yangibozor Tumani"
+                },
+                {
+                    "city_name": "Yangiariq Tumani"
+                },
+                {
+                    "city_name": "Urganch Tumani"
+                },
+                {
+                    "city_name": "Showot Tumani"
+                },
+                {
+                    "city_name": "Qushkupir Tumani"
+                },
+                {
+                    "city_name": "Khiwa Tumani"
+                },
+                {
+                    "city_name": "Hazorasp Tumani"
+                },
+                {
+                    "city_name": "Khonqa Tumani"
+                },
+                {
+                    "city_name": "Gurlan Tumani"
+                },
+                {
+                    "city_name": "Boghot Tumani"
+                },
+                {
+                    "city_name": "Urganch Shahri"
+                },
+                {
+                    "city_name": "Pitnak Shahri"
+                },
+                {
+                    "city_name": "Khiwa Shahri"
+                }
+            ]
+        },
+        {
+            "province_name": "Jizzakh Province",
+            "cities": [
+                {
+                    "city_name": "Zomin Tumani"
+                },
+                {
+                    "city_name": "G`allaorol Tumani"
+                },
+                {
+                    "city_name": "Baxmal Tumani"
+                },
+                {
+                    "city_name": "Zarbdor Tumani"
+                },
+                {
+                    "city_name": "Paxtakor Tumani"
+                },
+                {
+                    "city_name": "Zafarobod Tumani"
+                },
+                {
+                    "city_name": "Mirzachul Tumani"
+                },
+                {
+                    "city_name": "Forish Tumani"
+                },
+                {
+                    "city_name": "Jizzax Tumani"
+                },
+                {
+                    "city_name": "Dustlik Tumani"
+                },
+                {
+                    "city_name": "Arnasoy Tumani"
+                },
+                {
+                    "city_name": "Jizzax Shahri"
+                }
+            ]
+        },
+        {
+            "province_name": "Fergana",
+            "cities": [
+                {
+                    "city_name": "Yozyovon Tumani"
+                },
+                {
+                    "city_name": "O`zbekiston Tumani"
+                },
+                {
+                    "city_name": "Toshloq Tumani"
+                },
+                {
+                    "city_name": "Rishton Tumani"
+                },
+                {
+                    "city_name": "Uchko`prik Tumani"
+                },
+                {
+                    "city_name": "Quva Tumani"
+                },
+                {
+                    "city_name": "Beshariq Tumani"
+                },
+                {
+                    "city_name": "Dang`ara Tumani"
+                },
+                {
+                    "city_name": "Farg`ona Tumani"
+                },
+                {
+                    "city_name": "Buvayda Tumani"
+                },
+                {
+                    "city_name": "Bag`dod Tumani"
+                },
+                {
+                    "city_name": "Oltiariq Tumani"
+                },
+                {
+                    "city_name": "Oxunboboyev Tumani"
+                },
+                {
+                    "city_name": "Furqat Tumani"
+                },
+                {
+                    "city_name": "So`x Tumani"
+                },
+                {
+                    "city_name": "Farg`ona Shahri"
+                },
+                {
+                    "city_name": "Qo`qon Shahri"
+                },
+                {
+                    "city_name": "Quva Shahri"
+                },
+                {
+                    "city_name": "Quvasoy Shahri"
+                },
+                {
+                    "city_name": "Marg`ilon Shahri"
+                },
+                {
+                    "city_name": "Altyarik"
+                },
+                {
+                    "city_name": "Bagdad"
+                },
+                {
+                    "city_name": "Rishtan"
+                },
+                {
+                    "city_name": "Yazyavan"
+                }
+            ]
+        },
+        {
+            "province_name": "Andijan",
+            "cities": [
+                {
+                    "city_name": "Pakhtaobod Tumani"
+                },
+                {
+                    "city_name": "Shahrikhon Tumani"
+                },
+                {
+                    "city_name": "Marhamat Tumani"
+                },
+                {
+                    "city_name": "Asaka Tumani"
+                },
+                {
+                    "city_name": "Qurghontepa Tumani"
+                },
+                {
+                    "city_name": "Ulug`nor Tumani"
+                },
+                {
+                    "city_name": "Khujaobod Tumani"
+                },
+                {
+                    "city_name": "Izboskan Tumani"
+                },
+                {
+                    "city_name": "Jalolkuduk Tumani"
+                },
+                {
+                    "city_name": "Bo`z Tumani"
+                },
+                {
+                    "city_name": "Baliqchi Tumani"
+                },
+                {
+                    "city_name": "Andijon Tumani"
+                },
+                {
+                    "city_name": "Oltinkul Tumani"
+                },
+                {
+                    "city_name": "Buloqboshi Tumani"
+                },
+                {
+                    "city_name": "Andijon Shahri"
+                },
+                {
+                    "city_name": "Asaka Shahri"
+                },
+                {
+                    "city_name": "Qorasuw Shahri"
+                },
+                {
+                    "city_name": "Khonobod Shahri"
+                },
+                {
+                    "city_name": "Shahrikhon Shahri"
+                },
+                {
+                    "city_name": "Ulugnar"
+                }
+            ]
+        }
+    ]
+}

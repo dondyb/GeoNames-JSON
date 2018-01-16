@@ -1,0 +1,468 @@
+{
+    "country_name": "Burundi",
+    "country_id": "BI",
+    "provinces": [
+        {
+            "province_name": "Makamba Province",
+            "cities": [
+                {
+                    "city_name": "Mabanda"
+                },
+                {
+                    "city_name": "Commune of Makamba"
+                },
+                {
+                    "city_name": "Vugizo"
+                },
+                {
+                    "city_name": "Bukemba"
+                },
+                {
+                    "city_name": "Kayogoro"
+                },
+                {
+                    "city_name": "Kibago"
+                },
+                {
+                    "city_name": "Gitanga"
+                },
+                {
+                    "city_name": "Nyanza-Lac"
+                }
+            ]
+        },
+        {
+            "province_name": "Bururi Province",
+            "cities": [
+                {
+                    "city_name": "Mugamba"
+                },
+                {
+                    "city_name": "Commune of Matana"
+                },
+                {
+                    "city_name": "Bururi"
+                },
+                {
+                    "city_name": "Vyanda"
+                },
+                {
+                    "city_name": "Songa"
+                },
+                {
+                    "city_name": "Rutovu"
+                }
+            ]
+        },
+        {
+            "province_name": "Muramvya Province",
+            "cities": [
+                {
+                    "city_name": "Gisozi"
+                },
+                {
+                    "city_name": "Kayokwe"
+                },
+                {
+                    "city_name": "Kiganda"
+                },
+                {
+                    "city_name": "Nyabihanga"
+                },
+                {
+                    "city_name": "Rutegama"
+                },
+                {
+                    "city_name": "Rusaka"
+                },
+                {
+                    "city_name": "Bisoro"
+                },
+                {
+                    "city_name": "Bukeye"
+                },
+                {
+                    "city_name": "Mbuye"
+                },
+                {
+                    "city_name": "Muramvya"
+                }
+            ]
+        },
+        {
+            "province_name": "Gitega Province",
+            "cities": [
+                {
+                    "city_name": "Makebuko"
+                },
+                {
+                    "city_name": "Buraza"
+                },
+                {
+                    "city_name": "Gitega"
+                },
+                {
+                    "city_name": "Mutaho"
+                },
+                {
+                    "city_name": "Giheta"
+                },
+                {
+                    "city_name": "Bugendana"
+                },
+                {
+                    "city_name": "Ryansoro"
+                },
+                {
+                    "city_name": "Commune of Itaba"
+                },
+                {
+                    "city_name": "Nyanrusange"
+                },
+                {
+                    "city_name": "Gishubi"
+                },
+                {
+                    "city_name": "Bukirasazi"
+                }
+            ]
+        },
+        {
+            "province_name": "Ruyigi Province",
+            "cities": [
+                {
+                    "city_name": "Ruyigi"
+                },
+                {
+                    "city_name": "Gisuru"
+                },
+                {
+                    "city_name": "Kinyinya"
+                },
+                {
+                    "city_name": "Nyabitsinda"
+                },
+                {
+                    "city_name": "Butezi"
+                },
+                {
+                    "city_name": "Bweru"
+                }
+            ]
+        },
+        {
+            "province_name": "Cankuzo Province",
+            "cities": [
+                {
+                    "city_name": "Cendajuru"
+                },
+                {
+                    "city_name": "Commune of Cankuzo"
+                },
+                {
+                    "city_name": "Mishiha"
+                },
+                {
+                    "city_name": "Kigamba"
+                },
+                {
+                    "city_name": "Gisagara"
+                }
+            ]
+        },
+        {
+            "province_name": "Karuzi Province",
+            "cities": [
+                {
+                    "city_name": "Nyabikere"
+                },
+                {
+                    "city_name": "Shombo"
+                },
+                {
+                    "city_name": "Gitaramuka"
+                },
+                {
+                    "city_name": "Bugenyuzi"
+                },
+                {
+                    "city_name": "Gihogazi"
+                },
+                {
+                    "city_name": "Mutumba"
+                },
+                {
+                    "city_name": "Buhiga"
+                }
+            ]
+        },
+        {
+            "province_name": "Bubanza Province",
+            "cities": [
+                {
+                    "city_name": "Bubanza"
+                },
+                {
+                    "city_name": "Commune of Gihanga"
+                },
+                {
+                    "city_name": "Commune of Mpanda"
+                },
+                {
+                    "city_name": "Commune of Musigati"
+                },
+                {
+                    "city_name": "Rugazi"
+                }
+            ]
+        },
+        {
+            "province_name": "Cibitoke Province",
+            "cities": [
+                {
+                    "city_name": "Bukinanvana"
+                },
+                {
+                    "city_name": "Mabayi"
+                },
+                {
+                    "city_name": "Murwi"
+                },
+                {
+                    "city_name": "Commune of Rugombo"
+                },
+                {
+                    "city_name": "Commune of Buganda"
+                },
+                {
+                    "city_name": "Commune of Mugina"
+                }
+            ]
+        },
+        {
+            "province_name": "Ngozi Province",
+            "cities": [
+                {
+                    "city_name": "Busiga"
+                },
+                {
+                    "city_name": "Gashikanwa"
+                },
+                {
+                    "city_name": "Ruhororo"
+                },
+                {
+                    "city_name": "Tangara"
+                },
+                {
+                    "city_name": "Ngozi"
+                },
+                {
+                    "city_name": "Commune of Rutana"
+                },
+                {
+                    "city_name": "Mwumba"
+                },
+                {
+                    "city_name": "Nyamurenza"
+                },
+                {
+                    "city_name": "Marangara"
+                },
+                {
+                    "city_name": "Kiremba"
+                }
+            ]
+        },
+        {
+            "province_name": "Kayanza Province",
+            "cities": [
+                {
+                    "city_name": "Kabarore"
+                },
+                {
+                    "city_name": "Kayanza"
+                },
+                {
+                    "city_name": "Muruta"
+                },
+                {
+                    "city_name": "Butaganzwa"
+                },
+                {
+                    "city_name": "Commune of Matongo"
+                },
+                {
+                    "city_name": "Rango"
+                },
+                {
+                    "city_name": "Gatara"
+                },
+                {
+                    "city_name": "Gahombo"
+                },
+                {
+                    "city_name": "Muhanga"
+                }
+            ]
+        },
+        {
+            "province_name": "Muyinga Province",
+            "cities": [
+                {
+                    "city_name": "Gashoho"
+                },
+                {
+                    "city_name": "Giteranyi"
+                },
+                {
+                    "city_name": "Muyinga"
+                },
+                {
+                    "city_name": "Butihinda"
+                },
+                {
+                    "city_name": "Buhinyuza"
+                },
+                {
+                    "city_name": "Mwakiro"
+                },
+                {
+                    "city_name": "Gasorwe"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirundo Province",
+            "cities": [
+                {
+                    "city_name": "Busoni"
+                },
+                {
+                    "city_name": "Vumbi"
+                },
+                {
+                    "city_name": "Commune of Kirundo"
+                },
+                {
+                    "city_name": "Commune of Bwambarangwe"
+                },
+                {
+                    "city_name": "Bugabira"
+                },
+                {
+                    "city_name": "Ntega"
+                },
+                {
+                    "city_name": "Gitobe"
+                }
+            ]
+        },
+        {
+            "province_name": "Rutana Province",
+            "cities": [
+                {
+                    "city_name": "Musongati"
+                },
+                {
+                    "city_name": "Mpinga-Kayove"
+                },
+                {
+                    "city_name": "Giharo"
+                }
+            ]
+        },
+        {
+            "province_name": "Province de Mwaro",
+            "cities": [
+                {
+                    "city_name": "Ndava"
+                }
+            ]
+        },
+        {
+            "province_name": "Bujumbura Mairie Province",
+            "cities": [
+                {
+                    "city_name": "Commune of Rohero"
+                },
+                {
+                    "city_name": "Kamenge"
+                },
+                {
+                    "city_name": "Gihosha"
+                },
+                {
+                    "city_name": "Musaga"
+                },
+                {
+                    "city_name": "Commune of Buyenzi"
+                },
+                {
+                    "city_name": "Nyakabiga"
+                },
+                {
+                    "city_name": "Bwiza"
+                },
+                {
+                    "city_name": "Kanyosha"
+                },
+                {
+                    "city_name": "Kinindo"
+                }
+            ]
+        },
+        {
+            "province_name": "Bujumbura Rural Province",
+            "cities": [
+                {
+                    "city_name": "Commune of Mutimbuzi"
+                },
+                {
+                    "city_name": "Kanyosha1"
+                },
+                {
+                    "city_name": "Kabezi"
+                },
+                {
+                    "city_name": "Mukike"
+                },
+                {
+                    "city_name": "Mutambu"
+                },
+                {
+                    "city_name": "Nyabiraba"
+                },
+                {
+                    "city_name": "Mugongomanga"
+                },
+                {
+                    "city_name": "Isale"
+                },
+                {
+                    "city_name": "Mubimbi"
+                }
+            ]
+        },
+        {
+            "province_name": "Rumonge Province",
+            "cities": [
+                {
+                    "city_name": "Buyengero"
+                },
+                {
+                    "city_name": "Muhuta"
+                },
+                {
+                    "city_name": "Commune of Rumonge"
+                },
+                {
+                    "city_name": "Bugarama"
+                },
+                {
+                    "city_name": "Commune of Burambi"
+                }
+            ]
+        }
+    ]
+}

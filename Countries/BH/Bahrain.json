@@ -1,0 +1,22 @@
+{
+    "country_name": "Bahrain",
+    "country_id": "BH",
+    "provinces": [
+        {
+            "province_name": "Muharraq Governorate",
+            "cities": []
+        },
+        {
+            "province_name": "Capital Governorate",
+            "cities": []
+        },
+        {
+            "province_name": "Southern Governorate",
+            "cities": []
+        },
+        {
+            "province_name": "Northern Governorate",
+            "cities": []
+        }
+    ]
+}

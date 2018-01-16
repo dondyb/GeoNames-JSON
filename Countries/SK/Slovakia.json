@@ -1,0 +1,283 @@
+{
+    "country_name": "Slovakia",
+    "country_id": "SK",
+    "provinces": [
+        {
+            "province_name": "Kosice",
+            "cities": [
+                {
+                    "city_name": "Okres Trebisov"
+                },
+                {
+                    "city_name": "Okres Spisska Nova Ves"
+                },
+                {
+                    "city_name": "Okres Roznava"
+                },
+                {
+                    "city_name": "Okres Michalovce"
+                },
+                {
+                    "city_name": "Okres Gelnica"
+                },
+                {
+                    "city_name": "Okres Sobrance"
+                },
+                {
+                    "city_name": "Kosice I"
+                },
+                {
+                    "city_name": "Kosice II"
+                },
+                {
+                    "city_name": "Kosice III"
+                },
+                {
+                    "city_name": "Kosice IV"
+                },
+                {
+                    "city_name": "Okres Kosice-okolie"
+                }
+            ]
+        },
+        {
+            "province_name": "Presov",
+            "cities": [
+                {
+                    "city_name": "Okres Vranov nad Toplou"
+                },
+                {
+                    "city_name": "Okres Svidnik"
+                },
+                {
+                    "city_name": "Okres Stara Lubovna"
+                },
+                {
+                    "city_name": "Okres Presov"
+                },
+                {
+                    "city_name": "Okres Poprad"
+                },
+                {
+                    "city_name": "Okres Humenne"
+                },
+                {
+                    "city_name": "Okres Bardejov"
+                },
+                {
+                    "city_name": "Okres Kezmarok"
+                },
+                {
+                    "city_name": "Okres Medzilaborce"
+                },
+                {
+                    "city_name": "Okres Sabinov"
+                },
+                {
+                    "city_name": "Okres Snina"
+                },
+                {
+                    "city_name": "Okres Stropkov"
+                },
+                {
+                    "city_name": "Okres Levoca"
+                }
+            ]
+        },
+        {
+            "province_name": "Zilina",
+            "cities": [
+                {
+                    "city_name": "Okres Zilina"
+                },
+                {
+                    "city_name": "Okres Martin"
+                },
+                {
+                    "city_name": "Okres Liptovsky Mikulas"
+                },
+                {
+                    "city_name": "Okres Dolny Kubin"
+                },
+                {
+                    "city_name": "Okres Cadca"
+                },
+                {
+                    "city_name": "Okres Namestovo"
+                },
+                {
+                    "city_name": "Okres Bytca"
+                },
+                {
+                    "city_name": "Okres Kysucke Nove Mesto"
+                },
+                {
+                    "city_name": "Okres Ruzomberok"
+                },
+                {
+                    "city_name": "Okres Turcianske Teplice"
+                },
+                {
+                    "city_name": "Okres Tvrdosin"
+                }
+            ]
+        },
+        {
+            "province_name": "Banska Bystrica",
+            "cities": [
+                {
+                    "city_name": "Okres Rimavska Sobota"
+                },
+                {
+                    "city_name": "Okres Zvolen"
+                },
+                {
+                    "city_name": "Okres Ziar nad Hronom"
+                },
+                {
+                    "city_name": "Okres Velky Krtis"
+                },
+                {
+                    "city_name": "Okres Lucenec"
+                },
+                {
+                    "city_name": "Okres Brezno"
+                },
+                {
+                    "city_name": "Okres Banska Bystrica"
+                },
+                {
+                    "city_name": "Okres Banska Stiavnica"
+                },
+                {
+                    "city_name": "Okres Detva"
+                },
+                {
+                    "city_name": "Okres Krupina"
+                },
+                {
+                    "city_name": "Okres Poltar"
+                },
+                {
+                    "city_name": "Okres Revuca"
+                },
+                {
+                    "city_name": "Okres Zarnovica"
+                }
+            ]
+        },
+        {
+            "province_name": "Bratislava",
+            "cities": [
+                {
+                    "city_name": "Okres Bratislava I"
+                },
+                {
+                    "city_name": "Okres Malacky"
+                },
+                {
+                    "city_name": "Okres Pezinok"
+                },
+                {
+                    "city_name": "Okres Senec"
+                },
+                {
+                    "city_name": "Okres Bratislava II"
+                },
+                {
+                    "city_name": "Okres Bratislava III"
+                },
+                {
+                    "city_name": "Okres Bratislava IV"
+                },
+                {
+                    "city_name": "Okres Bratislava V"
+                }
+            ]
+        },
+        {
+            "province_name": "Nitra",
+            "cities": [
+                {
+                    "city_name": "Okres Topolcany"
+                },
+                {
+                    "city_name": "Okres Nove Zamky"
+                },
+                {
+                    "city_name": "Okres Nitra"
+                },
+                {
+                    "city_name": "Okres Levice"
+                },
+                {
+                    "city_name": "Okres Komarno"
+                },
+                {
+                    "city_name": "Okres Sala"
+                },
+                {
+                    "city_name": "Okres Zlate Moravce"
+                }
+            ]
+        },
+        {
+            "province_name": "Trencin",
+            "cities": [
+                {
+                    "city_name": "Okres Trencin"
+                },
+                {
+                    "city_name": "Okres Prievidza"
+                },
+                {
+                    "city_name": "Okres Povazska Bystrica"
+                },
+                {
+                    "city_name": "Okres Nove Mesto nad Vahom"
+                },
+                {
+                    "city_name": "Okres Myjava"
+                },
+                {
+                    "city_name": "Okres Banovce nad Bebravou"
+                },
+                {
+                    "city_name": "Okres Ilava"
+                },
+                {
+                    "city_name": "Okres Partizanske"
+                },
+                {
+                    "city_name": "Okres Puchov"
+                }
+            ]
+        },
+        {
+            "province_name": "Trnava",
+            "cities": [
+                {
+                    "city_name": "Okres Trnava"
+                },
+                {
+                    "city_name": "Okres Skalica"
+                },
+                {
+                    "city_name": "Okres Senica"
+                },
+                {
+                    "city_name": "Okres Hlohovec"
+                },
+                {
+                    "city_name": "Okres Galanta"
+                },
+                {
+                    "city_name": "Okres Dunajska Streda"
+                },
+                {
+                    "city_name": "Okres Piestany"
+                }
+            ]
+        }
+    ]
+}

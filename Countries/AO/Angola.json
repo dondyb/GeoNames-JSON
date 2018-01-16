@@ -1,0 +1,591 @@
+{
+    "country_name": "Angola",
+    "country_id": "AO",
+    "provinces": [
+        {
+            "province_name": "Lunda Sul",
+            "cities": [
+                {
+                    "city_name": "Saurimo"
+                },
+                {
+                    "city_name": "Muconda"
+                },
+                {
+                    "city_name": "Dala"
+                },
+                {
+                    "city_name": "Cacolo"
+                }
+            ]
+        },
+        {
+            "province_name": "Lunda Norte Province",
+            "cities": [
+                {
+                    "city_name": "Lucapa"
+                },
+                {
+                    "city_name": "Chitato"
+                },
+                {
+                    "city_name": "Cambulo"
+                },
+                {
+                    "city_name": "Xa-Muteba"
+                },
+                {
+                    "city_name": "Lubalo"
+                },
+                {
+                    "city_name": "Cuilo"
+                },
+                {
+                    "city_name": "Cuango"
+                },
+                {
+                    "city_name": "Caungula"
+                },
+                {
+                    "city_name": "Capenda Camulemba"
+                }
+            ]
+        },
+        {
+            "province_name": "Moxico",
+            "cities": [
+                {
+                    "city_name": "Luena"
+                },
+                {
+                    "city_name": "Cameia"
+                },
+                {
+                    "city_name": "Bundas"
+                },
+                {
+                    "city_name": "Luau"
+                },
+                {
+                    "city_name": "Luacano"
+                },
+                {
+                    "city_name": "Leua"
+                },
+                {
+                    "city_name": "Camanongue"
+                },
+                {
+                    "city_name": "Alto Zambeze"
+                },
+                {
+                    "city_name": "Luchazes"
+                }
+            ]
+        },
+        {
+            "province_name": "Kuando Kubango",
+            "cities": [
+                {
+                    "city_name": "Rivungo"
+                },
+                {
+                    "city_name": "Mavinga"
+                },
+                {
+                    "city_name": "Dirico"
+                },
+                {
+                    "city_name": "Nancova"
+                },
+                {
+                    "city_name": "Menongue"
+                },
+                {
+                    "city_name": "Cuito Cuanavale"
+                },
+                {
+                    "city_name": "Cuchi"
+                },
+                {
+                    "city_name": "Cuangar"
+                },
+                {
+                    "city_name": "Calai"
+                }
+            ]
+        },
+        {
+            "province_name": "Zaire",
+            "cities": [
+                {
+                    "city_name": "Tomboco"
+                },
+                {
+                    "city_name": "Soyo"
+                },
+                {
+                    "city_name": "Nzeto"
+                },
+                {
+                    "city_name": "Noqui"
+                },
+                {
+                    "city_name": "Mbanza Congo"
+                },
+                {
+                    "city_name": "Cuimba"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia do Uige",
+            "cities": [
+                {
+                    "city_name": "Uige Municipality"
+                },
+                {
+                    "city_name": "Songo"
+                },
+                {
+                    "city_name": "Sanza Pombo"
+                },
+                {
+                    "city_name": "Santa Cruz"
+                },
+                {
+                    "city_name": "Quitexe Municipality"
+                },
+                {
+                    "city_name": "Quimbele"
+                },
+                {
+                    "city_name": "Puri"
+                },
+                {
+                    "city_name": "Negage Municipality"
+                },
+                {
+                    "city_name": "Mucaba"
+                },
+                {
+                    "city_name": "Maquela do Zombo"
+                },
+                {
+                    "city_name": "Damba"
+                },
+                {
+                    "city_name": "Bungo"
+                },
+                {
+                    "city_name": "Buengas"
+                },
+                {
+                    "city_name": "Municipio Bembe"
+                },
+                {
+                    "city_name": "Bembe"
+                },
+                {
+                    "city_name": "Ambuila Municipality"
+                },
+                {
+                    "city_name": "Cangola"
+                }
+            ]
+        },
+        {
+            "province_name": "Malanje Province",
+            "cities": [
+                {
+                    "city_name": "Quela"
+                },
+                {
+                    "city_name": "Caculama"
+                },
+                {
+                    "city_name": "Massango"
+                },
+                {
+                    "city_name": "Marimba"
+                },
+                {
+                    "city_name": "Malanje Municipality"
+                },
+                {
+                    "city_name": "Cunda-Dia-Baze"
+                },
+                {
+                    "city_name": "Kiwaba Nzoji"
+                },
+                {
+                    "city_name": "Cahombo"
+                },
+                {
+                    "city_name": "Calandula"
+                },
+                {
+                    "city_name": "Cacuso"
+                },
+                {
+                    "city_name": "Quirima"
+                },
+                {
+                    "city_name": "Luquembo"
+                },
+                {
+                    "city_name": "Cangandala"
+                },
+                {
+                    "city_name": "Cambundi-Catembo"
+                },
+                {
+                    "city_name": "Kiwaba Nzoji"
+                }
+            ]
+        },
+        {
+            "province_name": "Luanda Province",
+            "cities": [
+                {
+                    "city_name": "Viana"
+                },
+                {
+                    "city_name": "Quissama"
+                },
+                {
+                    "city_name": "Luanda Municipality"
+                },
+                {
+                    "city_name": "Icolo e Bengo"
+                },
+                {
+                    "city_name": "Cacuaco Municipality"
+                },
+                {
+                    "city_name": "Municipio Cazenga"
+                },
+                {
+                    "city_name": "Belas"
+                }
+            ]
+        },
+        {
+            "province_name": "Cuanza Norte Province",
+            "cities": [
+                {
+                    "city_name": "Quiculungo"
+                },
+                {
+                    "city_name": "Lucala"
+                },
+                {
+                    "city_name": "Ngonguembo"
+                },
+                {
+                    "city_name": "Golungo Alto"
+                },
+                {
+                    "city_name": "Cazengo Municipality"
+                },
+                {
+                    "city_name": "Cambambe"
+                },
+                {
+                    "city_name": "Bolongongo"
+                },
+                {
+                    "city_name": "Banga"
+                },
+                {
+                    "city_name": "Ambaca"
+                },
+                {
+                    "city_name": "Samba Caju"
+                }
+            ]
+        },
+        {
+            "province_name": "Cabinda",
+            "cities": [
+                {
+                    "city_name": "Cacongo"
+                },
+                {
+                    "city_name": "Cabinda"
+                },
+                {
+                    "city_name": "Buco Zau"
+                },
+                {
+                    "city_name": "Belize"
+                }
+            ]
+        },
+        {
+            "province_name": "Bengo Province",
+            "cities": [
+                {
+                    "city_name": "Municipio Pango Aluquem"
+                },
+                {
+                    "city_name": "Nambuangongo Municipality"
+                },
+                {
+                    "city_name": "Dembos"
+                },
+                {
+                    "city_name": "Dande Municipality"
+                },
+                {
+                    "city_name": "Bula Atumba"
+                },
+                {
+                    "city_name": "Ambriz"
+                }
+            ]
+        },
+        {
+            "province_name": "Namibe Province",
+            "cities": [
+                {
+                    "city_name": "Virei"
+                },
+                {
+                    "city_name": "Tombwa"
+                },
+                {
+                    "city_name": "Namibe"
+                },
+                {
+                    "city_name": "Camucuio"
+                },
+                {
+                    "city_name": "Bibala"
+                }
+            ]
+        },
+        {
+            "province_name": "Huila Province",
+            "cities": [
+                {
+                    "city_name": "Quipungo"
+                },
+                {
+                    "city_name": "Quilengues"
+                },
+                {
+                    "city_name": "Matala"
+                },
+                {
+                    "city_name": "Lubango"
+                },
+                {
+                    "city_name": "Cuvango"
+                },
+                {
+                    "city_name": "Jamba"
+                },
+                {
+                    "city_name": "Humpata"
+                },
+                {
+                    "city_name": "Chipindo"
+                },
+                {
+                    "city_name": "Chicomba"
+                },
+                {
+                    "city_name": "Chibia"
+                },
+                {
+                    "city_name": "Gambos"
+                },
+                {
+                    "city_name": "Caluquembe"
+                },
+                {
+                    "city_name": "Caconda"
+                },
+                {
+                    "city_name": "Cacula"
+                }
+            ]
+        },
+        {
+            "province_name": "Huambo",
+            "cities": [
+                {
+                    "city_name": "Ucuma"
+                },
+                {
+                    "city_name": "Chinjenje"
+                },
+                {
+                    "city_name": "Chicala Cholohanga"
+                },
+                {
+                    "city_name": "Mungo"
+                },
+                {
+                    "city_name": "Longonjo"
+                },
+                {
+                    "city_name": "Londuimbali"
+                },
+                {
+                    "city_name": "Cachiungo"
+                },
+                {
+                    "city_name": "Huambo"
+                },
+                {
+                    "city_name": "Ecunha"
+                },
+                {
+                    "city_name": "Caala"
+                },
+                {
+                    "city_name": "Bailundo"
+                }
+            ]
+        },
+        {
+            "province_name": "Cunene Province",
+            "cities": [
+                {
+                    "city_name": "Ombadja"
+                },
+                {
+                    "city_name": "Namacunde"
+                },
+                {
+                    "city_name": "Cuvelai"
+                },
+                {
+                    "city_name": "Curoca"
+                },
+                {
+                    "city_name": "Cuanhama"
+                },
+                {
+                    "city_name": "Cahama"
+                }
+            ]
+        },
+        {
+            "province_name": "Kwanza Sul",
+            "cities": [
+                {
+                    "city_name": "Cela"
+                },
+                {
+                    "city_name": "Sumbe"
+                },
+                {
+                    "city_name": "Seles"
+                },
+                {
+                    "city_name": "Quilenda"
+                },
+                {
+                    "city_name": "Quibala"
+                },
+                {
+                    "city_name": "Porto Amboim"
+                },
+                {
+                    "city_name": "Mussende"
+                },
+                {
+                    "city_name": "Libolo"
+                },
+                {
+                    "city_name": "Ebo"
+                },
+                {
+                    "city_name": "Conda"
+                },
+                {
+                    "city_name": "Cassongue"
+                },
+                {
+                    "city_name": "Amboim"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia do Bie",
+            "cities": [
+                {
+                    "city_name": "Nharea"
+                },
+                {
+                    "city_name": "Cuito"
+                },
+                {
+                    "city_name": "Cunhinga"
+                },
+                {
+                    "city_name": "Cuemba"
+                },
+                {
+                    "city_name": "Chitembo"
+                },
+                {
+                    "city_name": "Chinguar"
+                },
+                {
+                    "city_name": "Catabola"
+                },
+                {
+                    "city_name": "Municipio Camacupa"
+                },
+                {
+                    "city_name": "Camacupa"
+                },
+                {
+                    "city_name": "Andulo"
+                },
+                {
+                    "city_name": "Barkeol"
+                }
+            ]
+        },
+        {
+            "province_name": "Benguela",
+            "cities": [
+                {
+                    "city_name": "Lobito"
+                },
+                {
+                    "city_name": "Ganda"
+                },
+                {
+                    "city_name": "Cubal"
+                },
+                {
+                    "city_name": "Chongoroi"
+                },
+                {
+                    "city_name": "Caimbambo"
+                },
+                {
+                    "city_name": "Bocoio"
+                },
+                {
+                    "city_name": "Benguela"
+                },
+                {
+                    "city_name": "Municipio Balombo"
+                },
+                {
+                    "city_name": "Baia Farta"
+                },
+                {
+                    "city_name": "Catumbela"
+                }
+            ]
+        }
+    ]
+}

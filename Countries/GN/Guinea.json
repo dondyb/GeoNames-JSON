@@ -1,0 +1,148 @@
+{
+    "country_name": "Guinea",
+    "country_id": "GN",
+    "provinces": [
+        {
+            "province_name": "Conakry Region",
+            "cities": [
+                {
+                    "city_name": "Conakry Special Zone"
+                }
+            ]
+        },
+        {
+            "province_name": "Boke Region",
+            "cities": [
+                {
+                    "city_name": "Koundara Prefecture"
+                },
+                {
+                    "city_name": "Gaoual Prefecture"
+                },
+                {
+                    "city_name": "Fria"
+                },
+                {
+                    "city_name": "Boke Prefecture"
+                },
+                {
+                    "city_name": "Boffa"
+                }
+            ]
+        },
+        {
+            "province_name": "Faranah Region",
+            "cities": [
+                {
+                    "city_name": "Kissidougou"
+                },
+                {
+                    "city_name": "Faranah Prefecture"
+                },
+                {
+                    "city_name": "Dinguiraye Prefecture"
+                },
+                {
+                    "city_name": "Dabola"
+                }
+            ]
+        },
+        {
+            "province_name": "Kankan Region",
+            "cities": [
+                {
+                    "city_name": "Siguiri Prefecture"
+                },
+                {
+                    "city_name": "Kouroussa"
+                },
+                {
+                    "city_name": "Kerouane Prefecture"
+                },
+                {
+                    "city_name": "Kankan Prefecture"
+                },
+                {
+                    "city_name": "Mandiana Prefecture"
+                }
+            ]
+        },
+        {
+            "province_name": "Kindia Region",
+            "cities": [
+                {
+                    "city_name": "Telimele Prefecture"
+                },
+                {
+                    "city_name": "Kindia"
+                },
+                {
+                    "city_name": "Prefecture de Forecariah"
+                },
+                {
+                    "city_name": "Prefecture de Dubreka"
+                },
+                {
+                    "city_name": "Coyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Labe Region",
+            "cities": [
+                {
+                    "city_name": "Tougue Prefecture"
+                },
+                {
+                    "city_name": "Mali Prefecture"
+                },
+                {
+                    "city_name": "Labe Prefecture"
+                },
+                {
+                    "city_name": "Koubia"
+                },
+                {
+                    "city_name": "Lelouma Prefecture"
+                }
+            ]
+        },
+        {
+            "province_name": "Mamou Region",
+            "cities": [
+                {
+                    "city_name": "Pita"
+                },
+                {
+                    "city_name": "Mamou Prefecture"
+                },
+                {
+                    "city_name": "Dalaba"
+                }
+            ]
+        },
+        {
+            "province_name": "Nzerekore Region",
+            "cities": [
+                {
+                    "city_name": "Yomou"
+                },
+                {
+                    "city_name": "Nzerekore Prefecture"
+                },
+                {
+                    "city_name": "Macenta"
+                },
+                {
+                    "city_name": "Prefecture de Guekedou"
+                },
+                {
+                    "city_name": "Beyla Prefecture"
+                },
+                {
+                    "city_name": "Lola"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1284 @@
+{
+    "country_name": "Ukraine",
+    "country_id": "UA",
+    "provinces": [
+        {
+            "province_name": "Zhytomyrs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Popilnia Raion"
+                },
+                {
+                    "city_name": "Malyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Andrushivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Novohrad-Volyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Zhytomyrs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Berdychivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Korostens'ka Mis'krada"
+                },
+                {
+                    "city_name": "Malyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Brusylivs'kyy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Zaporiz'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Mykhaylivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Melitopol's'kyy Rayon"
+                },
+                {
+                    "city_name": "Berdyans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Velykobilozers'kyy Rayon"
+                },
+                {
+                    "city_name": "Enerhodars'ka Mis'krada"
+                },
+                {
+                    "city_name": "Tokmats'ka Mis'krada"
+                },
+                {
+                    "city_name": "Rozivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Zaporiz'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Zakarpattia Oblast",
+            "cities": [
+                {
+                    "city_name": "Volovets Raion"
+                },
+                {
+                    "city_name": "Vynohradiv Raion"
+                },
+                {
+                    "city_name": "Velykyi Bereznyi Raion"
+                },
+                {
+                    "city_name": "Uzhgorodskiy Raion"
+                },
+                {
+                    "city_name": "Tiachiv Raion"
+                },
+                {
+                    "city_name": "Svaliava Raion"
+                },
+                {
+                    "city_name": "Rakhiv Raion"
+                },
+                {
+                    "city_name": "Perechyn Raion"
+                },
+                {
+                    "city_name": "Mukachevo Raion"
+                },
+                {
+                    "city_name": "Mizhhirya Raion"
+                },
+                {
+                    "city_name": "Khust Raion"
+                },
+                {
+                    "city_name": "Irshava Raion"
+                },
+                {
+                    "city_name": "Berehove Raion"
+                },
+                {
+                    "city_name": "Khusts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Berehivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Uzhhorods'ka Mis'krada"
+                },
+                {
+                    "city_name": "Chops'ka Mis'krada"
+                },
+                {
+                    "city_name": "Mukachivs'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Volyns'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Ratnivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Manevyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Lyuboml's'kyy Rayon"
+                },
+                {
+                    "city_name": "Lyubeshivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Volodymyr-Volyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kovel's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Luts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Shats'kyy Rayon"
+                },
+                {
+                    "city_name": "Novovolyns'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Vinnyts'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zamostyanskiy Rayon"
+                },
+                {
+                    "city_name": "Vinnitskiy Rayon"
+                },
+                {
+                    "city_name": "Starogorodskoy Ryon"
+                },
+                {
+                    "city_name": "Lityns'kyy Rayon"
+                },
+                {
+                    "city_name": "Lypovets'kyy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Chechel'nyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Vinnyts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Mohyliv-Podil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Zhmeryns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kozyatyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Chernivets'kyy Rayon"
+                },
+                {
+                    "city_name": "Ladyzhyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Khmil'nyts'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Ternopil's'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Chortkivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Ternopil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Zalishchyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Pidhayets'kyy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Sums'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Okhtyrs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Lebedyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Hlukhivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Sums'ka Mis'krada"
+                },
+                {
+                    "city_name": "Shostkyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Romens'ka Mis'krada"
+                },
+                {
+                    "city_name": "Konotops'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Gorod Sevastopol",
+            "cities": [
+                {
+                    "city_name": "Nakhimovskiy rayon"
+                },
+                {
+                    "city_name": "Leninskiy rayon"
+                },
+                {
+                    "city_name": "Gagarinskiy rayon"
+                },
+                {
+                    "city_name": "Balaklavskiy rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Rivnens'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Sarnens'kyy Rayon"
+                },
+                {
+                    "city_name": "Mlinovskiy Rayon"
+                },
+                {
+                    "city_name": "Kuznetsovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Demydivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Dubens'ka Mis'krada"
+                },
+                {
+                    "city_name": "Mlynivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Ostroz'ka Mis'krada"
+                },
+                {
+                    "city_name": "Rivnens'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Poltavs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Velykobahachans'kyy Rayon"
+                },
+                {
+                    "city_name": "Shyshats'kyy Rayon"
+                },
+                {
+                    "city_name": "Semenivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Reshetylivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Poltavs'kyy Rayon"
+                },
+                {
+                    "city_name": "Pyryatyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Orzhyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Novosanzhars'kyy Rayon"
+                },
+                {
+                    "city_name": "Myrhorods'kyy Rayon"
+                },
+                {
+                    "city_name": "Mashivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Lubens'kyy Rayon"
+                },
+                {
+                    "city_name": "Lokhvyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Kryukovskiy Rayon"
+                },
+                {
+                    "city_name": "Kremenchugskiy Rayon"
+                },
+                {
+                    "city_name": "Kozelshchyna Raion"
+                },
+                {
+                    "city_name": "Kotelevs'kyy Rayon"
+                },
+                {
+                    "city_name": "Kobelyats'kyy Rayon"
+                },
+                {
+                    "city_name": "Khorol'skyy Rayon"
+                },
+                {
+                    "city_name": "Karlivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Hrebinkivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Hlobyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Dykans'kyy Rayon"
+                },
+                {
+                    "city_name": "Chutivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Chornukhyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Avtozavodskiy Rayon"
+                },
+                {
+                    "city_name": "Komsomolskiy Rayon"
+                },
+                {
+                    "city_name": "Poltavs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Novosanzhars'kyy Rayon"
+                },
+                {
+                    "city_name": "Kremenchuts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Myrhorods'ka Mis'krada"
+                },
+                {
+                    "city_name": "Komsomol's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Lubens'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Odes'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Velykomykhaylivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Tatarbunars'kyy Rayon"
+                },
+                {
+                    "city_name": "Tarutyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Shyryayivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Savrans'kyy Rayon"
+                },
+                {
+                    "city_name": "Sarats'kyy Rayon"
+                },
+                {
+                    "city_name": "Rozdil'nyans'kyy Rayon"
+                },
+                {
+                    "city_name": "Ovidiopol's'kyy Rayon"
+                },
+                {
+                    "city_name": "Mykolayivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Lyubashivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Okny Raion"
+                },
+                {
+                    "city_name": "Kotovs'kyy Rayon"
+                },
+                {
+                    "city_name": "Lyman Raion"
+                },
+                {
+                    "city_name": "Kodyms'kyy Rayon"
+                },
+                {
+                    "city_name": "Kiliys'kyy Rayon"
+                },
+                {
+                    "city_name": "Izmail'skiy Rayon"
+                },
+                {
+                    "city_name": "Ivanivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Zakharivka Raion"
+                },
+                {
+                    "city_name": "Bolhrads'kyy Rayon"
+                },
+                {
+                    "city_name": "Berezivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Bilyayivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Bilhorod-Dnistrovs'kyy Rayon"
+                },
+                {
+                    "city_name": "Balts'kyy Rayon"
+                },
+                {
+                    "city_name": "Artsyz'kyy Rayon"
+                },
+                {
+                    "city_name": "Anan'yivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Bilhorod-Dnistrovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Odes'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kotovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Izmayil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Illichivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Teplodars'ka Mis'krada"
+                },
+                {
+                    "city_name": "Yuznens'ka Mis'krada"
+                },
+                {
+                    "city_name": "Reniys'kyy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Mykolayivs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Vradiyivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Veselynivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Pervomays'kyy Rayon"
+                },
+                {
+                    "city_name": "Novoodes'kyy Rayon"
+                },
+                {
+                    "city_name": "Domanivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Pervomays'ka Mis'krada"
+                },
+                {
+                    "city_name": "Voznesens'ka Mis'krada"
+                },
+                {
+                    "city_name": "Ochakivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Mykolayivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Yuzhnoukrayins'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "L'vivs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Stryys'ka Mis'krada"
+                },
+                {
+                    "city_name": "Morshyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Sambirs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Drohobyts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Boryslavs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Truskavets'ka Mis'krada"
+                },
+                {
+                    "city_name": "Chervonohrads'ka Mis'krada"
+                },
+                {
+                    "city_name": "Novorozdil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "L'vivs'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Luhans'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Lutuhyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Antratsytivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Antratsytivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Alchevs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Luhans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Bryankivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kirovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Krasnoluts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Krasnodons'ka Mis'krada"
+                },
+                {
+                    "city_name": "Lysychans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Pervomays'ka Mis'krada"
+                },
+                {
+                    "city_name": "Roven'kivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Rubizhans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Sverdlovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Syevyerodonets'ka Mis'krada"
+                },
+                {
+                    "city_name": "Stakhanovs'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Kyiv Oblast",
+            "cities": [
+                {
+                    "city_name": "Yahotyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Vyshgorodskiy Rayon"
+                },
+                {
+                    "city_name": "Vasylkiv Raion"
+                },
+                {
+                    "city_name": "Skvyrs'kyy Rayon"
+                },
+                {
+                    "city_name": "Rokytne Raion"
+                },
+                {
+                    "city_name": "Pereiaslav-Khmelnytskyi Raion"
+                },
+                {
+                    "city_name": "Obukhiv Raion"
+                },
+                {
+                    "city_name": "Makariv Raion"
+                },
+                {
+                    "city_name": "Kaharlyk Raion"
+                },
+                {
+                    "city_name": "Ivankiv Raion"
+                },
+                {
+                    "city_name": "Fastiv Raion"
+                },
+                {
+                    "city_name": "Brovary Raion"
+                },
+                {
+                    "city_name": "Borispol'skiy Rayon"
+                },
+                {
+                    "city_name": "Bila Tserkva Raion"
+                },
+                {
+                    "city_name": "Baryshivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Obukhivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Pereyaslav-Khmel'nyts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Vasyl'kivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Boryspil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Bilotserkivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Fastivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Rzhyshchivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Brovars'ka Mis'krada"
+                },
+                {
+                    "city_name": "Irpins'ka Mis'krada"
+                },
+                {
+                    "city_name": "Z.hurivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Berezans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Slavutyts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kyyevo-Svyatoshyns'kyy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Misto Kyyiv",
+            "cities": [
+                {
+                    "city_name": "Solomianka Rayon"
+                },
+                {
+                    "city_name": "Shevchenkivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Podil's'kyy Rayon"
+                },
+                {
+                    "city_name": "Pechersk Raion"
+                },
+                {
+                    "city_name": "Holosiiv Raion"
+                },
+                {
+                    "city_name": "Obolons'kyy Rayon"
+                },
+                {
+                    "city_name": "Svyatoshyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Darnytsia Raion"
+                },
+                {
+                    "city_name": "Desnyans'kyy Rayon"
+                },
+                {
+                    "city_name": "Dnipro Raion"
+                }
+            ]
+        },
+        {
+            "province_name": "Republic of Crimea",
+            "cities": [
+                {
+                    "city_name": "Gorodskoy okrug Sudak"
+                },
+                {
+                    "city_name": "Sovetskiy rayon"
+                },
+                {
+                    "city_name": "Simferopol'skiy rayon"
+                },
+                {
+                    "city_name": "Sakskiy rayon"
+                },
+                {
+                    "city_name": "Razdol'nenskiy rayon"
+                },
+                {
+                    "city_name": "Pervomayskiy rayon"
+                },
+                {
+                    "city_name": "Nizhnegorskiy rayon"
+                },
+                {
+                    "city_name": "Leninskiy rayon"
+                },
+                {
+                    "city_name": "Krasnoperekopskiy rayon"
+                },
+                {
+                    "city_name": "Krasnogvardeyskiy rayon"
+                },
+                {
+                    "city_name": "Kirovskiy rayon"
+                },
+                {
+                    "city_name": "Dzhankoyskiy rayon"
+                },
+                {
+                    "city_name": "Chernomorskiy rayon"
+                },
+                {
+                    "city_name": "Belogorskiy rayon"
+                },
+                {
+                    "city_name": "Bakhchisarayskiy rayon"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Feodosiya"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Simferopol"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Saki"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Yalta"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Alushta"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Armyansk"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Dzhankoy"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Yevpatoriya"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Kerch"
+                },
+                {
+                    "city_name": "Gorodskoy okrug Krasnoperekopsk"
+                }
+            ]
+        },
+        {
+            "province_name": "Kirovohrads'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Malovyskivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Dolyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Dobrovelychkivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Znam\"yans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Oleksandriys'ka Mis'krada"
+                },
+                {
+                    "city_name": "Svitlovods'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kirovohrads'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Khmel'nyts'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Teofipol's'kyy Rayon"
+                },
+                {
+                    "city_name": "Letychivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Krasylivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Khmel'nyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Izyaslavs'kyy Rayon"
+                },
+                {
+                    "city_name": "Horodots'kyy Rayon"
+                },
+                {
+                    "city_name": "Dunayevets'kyy Rayon"
+                },
+                {
+                    "city_name": "Derazhnyans'kyy Rayon"
+                },
+                {
+                    "city_name": "Chemerovets'kyy Rayon"
+                },
+                {
+                    "city_name": "Bilohirs'kyy Rayon"
+                },
+                {
+                    "city_name": "Khmel'nyts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Slavuts'ka Mis'krada"
+                },
+                {
+                    "city_name": "Starokostyantynivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Shepetivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kam\"yanets'-Podil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Netishyns'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Khersons'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Novotroyits'kyy Rayon"
+                },
+                {
+                    "city_name": "Nyzhn'osirohoz'kyy Rayon"
+                },
+                {
+                    "city_name": "Heniches'kyy Rayon"
+                },
+                {
+                    "city_name": "Holoprystans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Novokakhovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kakhovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Khersons'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Kharkivs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zolochivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Lozivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kharkivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Chuhuyivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Pecheniz'kyy Rayon"
+                },
+                {
+                    "city_name": "Lyubotyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kup\"yans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Pervomays'ka Mis'krada"
+                },
+                {
+                    "city_name": "Izyums'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kolomats'kyy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Ivano-Frankivs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Tysmenyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Tlumats'kyy Rayon"
+                },
+                {
+                    "city_name": "Snyatyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Rozhnyativs'kyy Rayon"
+                },
+                {
+                    "city_name": "Rohatyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Nadvirnyans'kyy Rayon"
+                },
+                {
+                    "city_name": "Kosivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Kolomyys'kyy Rayon"
+                },
+                {
+                    "city_name": "Kalus'kyy Rayon"
+                },
+                {
+                    "city_name": "Horodenkivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Halyts'kyy Rayon"
+                },
+                {
+                    "city_name": "Dolyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Borshchevskiy Rayon"
+                },
+                {
+                    "city_name": "Bohorodchans'kyy Rayon"
+                },
+                {
+                    "city_name": "Kalus'ka Mis'krada"
+                },
+                {
+                    "city_name": "Ivano-Frankivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Yaremchans'ks Mis'krada"
+                },
+                {
+                    "city_name": "Bolekhivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Burshtyns'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Donets'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Kirovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Shakhtars'ka Mis'krada"
+                },
+                {
+                    "city_name": "Torez'ka Mis'krada"
+                },
+                {
+                    "city_name": "Snizhnyans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Avdiyivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Yasynuvats'ka Mis'krada"
+                },
+                {
+                    "city_name": "Zhdanivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Khartsyz'ka Mis'krada"
+                },
+                {
+                    "city_name": "Donets'ka Mis'krada"
+                },
+                {
+                    "city_name": "Slov\"yans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kramators'ka Mis'krada"
+                },
+                {
+                    "city_name": "Druzhkivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Mariupol's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Artemivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kostyantynivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Krasnoarmiys'ka Mis'krada"
+                },
+                {
+                    "city_name": "Dobropil's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Krasnolymans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Selydivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Vuhledars'ka Mis'krada"
+                },
+                {
+                    "city_name": "Dokuchayevs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Debal'tsivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Horlivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Dzerzhyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Yenakiyevs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Dymytrovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Novohrodivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Makiyivs'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Dnipropetrovska Oblast'",
+            "cities": [
+                {
+                    "city_name": "Zhovtnevyy Rayon"
+                },
+                {
+                    "city_name": "Tsarychans'kyy Rayon"
+                },
+                {
+                    "city_name": "Samarskiy Rayon"
+                },
+                {
+                    "city_name": "Mahdalynivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Leninskiy Rayon"
+                },
+                {
+                    "city_name": "Krasnogvardeyskiy Rayon"
+                },
+                {
+                    "city_name": "Kirovskiy Rayon"
+                },
+                {
+                    "city_name": "Industrial'nyy Rayon"
+                },
+                {
+                    "city_name": "Dneprovskiy Rayon"
+                },
+                {
+                    "city_name": "Dnepropetrovskiy Rayon"
+                },
+                {
+                    "city_name": "Brezhnevskiy Rayon"
+                },
+                {
+                    "city_name": "Bagleyskiy Rayon"
+                },
+                {
+                    "city_name": "Babushkinskiy Rayon"
+                },
+                {
+                    "city_name": "Amur-Nizhnedneprovskiy Rayon"
+                },
+                {
+                    "city_name": "Ternivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Pershotravens'ka Mis'krada"
+                },
+                {
+                    "city_name": "Nikopol's'ka Mis'krada"
+                },
+                {
+                    "city_name": "Synel'nykivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Novomoskovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Dnipropetrovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Dniprodzerzhyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Petrykivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Pavlohrads'ka Mis'krada"
+                },
+                {
+                    "city_name": "Yur\"yivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Ordzhonikidzevs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Vil'nohirs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kryvoriz'ka Mis'krada"
+                },
+                {
+                    "city_name": "Zhovtovods'ka Mis'krada"
+                },
+                {
+                    "city_name": "Marhanets'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Chernivets'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Sokyryans'kyy Rayon"
+                },
+                {
+                    "city_name": "Novodnistrovs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Chernivets'ka Mis'krada"
+                },
+                {
+                    "city_name": "Hertsayivs'kyy Rayon"
+                }
+            ]
+        },
+        {
+            "province_name": "Chernihivs'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Varvyns'kyy Rayon"
+                },
+                {
+                    "city_name": "Pryluts'kyy Rayon"
+                },
+                {
+                    "city_name": "Mens'kyy Rayon"
+                },
+                {
+                    "city_name": "Chernihivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Nizhyns'ka Mis'krada"
+                },
+                {
+                    "city_name": "Novhorod-Sivers'ka Mis'krada"
+                },
+                {
+                    "city_name": "Pryluts'ka Mis'krada"
+                }
+            ]
+        },
+        {
+            "province_name": "Cherkas'ka Oblast'",
+            "cities": [
+                {
+                    "city_name": "Man'kivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Horodyshchens'kyy Rayon"
+                },
+                {
+                    "city_name": "Drabiv Raion"
+                },
+                {
+                    "city_name": "Chornobayivs'kyy Rayon"
+                },
+                {
+                    "city_name": "Umans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Smilyans'ka Mis'krada"
+                },
+                {
+                    "city_name": "Zolotonis'ka Mis'krada"
+                },
+                {
+                    "city_name": "Cherkas'ka Mis'krada"
+                },
+                {
+                    "city_name": "Kanivs'ka Mis'krada"
+                },
+                {
+                    "city_name": "Vatutins'ka Mis'krada"
+                }
+            ]
+        }
+    ]
+}

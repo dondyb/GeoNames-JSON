@@ -1,0 +1,354 @@
+{
+    "country_name": "Albania",
+    "country_id": "AL",
+    "provinces": [
+        {
+            "province_name": "Qarku i Beratit",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Skraparit"
+                },
+                {
+                    "city_name": "Rrethi i Beratit"
+                },
+                {
+                    "city_name": "Rrethi i Kucoves"
+                },
+                {
+                    "city_name": "Bashkia Berat"
+                },
+                {
+                    "city_name": "Bashkia Kucove"
+                },
+                {
+                    "city_name": "Bashkia Polican"
+                },
+                {
+                    "city_name": "Bashkia Skrapar"
+                },
+                {
+                    "city_name": "Bashkia Ura Vajgurore"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Dibres",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Matit"
+                },
+                {
+                    "city_name": "Rrethi i Dibres"
+                },
+                {
+                    "city_name": "Rrethi i Bulqizes"
+                },
+                {
+                    "city_name": "Bashkia Bulqize"
+                },
+                {
+                    "city_name": "Bashkia Diber"
+                },
+                {
+                    "city_name": "Bashkia Klos"
+                },
+                {
+                    "city_name": "Bashkia Mat"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Elbasanit",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Librazhdit"
+                },
+                {
+                    "city_name": "Rrethi i Gramshit"
+                },
+                {
+                    "city_name": "Rrethi i Elbasanit"
+                },
+                {
+                    "city_name": "Rrethi i Peqinit"
+                },
+                {
+                    "city_name": "Bashkia Elbasan"
+                },
+                {
+                    "city_name": "Bashkia Belsh"
+                },
+                {
+                    "city_name": "Bashkia Cerrik"
+                },
+                {
+                    "city_name": "Bashkia Gramsh"
+                },
+                {
+                    "city_name": "Bashkia Librazhd"
+                },
+                {
+                    "city_name": "Bashkia Peqin"
+                },
+                {
+                    "city_name": "Bashkia Prrenjas"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Gjirokastres",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Permetit"
+                },
+                {
+                    "city_name": "Rrethi i Gjirokastres"
+                },
+                {
+                    "city_name": "Rrethi i Tepelenes"
+                },
+                {
+                    "city_name": "Bashkia Dropull"
+                },
+                {
+                    "city_name": "Bashkia Gjirokaster"
+                },
+                {
+                    "city_name": "Bashkia Kelcyre"
+                },
+                {
+                    "city_name": "Bashkia Libohove"
+                },
+                {
+                    "city_name": "Bashkia Memaliaj"
+                },
+                {
+                    "city_name": "Bashkia Permet"
+                },
+                {
+                    "city_name": "Bashkia Tepelene"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Korces",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Pogradecit"
+                },
+                {
+                    "city_name": "Rrethi i Korces"
+                },
+                {
+                    "city_name": "Rrethi i Kolonjes"
+                },
+                {
+                    "city_name": "Rrethi i Devollit"
+                },
+                {
+                    "city_name": "Bashkia Devoll"
+                },
+                {
+                    "city_name": "Bashkia Kolonje"
+                },
+                {
+                    "city_name": "Bashkia Korce"
+                },
+                {
+                    "city_name": "Bashkia Maliq"
+                },
+                {
+                    "city_name": "Bashkia Pogradec"
+                },
+                {
+                    "city_name": "Bashkia Pustec"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Kukesit",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Tropojes"
+                },
+                {
+                    "city_name": "Rrethi i Kukesit"
+                },
+                {
+                    "city_name": "Rrethi i Hasit"
+                },
+                {
+                    "city_name": "Bashkia Has"
+                },
+                {
+                    "city_name": "Bashkia Kukes"
+                },
+                {
+                    "city_name": "Bashkia Tropoje"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Durresit",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Krujes"
+                },
+                {
+                    "city_name": "Durres"
+                },
+                {
+                    "city_name": "Bashkia Durres"
+                },
+                {
+                    "city_name": "Bashkia Kruje"
+                },
+                {
+                    "city_name": "Bashkia Shijak"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Fierit",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Lushnjes"
+                },
+                {
+                    "city_name": "Fier"
+                },
+                {
+                    "city_name": "Rrethi i Mallakastres"
+                },
+                {
+                    "city_name": "Bashkia Divjake"
+                },
+                {
+                    "city_name": "Bashkia Fier"
+                },
+                {
+                    "city_name": "Bashkia Mallakaster"
+                },
+                {
+                    "city_name": "Bashkia Patos"
+                },
+                {
+                    "city_name": "Bashkia Roskovec"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Lezhes",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Mirdites"
+                },
+                {
+                    "city_name": "Lezhe"
+                },
+                {
+                    "city_name": "Rrethi i Kurbinit"
+                },
+                {
+                    "city_name": "Bashkia Kurbin"
+                },
+                {
+                    "city_name": "Bashkia Lezhe"
+                },
+                {
+                    "city_name": "Bashkia Mirdite"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Shkodres",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Pukes"
+                },
+                {
+                    "city_name": "Rrethi i Shkodres"
+                },
+                {
+                    "city_name": "Rrethi i Malesia e Madhe"
+                },
+                {
+                    "city_name": "Bashkia Fushe Arres"
+                },
+                {
+                    "city_name": "Bashkia Malesi e Madhe"
+                },
+                {
+                    "city_name": "Bashkia Puke"
+                },
+                {
+                    "city_name": "Bashkia Shkoder"
+                },
+                {
+                    "city_name": "Bashkia Vau i Dejes"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Tiranes",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Tiranes"
+                },
+                {
+                    "city_name": "Rrethi i Kavajes"
+                },
+                {
+                    "city_name": "Bashkia Kamez"
+                },
+                {
+                    "city_name": "Bashkia Kavaje"
+                },
+                {
+                    "city_name": "Bashkia Rrogozhine"
+                },
+                {
+                    "city_name": "Bashkia Tirane"
+                },
+                {
+                    "city_name": "Bashkia Vore"
+                }
+            ]
+        },
+        {
+            "province_name": "Qarku i Vlores",
+            "cities": [
+                {
+                    "city_name": "Rrethi i Sarandes"
+                },
+                {
+                    "city_name": "Rrethi i Delvines"
+                },
+                {
+                    "city_name": "Rrethi i Vlores"
+                },
+                {
+                    "city_name": "Bashkia Delvine"
+                },
+                {
+                    "city_name": "Bashkia Finiq"
+                },
+                {
+                    "city_name": "Bashkia Himare"
+                },
+                {
+                    "city_name": "Bashkia Konispol"
+                },
+                {
+                    "city_name": "Bashkia Sarande"
+                },
+                {
+                    "city_name": "Bashkia Selenice"
+                },
+                {
+                    "city_name": "Bashkia Vlore"
+                }
+            ]
+        }
+    ]
+}

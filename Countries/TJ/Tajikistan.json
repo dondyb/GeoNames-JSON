@@ -1,0 +1,250 @@
+{
+    "country_name": "Tajikistan",
+    "country_id": "TJ",
+    "provinces": [
+        {
+            "province_name": "Viloyati Sughd",
+            "cities": [
+                {
+                    "city_name": "Pendzhikentskiy Rayon"
+                },
+                {
+                    "city_name": "Ayninskiy Rayon"
+                },
+                {
+                    "city_name": "Nohiyai Zafarobod"
+                },
+                {
+                    "city_name": "Khodzhentskiy Rayon"
+                },
+                {
+                    "city_name": "Kuhistoni Mastchohskiy"
+                },
+                {
+                    "city_name": "Shahriston District"
+                },
+                {
+                    "city_name": "Nohiyai Mastchoh"
+                },
+                {
+                    "city_name": "Nohiyai Bobojon Ghafurov"
+                },
+                {
+                    "city_name": "Nohiyai Asht"
+                },
+                {
+                    "city_name": "Nohiyai Konibodom"
+                },
+                {
+                    "city_name": "Nohiyai Isfara"
+                },
+                {
+                    "city_name": "Nohiyai Jabbor Rasulov"
+                },
+                {
+                    "city_name": "Nohiyai Spitamen"
+                },
+                {
+                    "city_name": "Istaravshan District"
+                },
+                {
+                    "city_name": "Nohiyai Ghonchi"
+                },
+                {
+                    "city_name": "Nohiyai Ayni"
+                },
+                {
+                    "city_name": "Nohiyai Panjakent"
+                }
+            ]
+        },
+        {
+            "province_name": "Viloyati Mukhtori Kuhistoni Badakhshon",
+            "cities": [
+                {
+                    "city_name": "Vanchskiy Rayon"
+                },
+                {
+                    "city_name": "Rushanskiy Rayon"
+                },
+                {
+                    "city_name": "Darvozskiy Rayon"
+                },
+                {
+                    "city_name": "Roshtqal'a District"
+                },
+                {
+                    "city_name": "Nohiyai Vanj"
+                },
+                {
+                    "city_name": "Nohiyai Darvoz"
+                },
+                {
+                    "city_name": "Nohiyai Ishqoshim"
+                },
+                {
+                    "city_name": "Nohiyai Murghob"
+                },
+                {
+                    "city_name": "Nohiyai Rushon"
+                },
+                {
+                    "city_name": "Nohiyai Shughnon"
+                }
+            ]
+        },
+        {
+            "province_name": "Viloyati Khatlon",
+            "cities": [
+                {
+                    "city_name": "Yavanskiy Rayon"
+                },
+                {
+                    "city_name": "Sovetskiy Rayon"
+                },
+                {
+                    "city_name": "Muminobodskiy Rayon"
+                },
+                {
+                    "city_name": "Bokhtarskiy Rayon"
+                },
+                {
+                    "city_name": "Khovalingskiy Rayon"
+                },
+                {
+                    "city_name": "Gozimalikskiy Rayon"
+                },
+                {
+                    "city_name": "Shuro-obod District"
+                },
+                {
+                    "city_name": "Norak"
+                },
+                {
+                    "city_name": "Qumsangir District"
+                },
+                {
+                    "city_name": "Nohiyai Abdurahmoni Jomi"
+                },
+                {
+                    "city_name": "Nohiyai Baljuvon"
+                },
+                {
+                    "city_name": "Nohiyai Bokhtar"
+                },
+                {
+                    "city_name": "Nohiyai Vakhsh"
+                },
+                {
+                    "city_name": "Nohiyai Vose'"
+                },
+                {
+                    "city_name": "Nohiyai Danghara"
+                },
+                {
+                    "city_name": "Nohiyai Yovon"
+                },
+                {
+                    "city_name": "Nohiyai Kolkhozobod"
+                },
+                {
+                    "city_name": "Nohiyai Qubodiyon"
+                },
+                {
+                    "city_name": "Nohiyai Kulob"
+                },
+                {
+                    "city_name": "Nohiyai Mu'minobod"
+                },
+                {
+                    "city_name": "Nohiyai Nosiri Khusrav"
+                },
+                {
+                    "city_name": "Nohiyai Panj"
+                },
+                {
+                    "city_name": "Nohiyai Sarband"
+                },
+                {
+                    "city_name": "Nohiyai Temurmalik"
+                },
+                {
+                    "city_name": "Nohiyai Farkhor"
+                },
+                {
+                    "city_name": "Nohiyai Khovaling"
+                },
+                {
+                    "city_name": "Nohiyai Khuroson"
+                },
+                {
+                    "city_name": "Nohiyai Hamadoni"
+                },
+                {
+                    "city_name": "Nohiyai Jilikul"
+                },
+                {
+                    "city_name": "Nohiyai Shahritus"
+                }
+            ]
+        },
+        {
+            "province_name": "Districts of Republican Subordination",
+            "cities": [
+                {
+                    "city_name": "Tursunzoda District"
+                },
+                {
+                    "city_name": "Vahdat District"
+                },
+                {
+                    "city_name": "Tojikobod District"
+                },
+                {
+                    "city_name": "Shahrinaw District"
+                },
+                {
+                    "city_name": "Rogunsky rayon"
+                },
+                {
+                    "city_name": "Varzob District"
+                },
+                {
+                    "city_name": "Tavildara"
+                },
+                {
+                    "city_name": "Nohiyai Rasht"
+                },
+                {
+                    "city_name": "Nohiyai Hisor"
+                },
+                {
+                    "city_name": "Nohiyai Jirghatol"
+                },
+                {
+                    "city_name": "Nohiyai Rudaki"
+                },
+                {
+                    "city_name": "Faizobod District"
+                }
+            ]
+        },
+        {
+            "province_name": "Dushanbe",
+            "cities": [
+                {
+                    "city_name": "Zheleznodorozhnyy Rayon"
+                },
+                {
+                    "city_name": "Tsentral'nyy Rayon"
+                },
+                {
+                    "city_name": "Oktyabr'skiy Rayon"
+                },
+                {
+                    "city_name": "Dushanbe"
+                }
+            ]
+        }
+    ]
+}

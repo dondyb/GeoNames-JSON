@@ -1,0 +1,257 @@
+{
+    "country_name": "Algeria",
+    "country_id": "DZ",
+    "provinces": [
+        {
+            "province_name": "Wilaya de Tlemcen",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tizi Ouzou",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tissemsilt",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tipaza",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tindouf",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tiaret",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tebessa",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Tamanrasset",
+            "cities": [
+                {
+                    "city_name": "In Guezzam"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Souk Ahras",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Skikda",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Sidi Bel Abbes",
+            "cities": [
+                {
+                    "city_name": "Ben Badis District"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Setif",
+            "cities": [
+                {
+                    "city_name": "Ain Oulmene"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Saida",
+            "cities": [
+                {
+                    "city_name": "Daira de Saida"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Relizane",
+            "cities": []
+        },
+        {
+            "province_name": "Oum el Bouaghi",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Ouargla",
+            "cities": []
+        },
+        {
+            "province_name": "Oran",
+            "cities": [
+                {
+                    "city_name": "Daira d'Oran"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Naama",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de M'Sila",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Mostaganem",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Mila",
+            "cities": [
+                {
+                    "city_name": "Chelghoum Laid District"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Medea",
+            "cities": [
+                {
+                    "city_name": "Daira de Ksar el Boukhari"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Mascara",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Laghouat",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Khenchela",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Jijel",
+            "cities": []
+        },
+        {
+            "province_name": "Illizi",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Guelma",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Ghardaia",
+            "cities": [
+                {
+                    "city_name": "Bukombe District"
+                },
+                {
+                    "city_name": "El Menia District"
+                }
+            ]
+        },
+        {
+            "province_name": "El Tarf",
+            "cities": [
+                {
+                    "city_name": "Drean District"
+                }
+            ]
+        },
+        {
+            "province_name": "El Oued",
+            "cities": [
+                {
+                    "city_name": "El M'Ghair District"
+                }
+            ]
+        },
+        {
+            "province_name": "El Bayadh",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Djelfa",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Constantine",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Chlef",
+            "cities": [
+                {
+                    "city_name": "Daira de Tenes"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Boumerdes",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Bouira",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Bordj Bou Arreridj",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Blida",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Biskra",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Bejaia",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Bechar",
+            "cities": [
+                {
+                    "city_name": "Daira de Bechar"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya de Batna",
+            "cities": []
+        },
+        {
+            "province_name": "Annaba",
+            "cities": [
+                {
+                    "city_name": "Annaba District"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilaya d' Alger",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Ain Temouchent",
+            "cities": []
+        },
+        {
+            "province_name": "Wilaya de Ain Defla",
+            "cities": []
+        },
+        {
+            "province_name": "Adrar",
+            "cities": [
+                {
+                    "city_name": "Charouine"
+                }
+            ]
+        }
+    ]
+}

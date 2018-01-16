@@ -1,0 +1,106 @@
+{
+    "country_name": "Seychelles",
+    "country_id": "SC",
+    "provinces": [
+        {
+            "province_name": "Takamaka",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Louis",
+            "cities": []
+        },
+        {
+            "province_name": "Port Glaud",
+            "cities": []
+        },
+        {
+            "province_name": "Pointe Larue",
+            "cities": []
+        },
+        {
+            "province_name": "Plaisance",
+            "cities": []
+        },
+        {
+            "province_name": "Mont Fleuri",
+            "cities": []
+        },
+        {
+            "province_name": "Mont Buxton",
+            "cities": []
+        },
+        {
+            "province_name": "English River",
+            "cities": []
+        },
+        {
+            "province_name": "Inner Islands",
+            "cities": []
+        },
+        {
+            "province_name": "Grand Anse Mahe",
+            "cities": []
+        },
+        {
+            "province_name": "Grand Anse Praslin",
+            "cities": []
+        },
+        {
+            "province_name": "Glacis",
+            "cities": []
+        },
+        {
+            "province_name": "Cascade",
+            "cities": []
+        },
+        {
+            "province_name": "Bel Ombre",
+            "cities": []
+        },
+        {
+            "province_name": "Bel Air",
+            "cities": []
+        },
+        {
+            "province_name": "Beau Vallon",
+            "cities": []
+        },
+        {
+            "province_name": "Baie Sainte Anne",
+            "cities": []
+        },
+        {
+            "province_name": "Baie Lazare",
+            "cities": []
+        },
+        {
+            "province_name": "Anse Royale",
+            "cities": []
+        },
+        {
+            "province_name": "Anse Etoile",
+            "cities": []
+        },
+        {
+            "province_name": "Anse Boileau",
+            "cities": []
+        },
+        {
+            "province_name": "Anse aux Pins",
+            "cities": []
+        },
+        {
+            "province_name": "Les Mamelles",
+            "cities": []
+        },
+        {
+            "province_name": "Roche Caiman",
+            "cities": []
+        },
+        {
+            "province_name": "Au Cap",
+            "cities": []
+        }
+    ]
+}

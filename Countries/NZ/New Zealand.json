@@ -1,0 +1,288 @@
+{
+    "country_name": "New Zealand",
+    "country_id": "NZ",
+    "provinces": [
+        {
+            "province_name": "Wellington",
+            "cities": [
+                {
+                    "city_name": "Masterton District"
+                },
+                {
+                    "city_name": "Carterton District"
+                },
+                {
+                    "city_name": "Kapiti Coast District"
+                },
+                {
+                    "city_name": "Lower Hutt City"
+                },
+                {
+                    "city_name": "Porirua City"
+                },
+                {
+                    "city_name": "South Wairarapa District"
+                },
+                {
+                    "city_name": "Upper Hutt City"
+                },
+                {
+                    "city_name": "Wellington City"
+                }
+            ]
+        },
+        {
+            "province_name": "Manawatu-Wanganui",
+            "cities": [
+                {
+                    "city_name": "Rangitikei District"
+                },
+                {
+                    "city_name": "Horowhenua District"
+                },
+                {
+                    "city_name": "Manawatu District"
+                },
+                {
+                    "city_name": "Palmerston North City"
+                },
+                {
+                    "city_name": "Ruapehu District"
+                },
+                {
+                    "city_name": "Wanganui District"
+                },
+                {
+                    "city_name": "Tararua District"
+                }
+            ]
+        },
+        {
+            "province_name": "Waikato",
+            "cities": [
+                {
+                    "city_name": "Waitomo District"
+                },
+                {
+                    "city_name": "Thames-Coromandel District"
+                },
+                {
+                    "city_name": "Taupo District"
+                },
+                {
+                    "city_name": "Otorohanga District"
+                },
+                {
+                    "city_name": "Hamilton City"
+                },
+                {
+                    "city_name": "Hauraki District"
+                },
+                {
+                    "city_name": "Matamata-Piako District"
+                },
+                {
+                    "city_name": "South Waikato District"
+                },
+                {
+                    "city_name": "Waikato District"
+                },
+                {
+                    "city_name": "Waipa District"
+                }
+            ]
+        },
+        {
+            "province_name": "Tasman",
+            "cities": [
+                {
+                    "city_name": "Tasman District"
+                }
+            ]
+        },
+        {
+            "province_name": "Taranaki",
+            "cities": [
+                {
+                    "city_name": "Stratford District"
+                },
+                {
+                    "city_name": "New Plymouth District"
+                },
+                {
+                    "city_name": "South Taranaki District"
+                }
+            ]
+        },
+        {
+            "province_name": "Southland",
+            "cities": [
+                {
+                    "city_name": "Gore District"
+                },
+                {
+                    "city_name": "Invercargill City"
+                },
+                {
+                    "city_name": "Southland District"
+                }
+            ]
+        },
+        {
+            "province_name": "Bay of Plenty",
+            "cities": [
+                {
+                    "city_name": "Whakatane District"
+                },
+                {
+                    "city_name": "Rotorua District"
+                },
+                {
+                    "city_name": "Opotiki District"
+                },
+                {
+                    "city_name": "Kawerau District"
+                },
+                {
+                    "city_name": "Tauranga City"
+                },
+                {
+                    "city_name": "Western Bay of Plenty District"
+                }
+            ]
+        },
+        {
+            "province_name": "Northland",
+            "cities": [
+                {
+                    "city_name": "Whangarei"
+                },
+                {
+                    "city_name": "Far North District"
+                },
+                {
+                    "city_name": "Kaipara District"
+                }
+            ]
+        },
+        {
+            "province_name": "Marlborough",
+            "cities": [
+                {
+                    "city_name": "Marlborough District"
+                }
+            ]
+        },
+        {
+            "province_name": "Hawke's Bay",
+            "cities": [
+                {
+                    "city_name": "Wairoa District"
+                },
+                {
+                    "city_name": "Hastings District"
+                },
+                {
+                    "city_name": "Central Hawke's Bay District"
+                },
+                {
+                    "city_name": "Napier City"
+                }
+            ]
+        },
+        {
+            "province_name": "Gisborne",
+            "cities": [
+                {
+                    "city_name": "Gisborne District"
+                }
+            ]
+        },
+        {
+            "province_name": "Canterbury",
+            "cities": [
+                {
+                    "city_name": "Waimate District"
+                },
+                {
+                    "city_name": "Timaru District"
+                },
+                {
+                    "city_name": "Ashburton District"
+                },
+                {
+                    "city_name": "Christchurch City"
+                },
+                {
+                    "city_name": "Hurunui District"
+                },
+                {
+                    "city_name": "Kaikoura District"
+                },
+                {
+                    "city_name": "Mackenzie District"
+                },
+                {
+                    "city_name": "Selwyn District"
+                },
+                {
+                    "city_name": "Waimakariri District"
+                },
+                {
+                    "city_name": "Waitaki District"
+                }
+            ]
+        },
+        {
+            "province_name": "Auckland",
+            "cities": [
+                {
+                    "city_name": "Auckland"
+                }
+            ]
+        },
+        {
+            "province_name": "Chatham Islands",
+            "cities": []
+        },
+        {
+            "province_name": "Nelson",
+            "cities": [
+                {
+                    "city_name": "Nelson City"
+                }
+            ]
+        },
+        {
+            "province_name": "Otago",
+            "cities": [
+                {
+                    "city_name": "Central Otago District"
+                },
+                {
+                    "city_name": "Clutha District"
+                },
+                {
+                    "city_name": "Dunedin City"
+                },
+                {
+                    "city_name": "Queenstown-Lakes District"
+                }
+            ]
+        },
+        {
+            "province_name": "West Coast",
+            "cities": [
+                {
+                    "city_name": "Westland District"
+                },
+                {
+                    "city_name": "Buller District"
+                },
+                {
+                    "city_name": "Grey District"
+                }
+            ]
+        }
+    ]
+}

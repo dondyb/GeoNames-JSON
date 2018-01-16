@@ -1,0 +1,185 @@
+{
+    "country_name": "Trinidad and Tobago",
+    "country_id": "TT",
+    "provinces": [
+        {
+            "province_name": "Tobago",
+            "cities": [
+                {
+                    "city_name": "Saint Paul"
+                },
+                {
+                    "city_name": "Saint Patrick"
+                },
+                {
+                    "city_name": "Saint Mary"
+                },
+                {
+                    "city_name": "Saint John"
+                },
+                {
+                    "city_name": "Saint George"
+                },
+                {
+                    "city_name": "Saint David"
+                },
+                {
+                    "city_name": "Saint Andrew"
+                }
+            ]
+        },
+        {
+            "province_name": "San Fernando",
+            "cities": []
+        },
+        {
+            "province_name": "City of Port of Spain",
+            "cities": []
+        },
+        {
+            "province_name": "Mayaro",
+            "cities": [
+                {
+                    "city_name": "Ward of Trinity"
+                },
+                {
+                    "city_name": "Ward of Guayaguayare"
+                },
+                {
+                    "city_name": "Ward of Cocal"
+                },
+                {
+                    "city_name": "Ward of Charuma"
+                }
+            ]
+        },
+        {
+            "province_name": "Arima",
+            "cities": []
+        },
+        {
+            "province_name": "Chaguanas",
+            "cities": [
+                {
+                    "city_name": "Ward of Chaguanas"
+                }
+            ]
+        },
+        {
+            "province_name": "Couva-Tabaquite-Talparo",
+            "cities": [
+                {
+                    "city_name": "Ward of San Rafael"
+                },
+                {
+                    "city_name": "Ward of Pointe-a-Pierre"
+                },
+                {
+                    "city_name": "Ward of Montserrat"
+                },
+                {
+                    "city_name": "Ward of Cunupia"
+                },
+                {
+                    "city_name": "Ward of Couva"
+                }
+            ]
+        },
+        {
+            "province_name": "Diego Martin",
+            "cities": [
+                {
+                    "city_name": "Ward of Diego Martin"
+                }
+            ]
+        },
+        {
+            "province_name": "Penal/Debe",
+            "cities": [
+                {
+                    "city_name": "Ward of Naparima"
+                }
+            ]
+        },
+        {
+            "province_name": "Princes Town",
+            "cities": [
+                {
+                    "city_name": "Ward of Savana Grande"
+                },
+                {
+                    "city_name": "Ward of Ortoire"
+                },
+                {
+                    "city_name": "Ward of Moruga"
+                }
+            ]
+        },
+        {
+            "province_name": "Point Fortin",
+            "cities": []
+        },
+        {
+            "province_name": "Sangre Grande",
+            "cities": [
+                {
+                    "city_name": "Ward of Valencia"
+                },
+                {
+                    "city_name": "Ward of Turure"
+                },
+                {
+                    "city_name": "Ward of Toco"
+                },
+                {
+                    "city_name": "Ward of Tamana"
+                },
+                {
+                    "city_name": "Ward of Matura"
+                },
+                {
+                    "city_name": "Ward of Manzanilla"
+                }
+            ]
+        },
+        {
+            "province_name": "Siparia",
+            "cities": [
+                {
+                    "city_name": "Ward of Siparia"
+                },
+                {
+                    "city_name": "Ward of La Brea"
+                },
+                {
+                    "city_name": "Ward of Erin"
+                },
+                {
+                    "city_name": "Ward of Cedros"
+                }
+            ]
+        },
+        {
+            "province_name": "San Juan/Laventille",
+            "cities": [
+                {
+                    "city_name": "Ward of Saint Ann's"
+                }
+            ]
+        },
+        {
+            "province_name": "Tunapuna/Piarco",
+            "cities": [
+                {
+                    "city_name": "Ward of Tacarigua"
+                },
+                {
+                    "city_name": "Ward of Blanchisseuse"
+                },
+                {
+                    "city_name": "Ward of Arima"
+                }
+            ]
+        }
+    ]
+}

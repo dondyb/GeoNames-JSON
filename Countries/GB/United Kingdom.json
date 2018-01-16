@@ -1,0 +1,581 @@
+{
+    "country_name": "United Kingdom",
+    "country_id": "GB",
+    "provinces": [
+        {
+            "province_name": "Wales",
+            "cities": [
+                {
+                    "city_name": "Wrexham"
+                },
+                {
+                    "city_name": "Vale of Glamorgan"
+                },
+                {
+                    "city_name": "Sir Powys"
+                },
+                {
+                    "city_name": "Pembrokeshire"
+                },
+                {
+                    "city_name": "Gwynedd"
+                },
+                {
+                    "city_name": "County of Flintshire"
+                },
+                {
+                    "city_name": "Denbighshire"
+                },
+                {
+                    "city_name": "Carmarthenshire"
+                },
+                {
+                    "city_name": "County of Ceredigion"
+                },
+                {
+                    "city_name": "Anglesey"
+                },
+                {
+                    "city_name": "Blaenau Gwent"
+                },
+                {
+                    "city_name": "Bridgend county borough"
+                },
+                {
+                    "city_name": "Caerphilly County Borough"
+                },
+                {
+                    "city_name": "Cardiff"
+                },
+                {
+                    "city_name": "Conwy"
+                },
+                {
+                    "city_name": "Merthyr Tydfil County Borough"
+                },
+                {
+                    "city_name": "Monmouthshire"
+                },
+                {
+                    "city_name": "Neath Port Talbot"
+                },
+                {
+                    "city_name": "Newport"
+                },
+                {
+                    "city_name": "Rhondda Cynon Taf"
+                },
+                {
+                    "city_name": "City and County of Swansea"
+                },
+                {
+                    "city_name": "Torfaen County Borough"
+                }
+            ]
+        },
+        {
+            "province_name": "Scotland",
+            "cities": [
+                {
+                    "city_name": "West Lothian"
+                },
+                {
+                    "city_name": "Eilean Siar"
+                },
+                {
+                    "city_name": "Stirling"
+                },
+                {
+                    "city_name": "Shetland Islands"
+                },
+                {
+                    "city_name": "Renfrewshire"
+                },
+                {
+                    "city_name": "Orkney Islands"
+                },
+                {
+                    "city_name": "Moray"
+                },
+                {
+                    "city_name": "Midlothian"
+                },
+                {
+                    "city_name": "Inverclyde"
+                },
+                {
+                    "city_name": "Highland"
+                },
+                {
+                    "city_name": "Fife"
+                },
+                {
+                    "city_name": "East Lothian"
+                },
+                {
+                    "city_name": "Dumfries and Galloway"
+                },
+                {
+                    "city_name": "Clackmannanshire"
+                },
+                {
+                    "city_name": "The Scottish Borders"
+                },
+                {
+                    "city_name": "Angus"
+                },
+                {
+                    "city_name": "Aberdeenshire"
+                },
+                {
+                    "city_name": "Aberdeen City"
+                },
+                {
+                    "city_name": "Dundee City"
+                },
+                {
+                    "city_name": "East Ayrshire"
+                },
+                {
+                    "city_name": "East Dunbartonshire"
+                },
+                {
+                    "city_name": "East Renfrewshire"
+                },
+                {
+                    "city_name": "Edinburgh"
+                },
+                {
+                    "city_name": "Falkirk"
+                },
+                {
+                    "city_name": "Glasgow City"
+                },
+                {
+                    "city_name": "North Ayrshire"
+                },
+                {
+                    "city_name": "North Lanarkshire"
+                },
+                {
+                    "city_name": "Perth and Kinross"
+                },
+                {
+                    "city_name": "South Ayrshire"
+                },
+                {
+                    "city_name": "South Lanarkshire"
+                },
+                {
+                    "city_name": "West Dunbartonshire"
+                },
+                {
+                    "city_name": "Argyll and Bute"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Ireland",
+            "cities": [
+                {
+                    "city_name": "City of Belfast"
+                },
+                {
+                    "city_name": "Mid Ulster"
+                },
+                {
+                    "city_name": "Antrim and Newtownabbey"
+                },
+                {
+                    "city_name": "Causeway Coast and Glens"
+                },
+                {
+                    "city_name": "Fermanagh and Omagh"
+                },
+                {
+                    "city_name": "Lisburn and Castlereagh"
+                },
+                {
+                    "city_name": "Derry City and Strabane"
+                },
+                {
+                    "city_name": "Ards and North Down"
+                },
+                {
+                    "city_name": "Armagh City Banbridge and Craigavon"
+                },
+                {
+                    "city_name": "Newry Mourne and Down"
+                },
+                {
+                    "city_name": "Mid and East Antrim"
+                }
+            ]
+        },
+        {
+            "province_name": "England",
+            "cities": [
+                {
+                    "city_name": "City of York"
+                },
+                {
+                    "city_name": "Worcestershire"
+                },
+                {
+                    "city_name": "Royal Borough of Windsor and Maidenhead"
+                },
+                {
+                    "city_name": "Wiltshire"
+                },
+                {
+                    "city_name": "West Sussex"
+                },
+                {
+                    "city_name": "Warwickshire"
+                },
+                {
+                    "city_name": "Borough of Thurrock"
+                },
+                {
+                    "city_name": "Surrey"
+                },
+                {
+                    "city_name": "Suffolk"
+                },
+                {
+                    "city_name": "Staffordshire"
+                },
+                {
+                    "city_name": "Somerset"
+                },
+                {
+                    "city_name": "Isles of Scilly"
+                },
+                {
+                    "city_name": "Shropshire"
+                },
+                {
+                    "city_name": "District of Rutland"
+                },
+                {
+                    "city_name": "Oxfordshire"
+                },
+                {
+                    "city_name": "Nottinghamshire"
+                },
+                {
+                    "city_name": "North Yorkshire"
+                },
+                {
+                    "city_name": "Northumberland"
+                },
+                {
+                    "city_name": "Borough of North Tyneside"
+                },
+                {
+                    "city_name": "Northamptonshire"
+                },
+                {
+                    "city_name": "Norfolk"
+                },
+                {
+                    "city_name": "Lincolnshire"
+                },
+                {
+                    "city_name": "Leicestershire"
+                },
+                {
+                    "city_name": "Lancashire"
+                },
+                {
+                    "city_name": "Isle of Wight"
+                },
+                {
+                    "city_name": "Hertfordshire"
+                },
+                {
+                    "city_name": "Herefordshire"
+                },
+                {
+                    "city_name": "Hampshire"
+                },
+                {
+                    "city_name": "Borough of Halton"
+                },
+                {
+                    "city_name": "Greater London"
+                },
+                {
+                    "city_name": "Gloucestershire"
+                },
+                {
+                    "city_name": "Gateshead"
+                },
+                {
+                    "city_name": "Essex"
+                },
+                {
+                    "city_name": "East Sussex"
+                },
+                {
+                    "city_name": "East Riding of Yorkshire"
+                },
+                {
+                    "city_name": "County Durham"
+                },
+                {
+                    "city_name": "Dorset"
+                },
+                {
+                    "city_name": "Devon"
+                },
+                {
+                    "city_name": "Derbyshire"
+                },
+                {
+                    "city_name": "Cumbria"
+                },
+                {
+                    "city_name": "Cornwall"
+                },
+                {
+                    "city_name": "Cambridgeshire"
+                },
+                {
+                    "city_name": "Buckinghamshire"
+                },
+                {
+                    "city_name": "Barnsley"
+                },
+                {
+                    "city_name": "Bath and North East Somerset"
+                },
+                {
+                    "city_name": "City and Borough of Birmingham"
+                },
+                {
+                    "city_name": "Blackburn with Darwen"
+                },
+                {
+                    "city_name": "Blackpool"
+                },
+                {
+                    "city_name": "Borough of Bolton"
+                },
+                {
+                    "city_name": "Bournemouth"
+                },
+                {
+                    "city_name": "Bracknell Forest"
+                },
+                {
+                    "city_name": "Bradford"
+                },
+                {
+                    "city_name": "Brighton and Hove"
+                },
+                {
+                    "city_name": "Bristol"
+                },
+                {
+                    "city_name": "Borough of Bury"
+                },
+                {
+                    "city_name": "Calderdale"
+                },
+                {
+                    "city_name": "Coventry"
+                },
+                {
+                    "city_name": "Darlington"
+                },
+                {
+                    "city_name": "Derby"
+                },
+                {
+                    "city_name": "Doncaster"
+                },
+                {
+                    "city_name": "Dudley"
+                },
+                {
+                    "city_name": "Hartlepool"
+                },
+                {
+                    "city_name": "Kent"
+                },
+                {
+                    "city_name": "City of Kingston upon Hull"
+                },
+                {
+                    "city_name": "Kirklees"
+                },
+                {
+                    "city_name": "Knowsley"
+                },
+                {
+                    "city_name": "City and Borough of Leeds"
+                },
+                {
+                    "city_name": "City of Leicester"
+                },
+                {
+                    "city_name": "Liverpool"
+                },
+                {
+                    "city_name": "Luton"
+                },
+                {
+                    "city_name": "Manchester"
+                },
+                {
+                    "city_name": "Medway"
+                },
+                {
+                    "city_name": "Middlesbrough"
+                },
+                {
+                    "city_name": "Milton Keynes"
+                },
+                {
+                    "city_name": "Newcastle upon Tyne"
+                },
+                {
+                    "city_name": "North East Lincolnshire"
+                },
+                {
+                    "city_name": "North Lincolnshire"
+                },
+                {
+                    "city_name": "North Somerset"
+                },
+                {
+                    "city_name": "Nottingham"
+                },
+                {
+                    "city_name": "Borough of Oldham"
+                },
+                {
+                    "city_name": "Peterborough"
+                },
+                {
+                    "city_name": "Plymouth"
+                },
+                {
+                    "city_name": "Poole"
+                },
+                {
+                    "city_name": "Portsmouth"
+                },
+                {
+                    "city_name": "Reading"
+                },
+                {
+                    "city_name": "Redcar and Cleveland"
+                },
+                {
+                    "city_name": "Borough of Rochdale"
+                },
+                {
+                    "city_name": "Rotherham"
+                },
+                {
+                    "city_name": "City and Borough of Salford"
+                },
+                {
+                    "city_name": "Sandwell"
+                },
+                {
+                    "city_name": "Sefton"
+                },
+                {
+                    "city_name": "Sheffield"
+                },
+                {
+                    "city_name": "Slough"
+                },
+                {
+                    "city_name": "Solihull"
+                },
+                {
+                    "city_name": "Southampton"
+                },
+                {
+                    "city_name": "Southend-on-Sea"
+                },
+                {
+                    "city_name": "South Gloucestershire"
+                },
+                {
+                    "city_name": "South Tyneside"
+                },
+                {
+                    "city_name": "St. Helens"
+                },
+                {
+                    "city_name": "Borough of Stockport"
+                },
+                {
+                    "city_name": "Stockton-on-Tees"
+                },
+                {
+                    "city_name": "Stoke-on-Trent"
+                },
+                {
+                    "city_name": "Sunderland"
+                },
+                {
+                    "city_name": "Borough of Swindon"
+                },
+                {
+                    "city_name": "Borough of Tameside"
+                },
+                {
+                    "city_name": "Telford and Wrekin"
+                },
+                {
+                    "city_name": "Borough of Torbay"
+                },
+                {
+                    "city_name": "Trafford"
+                },
+                {
+                    "city_name": "City and Borough of Wakefield"
+                },
+                {
+                    "city_name": "Walsall"
+                },
+                {
+                    "city_name": "Warrington"
+                },
+                {
+                    "city_name": "West Berkshire"
+                },
+                {
+                    "city_name": "Borough of Wigan"
+                },
+                {
+                    "city_name": "Metropolitan Borough of Wirral"
+                },
+                {
+                    "city_name": "Wokingham"
+                },
+                {
+                    "city_name": "Wolverhampton"
+                },
+                {
+                    "city_name": "Bedford"
+                },
+                {
+                    "city_name": "Central Bedfordshire"
+                },
+                {
+                    "city_name": "Cheshire East"
+                },
+                {
+                    "city_name": "Cheshire West and Chester"
+                }
+            ]
+        }
+    ]
+}

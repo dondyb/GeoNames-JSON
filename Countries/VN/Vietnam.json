@@ -1,0 +1,2460 @@
+{
+    "country_name": "Vietnam",
+    "country_id": "VN",
+    "provinces": [
+        {
+            "province_name": "Tinh Nghe An",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Vinh"
+                },
+                {
+                    "city_name": "Huyen Hung Nguyen"
+                },
+                {
+                    "city_name": "Huyen Nam GJan"
+                },
+                {
+                    "city_name": "Huyen Nghi Loc"
+                },
+                {
+                    "city_name": "Thi Xa Cua Lo"
+                },
+                {
+                    "city_name": "Huyen Dien Chau"
+                },
+                {
+                    "city_name": "Huyen Yen Thanh"
+                },
+                {
+                    "city_name": "Huyen GJo Luong"
+                },
+                {
+                    "city_name": "Huyen Thanh Chuong"
+                },
+                {
+                    "city_name": "Huyen Anh Son"
+                },
+                {
+                    "city_name": "Huyen Con Cuong"
+                },
+                {
+                    "city_name": "Huyen Tan Ky"
+                },
+                {
+                    "city_name": "Huyen Quynh Luu"
+                },
+                {
+                    "city_name": "Huyen Nghia GJan"
+                },
+                {
+                    "city_name": "Huyen Quy Hop"
+                },
+                {
+                    "city_name": "Huyen Quy Chau"
+                },
+                {
+                    "city_name": "Huyen Que Phong"
+                },
+                {
+                    "city_name": "Huyen Tuong Duong"
+                },
+                {
+                    "city_name": "Huyen Ky Son"
+                },
+                {
+                    "city_name": "Thi Xa Thai Hoa"
+                },
+                {
+                    "city_name": "Thi Xa Hoang Mai"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ninh Binh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Ninh Binh"
+                },
+                {
+                    "city_name": "Huyen Kim Son"
+                },
+                {
+                    "city_name": "Huyen Yen Mo"
+                },
+                {
+                    "city_name": "Huyen Yen Khanh"
+                },
+                {
+                    "city_name": "Thi Xa Tam GJiep"
+                },
+                {
+                    "city_name": "Huyen Hoa Lu"
+                },
+                {
+                    "city_name": "Huyen Gia Vien"
+                },
+                {
+                    "city_name": "Huyen Nho Quan"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ninh Thuan",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Phan Rang-Thap Cham"
+                },
+                {
+                    "city_name": "Huyen Ninh Hai"
+                },
+                {
+                    "city_name": "Huyen Ninh Phuoc"
+                },
+                {
+                    "city_name": "Huyen Ninh Son"
+                },
+                {
+                    "city_name": "Huyen Bac Ai"
+                },
+                {
+                    "city_name": "Huyen Thuan Nam"
+                },
+                {
+                    "city_name": "Huyen Thuan Bac"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Soc Trang",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Soc Trang"
+                },
+                {
+                    "city_name": "Huyen Long Phu"
+                },
+                {
+                    "city_name": "Huyen Ke Sach"
+                },
+                {
+                    "city_name": "Huyen My Tu"
+                },
+                {
+                    "city_name": "Huyen My Xuyen"
+                },
+                {
+                    "city_name": "Huyen Thanh Tri"
+                },
+                {
+                    "city_name": "Thi Xa Vinh Chau"
+                },
+                {
+                    "city_name": "Huyen Nga Nam"
+                },
+                {
+                    "city_name": "Huyen Tran GJe"
+                },
+                {
+                    "city_name": "Huyen Cu Lao Dung"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Tra Vinh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Tra Vinh"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Cang Long"
+                },
+                {
+                    "city_name": "Huyen Cau Ngang"
+                },
+                {
+                    "city_name": "Huyen Cau Ke"
+                },
+                {
+                    "city_name": "Huyen Tieu Can"
+                },
+                {
+                    "city_name": "Huyen Tra Cu"
+                },
+                {
+                    "city_name": "Huyen Duyen Hai"
+                },
+                {
+                    "city_name": "Thi xa Duyen Hai"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Tuyen Quang",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Tuyen Quang"
+                },
+                {
+                    "city_name": "Huyen Son Duong"
+                },
+                {
+                    "city_name": "Huyen Yen Son"
+                },
+                {
+                    "city_name": "Huyen Ham Yen"
+                },
+                {
+                    "city_name": "Huyen Chiem Hoa"
+                },
+                {
+                    "city_name": "Huyen Na Hang"
+                },
+                {
+                    "city_name": "Huyen Lam Binh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Vinh Long",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Vinh Long"
+                },
+                {
+                    "city_name": "Huyen Long Ho"
+                },
+                {
+                    "city_name": "Huyen Mang Thit"
+                },
+                {
+                    "city_name": "Huyen Tam Binh"
+                },
+                {
+                    "city_name": "Thi Xa Binh Minh"
+                },
+                {
+                    "city_name": "Huyen Vung Liem"
+                },
+                {
+                    "city_name": "Huyen Tra On"
+                },
+                {
+                    "city_name": "Huyen Binh Tan"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Yen Bai",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Yen Bai"
+                },
+                {
+                    "city_name": "Thi Xa Nghia Lo"
+                },
+                {
+                    "city_name": "Huyen Tran Yen"
+                },
+                {
+                    "city_name": "Huyen Van Chan"
+                },
+                {
+                    "city_name": "Huyen Yen Binh"
+                },
+                {
+                    "city_name": "Huyen Van Yen"
+                },
+                {
+                    "city_name": "Huyen Luc Yen"
+                },
+                {
+                    "city_name": "Huyen Tram Tau"
+                },
+                {
+                    "city_name": "Huyen Mu Cang Chai"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Lao Cai",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Lao Cai"
+                },
+                {
+                    "city_name": "Huyen Bao Thang"
+                },
+                {
+                    "city_name": "Huyen Sa Pa"
+                },
+                {
+                    "city_name": "Huyen Bat Xat"
+                },
+                {
+                    "city_name": "Huyen Muong Khuong"
+                },
+                {
+                    "city_name": "Huyen Bac Ha"
+                },
+                {
+                    "city_name": "Huyen Bao Yen"
+                },
+                {
+                    "city_name": "Huyen Van Ban"
+                },
+                {
+                    "city_name": "Huyen Si Ma Cai"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Tien Giang",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho My Tho"
+                },
+                {
+                    "city_name": "Thi Xa Go Cong"
+                },
+                {
+                    "city_name": "Huyen Go Cong GJong"
+                },
+                {
+                    "city_name": "Huyen Go Cong Tay"
+                },
+                {
+                    "city_name": "Huyen Cho Gao"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Tan Phuoc"
+                },
+                {
+                    "city_name": "Huyen Cai Lay"
+                },
+                {
+                    "city_name": "Huyen Cai Be"
+                },
+                {
+                    "city_name": "Thi Xa Cai Lay"
+                },
+                {
+                    "city_name": "Huyen Tan Phu GJong"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Thua Thien-Hue",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Hue"
+                },
+                {
+                    "city_name": "Thi Xa Huong Thuy"
+                },
+                {
+                    "city_name": "Huyen Phu Vang"
+                },
+                {
+                    "city_name": "Huyen Quang Dien"
+                },
+                {
+                    "city_name": "Huyen Phong GJien"
+                },
+                {
+                    "city_name": "Thi Xa Huong Tra"
+                },
+                {
+                    "city_name": "Huyen A Luoi"
+                },
+                {
+                    "city_name": "Huyen Nam GJong"
+                },
+                {
+                    "city_name": "Huyen Phu Loc"
+                }
+            ]
+        },
+        {
+            "province_name": "Kon Tum",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Kon Tum"
+                },
+                {
+                    "city_name": "Huyen GJak Ha"
+                },
+                {
+                    "city_name": "Huyen Kon Plong"
+                },
+                {
+                    "city_name": "Huyen GJak To"
+                },
+                {
+                    "city_name": "Huyen Sa Thay"
+                },
+                {
+                    "city_name": "Huyen Ngoc Hoi"
+                },
+                {
+                    "city_name": "Huyen GJak Glei"
+                },
+                {
+                    "city_name": "Huyen Tu Mo Ron"
+                },
+                {
+                    "city_name": "Huyen Kon Ray"
+                },
+                {
+                    "city_name": "Huyen Ia H' Drai"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Thanh Hoa",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Thanh Hoa"
+                },
+                {
+                    "city_name": "Huyen Tinh Gia"
+                },
+                {
+                    "city_name": "Huyen Nong Cong"
+                },
+                {
+                    "city_name": "Huyen Nhu Thanh"
+                },
+                {
+                    "city_name": "Huyen Nhu Xuan"
+                },
+                {
+                    "city_name": "Huyen Quang Xuong"
+                },
+                {
+                    "city_name": "Thi Xa Sam Son"
+                },
+                {
+                    "city_name": "Huyen Hoang Hoa"
+                },
+                {
+                    "city_name": "Huyen GJong Son"
+                },
+                {
+                    "city_name": "Huyen Thieu Hoa"
+                },
+                {
+                    "city_name": "Huyen Yen GJinh"
+                },
+                {
+                    "city_name": "Huyen Trieu Son"
+                },
+                {
+                    "city_name": "Huyen Tho Xuan"
+                },
+                {
+                    "city_name": "Huyen Thuong Xuan"
+                },
+                {
+                    "city_name": "Huyen Ngoc Lac"
+                },
+                {
+                    "city_name": "Huyen Lang Chanh"
+                },
+                {
+                    "city_name": "Huyen Cam Thuy"
+                },
+                {
+                    "city_name": "Huyen Vinh Loc"
+                },
+                {
+                    "city_name": "Huyen Hau Loc"
+                },
+                {
+                    "city_name": "Huyen Nga Son"
+                },
+                {
+                    "city_name": "Huyen Ha Trung"
+                },
+                {
+                    "city_name": "Thi Xa Bim Son"
+                },
+                {
+                    "city_name": "Huyen Thach Thanh"
+                },
+                {
+                    "city_name": "Huyen Ba Thuoc"
+                },
+                {
+                    "city_name": "Huyen Quan Son"
+                },
+                {
+                    "city_name": "Huyen Quan Hoa"
+                },
+                {
+                    "city_name": "Huyen Muong Lat"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Thai Binh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Thai Binh"
+                },
+                {
+                    "city_name": "Huyen Vu Thu"
+                },
+                {
+                    "city_name": "Huyen Dong Hung"
+                },
+                {
+                    "city_name": "Huyen Kien Xuong"
+                },
+                {
+                    "city_name": "Huyen Tien Hai"
+                },
+                {
+                    "city_name": "Huyen Thai Thuy"
+                },
+                {
+                    "city_name": "Huyen Quynh Phu"
+                },
+                {
+                    "city_name": "Huyen Hung Ha"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Tay Ninh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Tay Ninh"
+                },
+                {
+                    "city_name": "Huyen Hoa Thanh"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Ben Cau"
+                },
+                {
+                    "city_name": "Huyen Go Dau"
+                },
+                {
+                    "city_name": "Huyen Trang Bang"
+                },
+                {
+                    "city_name": "Huyen Duong Minh Chau"
+                },
+                {
+                    "city_name": "Huyen Tan Chau"
+                },
+                {
+                    "city_name": "Huyen Tan Bien"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Son La",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Son La"
+                },
+                {
+                    "city_name": "Huyen Muong La"
+                },
+                {
+                    "city_name": "Huyen Quynh Nhai"
+                },
+                {
+                    "city_name": "Huyen Thuan Chau"
+                },
+                {
+                    "city_name": "Huyen Song Ma"
+                },
+                {
+                    "city_name": "Huyen Mai Son"
+                },
+                {
+                    "city_name": "Huyen Bac Yen"
+                },
+                {
+                    "city_name": "Huyen Yen Chau"
+                },
+                {
+                    "city_name": "Huyen Phu Yen"
+                },
+                {
+                    "city_name": "Huyen Moc Chau"
+                },
+                {
+                    "city_name": "Huyen Sop Cop"
+                },
+                {
+                    "city_name": "Huyen Van Ho"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Quang Tri",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho GJong Ha"
+                },
+                {
+                    "city_name": "Huyen GJa Krong"
+                },
+                {
+                    "city_name": "Huyen Huong Hoa"
+                },
+                {
+                    "city_name": "Huyen Hai Lang"
+                },
+                {
+                    "city_name": "Thi Xa Quang Tri"
+                },
+                {
+                    "city_name": "Huyen Trieu Phong"
+                },
+                {
+                    "city_name": "Huyen Cam Lo"
+                },
+                {
+                    "city_name": "Huyen Gio Linh"
+                },
+                {
+                    "city_name": "Huyen Vinh Linh"
+                },
+                {
+                    "city_name": "Huyen Con Co"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Quang Ninh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Ha Long"
+                },
+                {
+                    "city_name": "Thanh Pho Cam Pha"
+                },
+                {
+                    "city_name": "Thanh Pho Uong Bi"
+                },
+                {
+                    "city_name": "Huyen GJong Trieu"
+                },
+                {
+                    "city_name": "Thi Xa Quang Yen"
+                },
+                {
+                    "city_name": "Huyen Hoanh Bo"
+                },
+                {
+                    "city_name": "Huyen Ba Che"
+                },
+                {
+                    "city_name": "Huyen Tien Yen"
+                },
+                {
+                    "city_name": "Huyen Binh Lieu"
+                },
+                {
+                    "city_name": "Huyen Hai Ha"
+                },
+                {
+                    "city_name": "Thanh Pho Mong Cai"
+                },
+                {
+                    "city_name": "Huyen Van GJon"
+                },
+                {
+                    "city_name": "Huyen Co To"
+                },
+                {
+                    "city_name": "Huyen GJam Ha"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Quang Ngai",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Quang Ngai"
+                },
+                {
+                    "city_name": "Huyen Tu Nghia"
+                },
+                {
+                    "city_name": "Huyen Son Tinh"
+                },
+                {
+                    "city_name": "Huyen Binh Son"
+                },
+                {
+                    "city_name": "Huyen Tra Bong"
+                },
+                {
+                    "city_name": "Huyen Son Tay"
+                },
+                {
+                    "city_name": "Huyen Son Ha"
+                },
+                {
+                    "city_name": "Huyen Minh Long"
+                },
+                {
+                    "city_name": "Huyen Nghia Hanh"
+                },
+                {
+                    "city_name": "Huyen Mo GJuc"
+                },
+                {
+                    "city_name": "Huyen Ba To"
+                },
+                {
+                    "city_name": "Huyen GJuc Pho"
+                },
+                {
+                    "city_name": "Huyen Ly Son"
+                },
+                {
+                    "city_name": "Huyen Tay Tra"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Quang Binh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho GJong Hoi"
+                },
+                {
+                    "city_name": "Huyen Le Thuy"
+                },
+                {
+                    "city_name": "Huyen Quang Ninh"
+                },
+                {
+                    "city_name": "Huyen Bo Trach"
+                },
+                {
+                    "city_name": "Huyen Quang Trach"
+                },
+                {
+                    "city_name": "Huyen Tuyen Hoa"
+                },
+                {
+                    "city_name": "Huyen Minh Hoa"
+                },
+                {
+                    "city_name": "Thi xa Ba GJon"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Phu Yen",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Tuy Hoa"
+                },
+                {
+                    "city_name": "Huyen Song Hinh"
+                },
+                {
+                    "city_name": "Huyen Son Hoa"
+                },
+                {
+                    "city_name": "Huyen Tuy An"
+                },
+                {
+                    "city_name": "Thi Xa Song Cau"
+                },
+                {
+                    "city_name": "Huyen GJong Xuan"
+                },
+                {
+                    "city_name": "Huyen GJong Hoa"
+                },
+                {
+                    "city_name": "Huyen Phu Hoa"
+                },
+                {
+                    "city_name": "Huyen Tay Hoa"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Hoa Binh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Hoa Binh"
+                },
+                {
+                    "city_name": "Huyen Ky Son"
+                },
+                {
+                    "city_name": "Huyen GJa Bac"
+                },
+                {
+                    "city_name": "Huyen Mai Chau"
+                },
+                {
+                    "city_name": "Huyen Tan Lac"
+                },
+                {
+                    "city_name": "Huyen Luong Son"
+                },
+                {
+                    "city_name": "Huyen Kim Boi"
+                },
+                {
+                    "city_name": "Huyen Lac Son"
+                },
+                {
+                    "city_name": "Huyen Lac Thuy"
+                },
+                {
+                    "city_name": "Huyen Yen Thuy"
+                },
+                {
+                    "city_name": "Huyen Cao Phong"
+                }
+            ]
+        },
+        {
+            "province_name": "Long An",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Tan An"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Tan Tru"
+                },
+                {
+                    "city_name": "Huyen Can GJuoc"
+                },
+                {
+                    "city_name": "Huyen Can Giuoc"
+                },
+                {
+                    "city_name": "Huyen Ben Luc"
+                },
+                {
+                    "city_name": "Huyen Thu Thua"
+                },
+                {
+                    "city_name": "Huyen Thanh Hoa"
+                },
+                {
+                    "city_name": "Huyen GJuc Hue"
+                },
+                {
+                    "city_name": "Huyen GJuc Hoa"
+                },
+                {
+                    "city_name": "Huyen Tan Thanh"
+                },
+                {
+                    "city_name": "Huyen Moc Hoa"
+                },
+                {
+                    "city_name": "Huyen Tan Hung"
+                },
+                {
+                    "city_name": "Huyen Vinh Hung"
+                },
+                {
+                    "city_name": "Thi Xa Kien Tuong"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Lang Son",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Lang Son"
+                },
+                {
+                    "city_name": "Huyen Van Lang"
+                },
+                {
+                    "city_name": "Huyen Cao Loc"
+                },
+                {
+                    "city_name": "Huyen Van Quan"
+                },
+                {
+                    "city_name": "Huyen Chi Lang"
+                },
+                {
+                    "city_name": "Huyen Loc Binh"
+                },
+                {
+                    "city_name": "Huyen GJinh Lap"
+                },
+                {
+                    "city_name": "Huyen Huu Lung"
+                },
+                {
+                    "city_name": "Huyen Bac Son"
+                },
+                {
+                    "city_name": "Huyen Binh Gia"
+                },
+                {
+                    "city_name": "Huyen Trang GJinh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Lam GJong",
+            "cities": [
+                {
+                    "city_name": "GJam Rong"
+                },
+                {
+                    "city_name": "Thanh Pho GJa Lat"
+                },
+                {
+                    "city_name": "Thanh Pho Bao Loc"
+                },
+                {
+                    "city_name": "Huyen Bao Lam"
+                },
+                {
+                    "city_name": "Huyen GJa Huoai"
+                },
+                {
+                    "city_name": "Huyen GJa Teh"
+                },
+                {
+                    "city_name": "Huyen Cat Tien"
+                },
+                {
+                    "city_name": "Huyen Di Linh"
+                },
+                {
+                    "city_name": "Huyen GJuc Trong"
+                },
+                {
+                    "city_name": "Huyen GJon Duong"
+                },
+                {
+                    "city_name": "Huyen Lam Ha"
+                },
+                {
+                    "city_name": "Huyen Lac Duong"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Lai Chau",
+            "cities": [
+                {
+                    "city_name": "Huyen Than Uyen"
+                },
+                {
+                    "city_name": "Huyen Sin Ho"
+                },
+                {
+                    "city_name": "Huyen Phong Tho"
+                },
+                {
+                    "city_name": "Huyen Muong Te"
+                },
+                {
+                    "city_name": "Huyen Tam GJuong"
+                },
+                {
+                    "city_name": "Huyen Nam Nhun"
+                },
+                {
+                    "city_name": "Huyen Tan Uyen"
+                },
+                {
+                    "city_name": "Thanh pho Lai Chau"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Kien Giang",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Rach Gia"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Giong Rieng"
+                },
+                {
+                    "city_name": "Huyen Tan Hiep"
+                },
+                {
+                    "city_name": "Huyen Go Quao"
+                },
+                {
+                    "city_name": "Huyen An Bien"
+                },
+                {
+                    "city_name": "Huyen An Minh"
+                },
+                {
+                    "city_name": "Huyen Vinh Thuan"
+                },
+                {
+                    "city_name": "Huyen Hon GJat"
+                },
+                {
+                    "city_name": "Thi Xa Ha Tien"
+                },
+                {
+                    "city_name": "Huyen Kien Hai"
+                },
+                {
+                    "city_name": "Huyen Phu Quoc"
+                },
+                {
+                    "city_name": "Kien Luong Town"
+                },
+                {
+                    "city_name": "Huyen U Minh Thuong"
+                },
+                {
+                    "city_name": "Huyen Giang Thanh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Khanh Hoa",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Nha Trang"
+                },
+                {
+                    "city_name": "Huyen Dien Khanh"
+                },
+                {
+                    "city_name": "Thanh Pho Cam Ranh"
+                },
+                {
+                    "city_name": "Huyen Khanh Son"
+                },
+                {
+                    "city_name": "Huyen Khanh Vinh"
+                },
+                {
+                    "city_name": "Thi Xa Ninh Hoa"
+                },
+                {
+                    "city_name": "Huyen Van Ninh"
+                },
+                {
+                    "city_name": "Huyen Truong Sa"
+                },
+                {
+                    "city_name": "Huyen Cam Lam"
+                }
+            ]
+        },
+        {
+            "province_name": "Ho Chi Minh City",
+            "cities": [
+                {
+                    "city_name": "Quan Mot"
+                },
+                {
+                    "city_name": "Quan Hai"
+                },
+                {
+                    "city_name": "Quan Ba"
+                },
+                {
+                    "city_name": "Quan Bon"
+                },
+                {
+                    "city_name": "Quan Nam"
+                },
+                {
+                    "city_name": "Quan Sau"
+                },
+                {
+                    "city_name": "Quan Bay"
+                },
+                {
+                    "city_name": "Quan Tam"
+                },
+                {
+                    "city_name": "Quan Chin"
+                },
+                {
+                    "city_name": "Quan Muoi"
+                },
+                {
+                    "city_name": "Quan Muoi Mot"
+                },
+                {
+                    "city_name": "Quan 12"
+                },
+                {
+                    "city_name": "Phu Nhuan"
+                },
+                {
+                    "city_name": "Quan Tan Binh"
+                },
+                {
+                    "city_name": "Quan Binh Thanh"
+                },
+                {
+                    "city_name": "Quan Go Vap"
+                },
+                {
+                    "city_name": "Quan Thu GJuc"
+                },
+                {
+                    "city_name": "Huyen Hoc Mon"
+                },
+                {
+                    "city_name": "Huyen Cu Chi"
+                },
+                {
+                    "city_name": "Huyen Binh Chanh"
+                },
+                {
+                    "city_name": "Huyen Nha Be"
+                },
+                {
+                    "city_name": "Huyen Can Gio"
+                },
+                {
+                    "city_name": "Tan Phu"
+                },
+                {
+                    "city_name": "Quan Binh Tan"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ha Tinh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Ha Tinh"
+                },
+                {
+                    "city_name": "Huyen Cam Xuyen"
+                },
+                {
+                    "city_name": "Huyen Ky Anh"
+                },
+                {
+                    "city_name": "Huyen Huong Khe"
+                },
+                {
+                    "city_name": "Huyen Thach Ha"
+                },
+                {
+                    "city_name": "Huyen Can Loc"
+                },
+                {
+                    "city_name": "Huyen Nghi Xuan"
+                },
+                {
+                    "city_name": "Thi Xa Hong Linh"
+                },
+                {
+                    "city_name": "Huyen Duc Tho"
+                },
+                {
+                    "city_name": "Huyen Huong Son"
+                },
+                {
+                    "city_name": "Huyen Vu Quang"
+                },
+                {
+                    "city_name": "Huyen Loc Ha"
+                },
+                {
+                    "city_name": "Thi xa Ky Anh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ha Giang",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Ha Giang"
+                },
+                {
+                    "city_name": "Huyen Vi Xuyen"
+                },
+                {
+                    "city_name": "Huyen Bac Me"
+                },
+                {
+                    "city_name": "Huyen Yen Minh"
+                },
+                {
+                    "city_name": "Huyen Quan Ba"
+                },
+                {
+                    "city_name": "Huyen GJong Van"
+                },
+                {
+                    "city_name": "Huyen Meo Vac"
+                },
+                {
+                    "city_name": "Huyen Xin Man"
+                },
+                {
+                    "city_name": "Huyen Hoang Su Phi"
+                },
+                {
+                    "city_name": "Huyen Bac Quang"
+                },
+                {
+                    "city_name": "Huyen Quang Binh"
+                }
+            ]
+        },
+        {
+            "province_name": "Gia Lai",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Pleiku"
+                },
+                {
+                    "city_name": "Huyen Chu Pah"
+                },
+                {
+                    "city_name": "Huyen Ia Grai"
+                },
+                {
+                    "city_name": "Huyen GJuc Co"
+                },
+                {
+                    "city_name": "Huyen Chu Prong"
+                },
+                {
+                    "city_name": "Huyen Chu Se"
+                },
+                {
+                    "city_name": "Huyen Krong Pa"
+                },
+                {
+                    "city_name": "Thi Xa A Yun Pa"
+                },
+                {
+                    "city_name": "Huyen Kong Chro"
+                },
+                {
+                    "city_name": "Thi Xa An Khe"
+                },
+                {
+                    "city_name": "Huyen Mang Yang"
+                },
+                {
+                    "city_name": "Huyen KBang"
+                },
+                {
+                    "city_name": "Huyen Chu Puh"
+                },
+                {
+                    "city_name": "Huyen Phu Thien"
+                },
+                {
+                    "city_name": "Huyen Ia Pa"
+                },
+                {
+                    "city_name": "Huyen GJak GJoa"
+                },
+                {
+                    "city_name": "Huyen GJak Po"
+                }
+            ]
+        },
+        {
+            "province_name": "Thanh Pho Ha Noi",
+            "cities": [
+                {
+                    "city_name": "Quan Ha GJong"
+                },
+                {
+                    "city_name": "Thi Xa Son Tay"
+                },
+                {
+                    "city_name": "Huyen Thanh Oai"
+                },
+                {
+                    "city_name": "Huyen Chuong My"
+                },
+                {
+                    "city_name": "Huyen Hoai GJuc"
+                },
+                {
+                    "city_name": "Huyen Quoc Oai"
+                },
+                {
+                    "city_name": "Huyen Thach That"
+                },
+                {
+                    "city_name": "Huyen GJan Phuong"
+                },
+                {
+                    "city_name": "Huyen Phuc Tho"
+                },
+                {
+                    "city_name": "Huyen Ba Vi"
+                },
+                {
+                    "city_name": "Huyen Thuong Tin"
+                },
+                {
+                    "city_name": "Huyen Phu Xuyen"
+                },
+                {
+                    "city_name": "Huyen Ung Hoa"
+                },
+                {
+                    "city_name": "Huyen My GJuc"
+                },
+                {
+                    "city_name": "Quan Ba GJinh"
+                },
+                {
+                    "city_name": "Quan Cau Giay"
+                },
+                {
+                    "city_name": "Huyen GJong Anh"
+                },
+                {
+                    "city_name": "Quan GJong GJa"
+                },
+                {
+                    "city_name": "Huyen Gia Lam"
+                },
+                {
+                    "city_name": "Quan Hai BaTrung"
+                },
+                {
+                    "city_name": "Quan Hoan Kiem"
+                },
+                {
+                    "city_name": "Huyen Soc Son"
+                },
+                {
+                    "city_name": "Quan Tay Ho"
+                },
+                {
+                    "city_name": "Huyen Thanh Tri"
+                },
+                {
+                    "city_name": "Quan Thanh Xuan"
+                },
+                {
+                    "city_name": "Huyen Me Linh"
+                },
+                {
+                    "city_name": "Quan Long Bien"
+                },
+                {
+                    "city_name": "Quan Hoang Mai"
+                },
+                {
+                    "city_name": "Quan Nam Tu Liem"
+                },
+                {
+                    "city_name": "Quan Bac Tu Liem"
+                }
+            ]
+        },
+        {
+            "province_name": "Thanh Pho Can Tho",
+            "cities": [
+                {
+                    "city_name": "Quan Ninh Kieu"
+                },
+                {
+                    "city_name": "Quan O Mon"
+                },
+                {
+                    "city_name": "Quan Thot Not"
+                },
+                {
+                    "city_name": "Cai Rang"
+                },
+                {
+                    "city_name": "Quan Binh Thuy"
+                },
+                {
+                    "city_name": "Huyen Phong GJien"
+                },
+                {
+                    "city_name": "Huyen Thoi Lai"
+                },
+                {
+                    "city_name": "Huyen Co GJo"
+                },
+                {
+                    "city_name": "Huyen Vinh Thanh"
+                }
+            ]
+        },
+        {
+            "province_name": "Thanh Pho Hai Phong",
+            "cities": [
+                {
+                    "city_name": "Quan Le Chan"
+                },
+                {
+                    "city_name": "Quan Ngo Quyen"
+                },
+                {
+                    "city_name": "Quan Kien An"
+                },
+                {
+                    "city_name": "Quan GJo Son"
+                },
+                {
+                    "city_name": "Huyen An Duong"
+                },
+                {
+                    "city_name": "Huyen Thuy Nguyen"
+                },
+                {
+                    "city_name": "Huyen An Lao"
+                },
+                {
+                    "city_name": "Huyen Kien Thuy"
+                },
+                {
+                    "city_name": "Huyen Tien Lang"
+                },
+                {
+                    "city_name": "Huyen Vinh Bao"
+                },
+                {
+                    "city_name": "Huyen Cat Hai"
+                },
+                {
+                    "city_name": "Huyen Bach Long Vy"
+                },
+                {
+                    "city_name": "Quan Hong Bang"
+                },
+                {
+                    "city_name": "Quan Duong Kinh"
+                },
+                {
+                    "city_name": "Quan Hai An"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Binh Thuan",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Phan Thiet"
+                },
+                {
+                    "city_name": "Huyen Ham Thuan Nam"
+                },
+                {
+                    "city_name": "Huyen Ham Thuan Bac"
+                },
+                {
+                    "city_name": "Huyen Bac Binh"
+                },
+                {
+                    "city_name": "Huyen Tuy Phong"
+                },
+                {
+                    "city_name": "Huyen Ham Tan"
+                },
+                {
+                    "city_name": "Huyen Tanh Linh"
+                },
+                {
+                    "city_name": "Huyen GJuc Linh"
+                },
+                {
+                    "city_name": "Huyen Phu Quy"
+                },
+                {
+                    "city_name": "Thi Xa La Gi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh GJong Thap",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Cao Lanh"
+                },
+                {
+                    "city_name": "Sa Dec city"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Lai Vung"
+                },
+                {
+                    "city_name": "Huyen Lap Vo"
+                },
+                {
+                    "city_name": "Huyen Cao Lanh"
+                },
+                {
+                    "city_name": "Huyen Thap Muoi"
+                },
+                {
+                    "city_name": "Huyen Thanh Binh"
+                },
+                {
+                    "city_name": "Huyen Tam Nong"
+                },
+                {
+                    "city_name": "Huyen Hong Ngu"
+                },
+                {
+                    "city_name": "Huyen Tan Hong"
+                },
+                {
+                    "city_name": "Thi Xa Hong Ngu"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh GJong Nai",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Bien Hoa"
+                },
+                {
+                    "city_name": "Huyen Vinh Cuu"
+                },
+                {
+                    "city_name": "Huyen Thong Nhat"
+                },
+                {
+                    "city_name": "Huyen Long Thanh"
+                },
+                {
+                    "city_name": "Huyen Nhon Trach"
+                },
+                {
+                    "city_name": "Thi Xa Long Khanh"
+                },
+                {
+                    "city_name": "Huyen Xuan Loc"
+                },
+                {
+                    "city_name": "Huyen GJinh Quan"
+                },
+                {
+                    "city_name": "Huyen Tan Phu"
+                },
+                {
+                    "city_name": "Huyen Cam My"
+                },
+                {
+                    "city_name": "Huyen Trang Bom"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh GJak Lak",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Buon Ma Thuot"
+                },
+                {
+                    "city_name": "Huyen Buon GJon"
+                },
+                {
+                    "city_name": "Huyen Ea Sup"
+                },
+                {
+                    "city_name": "Huyen Lak"
+                },
+                {
+                    "city_name": "Huyen Krong Ana"
+                },
+                {
+                    "city_name": "Huyen Krong Bong"
+                },
+                {
+                    "city_name": "Huyen Krong Pak"
+                },
+                {
+                    "city_name": "Huyen Ea Kar"
+                },
+                {
+                    "city_name": "Huyen M'GJrak"
+                },
+                {
+                    "city_name": "Huyen Cu M'Gar"
+                },
+                {
+                    "city_name": "Huyen Krong Buk"
+                },
+                {
+                    "city_name": "Huyen Krong Nang"
+                },
+                {
+                    "city_name": "Huyen Ea H'Leo"
+                },
+                {
+                    "city_name": "Huyen Cu Kuin"
+                },
+                {
+                    "city_name": "Thi Xa Buon Ho"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ba Ria-Vung Tau",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Vung Tau"
+                },
+                {
+                    "city_name": "Thanh Pho Ba Ria"
+                },
+                {
+                    "city_name": "Huyen Tan Thanh"
+                },
+                {
+                    "city_name": "Huyen Chau GJuc"
+                },
+                {
+                    "city_name": "Huyen GJat GJo"
+                },
+                {
+                    "city_name": "Huyen Xuyen Moc"
+                },
+                {
+                    "city_name": "Huyen Con GJao"
+                },
+                {
+                    "city_name": "Huyen Long GJien"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Cao Bang",
+            "cities": [
+                {
+                    "city_name": "Huyen Hoa An"
+                },
+                {
+                    "city_name": "Huyen Tra Linh"
+                },
+                {
+                    "city_name": "Huyen Trung Khanh"
+                },
+                {
+                    "city_name": "Huyen Ha Lang"
+                },
+                {
+                    "city_name": "Huyen Thach An"
+                },
+                {
+                    "city_name": "Huyen Nguyen Binh"
+                },
+                {
+                    "city_name": "Huyen Thong Nong"
+                },
+                {
+                    "city_name": "Huyen Ha Quang"
+                },
+                {
+                    "city_name": "Huyen Bao Lac"
+                },
+                {
+                    "city_name": "Thanh Pho Cao Bang"
+                },
+                {
+                    "city_name": "Huyen Bao Lam"
+                },
+                {
+                    "city_name": "Huyen Phuc Hoa"
+                },
+                {
+                    "city_name": "Huyen Quang Uyen"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Binh GJinh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Quy Nhon"
+                },
+                {
+                    "city_name": "Huyen Tuy Phuoc"
+                },
+                {
+                    "city_name": "Thi Xa An Nhon"
+                },
+                {
+                    "city_name": "Huyen Van Canh"
+                },
+                {
+                    "city_name": "Huyen Tay Son"
+                },
+                {
+                    "city_name": "Phu Cat District"
+                },
+                {
+                    "city_name": "Huyen Phu My"
+                },
+                {
+                    "city_name": "Huyen Hoai Nhon"
+                },
+                {
+                    "city_name": "Huyen Vinh Thanh"
+                },
+                {
+                    "city_name": "Huyen Hoai An"
+                },
+                {
+                    "city_name": "Huyen An Lao"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ben Tre",
+            "cities": [
+                {
+                    "city_name": "Huyen Thanh Phu"
+                },
+                {
+                    "city_name": "Huyen Mo Cay Nam"
+                },
+                {
+                    "city_name": "Huyen Cho Lach"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Giong Trom"
+                },
+                {
+                    "city_name": "Huyen Binh GJai"
+                },
+                {
+                    "city_name": "Huyen Ba Tri"
+                },
+                {
+                    "city_name": "Thanh Pho Ben Tre"
+                },
+                {
+                    "city_name": "Huyen Mo Cay Bac"
+                }
+            ]
+        },
+        {
+            "province_name": "An Giang",
+            "cities": [
+                {
+                    "city_name": "Long Xuyen City"
+                },
+                {
+                    "city_name": "Thanh pho Chau GJoc"
+                },
+                {
+                    "city_name": "Huyen Thoai Son"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Cho Moi"
+                },
+                {
+                    "city_name": "Huyen Phu Tan"
+                },
+                {
+                    "city_name": "Huyen Chau Phu"
+                },
+                {
+                    "city_name": "Huyen Tri Ton"
+                },
+                {
+                    "city_name": "Huyen Tinh Bien"
+                },
+                {
+                    "city_name": "Thi Xa Tan Chau"
+                },
+                {
+                    "city_name": "Huyen An Phu"
+                }
+            ]
+        },
+        {
+            "province_name": "Dak Nong",
+            "cities": [
+                {
+                    "city_name": "Huyen GJak R'Lap"
+                },
+                {
+                    "city_name": "Huyen Krong No"
+                },
+                {
+                    "city_name": "Huyen GJak Mil"
+                },
+                {
+                    "city_name": "Huyen Cu Jut"
+                },
+                {
+                    "city_name": "Huyen Dak Glong"
+                },
+                {
+                    "city_name": "Huyen Tuy Duc"
+                },
+                {
+                    "city_name": "Huyen Dak Song"
+                },
+                {
+                    "city_name": "Thi Xa Gia Nghia"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Dien Bien",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho GJien Bien Phu"
+                },
+                {
+                    "city_name": "Huyen GJien Bien GJong"
+                },
+                {
+                    "city_name": "Huyen Tuan Giao"
+                },
+                {
+                    "city_name": "Huyen Tua Chua"
+                },
+                {
+                    "city_name": "Thi Xa Muong Lay"
+                },
+                {
+                    "city_name": "Huyen Muong Nhe"
+                },
+                {
+                    "city_name": "Huyen Muong Cha"
+                },
+                {
+                    "city_name": "Huyen Muong Ang"
+                },
+                {
+                    "city_name": "Huyen GJien Bien"
+                },
+                {
+                    "city_name": "Huyen Nam Po"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Bac Ninh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Bac Ninh"
+                },
+                {
+                    "city_name": "Huyen Yen Phong"
+                },
+                {
+                    "city_name": "Huyen Que Vo"
+                },
+                {
+                    "city_name": "Huyen Tien Du"
+                },
+                {
+                    "city_name": "Huyen Gia Binh"
+                },
+                {
+                    "city_name": "Huyen Thuan Thanh"
+                },
+                {
+                    "city_name": "Thi Xa Tu Son"
+                },
+                {
+                    "city_name": "Huyen Luong Tai"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Bac Giang",
+            "cities": [
+                {
+                    "city_name": "Huyen Viet Yen"
+                },
+                {
+                    "city_name": "Huyen Yen Dung"
+                },
+                {
+                    "city_name": "Huyen Lang Giang"
+                },
+                {
+                    "city_name": "Huyen Tan Yen"
+                },
+                {
+                    "city_name": "Huyen Hiep Hoa"
+                },
+                {
+                    "city_name": "Huyen Yen The"
+                },
+                {
+                    "city_name": "Huyen Luc Nam"
+                },
+                {
+                    "city_name": "Huyen Luc Ngan"
+                },
+                {
+                    "city_name": "Huyen Son GJong"
+                },
+                {
+                    "city_name": "Thanh pho Bac Giang"
+                }
+            ]
+        },
+        {
+            "province_name": "Thanh Pho GJa Nang",
+            "cities": [
+                {
+                    "city_name": "Quan Thanh Khe"
+                },
+                {
+                    "city_name": "Quan Son Tra"
+                },
+                {
+                    "city_name": "Quan Ngu Hanh Son"
+                },
+                {
+                    "city_name": "Quan Lien Chieu"
+                },
+                {
+                    "city_name": "Huyen Hoa Vang"
+                },
+                {
+                    "city_name": "Huyen Hoang Sa"
+                },
+                {
+                    "city_name": "Quan Hai Chau"
+                },
+                {
+                    "city_name": "Quan Cam Le"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Binh Duong",
+            "cities": [
+                {
+                    "city_name": "Tan Uyen"
+                },
+                {
+                    "city_name": "Thanh Pho Thu Dau Mot"
+                },
+                {
+                    "city_name": "Thi Xa Thuan An"
+                },
+                {
+                    "city_name": "Thi Xa Tan Uyen"
+                },
+                {
+                    "city_name": "Thi Xa Ben Cat"
+                },
+                {
+                    "city_name": "Phu Giao District"
+                },
+                {
+                    "city_name": "Huyen Bau Bang"
+                },
+                {
+                    "city_name": "Thi Xa Di An"
+                },
+                {
+                    "city_name": "Huyen Dau Tieng"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Binh Phuoc",
+            "cities": [
+                {
+                    "city_name": "Huyen GJong Phu"
+                },
+                {
+                    "city_name": "Thi Xa Binh Long"
+                },
+                {
+                    "city_name": "Huyen Loc Ninh"
+                },
+                {
+                    "city_name": "Thi Xa Phuoc Long"
+                },
+                {
+                    "city_name": "Huyen Bu GJang"
+                },
+                {
+                    "city_name": "Huyen Hon Quan"
+                },
+                {
+                    "city_name": "Huyen Bu Gia Map"
+                },
+                {
+                    "city_name": "Huyen Bu GJop"
+                },
+                {
+                    "city_name": "Huyen Chon Thanh"
+                },
+                {
+                    "city_name": "Thi Xa GJong Xoai"
+                },
+                {
+                    "city_name": "Huyen Phu Rieng"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Thai Nguyen",
+            "cities": [
+                {
+                    "city_name": "Thi Xa Song Cong"
+                },
+                {
+                    "city_name": "Huyen Phu Binh"
+                },
+                {
+                    "city_name": "Huyen Pho Yen"
+                },
+                {
+                    "city_name": "Huyen GJai Tu"
+                },
+                {
+                    "city_name": "Huyen GJinh Hoa"
+                },
+                {
+                    "city_name": "Huyen Phu Luong"
+                },
+                {
+                    "city_name": "Huyen GJong Hy"
+                },
+                {
+                    "city_name": "Huyen Vo Nhai"
+                },
+                {
+                    "city_name": "Thanh Pho Thai Nguyen"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Quang Nam",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Tam Ky"
+                },
+                {
+                    "city_name": "Thanh Pho Hoi An"
+                },
+                {
+                    "city_name": "Huyen Thang Binh"
+                },
+                {
+                    "city_name": "Huyen Que Son"
+                },
+                {
+                    "city_name": "Huyen Duy Xuyen"
+                },
+                {
+                    "city_name": "Huyen GJien Ban"
+                },
+                {
+                    "city_name": "Huyen GJai Loc"
+                },
+                {
+                    "city_name": "Huyen Nam Giang"
+                },
+                {
+                    "city_name": "Huyen Phuoc Son"
+                },
+                {
+                    "city_name": "Huyen Hiep GJuc"
+                },
+                {
+                    "city_name": "Huyen Tien Phuoc"
+                },
+                {
+                    "city_name": "Huyen Nui Thanh"
+                },
+                {
+                    "city_name": "Huyen Tra My"
+                },
+                {
+                    "city_name": "Huyen Nong Son"
+                },
+                {
+                    "city_name": "Huyen GJong Giang"
+                },
+                {
+                    "city_name": "Huyen Tay Giang"
+                },
+                {
+                    "city_name": "Huyen Bac Tra My"
+                },
+                {
+                    "city_name": "Huyen Phu Ninh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Phu Tho",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Viet Tri"
+                },
+                {
+                    "city_name": "Thi xa Phu Tho"
+                },
+                {
+                    "city_name": "Huyen Phu Ninh"
+                },
+                {
+                    "city_name": "Huyen Thanh Ba"
+                },
+                {
+                    "city_name": "Huyen Cam Khe"
+                },
+                {
+                    "city_name": "Huyen Tam Nong"
+                },
+                {
+                    "city_name": "Huyen Thanh Son"
+                },
+                {
+                    "city_name": "Huyen Yen Lap"
+                },
+                {
+                    "city_name": "Huyen Ha Hoa"
+                },
+                {
+                    "city_name": "Huyen GJoan Hung"
+                },
+                {
+                    "city_name": "Huyen Tan Son"
+                },
+                {
+                    "city_name": "Huyen Lam Thao"
+                },
+                {
+                    "city_name": "Huyen Thanh Thuy"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Nam GJinh",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Nam GJinh"
+                },
+                {
+                    "city_name": "Huyen My Loc"
+                },
+                {
+                    "city_name": "Huyen Vu Ban"
+                },
+                {
+                    "city_name": "Huyen Y Yen"
+                },
+                {
+                    "city_name": "Huyen Nam Truc"
+                },
+                {
+                    "city_name": "Huyen Truc Ninh"
+                },
+                {
+                    "city_name": "Huyen Xuan Truong"
+                },
+                {
+                    "city_name": "Huyen Giao Thuy"
+                },
+                {
+                    "city_name": "Huyen Hai Hau"
+                },
+                {
+                    "city_name": "Huyen Nghia Hung"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ha Nam",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Phu Ly"
+                },
+                {
+                    "city_name": "Huyen Duy Tien"
+                },
+                {
+                    "city_name": "Huyen Kim Bang"
+                },
+                {
+                    "city_name": "Huyen Thanh Liem"
+                },
+                {
+                    "city_name": "Huyen Binh Luc"
+                },
+                {
+                    "city_name": "Huyen Ly Nhan"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Bac Kan",
+            "cities": [
+                {
+                    "city_name": "Huyen Bach Thong"
+                },
+                {
+                    "city_name": "Huyen Cho GJon"
+                },
+                {
+                    "city_name": "Huyen Ba Be"
+                },
+                {
+                    "city_name": "Huyen Ngan Son"
+                },
+                {
+                    "city_name": "Huyen Na Ri"
+                },
+                {
+                    "city_name": "Thi Xa Bac Kan"
+                },
+                {
+                    "city_name": "Huyen Pac Nam"
+                },
+                {
+                    "city_name": "Huyen Cho Moi"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Bac Lieu",
+            "cities": [
+                {
+                    "city_name": "Huyen Gia Rai"
+                },
+                {
+                    "city_name": "Huyen Hong Dan"
+                },
+                {
+                    "city_name": "Thanh pho Bac Lieu"
+                },
+                {
+                    "city_name": "Huyen Phuoc Long"
+                },
+                {
+                    "city_name": "Huyen Vinh Loi"
+                },
+                {
+                    "city_name": "Huyen GJong Hai"
+                },
+                {
+                    "city_name": "Huyen Hoa Binh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Ca Mau",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Ca Mau"
+                },
+                {
+                    "city_name": "Huyen Thoi Binh"
+                },
+                {
+                    "city_name": "Huyen U Minh"
+                },
+                {
+                    "city_name": "Huyen Tran Van Thoi"
+                },
+                {
+                    "city_name": "Huyen Cai Nuoc"
+                },
+                {
+                    "city_name": "Huyen GJam Doi"
+                },
+                {
+                    "city_name": "Huyen Ngoc Hien"
+                },
+                {
+                    "city_name": "Huyen Nam Can"
+                },
+                {
+                    "city_name": "Huyen Phu Tan"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Hai Duong",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Hai Duong"
+                },
+                {
+                    "city_name": "Huyen Cam Giang"
+                },
+                {
+                    "city_name": "Huyen Binh Giang"
+                },
+                {
+                    "city_name": "Huyen Gia Loc"
+                },
+                {
+                    "city_name": "Huyen Thanh Mien"
+                },
+                {
+                    "city_name": "Huyen Ninh Giang"
+                },
+                {
+                    "city_name": "Huyen Tu Ky"
+                },
+                {
+                    "city_name": "Huyen Thanh Ha"
+                },
+                {
+                    "city_name": "Huyen Kim Thanh"
+                },
+                {
+                    "city_name": "Huyen Nam Sach"
+                },
+                {
+                    "city_name": "Huyen Kinh Mon"
+                },
+                {
+                    "city_name": "Thi Xa Chi Linh"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Hung Yen",
+            "cities": [
+                {
+                    "city_name": "Huyen Tien Lu"
+                },
+                {
+                    "city_name": "Huyen Kim GJong"
+                },
+                {
+                    "city_name": "Huyen Phu Cu"
+                },
+                {
+                    "city_name": "Huyen An Thi"
+                },
+                {
+                    "city_name": "Huyen Khoai Chau"
+                },
+                {
+                    "city_name": "Huyen My Hao"
+                },
+                {
+                    "city_name": "Thanh Pho Hung Yen"
+                },
+                {
+                    "city_name": "Huyen Van Giang"
+                },
+                {
+                    "city_name": "Huyen Yen My"
+                },
+                {
+                    "city_name": "Huyen Van Lam"
+                }
+            ]
+        },
+        {
+            "province_name": "Tinh Vinh Phuc",
+            "cities": [
+                {
+                    "city_name": "Thanh Pho Vinh Yen"
+                },
+                {
+                    "city_name": "Huyen Tam GJao"
+                },
+                {
+                    "city_name": "Huyen Yen Lac"
+                },
+                {
+                    "city_name": "Huyen Vinh Tuong"
+                },
+                {
+                    "city_name": "Huyen Lap Thach"
+                },
+                {
+                    "city_name": "Huyen Song Lo"
+                },
+                {
+                    "city_name": "Huyen Tam Duong"
+                },
+                {
+                    "city_name": "Huyen Binh Xuyen"
+                },
+                {
+                    "city_name": "Thi xa Phuc Yen"
+                }
+            ]
+        },
+        {
+            "province_name": "Hau Giang",
+            "cities": [
+                {
+                    "city_name": "Huyen Chau Thanh"
+                },
+                {
+                    "city_name": "Huyen Phung Hiep"
+                },
+                {
+                    "city_name": "Vi Thuy District"
+                },
+                {
+                    "city_name": "Huyen Long My"
+                },
+                {
+                    "city_name": "Huyen Chau Thanh A"
+                },
+                {
+                    "city_name": "Thi Xa Nga Bay"
+                },
+                {
+                    "city_name": "Thanh Pho Vi Thanh"
+                },
+                {
+                    "city_name": "Thi xa Long My"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,349 @@
+{
+    "country_name": "Philippines",
+    "country_id": "PH",
+    "provinces": [
+        {
+            "province_name": "Autonomous Region in Muslim Mindanao",
+            "cities": [
+                {
+                    "city_name": "Province of Tawi-Tawi"
+                },
+                {
+                    "city_name": "Province of Sulu"
+                },
+                {
+                    "city_name": "Province of Maguindanao"
+                },
+                {
+                    "city_name": "Province of Lanao del Sur"
+                },
+                {
+                    "city_name": "Province of Basilan"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern Mindanao",
+            "cities": [
+                {
+                    "city_name": "Province of Misamis Oriental"
+                },
+                {
+                    "city_name": "Province of Misamis Occidental"
+                },
+                {
+                    "city_name": "Province of Lanao del Norte"
+                },
+                {
+                    "city_name": "Province of Camiguin"
+                },
+                {
+                    "city_name": "Province of Bukidnon"
+                }
+            ]
+        },
+        {
+            "province_name": "Mimaropa",
+            "cities": [
+                {
+                    "city_name": "Province of Romblon"
+                },
+                {
+                    "city_name": "Province of Palawan"
+                },
+                {
+                    "city_name": "Province of Mindoro Oriental"
+                },
+                {
+                    "city_name": "Province of Mindoro Occidental"
+                },
+                {
+                    "city_name": "Province of Marinduque"
+                }
+            ]
+        },
+        {
+            "province_name": "Cagayan Valley",
+            "cities": [
+                {
+                    "city_name": "Province of Quirino"
+                },
+                {
+                    "city_name": "Province of Nueva Vizcaya"
+                },
+                {
+                    "city_name": "Province of Isabela"
+                },
+                {
+                    "city_name": "Province of Cagayan"
+                },
+                {
+                    "city_name": "Province of Batanes"
+                }
+            ]
+        },
+        {
+            "province_name": "Soccsksargen",
+            "cities": [
+                {
+                    "city_name": "Province of Sultan Kudarat"
+                },
+                {
+                    "city_name": "Province of South Cotabato"
+                },
+                {
+                    "city_name": "Province of Cotabato"
+                },
+                {
+                    "city_name": "Cotabato City"
+                },
+                {
+                    "city_name": "Province of Sarangani"
+                }
+            ]
+        },
+        {
+            "province_name": "Caraga",
+            "cities": [
+                {
+                    "city_name": "Province of Surigao del Sur"
+                },
+                {
+                    "city_name": "Province of Surigao del Norte"
+                },
+                {
+                    "city_name": "Dinagat Islands"
+                },
+                {
+                    "city_name": "Province of Agusan del Sur"
+                },
+                {
+                    "city_name": "Province of Agusan del Norte"
+                }
+            ]
+        },
+        {
+            "province_name": "Cordillera Administrative Region",
+            "cities": [
+                {
+                    "city_name": "Mountain Province"
+                },
+                {
+                    "city_name": "Province of Ifugao"
+                },
+                {
+                    "city_name": "Province of Benguet"
+                },
+                {
+                    "city_name": "Province of Abra"
+                },
+                {
+                    "city_name": "Kalinga"
+                },
+                {
+                    "city_name": "Apayao"
+                }
+            ]
+        },
+        {
+            "province_name": "Ilocos",
+            "cities": [
+                {
+                    "city_name": "Province of Pangasinan"
+                },
+                {
+                    "city_name": "Province of La Union"
+                },
+                {
+                    "city_name": "Province of Ilocos Sur"
+                },
+                {
+                    "city_name": "Province of Ilocos Norte"
+                }
+            ]
+        },
+        {
+            "province_name": "Calabarzon",
+            "cities": [
+                {
+                    "city_name": "Province of Rizal"
+                },
+                {
+                    "city_name": "Province of Quezon"
+                },
+                {
+                    "city_name": "Province of Laguna"
+                },
+                {
+                    "city_name": "Province of Cavite"
+                },
+                {
+                    "city_name": "Province of Batangas"
+                }
+            ]
+        },
+        {
+            "province_name": "Western Visayas",
+            "cities": [
+                {
+                    "city_name": "Province of Negros Occidental"
+                },
+                {
+                    "city_name": "Province of Iloilo"
+                },
+                {
+                    "city_name": "Province of Capiz"
+                },
+                {
+                    "city_name": "Province of Antique"
+                },
+                {
+                    "city_name": "Province of Aklan"
+                },
+                {
+                    "city_name": "Province of Guimaras"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Luzon",
+            "cities": [
+                {
+                    "city_name": "Province of Zambales"
+                },
+                {
+                    "city_name": "Province of Tarlac"
+                },
+                {
+                    "city_name": "Province of Pampanga"
+                },
+                {
+                    "city_name": "Province of Nueva Ecija"
+                },
+                {
+                    "city_name": "Province of Bulacan"
+                },
+                {
+                    "city_name": "Province of Bataan"
+                },
+                {
+                    "city_name": "Province of Aurora"
+                }
+            ]
+        },
+        {
+            "province_name": "Central Visayas",
+            "cities": [
+                {
+                    "city_name": "Province of Siquijor"
+                },
+                {
+                    "city_name": "Province of Negros Oriental"
+                },
+                {
+                    "city_name": "Province of Cebu"
+                },
+                {
+                    "city_name": "Province of Bohol"
+                }
+            ]
+        },
+        {
+            "province_name": "Eastern Visayas",
+            "cities": [
+                {
+                    "city_name": "Province of Southern Leyte"
+                },
+                {
+                    "city_name": "Province of Samar"
+                },
+                {
+                    "city_name": "Province of Northern Samar"
+                },
+                {
+                    "city_name": "Province of Leyte"
+                },
+                {
+                    "city_name": "Province of Eastern Samar"
+                },
+                {
+                    "city_name": "Biliran"
+                }
+            ]
+        },
+        {
+            "province_name": "Zamboanga Peninsula",
+            "cities": [
+                {
+                    "city_name": "Province of  Zamboanga del Sur"
+                },
+                {
+                    "city_name": "Province of Zamboanga del Norte"
+                },
+                {
+                    "city_name": "Province of Zamboanga Sibugay"
+                }
+            ]
+        },
+        {
+            "province_name": "Davao",
+            "cities": [
+                {
+                    "city_name": "Province of Davao Oriental"
+                },
+                {
+                    "city_name": "Province of Davao del Sur"
+                },
+                {
+                    "city_name": "Province of Davao del Norte"
+                },
+                {
+                    "city_name": "Compostela Valley"
+                },
+                {
+                    "city_name": "Davao Occidental"
+                }
+            ]
+        },
+        {
+            "province_name": "Bicol",
+            "cities": [
+                {
+                    "city_name": "Province of Sorsogon"
+                },
+                {
+                    "city_name": "Province of Masbate"
+                },
+                {
+                    "city_name": "Province of Catanduanes"
+                },
+                {
+                    "city_name": "Province of Camarines Sur"
+                },
+                {
+                    "city_name": "Province of Camarines Norte"
+                },
+                {
+                    "city_name": "Province of Albay"
+                }
+            ]
+        },
+        {
+            "province_name": "National Capital Region",
+            "cities": [
+                {
+                    "city_name": "Capital District"
+                },
+                {
+                    "city_name": "Eastern Manila District"
+                },
+                {
+                    "city_name": "Northern Manila District"
+                },
+                {
+                    "city_name": "Southern Manila District"
+                }
+            ]
+        }
+    ]
+}

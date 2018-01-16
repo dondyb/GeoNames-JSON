@@ -1,0 +1,304 @@
+{
+    "country_name": "Central African Republic",
+    "country_id": "CF",
+    "provinces": [
+        {
+            "province_name": "Vakaga",
+            "cities": [
+                {
+                    "city_name": "Birao"
+                },
+                {
+                    "city_name": "Ouanda-Djalle"
+                }
+            ]
+        },
+        {
+            "province_name": "Ouaka",
+            "cities": [
+                {
+                    "city_name": "Kouango"
+                },
+                {
+                    "city_name": "Bambari"
+                },
+                {
+                    "city_name": "Ippy"
+                },
+                {
+                    "city_name": "Grimari"
+                },
+                {
+                    "city_name": "Bakala"
+                }
+            ]
+        },
+        {
+            "province_name": "Mbomou",
+            "cities": [
+                {
+                    "city_name": "Ouango"
+                },
+                {
+                    "city_name": "Gambo"
+                },
+                {
+                    "city_name": "Bangassou"
+                },
+                {
+                    "city_name": "Bakouma"
+                },
+                {
+                    "city_name": "Rafai"
+                }
+            ]
+        },
+        {
+            "province_name": "Haut-Mbomou",
+            "cities": [
+                {
+                    "city_name": "Bambouti"
+                },
+                {
+                    "city_name": "Djema"
+                },
+                {
+                    "city_name": "Obo"
+                },
+                {
+                    "city_name": "Zemio"
+                }
+            ]
+        },
+        {
+            "province_name": "Haute-Kotto",
+            "cities": [
+                {
+                    "city_name": "Bria"
+                },
+                {
+                    "city_name": "Ouadda"
+                },
+                {
+                    "city_name": "Yalinga"
+                }
+            ]
+        },
+        {
+            "province_name": "Basse-Kotto",
+            "cities": [
+                {
+                    "city_name": "Kembe"
+                },
+                {
+                    "city_name": "Mobaye"
+                },
+                {
+                    "city_name": "Zangba"
+                },
+                {
+                    "city_name": "Alindao"
+                },
+                {
+                    "city_name": "Mingala"
+                }
+            ]
+        },
+        {
+            "province_name": "Bamingui-Bangoran",
+            "cities": [
+                {
+                    "city_name": "Bamingui"
+                },
+                {
+                    "city_name": "Ndele"
+                }
+            ]
+        },
+        {
+            "province_name": "Prefecture de la Sangha-Mbaere",
+            "cities": [
+                {
+                    "city_name": "Nola"
+                },
+                {
+                    "city_name": "Bayanga"
+                },
+                {
+                    "city_name": "Bambio"
+                }
+            ]
+        },
+        {
+            "province_name": "Prefecture de l'Ouham-Pende",
+            "cities": [
+                {
+                    "city_name": "Bozoum Sub-Prefecture"
+                },
+                {
+                    "city_name": "Bossemtele"
+                },
+                {
+                    "city_name": "Bocaranga"
+                },
+                {
+                    "city_name": "Koui"
+                },
+                {
+                    "city_name": "Ngaoundaye"
+                },
+                {
+                    "city_name": "Paoua"
+                }
+            ]
+        },
+        {
+            "province_name": "Ouham",
+            "cities": [
+                {
+                    "city_name": "Bossangoa"
+                },
+                {
+                    "city_name": "Batangafo"
+                },
+                {
+                    "city_name": "Bouca"
+                },
+                {
+                    "city_name": "Kabo"
+                },
+                {
+                    "city_name": "Markounda"
+                },
+                {
+                    "city_name": "Nana-Bakassa"
+                },
+                {
+                    "city_name": "Nangha Boguila"
+                }
+            ]
+        },
+        {
+            "province_name": "Ombella-Mpoko",
+            "cities": [
+                {
+                    "city_name": "Damara"
+                },
+                {
+                    "city_name": "Bimbo Sub-Prefecture"
+                },
+                {
+                    "city_name": "Yaloke Sub-Prefecture"
+                },
+                {
+                    "city_name": "Bossembele Sub-Prefecture"
+                },
+                {
+                    "city_name": "Boali Sub-Prefecture"
+                },
+                {
+                    "city_name": "Bogangolo"
+                }
+            ]
+        },
+        {
+            "province_name": "Prefecture de la Nana-Mambere",
+            "cities": [
+                {
+                    "city_name": "Baboua Sub-Prefecture"
+                },
+                {
+                    "city_name": "Bouar Sub-Prefecture"
+                },
+                {
+                    "city_name": "Baoro Sub-Prefecture"
+                },
+                {
+                    "city_name": "Abba"
+                }
+            ]
+        },
+        {
+            "province_name": "Lobaye",
+            "cities": [
+                {
+                    "city_name": "Mongoumba"
+                },
+                {
+                    "city_name": "Mbaiki"
+                },
+                {
+                    "city_name": "Boda"
+                },
+                {
+                    "city_name": "Boganangone"
+                },
+                {
+                    "city_name": "Boganda"
+                }
+            ]
+        },
+        {
+            "province_name": "Prefecture de la Kemo",
+            "cities": [
+                {
+                    "city_name": "Ndjoukou"
+                },
+                {
+                    "city_name": "Sibut"
+                },
+                {
+                    "city_name": "Dekoa"
+                },
+                {
+                    "city_name": "Mala"
+                }
+            ]
+        },
+        {
+            "province_name": "Mambere-Kadei",
+            "cities": [
+                {
+                    "city_name": "Sous-Prefecture de Carnot"
+                },
+                {
+                    "city_name": "Berberati"
+                },
+                {
+                    "city_name": "Gamboula"
+                },
+                {
+                    "city_name": "Gadzi"
+                },
+                {
+                    "city_name": "Amada-Gaza"
+                },
+                {
+                    "city_name": "Dede-Mokouba"
+                },
+                {
+                    "city_name": "Sosso-Nakombo"
+                }
+            ]
+        },
+        {
+            "province_name": "Prefecture de la Nana-Grebizi",
+            "cities": [
+                {
+                    "city_name": "Kaga-Bandoro"
+                },
+                {
+                    "city_name": "Mbres"
+                }
+            ]
+        },
+        {
+            "province_name": "Commune de Bangui",
+            "cities": [
+                {
+                    "city_name": "Bangui Sub-Prefecture"
+                }
+            ]
+        }
+    ]
+}

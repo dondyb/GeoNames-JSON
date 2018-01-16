@@ -1,0 +1,239 @@
+{
+    "country_name": "Lithuania",
+    "country_id": "LT",
+    "provinces": [
+        {
+            "province_name": "Alytus County",
+            "cities": [
+                {
+                    "city_name": "Druskininkai"
+                },
+                {
+                    "city_name": "Alytus"
+                },
+                {
+                    "city_name": "Alytaus rajonas"
+                },
+                {
+                    "city_name": "Lazdijai"
+                },
+                {
+                    "city_name": "Varena"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaunas County",
+            "cities": [
+                {
+                    "city_name": "Kauno rajonas"
+                },
+                {
+                    "city_name": "Kaunas"
+                },
+                {
+                    "city_name": "Birstonas"
+                },
+                {
+                    "city_name": "Jonava"
+                },
+                {
+                    "city_name": "Kaisiadorys"
+                },
+                {
+                    "city_name": "Kedainiai"
+                },
+                {
+                    "city_name": "Prienai"
+                },
+                {
+                    "city_name": "Raseiniai"
+                }
+            ]
+        },
+        {
+            "province_name": "Klaipeda County",
+            "cities": [
+                {
+                    "city_name": "Palanga"
+                },
+                {
+                    "city_name": "Neringa"
+                },
+                {
+                    "city_name": "Klaipedos rajonas"
+                },
+                {
+                    "city_name": "Klaipeda"
+                },
+                {
+                    "city_name": "Kretinga"
+                },
+                {
+                    "city_name": "Skuodas"
+                },
+                {
+                    "city_name": "Silute"
+                }
+            ]
+        },
+        {
+            "province_name": "Marijampole County",
+            "cities": [
+                {
+                    "city_name": "Marijampoles Rajonas"
+                },
+                {
+                    "city_name": "Marijampole Municipality"
+                },
+                {
+                    "city_name": "Sakiai"
+                },
+                {
+                    "city_name": "Vilkaviskis District Municipality"
+                },
+                {
+                    "city_name": "Kalvarija Municipality"
+                },
+                {
+                    "city_name": "Kazlu Ruda Municipality"
+                }
+            ]
+        },
+        {
+            "province_name": "Panevezys",
+            "cities": [
+                {
+                    "city_name": "Panevezys District Municipality"
+                },
+                {
+                    "city_name": "Panevezys City"
+                },
+                {
+                    "city_name": "Birzai"
+                },
+                {
+                    "city_name": "Kupiskis"
+                },
+                {
+                    "city_name": "Pasvalys"
+                },
+                {
+                    "city_name": "Rokiskis"
+                }
+            ]
+        },
+        {
+            "province_name": "Siauliai County",
+            "cities": [
+                {
+                    "city_name": "Siauliu rajonas"
+                },
+                {
+                    "city_name": "Siauliai"
+                },
+                {
+                    "city_name": "Akmenes Rajonas"
+                },
+                {
+                    "city_name": "Joniskis"
+                },
+                {
+                    "city_name": "Kelme"
+                },
+                {
+                    "city_name": "Pakruojis"
+                },
+                {
+                    "city_name": "Radviliskis"
+                }
+            ]
+        },
+        {
+            "province_name": "Taurage County",
+            "cities": [
+                {
+                    "city_name": "Taurage"
+                },
+                {
+                    "city_name": "Jurbarkas"
+                },
+                {
+                    "city_name": "Silale"
+                },
+                {
+                    "city_name": "Pagegiai"
+                }
+            ]
+        },
+        {
+            "province_name": "Telsiu apskritis",
+            "cities": [
+                {
+                    "city_name": "Telsiai"
+                },
+                {
+                    "city_name": "Mazeikiai"
+                },
+                {
+                    "city_name": "Plunge"
+                },
+                {
+                    "city_name": "Rietavas"
+                }
+            ]
+        },
+        {
+            "province_name": "Utena County",
+            "cities": [
+                {
+                    "city_name": "Utena"
+                },
+                {
+                    "city_name": "Visaginas"
+                },
+                {
+                    "city_name": "Anyksciai"
+                },
+                {
+                    "city_name": "Ignalina"
+                },
+                {
+                    "city_name": "Moletai"
+                },
+                {
+                    "city_name": "Zarasai"
+                }
+            ]
+        },
+        {
+            "province_name": "Vilniaus apskritis",
+            "cities": [
+                {
+                    "city_name": "Vilnius"
+                },
+                {
+                    "city_name": "Vilnius District Municipality"
+                },
+                {
+                    "city_name": "Salcininkai"
+                },
+                {
+                    "city_name": "Sirvintos"
+                },
+                {
+                    "city_name": "Svencionys"
+                },
+                {
+                    "city_name": "Trakai"
+                },
+                {
+                    "city_name": "Ukmerge"
+                },
+                {
+                    "city_name": "Elektrenai"
+                }
+            ]
+        }
+    ]
+}

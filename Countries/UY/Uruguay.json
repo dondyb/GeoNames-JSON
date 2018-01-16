@@ -1,0 +1,82 @@
+{
+    "country_name": "Uruguay",
+    "country_id": "UY",
+    "provinces": [
+        {
+            "province_name": "Departamento de Treinta y Tres",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Tacuarembo",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Soriano",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de San Jose",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Salto",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Rocha",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Rivera",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Rio Negro",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Paysandu",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Montevideo",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Maldonado",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Lavalleja",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Florida",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Flores",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Durazno",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Colonia",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Cerro Largo",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Canelones",
+            "cities": []
+        },
+        {
+            "province_name": "Departamento de Artigas",
+            "cities": []
+        }
+    ]
+}

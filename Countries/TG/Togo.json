@@ -1,0 +1,121 @@
+{
+    "country_name": "Togo",
+    "country_id": "TG",
+    "provinces": [
+        {
+            "province_name": "Savanes",
+            "cities": [
+                {
+                    "city_name": "Prefecture de l'Oti"
+                },
+                {
+                    "city_name": "Prefecture de Tone"
+                },
+                {
+                    "city_name": "Prefecture de Kpendjal"
+                },
+                {
+                    "city_name": "Prefecture de Tandjouare"
+                }
+            ]
+        },
+        {
+            "province_name": "Plateaux",
+            "cities": [
+                {
+                    "city_name": "Prefecture du Haho"
+                },
+                {
+                    "city_name": "Prefecture du Kloto"
+                },
+                {
+                    "city_name": "Prefecture de Wawa"
+                },
+                {
+                    "city_name": "Prefecture de l'Ogou"
+                },
+                {
+                    "city_name": "Prefecture d'Amou"
+                },
+                {
+                    "city_name": "Prefecture d'Agou"
+                },
+                {
+                    "city_name": "Prefecture d'Est-Mono"
+                },
+                {
+                    "city_name": "Prefecture du Moyen-Mono"
+                },
+                {
+                    "city_name": "Prefecture de Danyi"
+                }
+            ]
+        },
+        {
+            "province_name": "Maritime",
+            "cities": [
+                {
+                    "city_name": "Vo Prefecture"
+                },
+                {
+                    "city_name": "Zio Prefecture"
+                },
+                {
+                    "city_name": "Prefecture de Yoto"
+                },
+                {
+                    "city_name": "Golfe Prefecture"
+                },
+                {
+                    "city_name": "Lacs Prefecture"
+                },
+                {
+                    "city_name": "Ave Prefecture"
+                }
+            ]
+        },
+        {
+            "province_name": "Centrale",
+            "cities": [
+                {
+                    "city_name": "Prefecture de Tchaoudjo"
+                },
+                {
+                    "city_name": "Prefecture de Tchamba"
+                },
+                {
+                    "city_name": "Prefecture de Sotouboua"
+                },
+                {
+                    "city_name": "Prefecture de Blitta"
+                }
+            ]
+        },
+        {
+            "province_name": "Kara",
+            "cities": [
+                {
+                    "city_name": "Prefecture de Doufelgou"
+                },
+                {
+                    "city_name": "Prefecture de la Kozah"
+                },
+                {
+                    "city_name": "Prefecture de la Binah"
+                },
+                {
+                    "city_name": "Prefecture de Keran"
+                },
+                {
+                    "city_name": "Prefecture de Bassar"
+                },
+                {
+                    "city_name": "Prefecture d'Assoli"
+                },
+                {
+                    "city_name": "Prefecture de Dankpen"
+                }
+            ]
+        }
+    ]
+}

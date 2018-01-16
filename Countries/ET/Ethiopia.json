@@ -1,0 +1,414 @@
+{
+    "country_name": "Ethiopia",
+    "country_id": "ET",
+    "provinces": [
+        {
+            "province_name": "Adis Abeba Astedader",
+            "cities": [
+                {
+                    "city_name": "Addis Ababa Zone 1"
+                },
+                {
+                    "city_name": "Addis Ababa Zone 2"
+                },
+                {
+                    "city_name": "Addis Ababa Zone 3"
+                },
+                {
+                    "city_name": "Addis Ababa Zone 6"
+                },
+                {
+                    "city_name": "Addis Ababa Zone 5"
+                },
+                {
+                    "city_name": "Kolfe Keranyo"
+                },
+                {
+                    "city_name": "Akaki Kaliti"
+                },
+                {
+                    "city_name": "Nefas Silk Lafto"
+                },
+                {
+                    "city_name": "Bole"
+                },
+                {
+                    "city_name": "Yeka"
+                },
+                {
+                    "city_name": "Kirkos"
+                },
+                {
+                    "city_name": "Gulele"
+                },
+                {
+                    "city_name": "Arada"
+                },
+                {
+                    "city_name": "Addis Ketema"
+                },
+                {
+                    "city_name": "Lideta"
+                }
+            ]
+        },
+        {
+            "province_name": "Afar Region",
+            "cities": [
+                {
+                    "city_name": "Pemba District"
+                },
+                {
+                    "city_name": "Administrative Zone 3"
+                },
+                {
+                    "city_name": "Administrative Zone 1"
+                },
+                {
+                    "city_name": "Administrative Zone 2"
+                },
+                {
+                    "city_name": "Administrative Zone 4"
+                },
+                {
+                    "city_name": "Administrative Zone 5"
+                }
+            ]
+        },
+        {
+            "province_name": "Amhara Region",
+            "cities": [
+                {
+                    "city_name": "West Gojjam Zone"
+                },
+                {
+                    "city_name": "East Gojjam Zone"
+                },
+                {
+                    "city_name": "Awi"
+                },
+                {
+                    "city_name": "North Gondar Zone"
+                },
+                {
+                    "city_name": "South Wollo Zone"
+                },
+                {
+                    "city_name": "South Gondar Zone"
+                },
+                {
+                    "city_name": "North Wollo Zone"
+                },
+                {
+                    "city_name": "North Shewa Zone"
+                },
+                {
+                    "city_name": "Wag Hemra Zone"
+                },
+                {
+                    "city_name": "Oromia Zone"
+                },
+                {
+                    "city_name": "North Gonder"
+                },
+                {
+                    "city_name": "Wag Himra"
+                },
+                {
+                    "city_name": "West Gojam"
+                },
+                {
+                    "city_name": "East Gojam"
+                },
+                {
+                    "city_name": "South Gonder"
+                },
+                {
+                    "city_name": "Oromiya"
+                }
+            ]
+        },
+        {
+            "province_name": "Benishangul-Gumuz Region",
+            "cities": [
+                {
+                    "city_name": "Metekel Awraja"
+                },
+                {
+                    "city_name": "Asosa"
+                },
+                {
+                    "city_name": "Metekel"
+                },
+                {
+                    "city_name": "Kamashi Zone"
+                },
+                {
+                    "city_name": "Kemashi"
+                }
+            ]
+        },
+        {
+            "province_name": "Dire Dawa Region",
+            "cities": []
+        },
+        {
+            "province_name": "Gambela Region",
+            "cities": [
+                {
+                    "city_name": "Administrative Zone 1"
+                },
+                {
+                    "city_name": "Nuer"
+                },
+                {
+                    "city_name": "Agnuak"
+                },
+                {
+                    "city_name": "Mezhenger"
+                }
+            ]
+        },
+        {
+            "province_name": "Harari Region",
+            "cities": [
+                {
+                    "city_name": "Harari"
+                }
+            ]
+        },
+        {
+            "province_name": "Oromiya Region",
+            "cities": [
+                {
+                    "city_name": "Jimma Zone"
+                },
+                {
+                    "city_name": "Arsi Zone"
+                },
+                {
+                    "city_name": "Misraq Shewa"
+                },
+                {
+                    "city_name": "North Shewa Zone"
+                },
+                {
+                    "city_name": "West Shewa Zone"
+                },
+                {
+                    "city_name": "South West Shewa"
+                },
+                {
+                    "city_name": "East Shewa Zone"
+                },
+                {
+                    "city_name": "East Wellega Zone"
+                },
+                {
+                    "city_name": "Borena Zone"
+                },
+                {
+                    "city_name": "Illubabor Zone"
+                },
+                {
+                    "city_name": "West Wellega Zone"
+                },
+                {
+                    "city_name": "West Harerghe Zone"
+                },
+                {
+                    "city_name": "East Harerghe Zone"
+                },
+                {
+                    "city_name": "Bale"
+                },
+                {
+                    "city_name": "Guji Zone"
+                },
+                {
+                    "city_name": "Gimbichu"
+                },
+                {
+                    "city_name": "Kellem Wellega"
+                },
+                {
+                    "city_name": "Ilubabor"
+                },
+                {
+                    "city_name": "Horo Guduru"
+                },
+                {
+                    "city_name": "West Harerge"
+                },
+                {
+                    "city_name": "East Harerge"
+                },
+                {
+                    "city_name": "Southwest Shuwa"
+                },
+                {
+                    "city_name": "West Arsi"
+                }
+            ]
+        },
+        {
+            "province_name": "Somali Region",
+            "cities": [
+                {
+                    "city_name": "Dire Dawa Zone"
+                },
+                {
+                    "city_name": "Shinile Zone"
+                },
+                {
+                    "city_name": "Liben zone"
+                },
+                {
+                    "city_name": "Afder Zone"
+                },
+                {
+                    "city_name": "Dollo"
+                },
+                {
+                    "city_name": "Gode Zone"
+                },
+                {
+                    "city_name": "Degehabur Zone"
+                },
+                {
+                    "city_name": "Fafan"
+                },
+                {
+                    "city_name": "Siti"
+                },
+                {
+                    "city_name": "Nogob"
+                },
+                {
+                    "city_name": "Doolo"
+                },
+                {
+                    "city_name": "Korahe"
+                },
+                {
+                    "city_name": "Shabelle"
+                }
+            ]
+        },
+        {
+            "province_name": "Tigray Region",
+            "cities": [
+                {
+                    "city_name": "Southern Tigray Zone"
+                },
+                {
+                    "city_name": "Central Tigray Zone"
+                },
+                {
+                    "city_name": "Eastern Tigray Zone"
+                },
+                {
+                    "city_name": "North Western Tigray"
+                },
+                {
+                    "city_name": "Mekelle"
+                },
+                {
+                    "city_name": "Mi'irabawi Zone"
+                },
+                {
+                    "city_name": "Southeastern Tigray Zone"
+                },
+                {
+                    "city_name": "Western"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Nations, Nationalities, and People's Region",
+            "cities": [
+                {
+                    "city_name": "Wolayita Zone"
+                },
+                {
+                    "city_name": "Bench Maji Zone"
+                },
+                {
+                    "city_name": "Hadiya Zone"
+                },
+                {
+                    "city_name": "Kaffa Zone"
+                },
+                {
+                    "city_name": "Guraghe Zone"
+                },
+                {
+                    "city_name": "Alaba Special Wereda"
+                },
+                {
+                    "city_name": "Kembata Alaba Tembaro Zone"
+                },
+                {
+                    "city_name": "Yem"
+                },
+                {
+                    "city_name": "Siltie Zone"
+                },
+                {
+                    "city_name": "Dawuro"
+                },
+                {
+                    "city_name": "Gedeo Zone"
+                },
+                {
+                    "city_name": "South Omo"
+                },
+                {
+                    "city_name": "Keficho Shekicho Zone"
+                },
+                {
+                    "city_name": "Sidama Zone"
+                },
+                {
+                    "city_name": "Gamo Gofa Zone"
+                },
+                {
+                    "city_name": "Basketo Special Woreda"
+                },
+                {
+                    "city_name": "Amaro Special Woreda"
+                },
+                {
+                    "city_name": "Dirashe Special Woreda"
+                },
+                {
+                    "city_name": "Konso Special Woreda"
+                },
+                {
+                    "city_name": "Burji Special Woreda"
+                },
+                {
+                    "city_name": "South Omo Zone"
+                },
+                {
+                    "city_name": "Sheka"
+                },
+                {
+                    "city_name": "Konta"
+                },
+                {
+                    "city_name": "Dawro"
+                },
+                {
+                    "city_name": "Segen Peoples"
+                },
+                {
+                    "city_name": "Gedio"
+                },
+                {
+                    "city_name": "Selti"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1487 @@
+{
+    "country_name": "Afghanistan",
+    "country_id": "AF",
+    "provinces": [
+        {
+            "province_name": "Wilayat-e Zabul",
+            "cities": [
+                {
+                    "city_name": "Arghandab"
+                },
+                {
+                    "city_name": "Atghar"
+                },
+                {
+                    "city_name": "Daychopan"
+                },
+                {
+                    "city_name": "Kakar"
+                },
+                {
+                    "city_name": "Mizan"
+                },
+                {
+                    "city_name": "Now Bahar"
+                },
+                {
+                    "city_name": "Shah Joy"
+                },
+                {
+                    "city_name": "Shamulzai"
+                },
+                {
+                    "city_name": "Shinkai"
+                },
+                {
+                    "city_name": "Tarnek wa Jaldak"
+                },
+                {
+                    "city_name": "Qalat"
+                }
+            ]
+        },
+        {
+            "province_name": "Wardak",
+            "cities": [
+                {
+                    "city_name": "Chak-e Wardak"
+                },
+                {
+                    "city_name": "Daymirdad"
+                },
+                {
+                    "city_name": "Hisah-ye Awal-e Bihsud"
+                },
+                {
+                    "city_name": "Jaghatu"
+                },
+                {
+                    "city_name": "Jalrayz"
+                },
+                {
+                    "city_name": "Maidan Shahr"
+                },
+                {
+                    "city_name": "Markaz-e Bihsud"
+                },
+                {
+                    "city_name": "Nerkh"
+                },
+                {
+                    "city_name": "Sayyidabad"
+                },
+                {
+                    "city_name": "Day Mirdad"
+                },
+                {
+                    "city_name": "Markazi Bihsud"
+                },
+                {
+                    "city_name": "Hisa-I-Awal Bihsud"
+                },
+                {
+                    "city_name": "Nirkh"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Takhar",
+            "cities": [
+                {
+                    "city_name": "Baharak"
+                },
+                {
+                    "city_name": "Bangi"
+                },
+                {
+                    "city_name": "Chah Ab"
+                },
+                {
+                    "city_name": "Chal"
+                },
+                {
+                    "city_name": "Darqad"
+                },
+                {
+                    "city_name": "Dasht-e Qal`ah"
+                },
+                {
+                    "city_name": "Farkhar"
+                },
+                {
+                    "city_name": "Hazar Sumuch"
+                },
+                {
+                    "city_name": "Ishkamish"
+                },
+                {
+                    "city_name": "Kalafgan"
+                },
+                {
+                    "city_name": "Khwajah Bahawuddin"
+                },
+                {
+                    "city_name": "Khwajah Ghar"
+                },
+                {
+                    "city_name": "Namak Ab"
+                },
+                {
+                    "city_name": "Rustaq"
+                },
+                {
+                    "city_name": "Taluqan"
+                },
+                {
+                    "city_name": "Warsaj"
+                },
+                {
+                    "city_name": "Yangi Qal`ah"
+                },
+                {
+                    "city_name": "Kwhaja Ghar, Afghanistan"
+                }
+            ]
+        },
+        {
+            "province_name": "Sar-e Pul",
+            "cities": [
+                {
+                    "city_name": "Balkhab"
+                },
+                {
+                    "city_name": "Gosfandi"
+                },
+                {
+                    "city_name": "Kohistanat"
+                },
+                {
+                    "city_name": "Sangcharak"
+                },
+                {
+                    "city_name": "Sar-e Pul"
+                },
+                {
+                    "city_name": "Sayad"
+                },
+                {
+                    "city_name": "Sozmah Qal'ah"
+                }
+            ]
+        },
+        {
+            "province_name": "Samangan",
+            "cities": [
+                {
+                    "city_name": "Aibak"
+                },
+                {
+                    "city_name": "Darah-ye Suf-e Bala"
+                },
+                {
+                    "city_name": "Darah-ye Suf-e Pa'in"
+                },
+                {
+                    "city_name": "Fayroz Nakhchir"
+                },
+                {
+                    "city_name": "Hazrat-e Sultan"
+                },
+                {
+                    "city_name": "Khuram wa Sar Bagh"
+                },
+                {
+                    "city_name": "Ruy Duab"
+                },
+                {
+                    "city_name": "Dara-I-Suf"
+                },
+                {
+                    "city_name": "Darah Sof District"
+                }
+            ]
+        },
+        {
+            "province_name": "Parwan",
+            "cities": [
+                {
+                    "city_name": "Bagram"
+                },
+                {
+                    "city_name": "Charikar"
+                },
+                {
+                    "city_name": "Jabal us Saraj"
+                },
+                {
+                    "city_name": "Koh-e Safi"
+                },
+                {
+                    "city_name": "Salang"
+                },
+                {
+                    "city_name": "Sayyid Khel"
+                },
+                {
+                    "city_name": "Shaykh `Ali"
+                },
+                {
+                    "city_name": "Shinwari"
+                },
+                {
+                    "city_name": "Siyahgird Ghorband"
+                },
+                {
+                    "city_name": "Surkh-e Parsa"
+                },
+                {
+                    "city_name": "Surkhi Parsa"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Paktika",
+            "cities": [
+                {
+                    "city_name": "Bermal"
+                },
+                {
+                    "city_name": "Dilah"
+                },
+                {
+                    "city_name": "Giyan"
+                },
+                {
+                    "city_name": "Gomal"
+                },
+                {
+                    "city_name": "Jani Khel"
+                },
+                {
+                    "city_name": "Muta Khan"
+                },
+                {
+                    "city_name": "Nikeh"
+                },
+                {
+                    "city_name": "Omnah"
+                },
+                {
+                    "city_name": "Urgun District"
+                },
+                {
+                    "city_name": "Sar Rowzah"
+                },
+                {
+                    "city_name": "Sarobi"
+                },
+                {
+                    "city_name": "Sharan"
+                },
+                {
+                    "city_name": "Terwo"
+                },
+                {
+                    "city_name": "Wazah Khwah"
+                },
+                {
+                    "city_name": "Wur Mamay"
+                },
+                {
+                    "city_name": "Yahya Khel"
+                },
+                {
+                    "city_name": "Yosuf Khel"
+                },
+                {
+                    "city_name": "Zarghun Shahr"
+                },
+                {
+                    "city_name": "Ziruk"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Paktiya",
+            "cities": [
+                {
+                    "city_name": "Ahmadabad"
+                },
+                {
+                    "city_name": "Tsamkani"
+                },
+                {
+                    "city_name": "Dand Patan"
+                },
+                {
+                    "city_name": "Gardez"
+                },
+                {
+                    "city_name": "Jaji"
+                },
+                {
+                    "city_name": "Jani Khel"
+                },
+                {
+                    "city_name": "Lajah Ahmad Khel"
+                },
+                {
+                    "city_name": "Sayyid Karam"
+                },
+                {
+                    "city_name": "Shwak"
+                },
+                {
+                    "city_name": "Dzadran"
+                },
+                {
+                    "city_name": "Zurmat"
+                },
+                {
+                    "city_name": "Tani"
+                },
+                {
+                    "city_name": "Lija Mangal"
+                },
+                {
+                    "city_name": "Khost Province"
+                }
+            ]
+        },
+        {
+            "province_name": "Uruzgan",
+            "cities": [
+                {
+                    "city_name": "Chorah"
+                },
+                {
+                    "city_name": "Deh Rawud"
+                },
+                {
+                    "city_name": "Khas Uruzgan"
+                },
+                {
+                    "city_name": "Shahid-e Hasas"
+                },
+                {
+                    "city_name": "Tarin Kot"
+                },
+                {
+                    "city_name": "Daykundi"
+                },
+                {
+                    "city_name": "Nili District"
+                },
+                {
+                    "city_name": "Chora District"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Nimroz",
+            "cities": [
+                {
+                    "city_name": "Chahar Burjak"
+                },
+                {
+                    "city_name": "Kang"
+                },
+                {
+                    "city_name": "Khash Rod"
+                },
+                {
+                    "city_name": "Zaranj"
+                },
+                {
+                    "city_name": "Chakhansur"
+                }
+            ]
+        },
+        {
+            "province_name": "Nangarhar",
+            "cities": [
+                {
+                    "city_name": "Achin"
+                },
+                {
+                    "city_name": "Bati Kot"
+                },
+                {
+                    "city_name": "Bihsud"
+                },
+                {
+                    "city_name": "Chaparhar"
+                },
+                {
+                    "city_name": "Darah-ye Nur"
+                },
+                {
+                    "city_name": "Deh Bala"
+                },
+                {
+                    "city_name": "Dur Baba"
+                },
+                {
+                    "city_name": "Goshtah"
+                },
+                {
+                    "city_name": "Hisarak"
+                },
+                {
+                    "city_name": "Jalalabad"
+                },
+                {
+                    "city_name": "Kamah"
+                },
+                {
+                    "city_name": "Khugyani"
+                },
+                {
+                    "city_name": "Kot"
+                },
+                {
+                    "city_name": "Kuz Kunar"
+                },
+                {
+                    "city_name": "La`lpur"
+                },
+                {
+                    "city_name": "Mohmand Darah"
+                },
+                {
+                    "city_name": "Naziyan"
+                },
+                {
+                    "city_name": "Pachir wa Agam"
+                },
+                {
+                    "city_name": "Rodat"
+                },
+                {
+                    "city_name": "Sherzad"
+                },
+                {
+                    "city_name": "Shinwar"
+                },
+                {
+                    "city_name": "Surkh Rod"
+                },
+                {
+                    "city_name": "Dih Bala"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Logar",
+            "cities": [
+                {
+                    "city_name": "Azrah"
+                },
+                {
+                    "city_name": "Baraki Barak"
+                },
+                {
+                    "city_name": "Charkh"
+                },
+                {
+                    "city_name": "Kharwar"
+                },
+                {
+                    "city_name": "Khoshi"
+                },
+                {
+                    "city_name": "Muhammad Aghah"
+                },
+                {
+                    "city_name": "Pul-e `Alam"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Laghman",
+            "cities": [
+                {
+                    "city_name": "`Alingar"
+                },
+                {
+                    "city_name": "`Alisheng"
+                },
+                {
+                    "city_name": "Dowlat Shah"
+                },
+                {
+                    "city_name": "Mehtar Lam"
+                },
+                {
+                    "city_name": "Qarghah'i"
+                }
+            ]
+        },
+        {
+            "province_name": "Kunduz",
+            "cities": [
+                {
+                    "city_name": "`Aliabad"
+                },
+                {
+                    "city_name": "Dasht-e Archi"
+                },
+                {
+                    "city_name": "Chahar Darah"
+                },
+                {
+                    "city_name": "Imam Sahib"
+                },
+                {
+                    "city_name": "Khanabad"
+                },
+                {
+                    "city_name": "Qal`ah-ye Zal"
+                },
+                {
+                    "city_name": "Qala-I-Zal"
+                },
+                {
+                    "city_name": "Kunduz"
+                },
+                {
+                    "city_name": "Chahar Dara"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Kunar",
+            "cities": [
+                {
+                    "city_name": "Asadabad"
+                },
+                {
+                    "city_name": "Bar Kunar"
+                },
+                {
+                    "city_name": "Chapah Darah"
+                },
+                {
+                    "city_name": "Tsowkey"
+                },
+                {
+                    "city_name": "Dangam"
+                },
+                {
+                    "city_name": "Darah-ye Pech"
+                },
+                {
+                    "city_name": "Ghaziabad"
+                },
+                {
+                    "city_name": "Khas Kunar"
+                },
+                {
+                    "city_name": "Marawarah"
+                },
+                {
+                    "city_name": "Narang"
+                },
+                {
+                    "city_name": "Naray"
+                },
+                {
+                    "city_name": "Nurgal"
+                },
+                {
+                    "city_name": "Sar Kani"
+                },
+                {
+                    "city_name": "Shigal wa Sheltan"
+                },
+                {
+                    "city_name": "Wutahpur"
+                },
+                {
+                    "city_name": "Sirkanay"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Kapisa",
+            "cities": [
+                {
+                    "city_name": "Alah Say"
+                },
+                {
+                    "city_name": "Hisah-ye Awal-e Kohistan"
+                },
+                {
+                    "city_name": "Hisah-ye Duwum-e Kohistan"
+                },
+                {
+                    "city_name": "Koh Band"
+                },
+                {
+                    "city_name": "Mahmud-e Raqi"
+                },
+                {
+                    "city_name": "Nijrab"
+                },
+                {
+                    "city_name": "Tagab"
+                },
+                {
+                    "city_name": "Hisa-I-Awali Panjsher"
+                },
+                {
+                    "city_name": "Kohistan District"
+                }
+            ]
+        },
+        {
+            "province_name": "Kandahar",
+            "cities": [
+                {
+                    "city_name": "Shah Wali Kot"
+                },
+                {
+                    "city_name": "Arghandab"
+                },
+                {
+                    "city_name": "Arghistan"
+                },
+                {
+                    "city_name": "Daman"
+                },
+                {
+                    "city_name": "Ghorak"
+                },
+                {
+                    "city_name": "Khakrez"
+                },
+                {
+                    "city_name": "Ma`ruf"
+                },
+                {
+                    "city_name": "Maywand"
+                },
+                {
+                    "city_name": "Mya Neshin"
+                },
+                {
+                    "city_name": "Nesh"
+                },
+                {
+                    "city_name": "Panjwa'i"
+                },
+                {
+                    "city_name": "Registan"
+                },
+                {
+                    "city_name": "Shorabak"
+                },
+                {
+                    "city_name": "Spin Boldak"
+                },
+                {
+                    "city_name": "Zharey"
+                },
+                {
+                    "city_name": "Reg"
+                },
+                {
+                    "city_name": "Dand"
+                },
+                {
+                    "city_name": "Kandahar District"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Kabul",
+            "cities": [
+                {
+                    "city_name": "Bagrami"
+                },
+                {
+                    "city_name": "Chahar Asyab"
+                },
+                {
+                    "city_name": "Deh-e Sabz"
+                },
+                {
+                    "city_name": "Farzah"
+                },
+                {
+                    "city_name": "Gul Darah"
+                },
+                {
+                    "city_name": "Istalif"
+                },
+                {
+                    "city_name": "Kalakan"
+                },
+                {
+                    "city_name": "Khak-e Jabar"
+                },
+                {
+                    "city_name": "Mir Bachah Kot"
+                },
+                {
+                    "city_name": "Musahi"
+                },
+                {
+                    "city_name": "Paghman"
+                },
+                {
+                    "city_name": "Qarah Bagh"
+                },
+                {
+                    "city_name": "Sarobi"
+                },
+                {
+                    "city_name": "Shakar Darah"
+                },
+                {
+                    "city_name": "Kabul"
+                },
+                {
+                    "city_name": "Surobi"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Jowzjan",
+            "cities": [
+                {
+                    "city_name": "Aqchah"
+                },
+                {
+                    "city_name": "Darzab"
+                },
+                {
+                    "city_name": "Faizabad"
+                },
+                {
+                    "city_name": "Khamyab"
+                },
+                {
+                    "city_name": "Khanaqah"
+                },
+                {
+                    "city_name": "Khwajah Du Koh"
+                },
+                {
+                    "city_name": "Mardian"
+                },
+                {
+                    "city_name": "Mingajik"
+                },
+                {
+                    "city_name": "Qarqin"
+                },
+                {
+                    "city_name": "Qush Tepah"
+                },
+                {
+                    "city_name": "Shibirghan"
+                },
+                {
+                    "city_name": "Balkhab District"
+                }
+            ]
+        },
+        {
+            "province_name": "Herat",
+            "cities": [
+                {
+                    "city_name": "Adraskan"
+                },
+                {
+                    "city_name": "Chisht-e Sharif"
+                },
+                {
+                    "city_name": "Farsi"
+                },
+                {
+                    "city_name": "Ghoriyan"
+                },
+                {
+                    "city_name": "Gulran"
+                },
+                {
+                    "city_name": "Injil"
+                },
+                {
+                    "city_name": "Karukh"
+                },
+                {
+                    "city_name": "Kuhsan"
+                },
+                {
+                    "city_name": "Kushk"
+                },
+                {
+                    "city_name": "Kushk-e Kuhnah"
+                },
+                {
+                    "city_name": "Guzarah"
+                },
+                {
+                    "city_name": "Obeh"
+                },
+                {
+                    "city_name": "Pashtun Zarghun"
+                },
+                {
+                    "city_name": "Shindand"
+                },
+                {
+                    "city_name": "Zindah Jan"
+                },
+                {
+                    "city_name": "Herat District"
+                }
+            ]
+        },
+        {
+            "province_name": "Helmand",
+            "cities": [
+                {
+                    "city_name": "Baghran"
+                },
+                {
+                    "city_name": "Dishu"
+                },
+                {
+                    "city_name": "Garm Ser"
+                },
+                {
+                    "city_name": "Kajaki"
+                },
+                {
+                    "city_name": "Lashkar Gah"
+                },
+                {
+                    "city_name": "Musa Qal`ah"
+                },
+                {
+                    "city_name": "Nad `Ali"
+                },
+                {
+                    "city_name": "Nahr-e Saraj"
+                },
+                {
+                    "city_name": "Nawah-ye Barakzai"
+                },
+                {
+                    "city_name": "Now Zad"
+                },
+                {
+                    "city_name": "Reg-e Khan Neshin"
+                },
+                {
+                    "city_name": "Sangin"
+                },
+                {
+                    "city_name": "Washer"
+                },
+                {
+                    "city_name": "Garmsir"
+                },
+                {
+                    "city_name": "Nawa-i-Barakzayi"
+                },
+                {
+                    "city_name": "Naw Zad"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Ghor",
+            "cities": [
+                {
+                    "city_name": "Chaghcharan"
+                },
+                {
+                    "city_name": "Chahar Sadah"
+                },
+                {
+                    "city_name": "Du Lainah"
+                },
+                {
+                    "city_name": "Dowlatyar"
+                },
+                {
+                    "city_name": "La`l wa Sar Jangal"
+                },
+                {
+                    "city_name": "Pasaband"
+                },
+                {
+                    "city_name": "Saghar"
+                },
+                {
+                    "city_name": "Shahrak"
+                },
+                {
+                    "city_name": "Taywarah"
+                },
+                {
+                    "city_name": "Tulak"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Ghazni",
+            "cities": [
+                {
+                    "city_name": "Gelan"
+                },
+                {
+                    "city_name": "Ab Band"
+                },
+                {
+                    "city_name": "Ajristan"
+                },
+                {
+                    "city_name": "Andar"
+                },
+                {
+                    "city_name": "Bahram-e Shahid"
+                },
+                {
+                    "city_name": "Deh Yak"
+                },
+                {
+                    "city_name": "Ghazni"
+                },
+                {
+                    "city_name": "Giro"
+                },
+                {
+                    "city_name": "Jaghuri"
+                },
+                {
+                    "city_name": "Khwajah `Omari"
+                },
+                {
+                    "city_name": "Malistan"
+                },
+                {
+                    "city_name": "Muqer"
+                },
+                {
+                    "city_name": "Nawah"
+                },
+                {
+                    "city_name": "Nawur"
+                },
+                {
+                    "city_name": "Qarah Bagh"
+                },
+                {
+                    "city_name": "Rashidan"
+                },
+                {
+                    "city_name": "Waghaz"
+                },
+                {
+                    "city_name": "Wali Muhammad Shahid Khugyani"
+                },
+                {
+                    "city_name": "Zanakhan"
+                },
+                {
+                    "city_name": "Bahrami Shahid"
+                }
+            ]
+        },
+        {
+            "province_name": "Faryab Province",
+            "cities": [
+                {
+                    "city_name": "Khan-e Chahar Bagh"
+                },
+                {
+                    "city_name": "Almar"
+                },
+                {
+                    "city_name": "Andkhoy"
+                },
+                {
+                    "city_name": "Bal Chiragh"
+                },
+                {
+                    "city_name": "Dowlatabad"
+                },
+                {
+                    "city_name": "Gurziwan"
+                },
+                {
+                    "city_name": "Khwajah Sabz Posh"
+                },
+                {
+                    "city_name": "Kohistan"
+                },
+                {
+                    "city_name": "Maimanah"
+                },
+                {
+                    "city_name": "Pashtun Kot"
+                },
+                {
+                    "city_name": "Qaisar"
+                },
+                {
+                    "city_name": "Qaram Qol"
+                },
+                {
+                    "city_name": "Qurghan"
+                },
+                {
+                    "city_name": "Shirin Tagab"
+                },
+                {
+                    "city_name": "Dawlatabad District"
+                },
+                {
+                    "city_name": "Khwaja Sabz"
+                }
+            ]
+        },
+        {
+            "province_name": "Farah",
+            "cities": [
+                {
+                    "city_name": "Anar Darah"
+                },
+                {
+                    "city_name": "Bakwah"
+                },
+                {
+                    "city_name": "Bala Buluk"
+                },
+                {
+                    "city_name": "Gulistan"
+                },
+                {
+                    "city_name": "Khak-e Safed"
+                },
+                {
+                    "city_name": "Lash-e Juwayn"
+                },
+                {
+                    "city_name": "Pur Chaman"
+                },
+                {
+                    "city_name": "Pusht-e Rod"
+                },
+                {
+                    "city_name": "Qal`ah-ye Kah"
+                },
+                {
+                    "city_name": "Shayb Koh"
+                },
+                {
+                    "city_name": "Farah"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Bamyan",
+            "cities": [
+                {
+                    "city_name": "Kahmard"
+                },
+                {
+                    "city_name": "Panjab"
+                },
+                {
+                    "city_name": "Sayghan"
+                },
+                {
+                    "city_name": "Shaybar"
+                },
+                {
+                    "city_name": "Waras"
+                },
+                {
+                    "city_name": "Yakawlang"
+                },
+                {
+                    "city_name": "Bamyan"
+                },
+                {
+                    "city_name": "Shibar"
+                }
+            ]
+        },
+        {
+            "province_name": "Balkh",
+            "cities": [
+                {
+                    "city_name": "Chahar Bolak"
+                },
+                {
+                    "city_name": "Chahar Kent"
+                },
+                {
+                    "city_name": "Chimtal"
+                },
+                {
+                    "city_name": "Dehdadi"
+                },
+                {
+                    "city_name": "Dowlatabad"
+                },
+                {
+                    "city_name": "Kaldar"
+                },
+                {
+                    "city_name": "Khulm"
+                },
+                {
+                    "city_name": "Kishindeh"
+                },
+                {
+                    "city_name": "Marmul"
+                },
+                {
+                    "city_name": "Nahr-e Shahi"
+                },
+                {
+                    "city_name": "Shahrak-e Hairatan"
+                },
+                {
+                    "city_name": "Sholgarah"
+                },
+                {
+                    "city_name": "Shor Tepah"
+                },
+                {
+                    "city_name": "Zari"
+                },
+                {
+                    "city_name": "Nahri Shahi"
+                },
+                {
+                    "city_name": "Sholgara"
+                },
+                {
+                    "city_name": "Mazar-e Sharif"
+                },
+                {
+                    "city_name": "Dawlatabad"
+                },
+                {
+                    "city_name": "Kishindih District"
+                },
+                {
+                    "city_name": "Dihdadi District"
+                }
+            ]
+        },
+        {
+            "province_name": "Wilayat-e Baghlan",
+            "cities": [
+                {
+                    "city_name": "Andarab"
+                },
+                {
+                    "city_name": "Baghlan-e Jadid"
+                },
+                {
+                    "city_name": "Burkah"
+                },
+                {
+                    "city_name": "Dahanah-ye Ghori"
+                },
+                {
+                    "city_name": "Deh-e Salah"
+                },
+                {
+                    "city_name": "Doshi"
+                },
+                {
+                    "city_name": "Firing wa Gharu"
+                },
+                {
+                    "city_name": "Guzargah-e Nur"
+                },
+                {
+                    "city_name": "Khinjan"
+                },
+                {
+                    "city_name": "Khost wa Firing"
+                },
+                {
+                    "city_name": "Khwajah Hijran"
+                },
+                {
+                    "city_name": "Nahrin"
+                },
+                {
+                    "city_name": "Pul-e Hisar"
+                },
+                {
+                    "city_name": "Talah wa Barfak"
+                },
+                {
+                    "city_name": "Puli Khumri"
+                }
+            ]
+        },
+        {
+            "province_name": "Badghis",
+            "cities": [
+                {
+                    "city_name": "Ab-e Kamari"
+                },
+                {
+                    "city_name": "Ghormach"
+                },
+                {
+                    "city_name": "Jowand"
+                },
+                {
+                    "city_name": "Muqur"
+                },
+                {
+                    "city_name": "Murghab"
+                },
+                {
+                    "city_name": "Qadis"
+                },
+                {
+                    "city_name": "Qal`ah-ye Now"
+                },
+                {
+                    "city_name": "Qala-i-Naw"
+                },
+                {
+                    "city_name": "Kushk-e Kuhnah"
+                }
+            ]
+        },
+        {
+            "province_name": "Badakhshan",
+            "cities": [
+                {
+                    "city_name": "Shighnan District"
+                },
+                {
+                    "city_name": "Arghanj Khwah"
+                },
+                {
+                    "city_name": "Argo"
+                },
+                {
+                    "city_name": "Baharak"
+                },
+                {
+                    "city_name": "Darayim"
+                },
+                {
+                    "city_name": "Darwaz-e Bala"
+                },
+                {
+                    "city_name": "Darwaz-e Pa'in"
+                },
+                {
+                    "city_name": "Faizabad"
+                },
+                {
+                    "city_name": "Ishkashim"
+                },
+                {
+                    "city_name": "Jurm"
+                },
+                {
+                    "city_name": "Khash"
+                },
+                {
+                    "city_name": "Khwahan"
+                },
+                {
+                    "city_name": "Kiran wa Munjan"
+                },
+                {
+                    "city_name": "Kishim"
+                },
+                {
+                    "city_name": "Kohistan"
+                },
+                {
+                    "city_name": "Kuf Ab"
+                },
+                {
+                    "city_name": "Raghistan"
+                },
+                {
+                    "city_name": "Shahr-e Buzurg"
+                },
+                {
+                    "city_name": "Shiki"
+                },
+                {
+                    "city_name": "Shuhada"
+                },
+                {
+                    "city_name": "Tagab"
+                },
+                {
+                    "city_name": "Tashkan"
+                },
+                {
+                    "city_name": "Wakhan"
+                },
+                {
+                    "city_name": "Warduj"
+                },
+                {
+                    "city_name": "Yaftal-e Sufla"
+                },
+                {
+                    "city_name": "Yamgan"
+                },
+                {
+                    "city_name": "Yawan"
+                },
+                {
+                    "city_name": "Zaybak"
+                },
+                {
+                    "city_name": "Kuran Wa Munjan"
+                }
+            ]
+        },
+        {
+            "province_name": "Velayat-e Khowst",
+            "cities": [
+                {
+                    "city_name": "Bak"
+                },
+                {
+                    "city_name": "Gurbuz"
+                },
+                {
+                    "city_name": "Jaji Maidan"
+                },
+                {
+                    "city_name": "Khost"
+                },
+                {
+                    "city_name": "Manduzai"
+                },
+                {
+                    "city_name": "Musa Khel"
+                },
+                {
+                    "city_name": "Nadir Shah Kot"
+                },
+                {
+                    "city_name": "Qalandar"
+                },
+                {
+                    "city_name": "Sabari"
+                },
+                {
+                    "city_name": "Shamul"
+                },
+                {
+                    "city_name": "Sperah"
+                },
+                {
+                    "city_name": "Tanai"
+                },
+                {
+                    "city_name": "Terayzai"
+                }
+            ]
+        },
+        {
+            "province_name": "Velayat-e Nurestan",
+            "cities": [
+                {
+                    "city_name": "Barg-e Matal"
+                },
+                {
+                    "city_name": "Du Ab"
+                },
+                {
+                    "city_name": "Kamdesh"
+                },
+                {
+                    "city_name": "Mandol"
+                },
+                {
+                    "city_name": "Nurgaram"
+                },
+                {
+                    "city_name": "Parun"
+                },
+                {
+                    "city_name": "Wama"
+                },
+                {
+                    "city_name": "Waygal"
+                }
+            ]
+        },
+        {
+            "province_name": "Daykundi Province",
+            "cities": [
+                {
+                    "city_name": "Gayti"
+                },
+                {
+                    "city_name": "Gizab"
+                },
+                {
+                    "city_name": "Ishtarlay"
+                },
+                {
+                    "city_name": "Kajran"
+                },
+                {
+                    "city_name": "Khadir"
+                },
+                {
+                    "city_name": "Mir Amor"
+                },
+                {
+                    "city_name": "Nili"
+                },
+                {
+                    "city_name": "Sang-e Takht"
+                },
+                {
+                    "city_name": "Shahristan"
+                }
+            ]
+        },
+        {
+            "province_name": "Panjshir",
+            "cities": [
+                {
+                    "city_name": "`Unabah"
+                },
+                {
+                    "city_name": "Bazarak"
+                },
+                {
+                    "city_name": "Darah"
+                },
+                {
+                    "city_name": "Khinj"
+                },
+                {
+                    "city_name": "Parian"
+                },
+                {
+                    "city_name": "Rukhah"
+                },
+                {
+                    "city_name": "Shutul"
+                }
+            ]
+        }
+    ]
+}

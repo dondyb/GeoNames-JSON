@@ -1,0 +1,1115 @@
+{
+    "country_name": "Yemen",
+    "country_id": "YE",
+    "provinces": [
+        {
+            "province_name": "Muhafazat Ta`izz",
+            "cities": [
+                {
+                    "city_name": "At Ta'izziyah"
+                },
+                {
+                    "city_name": "Al Mukha'"
+                },
+                {
+                    "city_name": "Mawiyah"
+                },
+                {
+                    "city_name": "Sama"
+                },
+                {
+                    "city_name": "Al Misrakh"
+                },
+                {
+                    "city_name": "Sabir Al Mawadim"
+                },
+                {
+                    "city_name": "Dimnat Khadir"
+                },
+                {
+                    "city_name": "Ash Shamayatayn"
+                },
+                {
+                    "city_name": "Jabal Habashy"
+                },
+                {
+                    "city_name": "Mashra'a Wa Hadnan"
+                },
+                {
+                    "city_name": "Al Wazi'iyah"
+                },
+                {
+                    "city_name": "As Silw"
+                },
+                {
+                    "city_name": "Hayfan"
+                },
+                {
+                    "city_name": "Al Ma'afer"
+                },
+                {
+                    "city_name": "Al Mawasit"
+                },
+                {
+                    "city_name": "Dhubab"
+                },
+                {
+                    "city_name": "Al Qahirah"
+                },
+                {
+                    "city_name": "Salh"
+                },
+                {
+                    "city_name": "Al Mudhaffar"
+                },
+                {
+                    "city_name": "Mawza"
+                },
+                {
+                    "city_name": "Shara'b Ar Rawnah"
+                },
+                {
+                    "city_name": "Maqbanah"
+                },
+                {
+                    "city_name": "Shara'b As Salam"
+                }
+            ]
+        },
+        {
+            "province_name": "Shabwah",
+            "cities": [
+                {
+                    "city_name": "Usaylan"
+                },
+                {
+                    "city_name": "Ataq"
+                },
+                {
+                    "city_name": "Rudum"
+                },
+                {
+                    "city_name": "Nisab"
+                },
+                {
+                    "city_name": "Bayhan"
+                },
+                {
+                    "city_name": "Habban"
+                },
+                {
+                    "city_name": "Hatib"
+                },
+                {
+                    "city_name": "Mayfa'a"
+                },
+                {
+                    "city_name": "Merkhah Al Ulya"
+                },
+                {
+                    "city_name": "Merkhah As Sufla"
+                },
+                {
+                    "city_name": "As Said"
+                },
+                {
+                    "city_name": "Dhar"
+                },
+                {
+                    "city_name": "Arma"
+                },
+                {
+                    "city_name": "Jardan"
+                },
+                {
+                    "city_name": "Ain"
+                },
+                {
+                    "city_name": "Al Talh"
+                },
+                {
+                    "city_name": "Ar Rawdah"
+                }
+            ]
+        },
+        {
+            "province_name": "Sanaa",
+            "cities": [
+                {
+                    "city_name": "Sanhan"
+                },
+                {
+                    "city_name": "Hamdan"
+                },
+                {
+                    "city_name": "Arhab"
+                },
+                {
+                    "city_name": "Nihm"
+                },
+                {
+                    "city_name": "Bani Matar"
+                },
+                {
+                    "city_name": "Attyal"
+                },
+                {
+                    "city_name": "Al Husn"
+                },
+                {
+                    "city_name": "Bilad Ar Rus"
+                },
+                {
+                    "city_name": "Al Haymah Al Kharijiyah"
+                },
+                {
+                    "city_name": "Manakhah"
+                },
+                {
+                    "city_name": "Jihanah"
+                },
+                {
+                    "city_name": "Bani Dhabyan"
+                },
+                {
+                    "city_name": "Khwlan"
+                },
+                {
+                    "city_name": "Bani Hushaysh"
+                },
+                {
+                    "city_name": "Al Haymah Ad Dakhiliyah"
+                },
+                {
+                    "city_name": "Sa'fan"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Sa'dah",
+            "cities": [
+                {
+                    "city_name": "Sahar"
+                },
+                {
+                    "city_name": "Sa'dah"
+                },
+                {
+                    "city_name": "Razih"
+                },
+                {
+                    "city_name": "Haydan"
+                },
+                {
+                    "city_name": "Al Hashwah"
+                },
+                {
+                    "city_name": "Ghamr"
+                },
+                {
+                    "city_name": "Qatabir"
+                },
+                {
+                    "city_name": "Monabbih"
+                },
+                {
+                    "city_name": "Al Dhaher"
+                },
+                {
+                    "city_name": "Shada'a"
+                },
+                {
+                    "city_name": "Saqayn"
+                },
+                {
+                    "city_name": "Baqim"
+                },
+                {
+                    "city_name": "As Safra"
+                },
+                {
+                    "city_name": "Majz"
+                },
+                {
+                    "city_name": "Kitaf wa Al Boqe'e"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Raymah",
+            "cities": [
+                {
+                    "city_name": "Al Jabin"
+                },
+                {
+                    "city_name": "Al Jafariyah"
+                },
+                {
+                    "city_name": "Kusmah"
+                },
+                {
+                    "city_name": "As Salafiyah"
+                },
+                {
+                    "city_name": "Bilad At Ta'am"
+                },
+                {
+                    "city_name": "Mazhar"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Ma'rib",
+            "cities": [
+                {
+                    "city_name": "Marib City"
+                },
+                {
+                    "city_name": "Harib"
+                },
+                {
+                    "city_name": "Harib Al Qaramish"
+                },
+                {
+                    "city_name": "Bidbadah"
+                },
+                {
+                    "city_name": "Marib"
+                },
+                {
+                    "city_name": "Majzar"
+                },
+                {
+                    "city_name": "Medghal"
+                },
+                {
+                    "city_name": "Raghwan"
+                },
+                {
+                    "city_name": "Sirwah"
+                },
+                {
+                    "city_name": "Al Abdiyah"
+                },
+                {
+                    "city_name": "Mahliyah"
+                },
+                {
+                    "city_name": "Jabal Murad"
+                },
+                {
+                    "city_name": "Rahabah"
+                },
+                {
+                    "city_name": "Al Jubah"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Mahwit",
+            "cities": [
+                {
+                    "city_name": "At Tawilah"
+                },
+                {
+                    "city_name": "Shibam Kawkaban"
+                },
+                {
+                    "city_name": "Al Mahwait"
+                },
+                {
+                    "city_name": "Bani Sa'd"
+                },
+                {
+                    "city_name": "Al Khabt"
+                },
+                {
+                    "city_name": "Ar Rujum"
+                },
+                {
+                    "city_name": "Al Mahwait City"
+                },
+                {
+                    "city_name": "Hufash"
+                },
+                {
+                    "city_name": "Milhan"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Jawf",
+            "cities": [
+                {
+                    "city_name": "Bart al `Anan"
+                },
+                {
+                    "city_name": "Az Zahir"
+                },
+                {
+                    "city_name": "Kharab Al Marashi"
+                },
+                {
+                    "city_name": "Al Hazm"
+                },
+                {
+                    "city_name": "Al Khalq"
+                },
+                {
+                    "city_name": "Al Maton"
+                },
+                {
+                    "city_name": "Al Matammah"
+                },
+                {
+                    "city_name": "Al Maslub"
+                },
+                {
+                    "city_name": "Al Ghayl"
+                },
+                {
+                    "city_name": "Khabb wa ash Sha'af"
+                },
+                {
+                    "city_name": "Al Humaydat"
+                },
+                {
+                    "city_name": "Rajuzah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Hadramawt",
+            "cities": [
+                {
+                    "city_name": "Huraidhah"
+                },
+                {
+                    "city_name": "Rakhyah"
+                },
+                {
+                    "city_name": "Adh Dhlia'ah"
+                },
+                {
+                    "city_name": "Al Mukalla"
+                },
+                {
+                    "city_name": "Yabuth"
+                },
+                {
+                    "city_name": "Hajr"
+                },
+                {
+                    "city_name": "Shibam"
+                },
+                {
+                    "city_name": "Sah"
+                },
+                {
+                    "city_name": "Ghayl Bin Yamin"
+                },
+                {
+                    "city_name": "Wadi Al Ayn"
+                },
+                {
+                    "city_name": "Amd"
+                },
+                {
+                    "city_name": "Ar Raydah Wa Qusayar"
+                },
+                {
+                    "city_name": "Daw'an"
+                },
+                {
+                    "city_name": "Ad Dis"
+                },
+                {
+                    "city_name": "Ash Shihr"
+                },
+                {
+                    "city_name": "Ghayl Ba Wazir"
+                },
+                {
+                    "city_name": "Brom Mayfa"
+                },
+                {
+                    "city_name": "Al Mukalla City"
+                },
+                {
+                    "city_name": "Sayun"
+                },
+                {
+                    "city_name": "Thamud"
+                },
+                {
+                    "city_name": "Al Qaf"
+                },
+                {
+                    "city_name": "Zamakh wa Manwakh"
+                },
+                {
+                    "city_name": "As Sawm"
+                },
+                {
+                    "city_name": "Hagr As Sai'ar"
+                },
+                {
+                    "city_name": "Tarim"
+                },
+                {
+                    "city_name": "Rumah"
+                },
+                {
+                    "city_name": "Al Qatn"
+                },
+                {
+                    "city_name": "Al Abr"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Dhamar",
+            "cities": [
+                {
+                    "city_name": "Madinat Dhamar"
+                },
+                {
+                    "city_name": "`Ans"
+                },
+                {
+                    "city_name": "Dawran Aness"
+                },
+                {
+                    "city_name": "Mayfa'at Anss"
+                },
+                {
+                    "city_name": "Al Hada"
+                },
+                {
+                    "city_name": "Wusab Al Ali"
+                },
+                {
+                    "city_name": "Maghirib Ans"
+                },
+                {
+                    "city_name": "Jahran"
+                },
+                {
+                    "city_name": "Al Manar"
+                },
+                {
+                    "city_name": "Jabal Ash sharq"
+                },
+                {
+                    "city_name": "Wusab As Safil"
+                },
+                {
+                    "city_name": "Utmah"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Mahrah",
+            "cities": [
+                {
+                    "city_name": "Shahan"
+                },
+                {
+                    "city_name": "Sayhut"
+                },
+                {
+                    "city_name": "Hat"
+                },
+                {
+                    "city_name": "Al Ghaydah"
+                },
+                {
+                    "city_name": "Hawf"
+                },
+                {
+                    "city_name": "Huswain"
+                },
+                {
+                    "city_name": "Qishn"
+                },
+                {
+                    "city_name": "Man'ar"
+                },
+                {
+                    "city_name": "Al Masilah"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat al Hudaydah",
+            "cities": [
+                {
+                    "city_name": "Az Zaydiyah"
+                },
+                {
+                    "city_name": "Zabid"
+                },
+                {
+                    "city_name": "Khawlan"
+                },
+                {
+                    "city_name": "Bayt al Faqih"
+                },
+                {
+                    "city_name": "Bajil"
+                },
+                {
+                    "city_name": "Al Munirah"
+                },
+                {
+                    "city_name": "Ad Durayhimi"
+                },
+                {
+                    "city_name": "Al Marawi'ah"
+                },
+                {
+                    "city_name": "Al Hawak"
+                },
+                {
+                    "city_name": "As Salif"
+                },
+                {
+                    "city_name": "Jabal Ra's"
+                },
+                {
+                    "city_name": "Al Mina"
+                },
+                {
+                    "city_name": "As Sukhnah"
+                },
+                {
+                    "city_name": "Al Garrahi"
+                },
+                {
+                    "city_name": "Bura"
+                },
+                {
+                    "city_name": "Kamaran"
+                },
+                {
+                    "city_name": "Al Mansuriyah"
+                },
+                {
+                    "city_name": "Az Zuhrah"
+                },
+                {
+                    "city_name": "Ad Dahi"
+                },
+                {
+                    "city_name": "Hays"
+                },
+                {
+                    "city_name": "At Tuhayat"
+                },
+                {
+                    "city_name": "Al Hali"
+                },
+                {
+                    "city_name": "Al Hajjaylah"
+                },
+                {
+                    "city_name": "Al Mighlaf"
+                },
+                {
+                    "city_name": "Al Qanawis"
+                },
+                {
+                    "city_name": "Alluheyah"
+                }
+            ]
+        },
+        {
+            "province_name": "Al Bayda Governorate",
+            "cities": [
+                {
+                    "city_name": "Ash Sharafayn"
+                },
+                {
+                    "city_name": "Rada'"
+                },
+                {
+                    "city_name": "Al Bayda'"
+                },
+                {
+                    "city_name": "Sabah"
+                },
+                {
+                    "city_name": "Wald Rabi'"
+                },
+                {
+                    "city_name": "Al Quraishyah"
+                },
+                {
+                    "city_name": "Ar Ryashyyah"
+                },
+                {
+                    "city_name": "Na'man"
+                },
+                {
+                    "city_name": "Mukayras"
+                },
+                {
+                    "city_name": "Nati'"
+                },
+                {
+                    "city_name": "As Sawadiyah"
+                },
+                {
+                    "city_name": "At Taffah"
+                },
+                {
+                    "city_name": "Radman Al Awad"
+                },
+                {
+                    "city_name": "Dhi Na'im"
+                },
+                {
+                    "city_name": "Al Bayda City"
+                },
+                {
+                    "city_name": "Al Malagim"
+                },
+                {
+                    "city_name": "Maswarah"
+                },
+                {
+                    "city_name": "Al A'rsh"
+                },
+                {
+                    "city_name": "As Sawma'ah"
+                },
+                {
+                    "city_name": "Az Zahir"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat 'Adan",
+            "cities": [
+                {
+                    "city_name": "Attawahi"
+                },
+                {
+                    "city_name": "Craiter"
+                },
+                {
+                    "city_name": "Al Buraiqeh"
+                },
+                {
+                    "city_name": "Khur Maksar"
+                },
+                {
+                    "city_name": "Dar Sad"
+                },
+                {
+                    "city_name": "Al Mansura"
+                },
+                {
+                    "city_name": "Ash Shaikh Outhman"
+                },
+                {
+                    "city_name": "Al Mualla"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Abyan",
+            "cities": [
+                {
+                    "city_name": "Ahwar"
+                },
+                {
+                    "city_name": "Mudiyah"
+                },
+                {
+                    "city_name": "Al Mahfad"
+                },
+                {
+                    "city_name": "Rasad"
+                },
+                {
+                    "city_name": "Jayshan"
+                },
+                {
+                    "city_name": "Sibah"
+                },
+                {
+                    "city_name": "Lawdar"
+                },
+                {
+                    "city_name": "Al Wade'a"
+                },
+                {
+                    "city_name": "Khanfir"
+                },
+                {
+                    "city_name": "Sarar"
+                },
+                {
+                    "city_name": "Zingibar"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat ad Dali'",
+            "cities": [
+                {
+                    "city_name": "Al Husha"
+                },
+                {
+                    "city_name": "Qa'atabah"
+                },
+                {
+                    "city_name": "Ad Dhale'e"
+                },
+                {
+                    "city_name": "Al Hussein"
+                },
+                {
+                    "city_name": "Jahaf"
+                },
+                {
+                    "city_name": "Damt"
+                },
+                {
+                    "city_name": "Al Azariq"
+                },
+                {
+                    "city_name": "Juban"
+                },
+                {
+                    "city_name": "Ash Shu'ayb"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat `Amran",
+            "cities": [
+                {
+                    "city_name": "Shaharah"
+                },
+                {
+                    "city_name": "Khamir"
+                },
+                {
+                    "city_name": "Hooth"
+                },
+                {
+                    "city_name": "`Amran"
+                },
+                {
+                    "city_name": "Harf Sufyan"
+                },
+                {
+                    "city_name": "Raydah"
+                },
+                {
+                    "city_name": "Jabal Iyal Yazid"
+                },
+                {
+                    "city_name": "Al Ashah"
+                },
+                {
+                    "city_name": "Suwayr"
+                },
+                {
+                    "city_name": "Bani Suraim"
+                },
+                {
+                    "city_name": "Al Madan"
+                },
+                {
+                    "city_name": "Thula"
+                },
+                {
+                    "city_name": "As Sudah"
+                },
+                {
+                    "city_name": "Habur Zulaymah"
+                },
+                {
+                    "city_name": "Al Qaflah"
+                },
+                {
+                    "city_name": "Maswar"
+                },
+                {
+                    "city_name": "As Sawd"
+                },
+                {
+                    "city_name": "Kharif"
+                },
+                {
+                    "city_name": "Iyal Surayh"
+                },
+                {
+                    "city_name": "Dhi Bin"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Hajjah",
+            "cities": [
+                {
+                    "city_name": "Washhah"
+                },
+                {
+                    "city_name": "Harad District"
+                },
+                {
+                    "city_name": "Hajjah"
+                },
+                {
+                    "city_name": "Abs"
+                },
+                {
+                    "city_name": "Qafl Shamer"
+                },
+                {
+                    "city_name": "Bani Qa'is"
+                },
+                {
+                    "city_name": "Al Maghrabah"
+                },
+                {
+                    "city_name": "Al Mahabishah"
+                },
+                {
+                    "city_name": "Midi"
+                },
+                {
+                    "city_name": "Hayran"
+                },
+                {
+                    "city_name": "Bani Al Awam"
+                },
+                {
+                    "city_name": "Hajjah"
+                },
+                {
+                    "city_name": "Ku'aydinah"
+                },
+                {
+                    "city_name": "Mustaba"
+                },
+                {
+                    "city_name": "Qarah"
+                },
+                {
+                    "city_name": "Wadhrah"
+                },
+                {
+                    "city_name": "Kuhlan Affar"
+                },
+                {
+                    "city_name": "Kuhlan Ash Sharaf"
+                },
+                {
+                    "city_name": "Sharas"
+                },
+                {
+                    "city_name": "Khayran Al Muharraq"
+                },
+                {
+                    "city_name": "Ash Shahil"
+                },
+                {
+                    "city_name": "Najrah"
+                },
+                {
+                    "city_name": "Ash Shaghadirah"
+                },
+                {
+                    "city_name": "Aflah Ash Shawm"
+                },
+                {
+                    "city_name": "Mabyan"
+                },
+                {
+                    "city_name": "Al Miftah"
+                },
+                {
+                    "city_name": "Aflah Al Yaman"
+                },
+                {
+                    "city_name": "Al Jamimah"
+                },
+                {
+                    "city_name": "Aslem"
+                },
+                {
+                    "city_name": "Bakil Al Mir"
+                },
+                {
+                    "city_name": "Kushar"
+                }
+            ]
+        },
+        {
+            "province_name": "Ibb",
+            "cities": [
+                {
+                    "city_name": "Yarim"
+                },
+                {
+                    "city_name": "Al 'Udayn"
+                },
+                {
+                    "city_name": "An Nadirah"
+                },
+                {
+                    "city_name": "Al Makhadir"
+                },
+                {
+                    "city_name": "Ibb"
+                },
+                {
+                    "city_name": "Dhi as Sufal"
+                },
+                {
+                    "city_name": "Hazm Al Udayn"
+                },
+                {
+                    "city_name": "Al Qafr"
+                },
+                {
+                    "city_name": "Ash Sha'ir"
+                },
+                {
+                    "city_name": "Ar Radmah"
+                },
+                {
+                    "city_name": "As Saddah"
+                },
+                {
+                    "city_name": "Mudhaykhirah"
+                },
+                {
+                    "city_name": "Far Al Udayn"
+                },
+                {
+                    "city_name": "Al Dhihar"
+                },
+                {
+                    "city_name": "As Sayyani"
+                },
+                {
+                    "city_name": "Al Mashannah"
+                },
+                {
+                    "city_name": "As Sabrah"
+                },
+                {
+                    "city_name": "Hubaysh"
+                },
+                {
+                    "city_name": "Jiblah"
+                },
+                {
+                    "city_name": "Ba'dan"
+                }
+            ]
+        },
+        {
+            "province_name": "Muhafazat Lahij",
+            "cities": [
+                {
+                    "city_name": "Tuban"
+                },
+                {
+                    "city_name": "Al Qabbaytah"
+                },
+                {
+                    "city_name": "Tur Al Bahah"
+                },
+                {
+                    "city_name": "Al  Hawtah"
+                },
+                {
+                    "city_name": "Habil Jabr"
+                },
+                {
+                    "city_name": "Yahr"
+                },
+                {
+                    "city_name": "Halimayn"
+                },
+                {
+                    "city_name": "Al Milah"
+                },
+                {
+                    "city_name": "Radfan"
+                },
+                {
+                    "city_name": "Al Maflahy"
+                },
+                {
+                    "city_name": "Yafa'a"
+                },
+                {
+                    "city_name": "Al Musaymir"
+                },
+                {
+                    "city_name": "Al Had"
+                },
+                {
+                    "city_name": "Al Maqatirah"
+                },
+                {
+                    "city_name": "Al Madaribah Wa Al Arah"
+                }
+            ]
+        },
+        {
+            "province_name": "Amanat Al Asimah",
+            "cities": [
+                {
+                    "city_name": "Bani Al Harith"
+                },
+                {
+                    "city_name": "Al Wahdah"
+                },
+                {
+                    "city_name": "Old City"
+                },
+                {
+                    "city_name": "Ath'thaorah"
+                },
+                {
+                    "city_name": "Assafi'yah"
+                },
+                {
+                    "city_name": "Ma'ain"
+                },
+                {
+                    "city_name": "As Sabain"
+                },
+                {
+                    "city_name": "Shu'aub"
+                },
+                {
+                    "city_name": "Az'zal"
+                },
+                {
+                    "city_name": "At Tahrir"
+                }
+            ]
+        },
+        {
+            "province_name": "Socotra",
+            "cities": [
+                {
+                    "city_name": "Qulensya Wa Abd Al Kuri"
+                },
+                {
+                    "city_name": "Hidaybu"
+                }
+            ]
+        }
+    ]
+}

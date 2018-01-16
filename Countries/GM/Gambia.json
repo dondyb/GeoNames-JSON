@@ -1,0 +1,153 @@
+{
+    "country_name": "Gambia",
+    "country_id": "GM",
+    "provinces": [
+        {
+            "province_name": "West Coast",
+            "cities": [
+                {
+                    "city_name": "Kombo South District"
+                },
+                {
+                    "city_name": "Kombo North District"
+                },
+                {
+                    "city_name": "Kombo East District"
+                },
+                {
+                    "city_name": "Kombo Central District"
+                },
+                {
+                    "city_name": "Foni Kansala"
+                },
+                {
+                    "city_name": "Foni Jarrol"
+                },
+                {
+                    "city_name": "Foni Brefet"
+                },
+                {
+                    "city_name": "Foni Bondali"
+                },
+                {
+                    "city_name": "Foni Bintang-Karenai"
+                }
+            ]
+        },
+        {
+            "province_name": "Upper River",
+            "cities": [
+                {
+                    "city_name": "Wuli"
+                },
+                {
+                    "city_name": "Sandu"
+                },
+                {
+                    "city_name": "Kantora"
+                },
+                {
+                    "city_name": "Fulladu East"
+                }
+            ]
+        },
+        {
+            "province_name": "North Bank",
+            "cities": [
+                {
+                    "city_name": "Upper Niumi District"
+                },
+                {
+                    "city_name": "Upper Baddibu"
+                },
+                {
+                    "city_name": "Lower Niumi District"
+                },
+                {
+                    "city_name": "Lower Baddibu District"
+                },
+                {
+                    "city_name": "Jokadu"
+                },
+                {
+                    "city_name": "Dappo"
+                },
+                {
+                    "city_name": "Dappo"
+                },
+                {
+                    "city_name": "Central Baddibu"
+                }
+            ]
+        },
+        {
+            "province_name": "Central River",
+            "cities": [
+                {
+                    "city_name": "Upper Saloum"
+                },
+                {
+                    "city_name": "Sami District"
+                },
+                {
+                    "city_name": "Nianija District"
+                },
+                {
+                    "city_name": "Niani"
+                },
+                {
+                    "city_name": "Niamina West District"
+                },
+                {
+                    "city_name": "Niamina East District"
+                },
+                {
+                    "city_name": "Niamina Dankunku District"
+                },
+                {
+                    "city_name": "Lower Saloum"
+                },
+                {
+                    "city_name": "Fulladu West"
+                },
+                {
+                    "city_name": "Janjanbureh"
+                }
+            ]
+        },
+        {
+            "province_name": "Lower River Division",
+            "cities": [
+                {
+                    "city_name": "Kiang West District"
+                },
+                {
+                    "city_name": "Kiang East"
+                },
+                {
+                    "city_name": "Kiang Central"
+                },
+                {
+                    "city_name": "Jarra West"
+                },
+                {
+                    "city_name": "Jarra East"
+                },
+                {
+                    "city_name": "Jarra Central"
+                }
+            ]
+        },
+        {
+            "province_name": "Banjul",
+            "cities": [
+                {
+                    "city_name": "Kanifing"
+                },
+                {
+                    "city_name": "Kombo Saint Mary District"
+                }
+            ]
+        }
+    ]
+}

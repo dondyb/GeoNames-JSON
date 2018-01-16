@@ -1,0 +1,297 @@
+{
+    "country_name": "Finland",
+    "country_id": "FI",
+    "provinces": [
+        {
+            "province_name": "Lapland",
+            "cities": [
+                {
+                    "city_name": "Rovaniemi"
+                },
+                {
+                    "city_name": "Kemi-Tornio"
+                },
+                {
+                    "city_name": "Torniolaakso"
+                },
+                {
+                    "city_name": "Itae-Lappi"
+                },
+                {
+                    "city_name": "Tunturi-Lappi"
+                },
+                {
+                    "city_name": "Pohjois-Lappi"
+                }
+            ]
+        },
+        {
+            "province_name": "Kainuu",
+            "cities": [
+                {
+                    "city_name": "Kehys-Kainuu"
+                },
+                {
+                    "city_name": "Kajaani"
+                }
+            ]
+        },
+        {
+            "province_name": "Pohjois-Pohjanmaa",
+            "cities": [
+                {
+                    "city_name": "Oulu"
+                },
+                {
+                    "city_name": "Oulunkaari"
+                },
+                {
+                    "city_name": "Raahe"
+                },
+                {
+                    "city_name": "Haapavesi-Siikalatva"
+                },
+                {
+                    "city_name": "Nivala-Haapajaervi"
+                },
+                {
+                    "city_name": "Ylivieska"
+                },
+                {
+                    "city_name": "Koillismaa"
+                }
+            ]
+        },
+        {
+            "province_name": "Keski-Pohjanmaa",
+            "cities": [
+                {
+                    "city_name": "Kaustinen"
+                },
+                {
+                    "city_name": "Kokkola"
+                }
+            ]
+        },
+        {
+            "province_name": "Pohjanmaa",
+            "cities": [
+                {
+                    "city_name": "Sydosterbotten"
+                },
+                {
+                    "city_name": "Kyroenmaa"
+                },
+                {
+                    "city_name": "Vaasa"
+                },
+                {
+                    "city_name": "Jakobstadsregionen"
+                }
+            ]
+        },
+        {
+            "province_name": "Etela-Pohjanmaa",
+            "cities": [
+                {
+                    "city_name": "Suupohja"
+                },
+                {
+                    "city_name": "Seinaejoki"
+                },
+                {
+                    "city_name": "Kuusiokunnat"
+                },
+                {
+                    "city_name": "Jaerviseutu"
+                }
+            ]
+        },
+        {
+            "province_name": "Keski-Suomi",
+            "cities": [
+                {
+                    "city_name": "Jyvaeskylae"
+                },
+                {
+                    "city_name": "Joutsa"
+                },
+                {
+                    "city_name": "Keuruu"
+                },
+                {
+                    "city_name": "Jaemsae"
+                },
+                {
+                    "city_name": "AEaenekoski"
+                },
+                {
+                    "city_name": "Saarijaervi-Viitasaari"
+                }
+            ]
+        },
+        {
+            "province_name": "Pohjois-Karjala",
+            "cities": [
+                {
+                    "city_name": "Joensuu"
+                },
+                {
+                    "city_name": "Keski-Karjala"
+                },
+                {
+                    "city_name": "Pielisen Karjala"
+                }
+            ]
+        },
+        {
+            "province_name": "Pohjois-Savo",
+            "cities": [
+                {
+                    "city_name": "Ylae-Savo"
+                },
+                {
+                    "city_name": "Kuopio"
+                },
+                {
+                    "city_name": "Koillis-Savo"
+                },
+                {
+                    "city_name": "Varkaus"
+                },
+                {
+                    "city_name": "Sisae-Savo"
+                }
+            ]
+        },
+        {
+            "province_name": "Southern Savonia",
+            "cities": [
+                {
+                    "city_name": "Savonlinna"
+                },
+                {
+                    "city_name": "Pieksaemaeki"
+                },
+                {
+                    "city_name": "Mikkeli"
+                }
+            ]
+        },
+        {
+            "province_name": "Etelae-Karjala",
+            "cities": [
+                {
+                    "city_name": "Lappeenranta"
+                },
+                {
+                    "city_name": "Imatra"
+                }
+            ]
+        },
+        {
+            "province_name": "Kymenlaakso",
+            "cities": [
+                {
+                    "city_name": "Kouvola"
+                },
+                {
+                    "city_name": "Kotka-Hamina"
+                }
+            ]
+        },
+        {
+            "province_name": "Pirkanmaa",
+            "cities": [
+                {
+                    "city_name": "Luoteis-Pirkanmaa"
+                },
+                {
+                    "city_name": "Etelae-Pirkanmaa"
+                },
+                {
+                    "city_name": "Tampere"
+                },
+                {
+                    "city_name": "Lounais-Pirkanmaa"
+                },
+                {
+                    "city_name": "Ylae-Pirkanmaa"
+                }
+            ]
+        },
+        {
+            "province_name": "Kanta-Haeme",
+            "cities": [
+                {
+                    "city_name": "Haemeenlinna"
+                },
+                {
+                    "city_name": "Riihimaeki"
+                },
+                {
+                    "city_name": "Forssa"
+                }
+            ]
+        },
+        {
+            "province_name": "Varsinais-Suomi",
+            "cities": [
+                {
+                    "city_name": "Aboland-Turunmaa"
+                },
+                {
+                    "city_name": "Salo"
+                },
+                {
+                    "city_name": "Turku"
+                },
+                {
+                    "city_name": "Vakka-Suomi"
+                },
+                {
+                    "city_name": "Loimaa"
+                }
+            ]
+        },
+        {
+            "province_name": "Uusimaa",
+            "cities": [
+                {
+                    "city_name": "Helsinki"
+                },
+                {
+                    "city_name": "Raaseporin"
+                },
+                {
+                    "city_name": "Porvoo"
+                },
+                {
+                    "city_name": "Loviisa"
+                }
+            ]
+        },
+        {
+            "province_name": "Paijanne-Tavastland",
+            "cities": [
+                {
+                    "city_name": "Lahti"
+                }
+            ]
+        },
+        {
+            "province_name": "Satakunta",
+            "cities": [
+                {
+                    "city_name": "Rauma"
+                },
+                {
+                    "city_name": "Pori"
+                },
+                {
+                    "city_name": "Pohjois-Satakunta"
+                }
+            ]
+        }
+    ]
+}

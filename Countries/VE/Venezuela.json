@@ -1,0 +1,1135 @@
+{
+    "country_name": "Venezuela",
+    "country_id": "VE",
+    "provinces": [
+        {
+            "province_name": "Estado Zulia",
+            "cities": [
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Paez"
+                },
+                {
+                    "city_name": "Municipio Miranda"
+                },
+                {
+                    "city_name": "Municipio Maracaibo"
+                },
+                {
+                    "city_name": "Municipio Mara"
+                },
+                {
+                    "city_name": "Municipio Colon"
+                },
+                {
+                    "city_name": "Municipio Baralt"
+                },
+                {
+                    "city_name": "Municipio Simon Bolivar"
+                },
+                {
+                    "city_name": "Municipio La Canada de Urdaneta"
+                },
+                {
+                    "city_name": "Municipio Machiques de Perija"
+                },
+                {
+                    "city_name": "Municipio Cabimas"
+                },
+                {
+                    "city_name": "Municipio Lagunillas"
+                },
+                {
+                    "city_name": "Municipio Catatumbo"
+                },
+                {
+                    "city_name": "Municipio Jesus Maria Semprun"
+                },
+                {
+                    "city_name": "Municipio Almirante Padilla"
+                },
+                {
+                    "city_name": "Municipio Francisco Javier Pulgar"
+                },
+                {
+                    "city_name": "Municipio Jesus Enrique Lossada"
+                },
+                {
+                    "city_name": "Municipio Rosario de Perija"
+                },
+                {
+                    "city_name": "Municipio San Francisco"
+                },
+                {
+                    "city_name": "Municipio Santa Rita"
+                },
+                {
+                    "city_name": "Municipio Valmore Rodriguez"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Yaracuy",
+            "cities": [
+                {
+                    "city_name": "Municipio Urachiche"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio San Felipe"
+                },
+                {
+                    "city_name": "Municipio Nirgua"
+                },
+                {
+                    "city_name": "Municipio Bruzual"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Pena"
+                },
+                {
+                    "city_name": "Municipio Manuel Monge"
+                },
+                {
+                    "city_name": "Municipio Aristides Bastidas"
+                },
+                {
+                    "city_name": "Municipio Jose Antonio Paez"
+                },
+                {
+                    "city_name": "Municipio Veroes"
+                },
+                {
+                    "city_name": "Municipio Cocorote"
+                },
+                {
+                    "city_name": "Municipio La Trinidad"
+                },
+                {
+                    "city_name": "Municipio Independencia"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Trujillo",
+            "cities": [
+                {
+                    "city_name": "Municipio Valera"
+                },
+                {
+                    "city_name": "Municipio Urdaneta"
+                },
+                {
+                    "city_name": "Municipio Trujillo"
+                },
+                {
+                    "city_name": "Municipio Escuque"
+                },
+                {
+                    "city_name": "Municipio Carache"
+                },
+                {
+                    "city_name": "Municipio Bocono"
+                },
+                {
+                    "city_name": "Municipio Pampan"
+                },
+                {
+                    "city_name": "Municipio Motatan"
+                },
+                {
+                    "city_name": "Municipio Juan Vicente Campo Elias"
+                },
+                {
+                    "city_name": "Municipio Miranda"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Andres Bello"
+                },
+                {
+                    "city_name": "Municipio Monte Carmelo"
+                },
+                {
+                    "city_name": "Municipio Rafael Rangel"
+                },
+                {
+                    "city_name": "Municipio La Ceiba"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Candelaria"
+                },
+                {
+                    "city_name": "Municipio Jose Felipe Marquez Canizales"
+                },
+                {
+                    "city_name": "Municipio Pampanito"
+                },
+                {
+                    "city_name": "Municipio San Rafael de Carvajal"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Tachira",
+            "cities": [
+                {
+                    "city_name": "Municipio Uribante"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio San Cristobal"
+                },
+                {
+                    "city_name": "Municipio Pedro Maria Urena"
+                },
+                {
+                    "city_name": "Municipio Panamericano"
+                },
+                {
+                    "city_name": "Municipio Michelena"
+                },
+                {
+                    "city_name": "Municipio Lobatera"
+                },
+                {
+                    "city_name": "Municipio Libertador"
+                },
+                {
+                    "city_name": "Municipio Junin"
+                },
+                {
+                    "city_name": "Municipio Jauregui"
+                },
+                {
+                    "city_name": "Municipio Garcia de Hevia"
+                },
+                {
+                    "city_name": "Municipio Cordoba"
+                },
+                {
+                    "city_name": "Municipio Cardenas"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Ayacucho"
+                },
+                {
+                    "city_name": "Municipio Simon Rodriguez"
+                },
+                {
+                    "city_name": "Municipio Francisco de Miranda"
+                },
+                {
+                    "city_name": "Municipio Seboruco"
+                },
+                {
+                    "city_name": "Municipio Guasimos"
+                },
+                {
+                    "city_name": "Municipio Rafael Urdaneta"
+                },
+                {
+                    "city_name": "Municipio Samuel Dario Maldonado"
+                },
+                {
+                    "city_name": "Municipio San Judas Tadeo"
+                },
+                {
+                    "city_name": "Municipio Andres Bello"
+                },
+                {
+                    "city_name": "Municipio Antonio Romulo Costa"
+                },
+                {
+                    "city_name": "Municipio Fernandez Feo"
+                },
+                {
+                    "city_name": "Municipio Independencia"
+                },
+                {
+                    "city_name": "Municipio Libertad"
+                },
+                {
+                    "city_name": "Municipio Jose Maria Vargas"
+                },
+                {
+                    "city_name": "Municipio Torbes"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Sucre",
+            "cities": [
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Ribero"
+                },
+                {
+                    "city_name": "Municipio Montes"
+                },
+                {
+                    "city_name": "Municipio Mejia"
+                },
+                {
+                    "city_name": "Municipio Marino"
+                },
+                {
+                    "city_name": "Municipio Libertador"
+                },
+                {
+                    "city_name": "Municipio Bermudez"
+                },
+                {
+                    "city_name": "Municipio Benitez"
+                },
+                {
+                    "city_name": "Municipio Arismendi"
+                },
+                {
+                    "city_name": "Municipio Andres Eloy Blanco"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Cruz Salmeron Acosta"
+                },
+                {
+                    "city_name": "Municipio Cajigal"
+                },
+                {
+                    "city_name": "Municipio Andres Mata"
+                },
+                {
+                    "city_name": "Municipio Valdez"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Portuguesa",
+            "cities": [
+                {
+                    "city_name": "Municipio Turen"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Paez"
+                },
+                {
+                    "city_name": "Municipio Ospino"
+                },
+                {
+                    "city_name": "Municipio Guanarito"
+                },
+                {
+                    "city_name": "Municipio Guanare"
+                },
+                {
+                    "city_name": "Municipio Esteller"
+                },
+                {
+                    "city_name": "Municipio Araure"
+                },
+                {
+                    "city_name": "Municipio Santa Rosalia"
+                },
+                {
+                    "city_name": "Municipio Monsenor Jose Vicente de Unda"
+                },
+                {
+                    "city_name": "Municipio Papelon"
+                },
+                {
+                    "city_name": "Municipio San Rafael de Onoto"
+                },
+                {
+                    "city_name": "Municipio Agua Blanca"
+                },
+                {
+                    "city_name": "Municipio San Genaro de Boconoito"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Nueva Esparta",
+            "cities": [
+                {
+                    "city_name": "Municipio Villalba"
+                },
+                {
+                    "city_name": "Municipio Tubores"
+                },
+                {
+                    "city_name": "Municipio Peninsula de Macanao"
+                },
+                {
+                    "city_name": "Municipio Marino"
+                },
+                {
+                    "city_name": "Municipio Maneiro"
+                },
+                {
+                    "city_name": "Municipio Gomez"
+                },
+                {
+                    "city_name": "Municipio Diaz"
+                },
+                {
+                    "city_name": "Municipio Arismendi"
+                },
+                {
+                    "city_name": "Municipio Garcia"
+                },
+                {
+                    "city_name": "Municipio Antolin del Campo"
+                },
+                {
+                    "city_name": "Municipio Marcano"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Monagas",
+            "cities": [
+                {
+                    "city_name": "Municipio Sotillo"
+                },
+                {
+                    "city_name": "Municipio Piar"
+                },
+                {
+                    "city_name": "Municipio Maturin"
+                },
+                {
+                    "city_name": "Municipio Cedeno"
+                },
+                {
+                    "city_name": "Municipio Caripe"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Acosta"
+                },
+                {
+                    "city_name": "Municipio Ezequiel Zamora"
+                },
+                {
+                    "city_name": "Municipio Aguasay"
+                },
+                {
+                    "city_name": "Municipio Uracoa"
+                },
+                {
+                    "city_name": "Municipio Libertador"
+                },
+                {
+                    "city_name": "Municipio Punceres"
+                },
+                {
+                    "city_name": "Municipio Santa Barbara"
+                }
+            ]
+        },
+        {
+            "province_name": "Miranda",
+            "cities": [
+                {
+                    "city_name": "Municipio Zamora"
+                },
+                {
+                    "city_name": "Municipio Urdaneta"
+                },
+                {
+                    "city_name": "Municipio Plaza"
+                },
+                {
+                    "city_name": "Municipio Paz Castillo"
+                },
+                {
+                    "city_name": "Municipio Paez"
+                },
+                {
+                    "city_name": "Municipio Lander"
+                },
+                {
+                    "city_name": "Municipio Independencia"
+                },
+                {
+                    "city_name": "Municipio Guaicaipuro"
+                },
+                {
+                    "city_name": "Municipio Cristobal Rojas"
+                },
+                {
+                    "city_name": "Municipio Brion"
+                },
+                {
+                    "city_name": "Municipio Acevedo"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Chacao"
+                },
+                {
+                    "city_name": "Municipio Simon Bolivar"
+                },
+                {
+                    "city_name": "Municipio Buroz"
+                },
+                {
+                    "city_name": "Municipio El Hatillo"
+                },
+                {
+                    "city_name": "Municipio Los Salias"
+                },
+                {
+                    "city_name": "Municipio Andres Bello"
+                },
+                {
+                    "city_name": "Municipio Baruta"
+                },
+                {
+                    "city_name": "Municipio Carrizal"
+                },
+                {
+                    "city_name": "Municipio Pedro Gual"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Merida",
+            "cities": [
+                {
+                    "city_name": "Municipio Tovar"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Rivas Davila"
+                },
+                {
+                    "city_name": "Municipio Rangel"
+                },
+                {
+                    "city_name": "Municipio Miranda"
+                },
+                {
+                    "city_name": "Municipio Libertador"
+                },
+                {
+                    "city_name": "Municipio Justo Briceno"
+                },
+                {
+                    "city_name": "Municipio Campo Elias"
+                },
+                {
+                    "city_name": "Municipio Arzobispo Chacon"
+                },
+                {
+                    "city_name": "Municipio Andres Bello"
+                },
+                {
+                    "city_name": "Municipio Alberto Adriani"
+                },
+                {
+                    "city_name": "Municipio Padre Noguera"
+                },
+                {
+                    "city_name": "Municipio Santos Marquina"
+                },
+                {
+                    "city_name": "Municipio Zea"
+                },
+                {
+                    "city_name": "Municipio Obispo Ramos de Lora"
+                },
+                {
+                    "city_name": "Municipio Pueblo Llano"
+                },
+                {
+                    "city_name": "Municipio Tulio Febres Cordero"
+                },
+                {
+                    "city_name": "Municipio Guaraque"
+                },
+                {
+                    "city_name": "Municipio Aricagua"
+                },
+                {
+                    "city_name": "Municipio Julio Cesar Salas"
+                },
+                {
+                    "city_name": "Municipio Antonio Pinto Salinas"
+                },
+                {
+                    "city_name": "Municipio Caracciolo Parra Olmedo"
+                },
+                {
+                    "city_name": "Municipio Cardenal Quintero"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Lara",
+            "cities": [
+                {
+                    "city_name": "Municipio Urdaneta"
+                },
+                {
+                    "city_name": "Municipio Torres"
+                },
+                {
+                    "city_name": "Municipio Palavecino"
+                },
+                {
+                    "city_name": "Municipio Moran"
+                },
+                {
+                    "city_name": "Municipio Jimenez"
+                },
+                {
+                    "city_name": "Municipio Iribarren"
+                },
+                {
+                    "city_name": "Municipio Crespo"
+                },
+                {
+                    "city_name": "Municipio Simon Planas"
+                },
+                {
+                    "city_name": "Municipio Andres Eloy Blanco"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Guarico",
+            "cities": [
+                {
+                    "city_name": "Municipio Santa Maria de Ipire"
+                },
+                {
+                    "city_name": "Municipio Camaguan"
+                },
+                {
+                    "city_name": "Municipio San Jose de Guaribe"
+                },
+                {
+                    "city_name": "Municipio Leonardo Infante"
+                },
+                {
+                    "city_name": "Municipio Juan German Roscio"
+                },
+                {
+                    "city_name": "Municipio Chaguaramas"
+                },
+                {
+                    "city_name": "Municipio Jose Tadeo Monagas"
+                },
+                {
+                    "city_name": "Municipio Ortiz"
+                },
+                {
+                    "city_name": "Municipio Julian Mellado"
+                },
+                {
+                    "city_name": "Municipio Pedro Zaraza"
+                },
+                {
+                    "city_name": "Municipio Francisco de Miranda"
+                },
+                {
+                    "city_name": "Municipio El Socorro"
+                },
+                {
+                    "city_name": "Municipio San Geronimo de Guayabal"
+                },
+                {
+                    "city_name": "Municipio Las Mercedes"
+                },
+                {
+                    "city_name": "Municipio Jose Felix Ribas"
+                }
+            ]
+        },
+        {
+            "province_name": "Dependencias Federales",
+            "cities": []
+        },
+        {
+            "province_name": "Distrito Capital",
+            "cities": [
+                {
+                    "city_name": "Municipio Libertador"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Falcon",
+            "cities": [
+                {
+                    "city_name": "Municipio Zamora"
+                },
+                {
+                    "city_name": "Municipio Silva"
+                },
+                {
+                    "city_name": "Municipio Petit"
+                },
+                {
+                    "city_name": "Municipio Miranda"
+                },
+                {
+                    "city_name": "Municipio Mauroa"
+                },
+                {
+                    "city_name": "Municipio Federacion"
+                },
+                {
+                    "city_name": "Municipio Falcon"
+                },
+                {
+                    "city_name": "Municipio Democracia"
+                },
+                {
+                    "city_name": "Municipio Colina"
+                },
+                {
+                    "city_name": "Municipio Carirubana"
+                },
+                {
+                    "city_name": "Municipio Buchivacoa"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Acosta"
+                },
+                {
+                    "city_name": "Municipio Tocopero"
+                },
+                {
+                    "city_name": "Municipio Piritu"
+                },
+                {
+                    "city_name": "Municipio Dabajuro"
+                },
+                {
+                    "city_name": "Municipio Urumaco"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Jacura"
+                },
+                {
+                    "city_name": "Municipio Cacique Manaure"
+                },
+                {
+                    "city_name": "Municipio San Francisco"
+                },
+                {
+                    "city_name": "Municipio Monsenor Iturriza"
+                },
+                {
+                    "city_name": "Municipio Union"
+                },
+                {
+                    "city_name": "Municipio Los Taques"
+                },
+                {
+                    "city_name": "Municipio Palmasola"
+                }
+            ]
+        },
+        {
+            "province_name": "Delta Amacuro",
+            "cities": [
+                {
+                    "city_name": "Municipio Tucupita"
+                },
+                {
+                    "city_name": "Municipio Antonio Diaz"
+                },
+                {
+                    "city_name": "Municipio Pedernales"
+                },
+                {
+                    "city_name": "Municipio Casacoima"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Cojedes",
+            "cities": [
+                {
+                    "city_name": "Municipio Tinaco"
+                },
+                {
+                    "city_name": "Municipio San Carlos"
+                },
+                {
+                    "city_name": "Municipio Ricaurte"
+                },
+                {
+                    "city_name": "Municipio Girardot"
+                },
+                {
+                    "city_name": "Municipio Falcon"
+                },
+                {
+                    "city_name": "Municipio Anzoategui"
+                },
+                {
+                    "city_name": "Municipio Pao de San Juan Bautista"
+                },
+                {
+                    "city_name": "Municipio Romulo Gallegos"
+                },
+                {
+                    "city_name": "Municipio Lima Blanco"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Carabobo",
+            "cities": [
+                {
+                    "city_name": "Municipio Valencia"
+                },
+                {
+                    "city_name": "Municipio Puerto Cabello"
+                },
+                {
+                    "city_name": "Municipio Montalban"
+                },
+                {
+                    "city_name": "Municipio Guacara"
+                },
+                {
+                    "city_name": "Municipio Carlos Arvelo"
+                },
+                {
+                    "city_name": "Municipio Bejuma"
+                },
+                {
+                    "city_name": "Municipio San Joaquin"
+                },
+                {
+                    "city_name": "Municipio Juan Jose Mora"
+                },
+                {
+                    "city_name": "Municipio Miranda"
+                },
+                {
+                    "city_name": "Municipio Diego Ibarra"
+                },
+                {
+                    "city_name": "Municipio Libertador"
+                },
+                {
+                    "city_name": "Municipio Los Guayos"
+                },
+                {
+                    "city_name": "Municipio Naguanagua"
+                },
+                {
+                    "city_name": "Municipio San Diego"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Bolivar",
+            "cities": [
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio Roscio"
+                },
+                {
+                    "city_name": "Municipio Piar"
+                },
+                {
+                    "city_name": "Municipio Heres"
+                },
+                {
+                    "city_name": "Municipio Cedeno"
+                },
+                {
+                    "city_name": "Municipio Caroni"
+                },
+                {
+                    "city_name": "Municipio Gran Sabana"
+                },
+                {
+                    "city_name": "Municipio El Callao"
+                },
+                {
+                    "city_name": "Municipio Sifontes"
+                },
+                {
+                    "city_name": "Municipio Raul Leoni"
+                },
+                {
+                    "city_name": "Municipio Padre Pedro Chien"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Barinas",
+            "cities": [
+                {
+                    "city_name": "Municipio Sosa"
+                },
+                {
+                    "city_name": "Municipio Rojas"
+                },
+                {
+                    "city_name": "Municipio Pedraza"
+                },
+                {
+                    "city_name": "Municipio Obispos"
+                },
+                {
+                    "city_name": "Municipio Ezequiel Zamora"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Barinas"
+                },
+                {
+                    "city_name": "Municipio Arismendi"
+                },
+                {
+                    "city_name": "Municipio Andres Eloy Blanco"
+                },
+                {
+                    "city_name": "Municipio Antonio Jose de Sucre"
+                },
+                {
+                    "city_name": "Municipio Alberto Arvelo Torrealba"
+                },
+                {
+                    "city_name": "Municipio Cruz Paredes"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Aragua",
+            "cities": [
+                {
+                    "city_name": "Municipio Zamora"
+                },
+                {
+                    "city_name": "Municipio Urdaneta"
+                },
+                {
+                    "city_name": "Municipio Sucre"
+                },
+                {
+                    "city_name": "Municipio San Sebastian"
+                },
+                {
+                    "city_name": "Municipio San Casimiro"
+                },
+                {
+                    "city_name": "Municipio Girardot"
+                },
+                {
+                    "city_name": "Municipio Santos Michelena"
+                },
+                {
+                    "city_name": "Municipio Jose Rafael Revenga"
+                },
+                {
+                    "city_name": "Municipio Jose Felix Ribas"
+                },
+                {
+                    "city_name": "Municipio Santiago Marino"
+                },
+                {
+                    "city_name": "Municipio Bolivar"
+                },
+                {
+                    "city_name": "Municipio Jose Angel Lamas"
+                },
+                {
+                    "city_name": "Municipio Ocumare de La Costa de Oro"
+                },
+                {
+                    "city_name": "Municipio Libertador"
+                },
+                {
+                    "city_name": "Municipio Camatagua"
+                },
+                {
+                    "city_name": "Municipio Mario Briceno Iragorry"
+                },
+                {
+                    "city_name": "Municipio Tovar"
+                },
+                {
+                    "city_name": "Municipio Francisco Linares Alcantara"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Apure",
+            "cities": [
+                {
+                    "city_name": "Municipio San Fernando"
+                },
+                {
+                    "city_name": "Municipio Romulo Gallegos"
+                },
+                {
+                    "city_name": "Municipio Pedro Camejo"
+                },
+                {
+                    "city_name": "Municipio Paez"
+                },
+                {
+                    "city_name": "Municipio Munoz"
+                },
+                {
+                    "city_name": "Municipio Achaguas"
+                },
+                {
+                    "city_name": "Municipio Biruaca"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Anzoategui",
+            "cities": [
+                {
+                    "city_name": "Municipio Simon Rodriguez"
+                },
+                {
+                    "city_name": "Municipio Libertad"
+                },
+                {
+                    "city_name": "Municipio Independencia"
+                },
+                {
+                    "city_name": "Municipio Aragua"
+                },
+                {
+                    "city_name": "Municipio Anaco"
+                },
+                {
+                    "city_name": "Municipio Fernando de Penalver"
+                },
+                {
+                    "city_name": "Municipio Piritu"
+                },
+                {
+                    "city_name": "Municipio Francisco de Miranda"
+                },
+                {
+                    "city_name": "Municipio Turistico Diego Bautista Urbaneja"
+                },
+                {
+                    "city_name": "Municipio Francisco del Carmen Carvajal"
+                },
+                {
+                    "city_name": "Municipio Juan Antonio Sotillo"
+                },
+                {
+                    "city_name": "Municipio San Juan de Capistrano"
+                },
+                {
+                    "city_name": "Municipio Jose Gregorio Monagas"
+                },
+                {
+                    "city_name": "Municipio Juan Manuel Cajigal"
+                },
+                {
+                    "city_name": "Municipio Manuel Ezequiel Bruzual"
+                },
+                {
+                    "city_name": "Municipio Guanta"
+                },
+                {
+                    "city_name": "Municipio Pedro Maria Freites"
+                },
+                {
+                    "city_name": "Municipio San Jose de Guanipa"
+                },
+                {
+                    "city_name": "Municipio Santa Ana"
+                },
+                {
+                    "city_name": "Municipio Simon Bolivar"
+                },
+                {
+                    "city_name": "Municipio Sir Arthur Mc Gregor"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Amazonas",
+            "cities": [
+                {
+                    "city_name": "Municipio Autonomo Rio Negro"
+                },
+                {
+                    "city_name": "Municipio Autonomo Atures"
+                },
+                {
+                    "city_name": "Municipio Autonomo Atabapo"
+                },
+                {
+                    "city_name": "Municipio Autonomo Alto Orinoco"
+                },
+                {
+                    "city_name": "Municipio Autonomo Autana"
+                },
+                {
+                    "city_name": "Municipio Autonomo Manapiare"
+                },
+                {
+                    "city_name": "Municipio Autonomo Maroa"
+                }
+            ]
+        },
+        {
+            "province_name": "Estado Vargas",
+            "cities": [
+                {
+                    "city_name": "Municipio Vargas"
+                }
+            ]
+        }
+    ]
+}

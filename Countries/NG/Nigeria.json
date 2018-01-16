@@ -1,0 +1,2546 @@
+{
+    "country_name": "Nigeria",
+    "country_id": "NG",
+    "provinces": [
+        {
+            "province_name": "Sokoto State",
+            "cities": [
+                {
+                    "city_name": "Bodinga"
+                },
+                {
+                    "city_name": "Sokoto North"
+                },
+                {
+                    "city_name": "Sokoto South"
+                },
+                {
+                    "city_name": "Yabo"
+                },
+                {
+                    "city_name": "Wamako"
+                },
+                {
+                    "city_name": "Gudu"
+                },
+                {
+                    "city_name": "Binji"
+                },
+                {
+                    "city_name": "Tangaza"
+                },
+                {
+                    "city_name": "Gwadabawa"
+                },
+                {
+                    "city_name": "Gada"
+                },
+                {
+                    "city_name": "Sabon Birni"
+                },
+                {
+                    "city_name": "Goronyo"
+                },
+                {
+                    "city_name": "Isa"
+                },
+                {
+                    "city_name": "Wurno"
+                },
+                {
+                    "city_name": "Kware"
+                },
+                {
+                    "city_name": "Rabah"
+                },
+                {
+                    "city_name": "Silame"
+                },
+                {
+                    "city_name": "Dange-Shuni"
+                },
+                {
+                    "city_name": "Tureta"
+                },
+                {
+                    "city_name": "Shagari"
+                },
+                {
+                    "city_name": "Tambuwal"
+                },
+                {
+                    "city_name": "Kebbe"
+                },
+                {
+                    "city_name": "Illela"
+                }
+            ]
+        },
+        {
+            "province_name": "Rivers State",
+            "cities": [
+                {
+                    "city_name": "Ahoada West"
+                },
+                {
+                    "city_name": "Akuku Toru"
+                },
+                {
+                    "city_name": "Andoni"
+                },
+                {
+                    "city_name": "Etche"
+                },
+                {
+                    "city_name": "Ogba/Egbema/Ndoni"
+                },
+                {
+                    "city_name": "Omumma"
+                },
+                {
+                    "city_name": "Oyigbo"
+                },
+                {
+                    "city_name": "Tai"
+                },
+                {
+                    "city_name": "Gokana"
+                },
+                {
+                    "city_name": "Ikwerre"
+                },
+                {
+                    "city_name": "Ogu Bolo"
+                },
+                {
+                    "city_name": "Port-Harcourt"
+                },
+                {
+                    "city_name": "Obio/Akpor"
+                },
+                {
+                    "city_name": "Khana"
+                },
+                {
+                    "city_name": "Ahoada East"
+                },
+                {
+                    "city_name": "Abua/Odual"
+                },
+                {
+                    "city_name": "Emuoha"
+                },
+                {
+                    "city_name": "Degema"
+                },
+                {
+                    "city_name": "Bonny"
+                },
+                {
+                    "city_name": "Eleme"
+                },
+                {
+                    "city_name": "Asari-Toru"
+                },
+                {
+                    "city_name": "Okrika"
+                },
+                {
+                    "city_name": "Opobo/Nkoro"
+                },
+                {
+                    "city_name": "Ogu/Bolo Local Government Area"
+                }
+            ]
+        },
+        {
+            "province_name": "Plateau State",
+            "cities": [
+                {
+                    "city_name": "Pankshin"
+                },
+                {
+                    "city_name": "Shendam"
+                },
+                {
+                    "city_name": "Kanam"
+                },
+                {
+                    "city_name": "Kanke"
+                },
+                {
+                    "city_name": "Langtang North"
+                },
+                {
+                    "city_name": "Wase"
+                },
+                {
+                    "city_name": "Mangu"
+                },
+                {
+                    "city_name": "Bokkos"
+                },
+                {
+                    "city_name": "Barkin Ladi"
+                },
+                {
+                    "city_name": "Riyom"
+                },
+                {
+                    "city_name": "Jos South"
+                },
+                {
+                    "city_name": "Jos North"
+                },
+                {
+                    "city_name": "Jos East"
+                },
+                {
+                    "city_name": "Bassa"
+                },
+                {
+                    "city_name": "Mikang"
+                },
+                {
+                    "city_name": "Qua'An Pan"
+                },
+                {
+                    "city_name": "Langtang South"
+                }
+            ]
+        },
+        {
+            "province_name": "Oyo State",
+            "cities": [
+                {
+                    "city_name": "Iwajowa"
+                },
+                {
+                    "city_name": "Olorunsogo"
+                },
+                {
+                    "city_name": "Oluyole"
+                },
+                {
+                    "city_name": "Ona Ara"
+                },
+                {
+                    "city_name": "Orelope"
+                },
+                {
+                    "city_name": "Ibarapa East"
+                },
+                {
+                    "city_name": "Ibarapa North"
+                },
+                {
+                    "city_name": "Ido"
+                },
+                {
+                    "city_name": "Kajola"
+                },
+                {
+                    "city_name": "Lagelu"
+                },
+                {
+                    "city_name": "Ori Ire"
+                },
+                {
+                    "city_name": "Oyo East"
+                },
+                {
+                    "city_name": "Oyo West"
+                },
+                {
+                    "city_name": "Saki West"
+                },
+                {
+                    "city_name": "Surulere"
+                },
+                {
+                    "city_name": "Ibadan North"
+                },
+                {
+                    "city_name": "Akinyele"
+                },
+                {
+                    "city_name": "Afijio"
+                },
+                {
+                    "city_name": "Ibadan South West"
+                },
+                {
+                    "city_name": "Ibadan South East"
+                },
+                {
+                    "city_name": "Ibadan North East"
+                },
+                {
+                    "city_name": "Irepo"
+                },
+                {
+                    "city_name": "Ibadan North West"
+                },
+                {
+                    "city_name": "Saki East"
+                },
+                {
+                    "city_name": "Atisbo"
+                },
+                {
+                    "city_name": "Atiba"
+                },
+                {
+                    "city_name": "Ogbomosho North"
+                },
+                {
+                    "city_name": "Ogo Oluwa"
+                },
+                {
+                    "city_name": "Itesiwaju"
+                },
+                {
+                    "city_name": "Iseyin"
+                },
+                {
+                    "city_name": "Ibarapa Central"
+                },
+                {
+                    "city_name": "Egbeda"
+                },
+                {
+                    "city_name": "Ogbomosho South"
+                }
+            ]
+        },
+        {
+            "province_name": "Ondo State",
+            "cities": [
+                {
+                    "city_name": "Odigbo"
+                },
+                {
+                    "city_name": "Idanre"
+                },
+                {
+                    "city_name": "Ilaje"
+                },
+                {
+                    "city_name": "Ese Odo"
+                },
+                {
+                    "city_name": "Okitipupa"
+                },
+                {
+                    "city_name": "Irele"
+                },
+                {
+                    "city_name": "Ondo West"
+                },
+                {
+                    "city_name": "Ondo East"
+                },
+                {
+                    "city_name": "Ile Oluji/Okeigbo"
+                },
+                {
+                    "city_name": "Ifedore"
+                },
+                {
+                    "city_name": "Akure South"
+                },
+                {
+                    "city_name": "Akure North"
+                },
+                {
+                    "city_name": "Owo"
+                },
+                {
+                    "city_name": "Ose"
+                },
+                {
+                    "city_name": "Akoko South West"
+                },
+                {
+                    "city_name": "Akoko South East"
+                },
+                {
+                    "city_name": "Akoko North East"
+                },
+                {
+                    "city_name": "Akoko North West"
+                }
+            ]
+        },
+        {
+            "province_name": "Ogun State",
+            "cities": [
+                {
+                    "city_name": "Shagamu"
+                },
+                {
+                    "city_name": "Ikenne"
+                },
+                {
+                    "city_name": "Odogbolu"
+                },
+                {
+                    "city_name": "Ijebu Ode"
+                },
+                {
+                    "city_name": "Ijebu East"
+                },
+                {
+                    "city_name": "Obafemi Owode"
+                },
+                {
+                    "city_name": "Imeko Afon"
+                },
+                {
+                    "city_name": "Egbado North"
+                },
+                {
+                    "city_name": "Egbado South"
+                },
+                {
+                    "city_name": "Ipokia"
+                },
+                {
+                    "city_name": "Ado Odo/Ota"
+                },
+                {
+                    "city_name": "Ifo"
+                },
+                {
+                    "city_name": "Odeda"
+                },
+                {
+                    "city_name": "Abeokuta North"
+                },
+                {
+                    "city_name": "Abeokuta South"
+                },
+                {
+                    "city_name": "Ewekoro"
+                },
+                {
+                    "city_name": "Remo North"
+                },
+                {
+                    "city_name": "Ijebu North"
+                },
+                {
+                    "city_name": "Ijebu North East"
+                },
+                {
+                    "city_name": "Ogun Waterside"
+                }
+            ]
+        },
+        {
+            "province_name": "Niger State",
+            "cities": [
+                {
+                    "city_name": "Katcha"
+                },
+                {
+                    "city_name": "Magama"
+                },
+                {
+                    "city_name": "Mokwa"
+                },
+                {
+                    "city_name": "Rafi"
+                },
+                {
+                    "city_name": "Agaie"
+                },
+                {
+                    "city_name": "Agwara"
+                },
+                {
+                    "city_name": "Bida"
+                },
+                {
+                    "city_name": "Borgu"
+                },
+                {
+                    "city_name": "Chanchaga"
+                },
+                {
+                    "city_name": "Edati"
+                },
+                {
+                    "city_name": "Gbako"
+                },
+                {
+                    "city_name": "Gurara"
+                },
+                {
+                    "city_name": "Lavun"
+                },
+                {
+                    "city_name": "Muya"
+                },
+                {
+                    "city_name": "Paikoro"
+                },
+                {
+                    "city_name": "Tafa"
+                },
+                {
+                    "city_name": "Rijau"
+                },
+                {
+                    "city_name": "Mariga"
+                },
+                {
+                    "city_name": "Kontagora"
+                },
+                {
+                    "city_name": "Shiroro"
+                },
+                {
+                    "city_name": "Suleja"
+                },
+                {
+                    "city_name": "Mashegu"
+                },
+                {
+                    "city_name": "Wushishi"
+                },
+                {
+                    "city_name": "Bosso"
+                },
+                {
+                    "city_name": "Lapai"
+                }
+            ]
+        },
+        {
+            "province_name": "Lagos State",
+            "cities": [
+                {
+                    "city_name": "Ikorodu"
+                },
+                {
+                    "city_name": "Kosofe"
+                },
+                {
+                    "city_name": "Shomolu"
+                },
+                {
+                    "city_name": "Apapa"
+                },
+                {
+                    "city_name": "Amuwo Odofin"
+                },
+                {
+                    "city_name": "Ojo"
+                },
+                {
+                    "city_name": "Badagry"
+                },
+                {
+                    "city_name": "Agege"
+                },
+                {
+                    "city_name": "Alimosho"
+                },
+                {
+                    "city_name": "Ifako/Ijaye"
+                },
+                {
+                    "city_name": "Epe"
+                },
+                {
+                    "city_name": "Ibeju Lekki"
+                },
+                {
+                    "city_name": "Ikeja"
+                },
+                {
+                    "city_name": "Mushin"
+                },
+                {
+                    "city_name": "Oshodi/Isolo"
+                },
+                {
+                    "city_name": "Eti Osa"
+                },
+                {
+                    "city_name": "Surulere"
+                },
+                {
+                    "city_name": "Ajeromi/Ifelodun"
+                },
+                {
+                    "city_name": "Oshodi-Isolo Local Government Area"
+                },
+                {
+                    "city_name": "Lagos Mainland Local Government Area"
+                },
+                {
+                    "city_name": "Ifako-Ijaiye Local Government Area"
+                },
+                {
+                    "city_name": "Lagos Island Local Government Area"
+                }
+            ]
+        },
+        {
+            "province_name": "Kwara State",
+            "cities": [
+                {
+                    "city_name": "Ifelodun"
+                },
+                {
+                    "city_name": "Oyun"
+                },
+                {
+                    "city_name": "Ilorin West"
+                },
+                {
+                    "city_name": "Kaiama"
+                },
+                {
+                    "city_name": "Asa"
+                },
+                {
+                    "city_name": "Baruten"
+                },
+                {
+                    "city_name": "Pategi"
+                },
+                {
+                    "city_name": "Moro"
+                },
+                {
+                    "city_name": "Ilorin East"
+                },
+                {
+                    "city_name": "Ilorin South"
+                },
+                {
+                    "city_name": "Offa"
+                },
+                {
+                    "city_name": "Irepodun"
+                },
+                {
+                    "city_name": "Isin"
+                },
+                {
+                    "city_name": "Oke Ero"
+                },
+                {
+                    "city_name": "Ekiti"
+                },
+                {
+                    "city_name": "Edu"
+                }
+            ]
+        },
+        {
+            "province_name": "Katsina State",
+            "cities": [
+                {
+                    "city_name": "Kankia"
+                },
+                {
+                    "city_name": "Mai'Adua"
+                },
+                {
+                    "city_name": "Sabuwa"
+                },
+                {
+                    "city_name": "Jibia"
+                },
+                {
+                    "city_name": "Batsari"
+                },
+                {
+                    "city_name": "Katsina"
+                },
+                {
+                    "city_name": "Kaita"
+                },
+                {
+                    "city_name": "Batagarawa"
+                },
+                {
+                    "city_name": "Rimi"
+                },
+                {
+                    "city_name": "Kurfi"
+                },
+                {
+                    "city_name": "Bindawa"
+                },
+                {
+                    "city_name": "Mani"
+                },
+                {
+                    "city_name": "Mashi"
+                },
+                {
+                    "city_name": "Daura"
+                },
+                {
+                    "city_name": "Dutsi"
+                },
+                {
+                    "city_name": "Sandamu"
+                },
+                {
+                    "city_name": "Zango"
+                },
+                {
+                    "city_name": "Baure"
+                },
+                {
+                    "city_name": "Ingawa"
+                },
+                {
+                    "city_name": "Kusada"
+                },
+                {
+                    "city_name": "Charanchi"
+                },
+                {
+                    "city_name": "Dutsin Ma"
+                },
+                {
+                    "city_name": "Safana"
+                },
+                {
+                    "city_name": "Dan Musa"
+                },
+                {
+                    "city_name": "Matazu"
+                },
+                {
+                    "city_name": "Musawa"
+                },
+                {
+                    "city_name": "Kankara"
+                },
+                {
+                    "city_name": "Malumfashi"
+                },
+                {
+                    "city_name": "Kafur"
+                },
+                {
+                    "city_name": "Bakori"
+                },
+                {
+                    "city_name": "Faskari"
+                },
+                {
+                    "city_name": "Dandume"
+                },
+                {
+                    "city_name": "Funtua"
+                },
+                {
+                    "city_name": "Danja"
+                }
+            ]
+        },
+        {
+            "province_name": "Kano State",
+            "cities": [
+                {
+                    "city_name": "Tofa"
+                },
+                {
+                    "city_name": "Warawa"
+                },
+                {
+                    "city_name": "Kiru"
+                },
+                {
+                    "city_name": "Bebeji"
+                },
+                {
+                    "city_name": "Garum Mallam"
+                },
+                {
+                    "city_name": "Kura"
+                },
+                {
+                    "city_name": "Dawakin Kudu"
+                },
+                {
+                    "city_name": "Kumbotso"
+                },
+                {
+                    "city_name": "Fagge"
+                },
+                {
+                    "city_name": "Minjibir"
+                },
+                {
+                    "city_name": "Ungogo"
+                },
+                {
+                    "city_name": "Makoda"
+                },
+                {
+                    "city_name": "Kunchi"
+                },
+                {
+                    "city_name": "Rimin Gado"
+                },
+                {
+                    "city_name": "Rogo"
+                },
+                {
+                    "city_name": "Wudil"
+                },
+                {
+                    "city_name": "Shanono"
+                },
+                {
+                    "city_name": "Takai"
+                },
+                {
+                    "city_name": "Bunkure"
+                },
+                {
+                    "city_name": "Dambatta"
+                },
+                {
+                    "city_name": "Gabasawa"
+                },
+                {
+                    "city_name": "Bichi"
+                },
+                {
+                    "city_name": "Tsanyawa"
+                },
+                {
+                    "city_name": "Bagwai"
+                },
+                {
+                    "city_name": "Gwarzo"
+                },
+                {
+                    "city_name": "Kabo"
+                },
+                {
+                    "city_name": "Dawakin Tofa"
+                },
+                {
+                    "city_name": "Gezawa"
+                },
+                {
+                    "city_name": "Madobi"
+                },
+                {
+                    "city_name": "Ajingi"
+                },
+                {
+                    "city_name": "Gaya"
+                },
+                {
+                    "city_name": "Albasu"
+                },
+                {
+                    "city_name": "Karaye"
+                },
+                {
+                    "city_name": "Rano"
+                },
+                {
+                    "city_name": "Kibiya"
+                },
+                {
+                    "city_name": "Garko"
+                },
+                {
+                    "city_name": "Sumaila"
+                },
+                {
+                    "city_name": "Tudun Wada"
+                },
+                {
+                    "city_name": "Doguwa"
+                },
+                {
+                    "city_name": "Tarauni"
+                },
+                {
+                    "city_name": "Nassarawa"
+                },
+                {
+                    "city_name": "Dala"
+                },
+                {
+                    "city_name": "Gwale"
+                },
+                {
+                    "city_name": "Kano Municipal"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaduna State",
+            "cities": [
+                {
+                    "city_name": "Kagarko"
+                },
+                {
+                    "city_name": "Kachia"
+                },
+                {
+                    "city_name": "Chikun"
+                },
+                {
+                    "city_name": "Igabi"
+                },
+                {
+                    "city_name": "Kaduna South"
+                },
+                {
+                    "city_name": "Makarfi"
+                },
+                {
+                    "city_name": "Kaduna North"
+                },
+                {
+                    "city_name": "Zaria"
+                },
+                {
+                    "city_name": "Sabon Gari"
+                },
+                {
+                    "city_name": "Kudan"
+                },
+                {
+                    "city_name": "Birnin Gwari"
+                },
+                {
+                    "city_name": "Sanga"
+                },
+                {
+                    "city_name": "Soba"
+                },
+                {
+                    "city_name": "Giwa"
+                },
+                {
+                    "city_name": "Zangon Kataf"
+                },
+                {
+                    "city_name": "Kaura"
+                },
+                {
+                    "city_name": "Jema'A"
+                },
+                {
+                    "city_name": "Lere"
+                },
+                {
+                    "city_name": "Kauru"
+                },
+                {
+                    "city_name": "Kajuru"
+                },
+                {
+                    "city_name": "Ikara"
+                },
+                {
+                    "city_name": "Kuban"
+                },
+                {
+                    "city_name": "Jaba"
+                }
+            ]
+        },
+        {
+            "province_name": "Imo State",
+            "cities": [
+                {
+                    "city_name": "Aboh-Mbaise"
+                },
+                {
+                    "city_name": "Ahiazu-Mbaise"
+                },
+                {
+                    "city_name": "Ehime -Mbano"
+                },
+                {
+                    "city_name": "Ihitte/Uboma"
+                },
+                {
+                    "city_name": "Isiala Mbano"
+                },
+                {
+                    "city_name": "Mbatoli"
+                },
+                {
+                    "city_name": "Njaba"
+                },
+                {
+                    "city_name": "Obowo"
+                },
+                {
+                    "city_name": "Ohaji/Egbema"
+                },
+                {
+                    "city_name": "Okigwe"
+                },
+                {
+                    "city_name": "Orsu"
+                },
+                {
+                    "city_name": "Oru East"
+                },
+                {
+                    "city_name": "Oru West"
+                },
+                {
+                    "city_name": "Owerri West"
+                },
+                {
+                    "city_name": "Unuimo"
+                },
+                {
+                    "city_name": "Oguta"
+                },
+                {
+                    "city_name": "Ngor-Okpala"
+                },
+                {
+                    "city_name": "Owerri Municipal"
+                },
+                {
+                    "city_name": "Ikeduru"
+                },
+                {
+                    "city_name": "Ezinihitte"
+                },
+                {
+                    "city_name": "Orlu"
+                },
+                {
+                    "city_name": "Ideato North"
+                },
+                {
+                    "city_name": "Ideato South"
+                },
+                {
+                    "city_name": "Isu"
+                },
+                {
+                    "city_name": "Nkwerre"
+                },
+                {
+                    "city_name": "Nwangele"
+                },
+                {
+                    "city_name": "Owerri North"
+                },
+                {
+                    "city_name": "Mbaitoli Local Government Area"
+                }
+            ]
+        },
+        {
+            "province_name": "Cross River State",
+            "cities": [
+                {
+                    "city_name": "Boki"
+                },
+                {
+                    "city_name": "Ikom"
+                },
+                {
+                    "city_name": "Ogoja"
+                },
+                {
+                    "city_name": "Obubra"
+                },
+                {
+                    "city_name": "Abi"
+                },
+                {
+                    "city_name": "Obudu"
+                },
+                {
+                    "city_name": "Yala"
+                },
+                {
+                    "city_name": "Bekwarra"
+                },
+                {
+                    "city_name": "Obanliku"
+                },
+                {
+                    "city_name": "Etung"
+                },
+                {
+                    "city_name": "Yakurr"
+                },
+                {
+                    "city_name": "Biase"
+                },
+                {
+                    "city_name": "Akamkpa"
+                },
+                {
+                    "city_name": "Odukpani"
+                },
+                {
+                    "city_name": "Calabar Municipal"
+                },
+                {
+                    "city_name": "Calabar South"
+                },
+                {
+                    "city_name": "Akpabuyo"
+                },
+                {
+                    "city_name": "Bakassi"
+                }
+            ]
+        },
+        {
+            "province_name": "Borno State",
+            "cities": [
+                {
+                    "city_name": "Abadam"
+                },
+                {
+                    "city_name": "Mobbar"
+                },
+                {
+                    "city_name": "Kukawa"
+                },
+                {
+                    "city_name": "Guzamala"
+                },
+                {
+                    "city_name": "Gubio"
+                },
+                {
+                    "city_name": "Nganzai"
+                },
+                {
+                    "city_name": "Monguno"
+                },
+                {
+                    "city_name": "Magumeri"
+                },
+                {
+                    "city_name": "Marte"
+                },
+                {
+                    "city_name": "Ngala"
+                },
+                {
+                    "city_name": "Kala-Balge"
+                },
+                {
+                    "city_name": "Mafa"
+                },
+                {
+                    "city_name": "Dikwa"
+                },
+                {
+                    "city_name": "Jere"
+                },
+                {
+                    "city_name": "Konduga"
+                },
+                {
+                    "city_name": "Kaga"
+                },
+                {
+                    "city_name": "Bama"
+                },
+                {
+                    "city_name": "Gwoza"
+                },
+                {
+                    "city_name": "Damboa"
+                },
+                {
+                    "city_name": "Chibok"
+                },
+                {
+                    "city_name": "Askira-Uba"
+                },
+                {
+                    "city_name": "Biu"
+                },
+                {
+                    "city_name": "Hawul"
+                },
+                {
+                    "city_name": "Bayo"
+                },
+                {
+                    "city_name": "Shani"
+                },
+                {
+                    "city_name": "Kwaya Kusar"
+                },
+                {
+                    "city_name": "Maiduguri"
+                }
+            ]
+        },
+        {
+            "province_name": "Benue State",
+            "cities": [
+                {
+                    "city_name": "Guma"
+                },
+                {
+                    "city_name": "Gwer East"
+                },
+                {
+                    "city_name": "Logo"
+                },
+                {
+                    "city_name": "Ogbadibo"
+                },
+                {
+                    "city_name": "Vandeikya"
+                },
+                {
+                    "city_name": "Bukuru"
+                },
+                {
+                    "city_name": "Gboko"
+                },
+                {
+                    "city_name": "Kwande"
+                },
+                {
+                    "city_name": "Agatu"
+                },
+                {
+                    "city_name": "Gwer West"
+                },
+                {
+                    "city_name": "Konshisha"
+                },
+                {
+                    "city_name": "Ushongo"
+                },
+                {
+                    "city_name": "Markurdi"
+                },
+                {
+                    "city_name": "Oturkpo"
+                },
+                {
+                    "city_name": "Ohimini"
+                },
+                {
+                    "city_name": "Okpokwu"
+                },
+                {
+                    "city_name": "Katsina-Ala"
+                },
+                {
+                    "city_name": "Apa"
+                },
+                {
+                    "city_name": "Tarka"
+                },
+                {
+                    "city_name": "Ado"
+                },
+                {
+                    "city_name": "Obi"
+                },
+                {
+                    "city_name": "Oju"
+                },
+                {
+                    "city_name": "Ukum"
+                },
+                {
+                    "city_name": "Makurdi Local Government Area"
+                },
+                {
+                    "city_name": "Buruku Local Government Area"
+                }
+            ]
+        },
+        {
+            "province_name": "Bauchi State",
+            "cities": [
+                {
+                    "city_name": "Bauchi"
+                },
+                {
+                    "city_name": "Bogoro"
+                },
+                {
+                    "city_name": "Darazo"
+                },
+                {
+                    "city_name": "Misau"
+                },
+                {
+                    "city_name": "Ningi"
+                },
+                {
+                    "city_name": "Warji"
+                },
+                {
+                    "city_name": "Toro"
+                },
+                {
+                    "city_name": "Dass"
+                },
+                {
+                    "city_name": "Ganjuwa"
+                },
+                {
+                    "city_name": "Giade"
+                },
+                {
+                    "city_name": "Shira"
+                },
+                {
+                    "city_name": "Damban"
+                },
+                {
+                    "city_name": "Jama'Are"
+                },
+                {
+                    "city_name": "Katagum"
+                },
+                {
+                    "city_name": "Itas/Gadau"
+                },
+                {
+                    "city_name": "Zaki"
+                },
+                {
+                    "city_name": "Gamawa"
+                },
+                {
+                    "city_name": "Kirfi"
+                },
+                {
+                    "city_name": "Alkaleri"
+                },
+                {
+                    "city_name": "Tafawa-Balewa"
+                }
+            ]
+        },
+        {
+            "province_name": "Anambra State",
+            "cities": [
+                {
+                    "city_name": "Anambra East"
+                },
+                {
+                    "city_name": "Anaocha"
+                },
+                {
+                    "city_name": "Awka North"
+                },
+                {
+                    "city_name": "Awka South"
+                },
+                {
+                    "city_name": "Anambra West"
+                },
+                {
+                    "city_name": "Idemili North"
+                },
+                {
+                    "city_name": "Idemili South"
+                },
+                {
+                    "city_name": "Njikoka"
+                },
+                {
+                    "city_name": "Nnewi South"
+                },
+                {
+                    "city_name": "Ogbaru"
+                },
+                {
+                    "city_name": "Orumba North"
+                },
+                {
+                    "city_name": "Orumba South"
+                },
+                {
+                    "city_name": "Oyi"
+                },
+                {
+                    "city_name": "Onitsha North"
+                },
+                {
+                    "city_name": "Dunukofia"
+                },
+                {
+                    "city_name": "Ayamelum"
+                },
+                {
+                    "city_name": "Aguata"
+                },
+                {
+                    "city_name": "Ihiala"
+                },
+                {
+                    "city_name": "Nnewi North"
+                },
+                {
+                    "city_name": "Ekwusigo"
+                },
+                {
+                    "city_name": "Onitsha South"
+                }
+            ]
+        },
+        {
+            "province_name": "Akwa Ibom State",
+            "cities": [
+                {
+                    "city_name": "Esit Eket"
+                },
+                {
+                    "city_name": "Mkpat Enin"
+                },
+                {
+                    "city_name": "Oruk Anam"
+                },
+                {
+                    "city_name": "Eastern Obolo"
+                },
+                {
+                    "city_name": "Nsit Atai"
+                },
+                {
+                    "city_name": "Nsit Ubium"
+                },
+                {
+                    "city_name": "Onna"
+                },
+                {
+                    "city_name": "Ini"
+                },
+                {
+                    "city_name": "Obot Akara"
+                },
+                {
+                    "city_name": "Ikono"
+                },
+                {
+                    "city_name": "Ikot Ekpene"
+                },
+                {
+                    "city_name": "Ibiono Ibom"
+                },
+                {
+                    "city_name": "Itu"
+                },
+                {
+                    "city_name": "Essien Udim"
+                },
+                {
+                    "city_name": "Ika"
+                },
+                {
+                    "city_name": "Etim Ekpo"
+                },
+                {
+                    "city_name": "Uyo"
+                },
+                {
+                    "city_name": "Uruan"
+                },
+                {
+                    "city_name": "Ibesikpo Asutan"
+                },
+                {
+                    "city_name": "Abak"
+                },
+                {
+                    "city_name": "Ukanafun"
+                },
+                {
+                    "city_name": "Nsit Ibom"
+                },
+                {
+                    "city_name": "Etinan"
+                },
+                {
+                    "city_name": "Ikot Abasi"
+                },
+                {
+                    "city_name": "Ibeno"
+                },
+                {
+                    "city_name": "Mbo"
+                },
+                {
+                    "city_name": "Eket"
+                },
+                {
+                    "city_name": "Udung Uko"
+                },
+                {
+                    "city_name": "Urue Offong/Oruko"
+                },
+                {
+                    "city_name": "Okobo"
+                },
+                {
+                    "city_name": "Oron"
+                }
+            ]
+        },
+        {
+            "province_name": "Federal Capital Territory",
+            "cities": [
+                {
+                    "city_name": "Bwari"
+                },
+                {
+                    "city_name": "Gwagwalada"
+                },
+                {
+                    "city_name": "Abaji"
+                },
+                {
+                    "city_name": "Kwali"
+                },
+                {
+                    "city_name": "Kuje"
+                },
+                {
+                    "city_name": "Municipal Area Council"
+                }
+            ]
+        },
+        {
+            "province_name": "Abia State",
+            "cities": [
+                {
+                    "city_name": "Aba North"
+                },
+                {
+                    "city_name": "Aba South"
+                },
+                {
+                    "city_name": "Ikwuano"
+                },
+                {
+                    "city_name": "Ukwa East"
+                },
+                {
+                    "city_name": "Ohafia"
+                },
+                {
+                    "city_name": "Isiala-Ngwa South"
+                },
+                {
+                    "city_name": "Ugwunagbo"
+                },
+                {
+                    "city_name": "Ukwa West"
+                },
+                {
+                    "city_name": "Umuahia South"
+                },
+                {
+                    "city_name": "Isuikwuato"
+                },
+                {
+                    "city_name": "Umu-Nneochi"
+                },
+                {
+                    "city_name": "Umuahia North"
+                },
+                {
+                    "city_name": "Isiala-Ngwa North"
+                },
+                {
+                    "city_name": "Obi Nwga"
+                },
+                {
+                    "city_name": "Bende"
+                },
+                {
+                    "city_name": "Arochukwu"
+                },
+                {
+                    "city_name": "Osisioma Ngwa"
+                },
+                {
+                    "city_name": "Isiala Ngwa North Local Government Area"
+                },
+                {
+                    "city_name": "Isiala Ngwa South Local Government Area"
+                }
+            ]
+        },
+        {
+            "province_name": "Delta State",
+            "cities": [
+                {
+                    "city_name": "Aniocha South"
+                },
+                {
+                    "city_name": "Ethiope West"
+                },
+                {
+                    "city_name": "Ethiope East"
+                },
+                {
+                    "city_name": "Ika North East"
+                },
+                {
+                    "city_name": "Ika South"
+                },
+                {
+                    "city_name": "Isoko North"
+                },
+                {
+                    "city_name": "Isoko South"
+                },
+                {
+                    "city_name": "Ndokwa East"
+                },
+                {
+                    "city_name": "Ndokwa West"
+                },
+                {
+                    "city_name": "Oshimili North"
+                },
+                {
+                    "city_name": "Oshimili South"
+                },
+                {
+                    "city_name": "Udu"
+                },
+                {
+                    "city_name": "Ughelli North"
+                },
+                {
+                    "city_name": "Ughelli South"
+                },
+                {
+                    "city_name": "Ukwuani"
+                },
+                {
+                    "city_name": "Warri North"
+                },
+                {
+                    "city_name": "Warri South"
+                },
+                {
+                    "city_name": "Uvwie"
+                },
+                {
+                    "city_name": "Warri South-West"
+                },
+                {
+                    "city_name": "Aniocha North"
+                },
+                {
+                    "city_name": "Sapele"
+                },
+                {
+                    "city_name": "Okpe"
+                },
+                {
+                    "city_name": "Burutu"
+                },
+                {
+                    "city_name": "Bomadi"
+                },
+                {
+                    "city_name": "Patani"
+                }
+            ]
+        },
+        {
+            "province_name": "Adamawa State",
+            "cities": [
+                {
+                    "city_name": "Fufore"
+                },
+                {
+                    "city_name": "Madagali"
+                },
+                {
+                    "city_name": "Michika"
+                },
+                {
+                    "city_name": "Mubi North"
+                },
+                {
+                    "city_name": "Mubi South"
+                },
+                {
+                    "city_name": "Hong"
+                },
+                {
+                    "city_name": "Maiha"
+                },
+                {
+                    "city_name": "Gombi"
+                },
+                {
+                    "city_name": "Song"
+                },
+                {
+                    "city_name": "Shelleng"
+                },
+                {
+                    "city_name": "Guyuk"
+                },
+                {
+                    "city_name": "Larmurde"
+                },
+                {
+                    "city_name": "Numan"
+                },
+                {
+                    "city_name": "Demsa"
+                },
+                {
+                    "city_name": "Girei"
+                },
+                {
+                    "city_name": "Yola North"
+                },
+                {
+                    "city_name": "Yola South"
+                },
+                {
+                    "city_name": "Mayo-Belwa"
+                },
+                {
+                    "city_name": "Jada"
+                },
+                {
+                    "city_name": "Ganye"
+                },
+                {
+                    "city_name": "Teungo"
+                }
+            ]
+        },
+        {
+            "province_name": "Edo",
+            "cities": [
+                {
+                    "city_name": "Ovia South-West"
+                },
+                {
+                    "city_name": "Ovia North-East"
+                },
+                {
+                    "city_name": "Orhionmwon"
+                },
+                {
+                    "city_name": "Uhunmwonde"
+                },
+                {
+                    "city_name": "Ikpoba-Okha"
+                },
+                {
+                    "city_name": "Egor"
+                },
+                {
+                    "city_name": "Oredo"
+                },
+                {
+                    "city_name": "Iguegben"
+                },
+                {
+                    "city_name": "Esan West"
+                },
+                {
+                    "city_name": "Esan Central"
+                },
+                {
+                    "city_name": "Esan North-East"
+                },
+                {
+                    "city_name": "Esan South-East"
+                },
+                {
+                    "city_name": "Owan West"
+                },
+                {
+                    "city_name": "Owan East"
+                },
+                {
+                    "city_name": "Akoko-Edo"
+                },
+                {
+                    "city_name": "Etsako East"
+                },
+                {
+                    "city_name": "Etsako West"
+                },
+                {
+                    "city_name": "Etsako Central"
+                }
+            ]
+        },
+        {
+            "province_name": "Enugu State",
+            "cities": [
+                {
+                    "city_name": "Enugu East"
+                },
+                {
+                    "city_name": "Igbo-Eze-North"
+                },
+                {
+                    "city_name": "Udi"
+                },
+                {
+                    "city_name": "Oji-River"
+                },
+                {
+                    "city_name": "Enugu South"
+                },
+                {
+                    "city_name": "Awgu"
+                },
+                {
+                    "city_name": "Nkanu East"
+                },
+                {
+                    "city_name": "Isi-Uzo"
+                },
+                {
+                    "city_name": "Nkanu West"
+                },
+                {
+                    "city_name": "Uzo-Uwani"
+                },
+                {
+                    "city_name": "Udenu"
+                },
+                {
+                    "city_name": "Igbo-Eze-South"
+                },
+                {
+                    "city_name": "Nsukka"
+                },
+                {
+                    "city_name": "Igbo-Etiti"
+                },
+                {
+                    "city_name": "Enugu North"
+                },
+                {
+                    "city_name": "Ezeagu"
+                },
+                {
+                    "city_name": "Aninri"
+                }
+            ]
+        },
+        {
+            "province_name": "Jigawa State",
+            "cities": [
+                {
+                    "city_name": "Gwiwa"
+                },
+                {
+                    "city_name": "Yankwashi"
+                },
+                {
+                    "city_name": "Roni"
+                },
+                {
+                    "city_name": "Kazaure"
+                },
+                {
+                    "city_name": "Babura"
+                },
+                {
+                    "city_name": "Garki"
+                },
+                {
+                    "city_name": "Sule Tankakar"
+                },
+                {
+                    "city_name": "Gumel"
+                },
+                {
+                    "city_name": "Maigatari"
+                },
+                {
+                    "city_name": "Gagarawa"
+                },
+                {
+                    "city_name": "Ringim"
+                },
+                {
+                    "city_name": "Taura"
+                },
+                {
+                    "city_name": "Kaugama"
+                },
+                {
+                    "city_name": "Miga"
+                },
+                {
+                    "city_name": "Jahun"
+                },
+                {
+                    "city_name": "Dutse"
+                },
+                {
+                    "city_name": "Kiyawa"
+                },
+                {
+                    "city_name": "Kafin Hausa"
+                },
+                {
+                    "city_name": "Auyo"
+                },
+                {
+                    "city_name": "Hadejia"
+                },
+                {
+                    "city_name": "Guri"
+                },
+                {
+                    "city_name": "Kiri Kasama"
+                },
+                {
+                    "city_name": "Biriniwa"
+                },
+                {
+                    "city_name": "Malam Maduri"
+                },
+                {
+                    "city_name": "Birnin Kudu"
+                },
+                {
+                    "city_name": "Buji"
+                },
+                {
+                    "city_name": "Gwaram"
+                }
+            ]
+        },
+        {
+            "province_name": "Bayelsa State",
+            "cities": [
+                {
+                    "city_name": "Ekeremor"
+                },
+                {
+                    "city_name": "Southern Ijaw"
+                },
+                {
+                    "city_name": "Sagbama"
+                },
+                {
+                    "city_name": "Yenegoa"
+                },
+                {
+                    "city_name": "Kolokuma/Opokuma"
+                },
+                {
+                    "city_name": "Ogbia"
+                },
+                {
+                    "city_name": "Nembe"
+                },
+                {
+                    "city_name": "Brass"
+                }
+            ]
+        },
+        {
+            "province_name": "Ebonyi State",
+            "cities": [
+                {
+                    "city_name": "Afikpo North"
+                },
+                {
+                    "city_name": "Ikwo"
+                },
+                {
+                    "city_name": "Izzi"
+                },
+                {
+                    "city_name": "Afikpo South"
+                },
+                {
+                    "city_name": "Ishielu"
+                },
+                {
+                    "city_name": "Ohaukwu"
+                },
+                {
+                    "city_name": "Ebonyi"
+                },
+                {
+                    "city_name": "Ezza North"
+                },
+                {
+                    "city_name": "Abakaliki"
+                },
+                {
+                    "city_name": "Onicha"
+                },
+                {
+                    "city_name": "Ezza South"
+                },
+                {
+                    "city_name": "Ohaozara"
+                },
+                {
+                    "city_name": "Ivo"
+                }
+            ]
+        },
+        {
+            "province_name": "Ekiti State",
+            "cities": [
+                {
+                    "city_name": "Efon"
+                },
+                {
+                    "city_name": "Ekiti West"
+                },
+                {
+                    "city_name": "Ijero"
+                },
+                {
+                    "city_name": "Moba"
+                },
+                {
+                    "city_name": "Ido-Osi"
+                },
+                {
+                    "city_name": "Ilejemeje"
+                },
+                {
+                    "city_name": "Oye"
+                },
+                {
+                    "city_name": "Ikole"
+                },
+                {
+                    "city_name": "Ekiti East"
+                },
+                {
+                    "city_name": "Irepodun/Ifelodun"
+                },
+                {
+                    "city_name": "Ado-Ekiti"
+                },
+                {
+                    "city_name": "Gbonyin"
+                },
+                {
+                    "city_name": "Emure"
+                },
+                {
+                    "city_name": "Ise/Orun"
+                },
+                {
+                    "city_name": "Ikere"
+                },
+                {
+                    "city_name": "Ekiti South-West"
+                }
+            ]
+        },
+        {
+            "province_name": "Gombe State",
+            "cities": [
+                {
+                    "city_name": "Shomgom"
+                },
+                {
+                    "city_name": "Billiri"
+                },
+                {
+                    "city_name": "Balanga"
+                },
+                {
+                    "city_name": "Kaltungo"
+                },
+                {
+                    "city_name": "Akko"
+                },
+                {
+                    "city_name": "Yamaltu/Deba"
+                },
+                {
+                    "city_name": "Gombe"
+                },
+                {
+                    "city_name": "Kwami"
+                },
+                {
+                    "city_name": "Dukku"
+                },
+                {
+                    "city_name": "Funakaye"
+                },
+                {
+                    "city_name": "Nafada"
+                }
+            ]
+        },
+        {
+            "province_name": "Nasarawa State",
+            "cities": [
+                {
+                    "city_name": "Nasarawa"
+                },
+                {
+                    "city_name": "Akwanga"
+                },
+                {
+                    "city_name": "Lafia"
+                },
+                {
+                    "city_name": "Obi"
+                },
+                {
+                    "city_name": "Keana"
+                },
+                {
+                    "city_name": "Toto"
+                },
+                {
+                    "city_name": "Keffi"
+                },
+                {
+                    "city_name": "Karu"
+                },
+                {
+                    "city_name": "Kokona"
+                },
+                {
+                    "city_name": "Nasarawa Egon"
+                },
+                {
+                    "city_name": "Wamba"
+                },
+                {
+                    "city_name": "Doma"
+                },
+                {
+                    "city_name": "Awe"
+                }
+            ]
+        },
+        {
+            "province_name": "Zamfara State",
+            "cities": [
+                {
+                    "city_name": "Gummi"
+                },
+                {
+                    "city_name": "Shinkafi"
+                },
+                {
+                    "city_name": "Maradun"
+                },
+                {
+                    "city_name": "Zurmi"
+                },
+                {
+                    "city_name": "Kaura Namoda"
+                },
+                {
+                    "city_name": "Birnin Magaji-Kiyaw"
+                },
+                {
+                    "city_name": "Bakura"
+                },
+                {
+                    "city_name": "Talata Mafara"
+                },
+                {
+                    "city_name": "Maru"
+                },
+                {
+                    "city_name": "Bukkuyum"
+                },
+                {
+                    "city_name": "Anka"
+                },
+                {
+                    "city_name": "Bungudu"
+                },
+                {
+                    "city_name": "Gusau"
+                },
+                {
+                    "city_name": "Tsafe"
+                }
+            ]
+        },
+        {
+            "province_name": "Kebbi State",
+            "cities": [
+                {
+                    "city_name": "Ngaski"
+                },
+                {
+                    "city_name": "Yauri"
+                },
+                {
+                    "city_name": "Zuru"
+                },
+                {
+                    "city_name": "Bagudo"
+                },
+                {
+                    "city_name": "Koko-Besse"
+                },
+                {
+                    "city_name": "Maiyama"
+                },
+                {
+                    "city_name": "Jega"
+                },
+                {
+                    "city_name": "Gwandu"
+                },
+                {
+                    "city_name": "Shanga"
+                },
+                {
+                    "city_name": "Dandi"
+                },
+                {
+                    "city_name": "Suru"
+                },
+                {
+                    "city_name": "Bunza"
+                },
+                {
+                    "city_name": "Kalgo"
+                },
+                {
+                    "city_name": "Fakai"
+                },
+                {
+                    "city_name": "Sakaba"
+                },
+                {
+                    "city_name": "Wasagu-Danko"
+                },
+                {
+                    "city_name": "Aleiro"
+                },
+                {
+                    "city_name": "Birnin Kebbi"
+                },
+                {
+                    "city_name": "Argungu"
+                },
+                {
+                    "city_name": "Augie"
+                },
+                {
+                    "city_name": "Arewa Dandi"
+                },
+                {
+                    "city_name": "Koko/Besse Local Government Area"
+                },
+                {
+                    "city_name": "Yauri Local Government Area"
+                }
+            ]
+        },
+        {
+            "province_name": "Kogi State",
+            "cities": [
+                {
+                    "city_name": "Okene"
+                },
+                {
+                    "city_name": "Adavi"
+                },
+                {
+                    "city_name": "Bassa"
+                },
+                {
+                    "city_name": "Ibaji"
+                },
+                {
+                    "city_name": "Igalamela-Odolu"
+                },
+                {
+                    "city_name": "Ijumu"
+                },
+                {
+                    "city_name": "Kabba/Bunu"
+                },
+                {
+                    "city_name": "Mopa-Muro"
+                },
+                {
+                    "city_name": "Ofu"
+                },
+                {
+                    "city_name": "Okehi"
+                },
+                {
+                    "city_name": "Omala"
+                },
+                {
+                    "city_name": "Yagba East"
+                },
+                {
+                    "city_name": "Yagba West"
+                },
+                {
+                    "city_name": "Kogi"
+                },
+                {
+                    "city_name": "Lokoja"
+                },
+                {
+                    "city_name": "Ogori/Magongo"
+                },
+                {
+                    "city_name": "Ajaokuta"
+                },
+                {
+                    "city_name": "Dekina"
+                },
+                {
+                    "city_name": "Ankpa"
+                },
+                {
+                    "city_name": "Idah"
+                },
+                {
+                    "city_name": "Olamaboro"
+                }
+            ]
+        },
+        {
+            "province_name": "Osun State",
+            "cities": [
+                {
+                    "city_name": "Ede North"
+                },
+                {
+                    "city_name": "Egbedore"
+                },
+                {
+                    "city_name": "Ife Central"
+                },
+                {
+                    "city_name": "Ife East"
+                },
+                {
+                    "city_name": "Ife South"
+                },
+                {
+                    "city_name": "Ifelodun"
+                },
+                {
+                    "city_name": "Ila"
+                },
+                {
+                    "city_name": "Irepodun"
+                },
+                {
+                    "city_name": "Irewole"
+                },
+                {
+                    "city_name": "Isokan"
+                },
+                {
+                    "city_name": "Odo Otin"
+                },
+                {
+                    "city_name": "Ola Oluwa"
+                },
+                {
+                    "city_name": "Olorunda"
+                },
+                {
+                    "city_name": "Oriade"
+                },
+                {
+                    "city_name": "Atakunmosa East"
+                },
+                {
+                    "city_name": "Atakunmosa West"
+                },
+                {
+                    "city_name": "Boluwaduro"
+                },
+                {
+                    "city_name": "Boripe"
+                },
+                {
+                    "city_name": "Ejigbo"
+                },
+                {
+                    "city_name": "Iwo"
+                },
+                {
+                    "city_name": "Aiyedire"
+                },
+                {
+                    "city_name": "Aiyedade"
+                },
+                {
+                    "city_name": "Ede South"
+                },
+                {
+                    "city_name": "Osogbo"
+                },
+                {
+                    "city_name": "Orolu"
+                },
+                {
+                    "city_name": "Ifedayo"
+                },
+                {
+                    "city_name": "Obokun"
+                },
+                {
+                    "city_name": "Ilesha West"
+                },
+                {
+                    "city_name": "Ilesha East"
+                },
+                {
+                    "city_name": "Ife North"
+                }
+            ]
+        },
+        {
+            "province_name": "Taraba State",
+            "cities": [
+                {
+                    "city_name": "Karim Lamido"
+                },
+                {
+                    "city_name": "Lau"
+                },
+                {
+                    "city_name": "Zing"
+                },
+                {
+                    "city_name": "Yorro"
+                },
+                {
+                    "city_name": "Jalingo"
+                },
+                {
+                    "city_name": "Ardo-Kola"
+                },
+                {
+                    "city_name": "Ibi"
+                },
+                {
+                    "city_name": "Gassol"
+                },
+                {
+                    "city_name": "Bali"
+                },
+                {
+                    "city_name": "Wukari"
+                },
+                {
+                    "city_name": "Donga"
+                },
+                {
+                    "city_name": "Takum"
+                },
+                {
+                    "city_name": "Ussa"
+                },
+                {
+                    "city_name": "Kurmi"
+                },
+                {
+                    "city_name": "Sardauna"
+                },
+                {
+                    "city_name": "Gashaka"
+                }
+            ]
+        },
+        {
+            "province_name": "Yobe State",
+            "cities": [
+                {
+                    "city_name": "Borsari"
+                },
+                {
+                    "city_name": "Gujba"
+                },
+                {
+                    "city_name": "Gulani"
+                },
+                {
+                    "city_name": "Machina"
+                },
+                {
+                    "city_name": "Nguru"
+                },
+                {
+                    "city_name": "Yusufari"
+                },
+                {
+                    "city_name": "Yunusari"
+                },
+                {
+                    "city_name": "Karasuwa"
+                },
+                {
+                    "city_name": "Barde"
+                },
+                {
+                    "city_name": "Geidam"
+                },
+                {
+                    "city_name": "Jakusko"
+                },
+                {
+                    "city_name": "Tarmua"
+                },
+                {
+                    "city_name": "Damaturu"
+                },
+                {
+                    "city_name": "Fune"
+                },
+                {
+                    "city_name": "Nangere"
+                },
+                {
+                    "city_name": "Potiskum"
+                },
+                {
+                    "city_name": "Fika"
+                },
+                {
+                    "city_name": "Bursari Local Government Area"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+{
+    "country_name": "Senegal",
+    "country_id": "SN",
+    "provinces": [
+        {
+            "province_name": "Ziguinchor",
+            "cities": [
+                {
+                    "city_name": "Ziguinchor"
+                },
+                {
+                    "city_name": "Oussouye"
+                },
+                {
+                    "city_name": "Bignona"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Thies",
+            "cities": [
+                {
+                    "city_name": "Tivaouane"
+                },
+                {
+                    "city_name": "Thies"
+                },
+                {
+                    "city_name": "Mbour"
+                }
+            ]
+        },
+        {
+            "province_name": "Tambacounda",
+            "cities": [
+                {
+                    "city_name": "Tambacounda Department"
+                },
+                {
+                    "city_name": "Kedougou Department"
+                },
+                {
+                    "city_name": "Bakel"
+                },
+                {
+                    "city_name": "Koumpentoum"
+                },
+                {
+                    "city_name": "Goudiry"
+                }
+            ]
+        },
+        {
+            "province_name": "Saint-Louis",
+            "cities": [
+                {
+                    "city_name": "Podor"
+                },
+                {
+                    "city_name": "Dagana Department"
+                },
+                {
+                    "city_name": "Matam Department"
+                },
+                {
+                    "city_name": "Kanel Department"
+                },
+                {
+                    "city_name": "Saint-Louis Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Matam",
+            "cities": [
+                {
+                    "city_name": "Departement de Ranerou Ferlo"
+                }
+            ]
+        },
+        {
+            "province_name": "Louga",
+            "cities": [
+                {
+                    "city_name": "Louga Department"
+                },
+                {
+                    "city_name": "Kebemer Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Kolda",
+            "cities": [
+                {
+                    "city_name": "Velingara Department"
+                },
+                {
+                    "city_name": "Sedhiou"
+                },
+                {
+                    "city_name": "Kolda Department"
+                },
+                {
+                    "city_name": "Departement de Medina Yoro Foulah"
+                }
+            ]
+        },
+        {
+            "province_name": "Kaolack",
+            "cities": [
+                {
+                    "city_name": "Nioro du Rip"
+                },
+                {
+                    "city_name": "Kaolack"
+                },
+                {
+                    "city_name": "Kaffrine Department"
+                },
+                {
+                    "city_name": "Birkilane Department"
+                },
+                {
+                    "city_name": "Departement de Guinguineo"
+                }
+            ]
+        },
+        {
+            "province_name": "Fatick",
+            "cities": [
+                {
+                    "city_name": "Gossas"
+                },
+                {
+                    "city_name": "Foundiougne"
+                },
+                {
+                    "city_name": "Fatick Department"
+                }
+            ]
+        },
+        {
+            "province_name": "Diourbel",
+            "cities": [
+                {
+                    "city_name": "Mbacke"
+                },
+                {
+                    "city_name": "Linguere Department"
+                },
+                {
+                    "city_name": "Diourbel"
+                },
+                {
+                    "city_name": "Bambey"
+                }
+            ]
+        },
+        {
+            "province_name": "Dakar",
+            "cities": [
+                {
+                    "city_name": "Dakar Department"
+                },
+                {
+                    "city_name": "Pikine Department"
+                },
+                {
+                    "city_name": "Rufisque Department"
+                },
+                {
+                    "city_name": "Guediawaye Department"
+                },
+                {
+                    "city_name": "Departement de Guediawaye"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Kaffrine",
+            "cities": [
+                {
+                    "city_name": "Birkelane"
+                },
+                {
+                    "city_name": "Malem Hoddar"
+                },
+                {
+                    "city_name": "Koungheul"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Kedougou",
+            "cities": [
+                {
+                    "city_name": "Departement de Salemata"
+                },
+                {
+                    "city_name": "Departement de Kedougou"
+                },
+                {
+                    "city_name": "Saraya"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Sedhiou",
+            "cities": [
+                {
+                    "city_name": "Goudomp Department"
+                },
+                {
+                    "city_name": "Bounkiling"
+                }
+            ]
+        }
+    ]
+}

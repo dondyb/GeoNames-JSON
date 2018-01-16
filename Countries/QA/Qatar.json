@@ -1,0 +1,38 @@
+{
+    "country_name": "Qatar",
+    "country_id": "QA",
+    "provinces": [
+        {
+            "province_name": "Baladiyat ash Shamal",
+            "cities": []
+        },
+        {
+            "province_name": "Baladiyat al Khawr wa adh Dhakhirah",
+            "cities": []
+        },
+        {
+            "province_name": "Baladiyat Umm Salal",
+            "cities": []
+        },
+        {
+            "province_name": "Baladiyat ar Rayyan",
+            "cities": []
+        },
+        {
+            "province_name": "Baladiyat ad Dawhah",
+            "cities": []
+        },
+        {
+            "province_name": "Al Wakrah",
+            "cities": []
+        },
+        {
+            "province_name": "Baladiyat az Za'ayin",
+            "cities": []
+        },
+        {
+            "province_name": "Al-Shahaniya",
+            "cities": []
+        }
+    ]
+}

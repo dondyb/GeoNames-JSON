@@ -1,0 +1,30 @@
+{
+    "country_name": "Saint Vincent and the Grenadines",
+    "country_id": "VC",
+    "provinces": [
+        {
+            "province_name": "Parish of Saint Patrick",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint George",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint David",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Saint Andrew",
+            "cities": []
+        },
+        {
+            "province_name": "Grenadines",
+            "cities": []
+        },
+        {
+            "province_name": "Parish of Charlotte",
+            "cities": []
+        }
+    ]
+}

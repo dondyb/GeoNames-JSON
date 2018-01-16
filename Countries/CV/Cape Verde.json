@@ -1,0 +1,120 @@
+{
+    "country_name": "Cape Verde",
+    "country_id": "CV",
+    "provinces": [
+        {
+            "province_name": "Concelho do Tarrafal",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Sao Vicente",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Santa Catarina",
+            "cities": []
+        },
+        {
+            "province_name": "Sal Municipality",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho da Ribeira Grande",
+            "cities": [
+                {
+                    "city_name": "Nossa Senhora do Rosario"
+                },
+                {
+                    "city_name": "Santo Crucifixo"
+                }
+            ]
+        },
+        {
+            "province_name": "Concelho da Praia",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho do Paul",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho do Maio",
+            "cities": [
+                {
+                    "city_name": "Maio"
+                }
+            ]
+        },
+        {
+            "province_name": "Concelho da Brava",
+            "cities": [
+                {
+                    "city_name": "Sao Joao Baptista"
+                },
+                {
+                    "city_name": "Nossa Senhora do Monte"
+                }
+            ]
+        },
+        {
+            "province_name": "Concelho da Boa Vista",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho dos Mosteiros",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Santa Cruz",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Sao Domingos",
+            "cities": [
+                {
+                    "city_name": "Sao Nicolau Tolentino"
+                }
+            ]
+        },
+        {
+            "province_name": "Concelho do Sao Filipe",
+            "cities": [
+                {
+                    "city_name": "Nossa Senhora da Conceicao"
+                }
+            ]
+        },
+        {
+            "province_name": "Concelho de Sao Miguel",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho do Porto Novo",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho da Ribeira Brava",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Santa Catarina do Fogo",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Sao Salvador do Mundo",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho do Tarrafal de Sao Nicolau",
+            "cities": []
+        },
+        {
+            "province_name": "Sao Lourenco dos Orgaos",
+            "cities": []
+        },
+        {
+            "province_name": "Concelho de Ribeira Grande de Santiago",
+            "cities": []
+        }
+    ]
+}

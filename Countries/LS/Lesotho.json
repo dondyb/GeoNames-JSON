@@ -1,0 +1,92 @@
+{
+    "country_name": "Lesotho",
+    "country_id": "LS",
+    "provinces": [
+        {
+            "province_name": "Thaba-Tseka",
+            "cities": []
+        },
+        {
+            "province_name": "Quthing",
+            "cities": []
+        },
+        {
+            "province_name": "Qacha's Nek",
+            "cities": []
+        },
+        {
+            "province_name": "Mokhotlong",
+            "cities": []
+        },
+        {
+            "province_name": "Mohale's Hoek District",
+            "cities": []
+        },
+        {
+            "province_name": "Maseru",
+            "cities": [
+                {
+                    "city_name": "Makhaleng Constituency"
+                },
+                {
+                    "city_name": "Rothe"
+                },
+                {
+                    "city_name": "Maseru Central"
+                }
+            ]
+        },
+        {
+            "province_name": "Mafeteng District",
+            "cities": []
+        },
+        {
+            "province_name": "Leribe District",
+            "cities": [
+                {
+                    "city_name": "Khomokhoana Community"
+                },
+                {
+                    "city_name": "Urban"
+                },
+                {
+                    "city_name": "Hleoheng"
+                }
+            ]
+        },
+        {
+            "province_name": "Butha-Buthe",
+            "cities": [
+                {
+                    "city_name": "Motete"
+                },
+                {
+                    "city_name": "Qalo"
+                }
+            ]
+        },
+        {
+            "province_name": "Berea",
+            "cities": [
+                {
+                    "city_name": "Mokomahatsi"
+                },
+                {
+                    "city_name": "Mokhachane"
+                },
+                {
+                    "city_name": "Mapoteng"
+                },
+                {
+                    "city_name": "Makhoroana"
+                },
+                {
+                    "city_name": "Urban"
+                },
+                {
+                    "city_name": "Mamathe"
+                }
+            ]
+        }
+    ]
+}

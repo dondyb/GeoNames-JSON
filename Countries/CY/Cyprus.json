@@ -1,0 +1,1809 @@
+{
+    "country_name": "Cyprus",
+    "country_id": "CY",
+    "provinces": [
+        {
+            "province_name": "Eparchia Pafou",
+            "cities": [
+                {
+                    "city_name": "Pafos"
+                },
+                {
+                    "city_name": "Geroskipou"
+                },
+                {
+                    "city_name": "Konia"
+                },
+                {
+                    "city_name": "Agia Marinouda"
+                },
+                {
+                    "city_name": "Acheleia"
+                },
+                {
+                    "city_name": "Chlorakas"
+                },
+                {
+                    "city_name": "Lempa"
+                },
+                {
+                    "city_name": "Empa"
+                },
+                {
+                    "city_name": "Tremithousa"
+                },
+                {
+                    "city_name": "Mesa Chorio"
+                },
+                {
+                    "city_name": "Mesogi"
+                },
+                {
+                    "city_name": "Tala"
+                },
+                {
+                    "city_name": "Kissonerga"
+                },
+                {
+                    "city_name": "Kouklia"
+                },
+                {
+                    "city_name": "Mandria"
+                },
+                {
+                    "city_name": "Nikokleia"
+                },
+                {
+                    "city_name": "Souskiou"
+                },
+                {
+                    "city_name": "Timi"
+                },
+                {
+                    "city_name": "Anarita"
+                },
+                {
+                    "city_name": "Foinikas"
+                },
+                {
+                    "city_name": "Marathounta"
+                },
+                {
+                    "city_name": "Armou"
+                },
+                {
+                    "city_name": "Episkopi"
+                },
+                {
+                    "city_name": "Nata"
+                },
+                {
+                    "city_name": "Choletria"
+                },
+                {
+                    "city_name": "Axylou"
+                },
+                {
+                    "city_name": "Eledio"
+                },
+                {
+                    "city_name": "Tsada"
+                },
+                {
+                    "city_name": "Koili"
+                },
+                {
+                    "city_name": "Stroumpi"
+                },
+                {
+                    "city_name": "Polemi"
+                },
+                {
+                    "city_name": "Kallepeia"
+                },
+                {
+                    "city_name": "Letymvou"
+                },
+                {
+                    "city_name": "Pitargou"
+                },
+                {
+                    "city_name": "Kourdaka"
+                },
+                {
+                    "city_name": "Lemona"
+                },
+                {
+                    "city_name": "Choulou"
+                },
+                {
+                    "city_name": "Akoursos"
+                },
+                {
+                    "city_name": "Kathikas"
+                },
+                {
+                    "city_name": "Pegeia"
+                },
+                {
+                    "city_name": "Pano Archimandrita"
+                },
+                {
+                    "city_name": "Fasoula"
+                },
+                {
+                    "city_name": "Mousere"
+                },
+                {
+                    "city_name": "Maronas"
+                },
+                {
+                    "city_name": "Mamonia"
+                },
+                {
+                    "city_name": "Stavrokonnou"
+                },
+                {
+                    "city_name": "Trachypedoula"
+                },
+                {
+                    "city_name": "Kelokedara"
+                },
+                {
+                    "city_name": "Salamiou"
+                },
+                {
+                    "city_name": "Kidasi"
+                },
+                {
+                    "city_name": "Kedares"
+                },
+                {
+                    "city_name": "Mesana"
+                },
+                {
+                    "city_name": "Praitori"
+                },
+                {
+                    "city_name": "Filousa"
+                },
+                {
+                    "city_name": "Arminou"
+                },
+                {
+                    "city_name": "Amargeti"
+                },
+                {
+                    "city_name": "Pentalia"
+                },
+                {
+                    "city_name": "Faleia"
+                },
+                {
+                    "city_name": "Galataria"
+                },
+                {
+                    "city_name": "Koilineia"
+                },
+                {
+                    "city_name": "Vretsia"
+                },
+                {
+                    "city_name": "Statos-Agios Fotios"
+                },
+                {
+                    "city_name": "Lapithiou"
+                },
+                {
+                    "city_name": "Mamountali"
+                },
+                {
+                    "city_name": "Pano Panagia"
+                },
+                {
+                    "city_name": "Asprogia"
+                },
+                {
+                    "city_name": "Psathi"
+                },
+                {
+                    "city_name": "Agios Dimitrianos"
+                },
+                {
+                    "city_name": "Kannaviou-Melamiou"
+                },
+                {
+                    "city_name": "Thrinia"
+                },
+                {
+                    "city_name": "Kritou Marottou"
+                },
+                {
+                    "city_name": "Fyti"
+                },
+                {
+                    "city_name": "Lasa"
+                },
+                {
+                    "city_name": "Drymou"
+                },
+                {
+                    "city_name": "Simou"
+                },
+                {
+                    "city_name": "Anadiou"
+                },
+                {
+                    "city_name": "Sarama"
+                },
+                {
+                    "city_name": "Evretou"
+                },
+                {
+                    "city_name": "Trimithousa"
+                },
+                {
+                    "city_name": "Filousa"
+                },
+                {
+                    "city_name": "Kios"
+                },
+                {
+                    "city_name": "Zacharia"
+                },
+                {
+                    "city_name": "Meladeia"
+                },
+                {
+                    "city_name": "Melandra"
+                },
+                {
+                    "city_name": "Lysos"
+                },
+                {
+                    "city_name": "Theletra"
+                },
+                {
+                    "city_name": "Giolou"
+                },
+                {
+                    "city_name": "Pano Akourdaleia"
+                },
+                {
+                    "city_name": "Miliou"
+                },
+                {
+                    "city_name": "Kato Akourdaleia"
+                },
+                {
+                    "city_name": "Tera"
+                },
+                {
+                    "city_name": "Kritou Tera"
+                },
+                {
+                    "city_name": "Skoulli"
+                },
+                {
+                    "city_name": "Choli"
+                },
+                {
+                    "city_name": "Loukrounou"
+                },
+                {
+                    "city_name": "Karamoullides"
+                },
+                {
+                    "city_name": "Chrysochou"
+                },
+                {
+                    "city_name": "Polis"
+                },
+                {
+                    "city_name": "Neo Chorio"
+                },
+                {
+                    "city_name": "Goudi"
+                },
+                {
+                    "city_name": "Kato Arodes"
+                },
+                {
+                    "city_name": "Pano Arodes"
+                },
+                {
+                    "city_name": "Ineia"
+                },
+                {
+                    "city_name": "Drouseia"
+                },
+                {
+                    "city_name": "Fasli"
+                },
+                {
+                    "city_name": "Androlikou"
+                },
+                {
+                    "city_name": "Pelathousa"
+                },
+                {
+                    "city_name": "Kynousa"
+                },
+                {
+                    "city_name": "Makounta"
+                },
+                {
+                    "city_name": "Argaka"
+                },
+                {
+                    "city_name": "Gialia"
+                },
+                {
+                    "city_name": "Nea Dimmata"
+                },
+                {
+                    "city_name": "Pomos"
+                },
+                {
+                    "city_name": "Steni"
+                },
+                {
+                    "city_name": "Agios Isidoros"
+                },
+                {
+                    "city_name": "Livadi"
+                }
+            ]
+        },
+        {
+            "province_name": "Eparchia Lefkosias",
+            "cities": [
+                {
+                    "city_name": "Lefkosia"
+                },
+                {
+                    "city_name": "Agios Dometios"
+                },
+                {
+                    "city_name": "Egkomi"
+                },
+                {
+                    "city_name": "Strovolos"
+                },
+                {
+                    "city_name": "Aglantzia"
+                },
+                {
+                    "city_name": "Ortakioi"
+                },
+                {
+                    "city_name": "Trachonas"
+                },
+                {
+                    "city_name": "Lakatamia"
+                },
+                {
+                    "city_name": "Synoikismos Anthoupolis"
+                },
+                {
+                    "city_name": "Latsia"
+                },
+                {
+                    "city_name": "Geri"
+                },
+                {
+                    "city_name": "Sia"
+                },
+                {
+                    "city_name": "Mathiatis"
+                },
+                {
+                    "city_name": "Alampra"
+                },
+                {
+                    "city_name": "Agia Varvara"
+                },
+                {
+                    "city_name": "Kotsiatis"
+                },
+                {
+                    "city_name": "Nisou"
+                },
+                {
+                    "city_name": "Pera Chorio"
+                },
+                {
+                    "city_name": "Dali"
+                },
+                {
+                    "city_name": "Lympia"
+                },
+                {
+                    "city_name": "Lythrodontas"
+                },
+                {
+                    "city_name": "Louroukina"
+                },
+                {
+                    "city_name": "Potamia"
+                },
+                {
+                    "city_name": "Agios Sozomenos"
+                },
+                {
+                    "city_name": "Pyrogi"
+                },
+                {
+                    "city_name": "Margo"
+                },
+                {
+                    "city_name": "Agia"
+                },
+                {
+                    "city_name": "Tymvou"
+                },
+                {
+                    "city_name": "Mora"
+                },
+                {
+                    "city_name": "Mia Milia"
+                },
+                {
+                    "city_name": "Mandres"
+                },
+                {
+                    "city_name": "Palaikythro"
+                },
+                {
+                    "city_name": "Exo Metochi"
+                },
+                {
+                    "city_name": "Epicho"
+                },
+                {
+                    "city_name": "Voni"
+                },
+                {
+                    "city_name": "Trachoni"
+                },
+                {
+                    "city_name": "Neo Chorio"
+                },
+                {
+                    "city_name": "Kythrea"
+                },
+                {
+                    "city_name": "Beikioi"
+                },
+                {
+                    "city_name": "Petra tou Digeni"
+                },
+                {
+                    "city_name": "Kalyvakia"
+                },
+                {
+                    "city_name": "Kourou Monastiri"
+                },
+                {
+                    "city_name": "Kampi"
+                },
+                {
+                    "city_name": "Farmakas"
+                },
+                {
+                    "city_name": "Apliki"
+                },
+                {
+                    "city_name": "Lazanias"
+                },
+                {
+                    "city_name": "Gourri"
+                },
+                {
+                    "city_name": "Fikardou"
+                },
+                {
+                    "city_name": "Agios Epifanios"
+                },
+                {
+                    "city_name": "Kalo Chorio"
+                },
+                {
+                    "city_name": "Malounta"
+                },
+                {
+                    "city_name": "Klirou"
+                },
+                {
+                    "city_name": "Arediou"
+                },
+                {
+                    "city_name": "Agios Ioannis"
+                },
+                {
+                    "city_name": "Agrokipia"
+                },
+                {
+                    "city_name": "Mitsero"
+                },
+                {
+                    "city_name": "Kapedes"
+                },
+                {
+                    "city_name": "Kataliontas"
+                },
+                {
+                    "city_name": "Analiontas"
+                },
+                {
+                    "city_name": "Kampia"
+                },
+                {
+                    "city_name": "Margi"
+                },
+                {
+                    "city_name": "Tseri"
+                },
+                {
+                    "city_name": "Politiko"
+                },
+                {
+                    "city_name": "Pera"
+                },
+                {
+                    "city_name": "Episkopeio"
+                },
+                {
+                    "city_name": "Psimolofou"
+                },
+                {
+                    "city_name": "Ergates"
+                },
+                {
+                    "city_name": "Anageia"
+                },
+                {
+                    "city_name": "Pano Deftera"
+                },
+                {
+                    "city_name": "Kato Deftera"
+                },
+                {
+                    "city_name": "Agioi Trimithias"
+                },
+                {
+                    "city_name": "Palaiometocho"
+                },
+                {
+                    "city_name": "Deneia"
+                },
+                {
+                    "city_name": "Kokkinotrimithia"
+                },
+                {
+                    "city_name": "Agioi Iliofotoi"
+                },
+                {
+                    "city_name": "Kato Moni"
+                },
+                {
+                    "city_name": "Orounta"
+                },
+                {
+                    "city_name": "Pano Koutrafas"
+                },
+                {
+                    "city_name": "Kato Koutrafas"
+                },
+                {
+                    "city_name": "Potami"
+                },
+                {
+                    "city_name": "Morfou"
+                },
+                {
+                    "city_name": "Pano Zodeia"
+                },
+                {
+                    "city_name": "Mammari"
+                },
+                {
+                    "city_name": "Gerolakkos"
+                },
+                {
+                    "city_name": "Agia Marina"
+                },
+                {
+                    "city_name": "Skylloura"
+                },
+                {
+                    "city_name": "Agios Vasileios"
+                },
+                {
+                    "city_name": "Dyo Potamoi"
+                },
+                {
+                    "city_name": "Kanli"
+                },
+                {
+                    "city_name": "Kioneli"
+                },
+                {
+                    "city_name": "Palaichori Morfou"
+                },
+                {
+                    "city_name": "Askas"
+                },
+                {
+                    "city_name": "Alona"
+                },
+                {
+                    "city_name": "Fterikoudi"
+                },
+                {
+                    "city_name": "Polystypos"
+                },
+                {
+                    "city_name": "Lagoudera"
+                },
+                {
+                    "city_name": "Saranti"
+                },
+                {
+                    "city_name": "Livadia"
+                },
+                {
+                    "city_name": "Alithinou"
+                },
+                {
+                    "city_name": "Platanistasa"
+                },
+                {
+                    "city_name": "Palaichori"
+                },
+                {
+                    "city_name": "Xyliatos"
+                },
+                {
+                    "city_name": "Agios Georgios"
+                },
+                {
+                    "city_name": "Nikitari"
+                },
+                {
+                    "city_name": "Vyzakia"
+                },
+                {
+                    "city_name": "Agia Marina"
+                },
+                {
+                    "city_name": "Kato Zodeia"
+                },
+                {
+                    "city_name": "Kalo Chorio Kapouti"
+                },
+                {
+                    "city_name": "Akaki"
+                },
+                {
+                    "city_name": "Peristerona"
+                },
+                {
+                    "city_name": "Astromeritis"
+                },
+                {
+                    "city_name": "Avlona"
+                },
+                {
+                    "city_name": "Katokopia"
+                },
+                {
+                    "city_name": "Argaki"
+                },
+                {
+                    "city_name": "Masari"
+                },
+                {
+                    "city_name": "Fyllia"
+                },
+                {
+                    "city_name": "Meniko"
+                },
+                {
+                    "city_name": "Kyra"
+                },
+                {
+                    "city_name": "Spilia"
+                },
+                {
+                    "city_name": "Agia Eirini"
+                },
+                {
+                    "city_name": "Kannavia"
+                },
+                {
+                    "city_name": "Kazivera"
+                },
+                {
+                    "city_name": "Prastio"
+                },
+                {
+                    "city_name": "Nikitas"
+                },
+                {
+                    "city_name": "Syrianochori"
+                },
+                {
+                    "city_name": "Kakopetria"
+                },
+                {
+                    "city_name": "Agios Theodoros"
+                },
+                {
+                    "city_name": "Galata"
+                },
+                {
+                    "city_name": "Sinaoros"
+                },
+                {
+                    "city_name": "Kaliana"
+                },
+                {
+                    "city_name": "Temvria"
+                },
+                {
+                    "city_name": "Korakou"
+                },
+                {
+                    "city_name": "Evrychou"
+                },
+                {
+                    "city_name": "Flasou"
+                },
+                {
+                    "city_name": "Agios Epifanios"
+                },
+                {
+                    "city_name": "Linou"
+                },
+                {
+                    "city_name": "Katydata"
+                },
+                {
+                    "city_name": "Skouriotissa"
+                },
+                {
+                    "city_name": "Pedoulas"
+                },
+                {
+                    "city_name": "Mylikouri"
+                },
+                {
+                    "city_name": "Moutoutllas"
+                },
+                {
+                    "city_name": "Oikos"
+                },
+                {
+                    "city_name": "Kalopanagiotis"
+                },
+                {
+                    "city_name": "Gerakies"
+                },
+                {
+                    "city_name": "Tsakistra"
+                },
+                {
+                    "city_name": "Kampos"
+                },
+                {
+                    "city_name": "Agios Nikolaos"
+                },
+                {
+                    "city_name": "Agios Georgios"
+                },
+                {
+                    "city_name": "Petra"
+                },
+                {
+                    "city_name": "Kalo Chorio"
+                },
+                {
+                    "city_name": "Lefka"
+                },
+                {
+                    "city_name": "Ampelikou"
+                },
+                {
+                    "city_name": "Peristeronari"
+                },
+                {
+                    "city_name": "Elia"
+                },
+                {
+                    "city_name": "Karavostasi"
+                },
+                {
+                    "city_name": "Pentageia"
+                },
+                {
+                    "city_name": "Angolemi"
+                },
+                {
+                    "city_name": "Variseia"
+                },
+                {
+                    "city_name": "Galini"
+                },
+                {
+                    "city_name": "Xerovounos"
+                },
+                {
+                    "city_name": "Loutros"
+                },
+                {
+                    "city_name": "Agios Ioannis Selemani"
+                },
+                {
+                    "city_name": "Ammadies"
+                },
+                {
+                    "city_name": "Pano Pyrgos"
+                },
+                {
+                    "city_name": "Kato Pyrgos"
+                },
+                {
+                    "city_name": "Selladi tou Appi kai Agio Georgoudi"
+                },
+                {
+                    "city_name": "Alevga"
+                },
+                {
+                    "city_name": "Pigenia"
+                },
+                {
+                    "city_name": "Pachyammos"
+                },
+                {
+                    "city_name": "Kokkina"
+                },
+                {
+                    "city_name": "Frodisia"
+                },
+                {
+                    "city_name": "Agios Theodoros"
+                },
+                {
+                    "city_name": "Mansoura"
+                },
+                {
+                    "city_name": "Mosfili"
+                }
+            ]
+        },
+        {
+            "province_name": "Eparchia Lemesou",
+            "cities": [
+                {
+                    "city_name": "Lemesos"
+                },
+                {
+                    "city_name": "Mesa Geitonia"
+                },
+                {
+                    "city_name": "Agios Athanasios"
+                },
+                {
+                    "city_name": "Germasogeia"
+                },
+                {
+                    "city_name": "Pano Polemidia"
+                },
+                {
+                    "city_name": "Ypsonas"
+                },
+                {
+                    "city_name": "Kato Polemidia"
+                },
+                {
+                    "city_name": "Palodeia"
+                },
+                {
+                    "city_name": "Paramytha"
+                },
+                {
+                    "city_name": "Spitali"
+                },
+                {
+                    "city_name": "Fasoula"
+                },
+                {
+                    "city_name": "Mathikoloni"
+                },
+                {
+                    "city_name": "Gerasa"
+                },
+                {
+                    "city_name": "Apsiou"
+                },
+                {
+                    "city_name": "Apesia"
+                },
+                {
+                    "city_name": "Korfi"
+                },
+                {
+                    "city_name": "Limnatis"
+                },
+                {
+                    "city_name": "Kapileio"
+                },
+                {
+                    "city_name": "Mouttagiaka"
+                },
+                {
+                    "city_name": "Armenochori"
+                },
+                {
+                    "city_name": "Foinikaria"
+                },
+                {
+                    "city_name": "Akrounta"
+                },
+                {
+                    "city_name": "Agios Tychon"
+                },
+                {
+                    "city_name": "Parekklisia"
+                },
+                {
+                    "city_name": "Pentakomo"
+                },
+                {
+                    "city_name": "Monagroulli"
+                },
+                {
+                    "city_name": "Asgata"
+                },
+                {
+                    "city_name": "Vasa"
+                },
+                {
+                    "city_name": "Sanida"
+                },
+                {
+                    "city_name": "Klonari"
+                },
+                {
+                    "city_name": "Vikla"
+                },
+                {
+                    "city_name": "Kellaki"
+                },
+                {
+                    "city_name": "Akapnou"
+                },
+                {
+                    "city_name": "Eptagoneia"
+                },
+                {
+                    "city_name": "Dierona"
+                },
+                {
+                    "city_name": "Arakapas"
+                },
+                {
+                    "city_name": "Agios Pavlos"
+                },
+                {
+                    "city_name": "Agios Konstantinos"
+                },
+                {
+                    "city_name": "Sykopetra"
+                },
+                {
+                    "city_name": "Louvaras"
+                },
+                {
+                    "city_name": "Zoopigi"
+                },
+                {
+                    "city_name": "Akrotiri"
+                },
+                {
+                    "city_name": "Tserkezoi"
+                },
+                {
+                    "city_name": "Kolossi"
+                },
+                {
+                    "city_name": "Erimi"
+                },
+                {
+                    "city_name": "Episkopi"
+                },
+                {
+                    "city_name": "Kantou"
+                },
+                {
+                    "city_name": "Sotira"
+                },
+                {
+                    "city_name": "Paramali"
+                },
+                {
+                    "city_name": "Avdimou"
+                },
+                {
+                    "city_name": "Platanisteia"
+                },
+                {
+                    "city_name": "Agios Tomas"
+                },
+                {
+                    "city_name": "Alektora"
+                },
+                {
+                    "city_name": "Anogyra"
+                },
+                {
+                    "city_name": "Pissouri"
+                },
+                {
+                    "city_name": "Souni-Zanakia"
+                },
+                {
+                    "city_name": "Alassa"
+                },
+                {
+                    "city_name": "Kato Kivides"
+                },
+                {
+                    "city_name": "Pano Kivides"
+                },
+                {
+                    "city_name": "Agios Therapon"
+                },
+                {
+                    "city_name": "Lofou"
+                },
+                {
+                    "city_name": "Pachna"
+                },
+                {
+                    "city_name": "Doros"
+                },
+                {
+                    "city_name": "Laneia"
+                },
+                {
+                    "city_name": "Silikou"
+                },
+                {
+                    "city_name": "Monagri"
+                },
+                {
+                    "city_name": "Trimiklini"
+                },
+                {
+                    "city_name": "Agios Mamas"
+                },
+                {
+                    "city_name": "Kouka"
+                },
+                {
+                    "city_name": "Moniatis"
+                },
+                {
+                    "city_name": "Dora"
+                },
+                {
+                    "city_name": "Gerovasa"
+                },
+                {
+                    "city_name": "Arsos"
+                },
+                {
+                    "city_name": "Kissousa"
+                },
+                {
+                    "city_name": "Malia"
+                },
+                {
+                    "city_name": "Vasa"
+                },
+                {
+                    "city_name": "Vouni"
+                },
+                {
+                    "city_name": "Pera Pedi"
+                },
+                {
+                    "city_name": "Mandria"
+                },
+                {
+                    "city_name": "Potamiou"
+                },
+                {
+                    "city_name": "Omodos"
+                },
+                {
+                    "city_name": "Koilani"
+                },
+                {
+                    "city_name": "Agios Dimitrios"
+                },
+                {
+                    "city_name": "Palaiomylos"
+                },
+                {
+                    "city_name": "Prodromos"
+                },
+                {
+                    "city_name": "Kaminaria"
+                },
+                {
+                    "city_name": "Treis Elies"
+                },
+                {
+                    "city_name": "Lemithou"
+                },
+                {
+                    "city_name": "Kato Platres"
+                },
+                {
+                    "city_name": "Pano Platres"
+                },
+                {
+                    "city_name": "Foini"
+                },
+                {
+                    "city_name": "Amiantos"
+                },
+                {
+                    "city_name": "Kato Mylos"
+                },
+                {
+                    "city_name": "Potamitissa"
+                },
+                {
+                    "city_name": "Dymes"
+                },
+                {
+                    "city_name": "Pelendri"
+                },
+                {
+                    "city_name": "Agros"
+                },
+                {
+                    "city_name": "Agridia"
+                },
+                {
+                    "city_name": "Chandria"
+                },
+                {
+                    "city_name": "Kyperounta"
+                }
+            ]
+        },
+        {
+            "province_name": "Eparchia Larnakas",
+            "cities": [
+                {
+                    "city_name": "Larnaka"
+                },
+                {
+                    "city_name": "Aradippou"
+                },
+                {
+                    "city_name": "Dromolaxia"
+                },
+                {
+                    "city_name": "Meneou"
+                },
+                {
+                    "city_name": "Kellia"
+                },
+                {
+                    "city_name": "Troulloi"
+                },
+                {
+                    "city_name": "Voroklini"
+                },
+                {
+                    "city_name": "Avdellero"
+                },
+                {
+                    "city_name": "Pyla"
+                },
+                {
+                    "city_name": "Xylotymvou"
+                },
+                {
+                    "city_name": "Ormideia"
+                },
+                {
+                    "city_name": "Xylofagou"
+                },
+                {
+                    "city_name": "Pergamos"
+                },
+                {
+                    "city_name": "Kiti"
+                },
+                {
+                    "city_name": "Tersefanou"
+                },
+                {
+                    "city_name": "Softades"
+                },
+                {
+                    "city_name": "Mazotos"
+                },
+                {
+                    "city_name": "Alaminos"
+                },
+                {
+                    "city_name": "Anafotida"
+                },
+                {
+                    "city_name": "Kornos"
+                },
+                {
+                    "city_name": "Aplanta"
+                },
+                {
+                    "city_name": "Kivisili"
+                },
+                {
+                    "city_name": "Kivisili"
+                },
+                {
+                    "city_name": "Alethriko"
+                },
+                {
+                    "city_name": "Klavdia"
+                },
+                {
+                    "city_name": "Anglisides"
+                },
+                {
+                    "city_name": "Menogeia"
+                },
+                {
+                    "city_name": "Petrofani"
+                },
+                {
+                    "city_name": "Athienou"
+                },
+                {
+                    "city_name": "Melouseia"
+                },
+                {
+                    "city_name": "Tremetousia"
+                },
+                {
+                    "city_name": "Arsos"
+                },
+                {
+                    "city_name": "Agia Anna"
+                },
+                {
+                    "city_name": "Mosfiloti"
+                },
+                {
+                    "city_name": "Psevdas"
+                },
+                {
+                    "city_name": "Delikipos"
+                },
+                {
+                    "city_name": "Kochi"
+                },
+                {
+                    "city_name": "Zygi"
+                },
+                {
+                    "city_name": "Mari"
+                },
+                {
+                    "city_name": "Kalavasos"
+                },
+                {
+                    "city_name": "Tochni"
+                },
+                {
+                    "city_name": "Choirokoitia"
+                },
+                {
+                    "city_name": "Psematismenos"
+                },
+                {
+                    "city_name": "Maroni"
+                },
+                {
+                    "city_name": "Skarinou"
+                },
+                {
+                    "city_name": "Kofinou"
+                },
+                {
+                    "city_name": "Kato Lefkara"
+                },
+                {
+                    "city_name": "Pano Lefkara"
+                },
+                {
+                    "city_name": "Kato Drys"
+                },
+                {
+                    "city_name": "Vavla"
+                },
+                {
+                    "city_name": "Lageia"
+                },
+                {
+                    "city_name": "Ora"
+                },
+                {
+                    "city_name": "Melini"
+                },
+                {
+                    "city_name": "Odou"
+                },
+                {
+                    "city_name": "Agioi Vavatsinias"
+                },
+                {
+                    "city_name": "Vavatsinia"
+                }
+            ]
+        },
+        {
+            "province_name": "Eparchia Keryneias",
+            "cities": [
+                {
+                    "city_name": "Keryneia"
+                },
+                {
+                    "city_name": "Pano Dikomo"
+                },
+                {
+                    "city_name": "Kato Dikomo"
+                },
+                {
+                    "city_name": "Koutsoventis"
+                },
+                {
+                    "city_name": "Vouno"
+                },
+                {
+                    "city_name": "Sichari"
+                },
+                {
+                    "city_name": "Fota"
+                },
+                {
+                    "city_name": "Krini"
+                },
+                {
+                    "city_name": "Pileri"
+                },
+                {
+                    "city_name": "Kiomourtzou"
+                },
+                {
+                    "city_name": "Agirda"
+                },
+                {
+                    "city_name": "Agios Ermolaos"
+                },
+                {
+                    "city_name": "Sysklipos"
+                },
+                {
+                    "city_name": "Kontemenos"
+                },
+                {
+                    "city_name": "Asomatos"
+                },
+                {
+                    "city_name": "Kampyli"
+                },
+                {
+                    "city_name": "Karpaseia"
+                },
+                {
+                    "city_name": "Myrtou"
+                },
+                {
+                    "city_name": "Diorios"
+                },
+                {
+                    "city_name": "Agia Eirini"
+                },
+                {
+                    "city_name": "Kormakitis"
+                },
+                {
+                    "city_name": "Livera"
+                },
+                {
+                    "city_name": "Kalograia"
+                },
+                {
+                    "city_name": "Agios Amvrosios"
+                },
+                {
+                    "city_name": "Charkeia"
+                },
+                {
+                    "city_name": "Trapeza"
+                },
+                {
+                    "city_name": "Klepini"
+                },
+                {
+                    "city_name": "Agios Epiktitos"
+                },
+                {
+                    "city_name": "Belapais"
+                },
+                {
+                    "city_name": "Kazafani"
+                },
+                {
+                    "city_name": "Thermeia"
+                },
+                {
+                    "city_name": "Karakoumi"
+                },
+                {
+                    "city_name": "Templos"
+                },
+                {
+                    "city_name": "Karmi"
+                },
+                {
+                    "city_name": "Ftericha"
+                },
+                {
+                    "city_name": "Trimithi"
+                },
+                {
+                    "city_name": "Palaiosofos"
+                },
+                {
+                    "city_name": "Motides"
+                },
+                {
+                    "city_name": "Elia"
+                },
+                {
+                    "city_name": "Karavas"
+                },
+                {
+                    "city_name": "Agios Georgios"
+                },
+                {
+                    "city_name": "Agridaki"
+                },
+                {
+                    "city_name": "Larnakas Lapithou"
+                },
+                {
+                    "city_name": "Lapithos"
+                },
+                {
+                    "city_name": "Vasileia"
+                },
+                {
+                    "city_name": "Panagra"
+                },
+                {
+                    "city_name": "Orga"
+                }
+            ]
+        },
+        {
+            "province_name": "Eparchia Ammochostou",
+            "cities": [
+                {
+                    "city_name": "Ammochostos"
+                },
+                {
+                    "city_name": "Agia Napa"
+                },
+                {
+                    "city_name": "Paralimni"
+                },
+                {
+                    "city_name": "Deryneia"
+                },
+                {
+                    "city_name": "Sotira"
+                },
+                {
+                    "city_name": "Liopetri"
+                },
+                {
+                    "city_name": "Frenaros"
+                },
+                {
+                    "city_name": "Avgorou"
+                },
+                {
+                    "city_name": "Achna"
+                },
+                {
+                    "city_name": "Makrasyka"
+                },
+                {
+                    "city_name": "Kalopsida"
+                },
+                {
+                    "city_name": "Acheritou"
+                },
+                {
+                    "city_name": "Egkomi"
+                },
+                {
+                    "city_name": "Agios Sergios"
+                },
+                {
+                    "city_name": "Stylloi"
+                },
+                {
+                    "city_name": "Limnia"
+                },
+                {
+                    "city_name": "Aloda"
+                },
+                {
+                    "city_name": "Spathariko"
+                },
+                {
+                    "city_name": "Arnadi"
+                },
+                {
+                    "city_name": "Agios Georgios"
+                },
+                {
+                    "city_name": "Perivolia"
+                },
+                {
+                    "city_name": "Sygkrasi"
+                },
+                {
+                    "city_name": "Lapathos"
+                },
+                {
+                    "city_name": "Trikomo"
+                },
+                {
+                    "city_name": "Kouklia"
+                },
+                {
+                    "city_name": "Kontea"
+                },
+                {
+                    "city_name": "Lysi"
+                },
+                {
+                    "city_name": "Vatili"
+                },
+                {
+                    "city_name": "Strongylos"
+                },
+                {
+                    "city_name": "Sinta"
+                },
+                {
+                    "city_name": "Gaidouras"
+                },
+                {
+                    "city_name": "Prastio"
+                },
+                {
+                    "city_name": "Pyrga"
+                },
+                {
+                    "city_name": "Mousoulita"
+                },
+                {
+                    "city_name": "Santalaris"
+                },
+                {
+                    "city_name": "Maratha"
+                },
+                {
+                    "city_name": "Peristerona"
+                },
+                {
+                    "city_name": "Pigi"
+                },
+                {
+                    "city_name": "Genagra"
+                },
+                {
+                    "city_name": "Milia"
+                },
+                {
+                    "city_name": "Gypsou"
+                },
+                {
+                    "city_name": "Lefkonoiko"
+                },
+                {
+                    "city_name": "Psyllatos"
+                },
+                {
+                    "city_name": "Knodara"
+                },
+                {
+                    "city_name": "Goufes"
+                },
+                {
+                    "city_name": "Askeia"
+                },
+                {
+                    "city_name": "Afanteia"
+                },
+                {
+                    "city_name": "Angastina"
+                },
+                {
+                    "city_name": "Marathovounos"
+                },
+                {
+                    "city_name": "Vitsada"
+                },
+                {
+                    "city_name": "Kiados"
+                },
+                {
+                    "city_name": "Kornokipos"
+                },
+                {
+                    "city_name": "Agios Chariton"
+                },
+                {
+                    "city_name": "Trypimeni"
+                },
+                {
+                    "city_name": "Artemi"
+                },
+                {
+                    "city_name": "Agios Nikolaos"
+                },
+                {
+                    "city_name": "Platani"
+                },
+                {
+                    "city_name": "Akanthou"
+                },
+                {
+                    "city_name": "Melounta"
+                },
+                {
+                    "city_name": "Agios Iakovos"
+                },
+                {
+                    "city_name": "Agios Andronikos"
+                },
+                {
+                    "city_name": "Mandres"
+                },
+                {
+                    "city_name": "Ardana"
+                },
+                {
+                    "city_name": "Flamoudi"
+                },
+                {
+                    "city_name": "Bogazi"
+                },
+                {
+                    "city_name": "Monarga"
+                },
+                {
+                    "city_name": "Agios Ilias"
+                },
+                {
+                    "city_name": "Gastria"
+                },
+                {
+                    "city_name": "Avgolida"
+                },
+                {
+                    "city_name": "Patriki"
+                },
+                {
+                    "city_name": "Gerani"
+                },
+                {
+                    "city_name": "Ovgoros"
+                },
+                {
+                    "city_name": "Davlos"
+                },
+                {
+                    "city_name": "Agios Theodoros"
+                },
+                {
+                    "city_name": "Vokolida"
+                },
+                {
+                    "city_name": "Tavrou"
+                },
+                {
+                    "city_name": "Agios Efstathios"
+                },
+                {
+                    "city_name": "Livadia"
+                },
+                {
+                    "city_name": "Krideia"
+                },
+                {
+                    "city_name": "Komi"
+                },
+                {
+                    "city_name": "Galateia"
+                },
+                {
+                    "city_name": "Eptakomi"
+                },
+                {
+                    "city_name": "Koma tou Gialou"
+                },
+                {
+                    "city_name": "Neta"
+                },
+                {
+                    "city_name": "Vothylakas"
+                },
+                {
+                    "city_name": "Lythragkomi"
+                },
+                {
+                    "city_name": "Vasili"
+                },
+                {
+                    "city_name": "Leonarisso"
+                },
+                {
+                    "city_name": "Platanissos"
+                },
+                {
+                    "city_name": "Koilanemos"
+                },
+                {
+                    "city_name": "Agios Andronikos"
+                },
+                {
+                    "city_name": "Agios Symeon"
+                },
+                {
+                    "city_name": "Melanarga"
+                },
+                {
+                    "city_name": "Aigialousa"
+                },
+                {
+                    "city_name": "Agia Trias"
+                },
+                {
+                    "city_name": "Koroveia"
+                },
+                {
+                    "city_name": "Galinoporni"
+                },
+                {
+                    "city_name": "Rizokarpaso"
+                }
+            ]
+        }
+    ]
+}

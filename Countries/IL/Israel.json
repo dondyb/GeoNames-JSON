@@ -1,0 +1,45 @@
+{
+    "country_name": "Israel",
+    "country_id": "IL",
+    "provinces": [
+        {
+            "province_name": "Jerusalem",
+            "cities": []
+        },
+        {
+            "province_name": "Tel Aviv District",
+            "cities": []
+        },
+        {
+            "province_name": "Haifa",
+            "cities": [
+                {
+                    "city_name": "Nefat Hefa"
+                }
+            ]
+        },
+        {
+            "province_name": "Northern District",
+            "cities": [
+                {
+                    "city_name": "Nefat `Akko"
+                }
+            ]
+        },
+        {
+            "province_name": "Central District",
+            "cities": []
+        },
+        {
+            "province_name": "Southern District",
+            "cities": [
+                {
+                    "city_name": "Nefat Ashqelon"
+                },
+                {
+                    "city_name": "Gaza"
+                }
+            ]
+        }
+    ]
+}

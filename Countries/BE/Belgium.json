@@ -1,0 +1,54 @@
+{
+    "country_name": "Belgium",
+    "country_id": "BE",
+    "provinces": [
+        {
+            "province_name": "Bruxelles-Capitale",
+            "cities": [
+                {
+                    "city_name": "Bruxelles-Capitale"
+                }
+            ]
+        },
+        {
+            "province_name": "Wallonia",
+            "cities": [
+                {
+                    "city_name": "Province de Namur"
+                },
+                {
+                    "city_name": "Province du Luxembourg"
+                },
+                {
+                    "city_name": "Province de Liege"
+                },
+                {
+                    "city_name": "Province du Hainaut"
+                },
+                {
+                    "city_name": "Province du Brabant Wallon"
+                }
+            ]
+        },
+        {
+            "province_name": "Flanders",
+            "cities": [
+                {
+                    "city_name": "Provincie West-Vlaanderen"
+                },
+                {
+                    "city_name": "Provincie Oost-Vlaanderen"
+                },
+                {
+                    "city_name": "Provincie Limburg"
+                },
+                {
+                    "city_name": "Provincie Antwerpen"
+                },
+                {
+                    "city_name": "Provincie Vlaams-Brabant"
+                }
+            ]
+        }
+    ]
+}

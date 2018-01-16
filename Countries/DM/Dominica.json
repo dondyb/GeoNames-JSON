@@ -1,0 +1,46 @@
+{
+    "country_name": "Dominica",
+    "country_id": "DM",
+    "provinces": [
+        {
+            "province_name": "Saint Peter",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Paul",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Patrick",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Mark",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Luke",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Joseph",
+            "cities": []
+        },
+        {
+            "province_name": "Saint John",
+            "cities": []
+        },
+        {
+            "province_name": "Saint George",
+            "cities": []
+        },
+        {
+            "province_name": "Saint David",
+            "cities": []
+        },
+        {
+            "province_name": "Saint Andrew",
+            "cities": []
+        }
+    ]
+}

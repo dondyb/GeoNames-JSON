@@ -1,0 +1,663 @@
+{
+    "country_name": "Tanzania",
+    "country_id": "TZ",
+    "provinces": [
+        {
+            "province_name": "Kagera Region",
+            "cities": [
+                {
+                    "city_name": "Ngara"
+                },
+                {
+                    "city_name": "Muleba"
+                },
+                {
+                    "city_name": "Karagwe"
+                },
+                {
+                    "city_name": "Bukoba"
+                },
+                {
+                    "city_name": "Biharamulo District"
+                },
+                {
+                    "city_name": "Bukoba Municipal"
+                },
+                {
+                    "city_name": "Kyerwa"
+                },
+                {
+                    "city_name": "Missenyi"
+                }
+            ]
+        },
+        {
+            "province_name": "Zanzibar Urban/West Region",
+            "cities": [
+                {
+                    "city_name": "Magharibi"
+                },
+                {
+                    "city_name": "Mjini"
+                }
+            ]
+        },
+        {
+            "province_name": "Zanzibar North Region",
+            "cities": [
+                {
+                    "city_name": "Kaskazini A"
+                },
+                {
+                    "city_name": "Kaskazini B"
+                }
+            ]
+        },
+        {
+            "province_name": "Zanzibar Central/South Region",
+            "cities": [
+                {
+                    "city_name": "Kati"
+                },
+                {
+                    "city_name": "Kusini"
+                }
+            ]
+        },
+        {
+            "province_name": "Tanga Region",
+            "cities": [
+                {
+                    "city_name": "Tanga"
+                },
+                {
+                    "city_name": "Pangani"
+                },
+                {
+                    "city_name": "Muheza District"
+                },
+                {
+                    "city_name": "Lushoto"
+                },
+                {
+                    "city_name": "Korogwe District"
+                },
+                {
+                    "city_name": "Handeni"
+                },
+                {
+                    "city_name": "Kilindi District"
+                },
+                {
+                    "city_name": "Handeni Town"
+                },
+                {
+                    "city_name": "Korogwe Town"
+                },
+                {
+                    "city_name": "Mkinga"
+                }
+            ]
+        },
+        {
+            "province_name": "Tabora Region",
+            "cities": [
+                {
+                    "city_name": "Urambo"
+                },
+                {
+                    "city_name": "Tabora Urban"
+                },
+                {
+                    "city_name": "Nzega"
+                },
+                {
+                    "city_name": "Igunga"
+                },
+                {
+                    "city_name": "Uyui District"
+                },
+                {
+                    "city_name": "Sikonge District"
+                },
+                {
+                    "city_name": "Kaliua"
+                }
+            ]
+        },
+        {
+            "province_name": "Singida Region",
+            "cities": [
+                {
+                    "city_name": "Singida Rural District"
+                },
+                {
+                    "city_name": "Manyoni"
+                },
+                {
+                    "city_name": "Iramba"
+                },
+                {
+                    "city_name": "Singida Urban District"
+                },
+                {
+                    "city_name": "Ikungi"
+                },
+                {
+                    "city_name": "Mkalama"
+                }
+            ]
+        },
+        {
+            "province_name": "Shinyanga Region",
+            "cities": [
+                {
+                    "city_name": "Shinyanga Urban"
+                },
+                {
+                    "city_name": "Kahama Rural District"
+                },
+                {
+                    "city_name": "Kishapu District"
+                },
+                {
+                    "city_name": "Shinyanga Rural"
+                },
+                {
+                    "city_name": "Kahama Town"
+                }
+            ]
+        },
+        {
+            "province_name": "Rukwa Region",
+            "cities": [
+                {
+                    "city_name": "Sumbawanga"
+                },
+                {
+                    "city_name": "Nkasi"
+                },
+                {
+                    "city_name": "Sumbawanga Urban"
+                },
+                {
+                    "city_name": "Kalambo"
+                }
+            ]
+        },
+        {
+            "province_name": "Coast Region",
+            "cities": [
+                {
+                    "city_name": "Rufiji"
+                },
+                {
+                    "city_name": "Mafia"
+                },
+                {
+                    "city_name": "Kisarawe"
+                },
+                {
+                    "city_name": "Bagamoyo"
+                },
+                {
+                    "city_name": "Kibaha District"
+                },
+                {
+                    "city_name": "Mkuranga"
+                },
+                {
+                    "city_name": "Kibaha Town"
+                }
+            ]
+        },
+        {
+            "province_name": "Pemba South Region",
+            "cities": [
+                {
+                    "city_name": "Mkoani District"
+                },
+                {
+                    "city_name": "Chake Chake District"
+                }
+            ]
+        },
+        {
+            "province_name": "Pemba North Region",
+            "cities": [
+                {
+                    "city_name": "Wete District"
+                },
+                {
+                    "city_name": "Micheweni"
+                }
+            ]
+        },
+        {
+            "province_name": "Mwanza Region",
+            "cities": [
+                {
+                    "city_name": "Ukerewe District"
+                },
+                {
+                    "city_name": "Sengerema"
+                },
+                {
+                    "city_name": "Magu"
+                },
+                {
+                    "city_name": "Kwimba District"
+                },
+                {
+                    "city_name": "Misungwi district"
+                },
+                {
+                    "city_name": "Ilemela District"
+                },
+                {
+                    "city_name": "Nyamagana District"
+                }
+            ]
+        },
+        {
+            "province_name": "Morogoro Region",
+            "cities": [
+                {
+                    "city_name": "Ulanga"
+                },
+                {
+                    "city_name": "Morogoro Urban"
+                },
+                {
+                    "city_name": "Kilosa"
+                },
+                {
+                    "city_name": "Kilombero"
+                },
+                {
+                    "city_name": "Morogoro Rural"
+                },
+                {
+                    "city_name": "Mvomero District"
+                },
+                {
+                    "city_name": "Gairo"
+                }
+            ]
+        },
+        {
+            "province_name": "Mbeya Region",
+            "cities": [
+                {
+                    "city_name": "Rungwe"
+                },
+                {
+                    "city_name": "Mbozi"
+                },
+                {
+                    "city_name": "Mbeya"
+                },
+                {
+                    "city_name": "Kyela"
+                },
+                {
+                    "city_name": "Ileje"
+                },
+                {
+                    "city_name": "Chunya"
+                },
+                {
+                    "city_name": "Mbarali district"
+                },
+                {
+                    "city_name": "Mbeya City"
+                },
+                {
+                    "city_name": "Momba"
+                },
+                {
+                    "city_name": "Tunduma"
+                }
+            ]
+        },
+        {
+            "province_name": "Mara Region",
+            "cities": [
+                {
+                    "city_name": "Tarime"
+                },
+                {
+                    "city_name": "Serengeti"
+                },
+                {
+                    "city_name": "Musoma"
+                },
+                {
+                    "city_name": "Bunda"
+                },
+                {
+                    "city_name": "Butiama"
+                },
+                {
+                    "city_name": "Musoma Municipal"
+                },
+                {
+                    "city_name": "Rorya"
+                }
+            ]
+        },
+        {
+            "province_name": "Lindi Region",
+            "cities": [
+                {
+                    "city_name": "Liwale"
+                },
+                {
+                    "city_name": "Kilwa"
+                },
+                {
+                    "city_name": "Nachingwea"
+                },
+                {
+                    "city_name": "Lindi Urban"
+                },
+                {
+                    "city_name": "Lindi Rural"
+                },
+                {
+                    "city_name": "Ruangwa"
+                }
+            ]
+        },
+        {
+            "province_name": "Kilimanjaro Region",
+            "cities": [
+                {
+                    "city_name": "Same"
+                },
+                {
+                    "city_name": "Rombo District"
+                },
+                {
+                    "city_name": "Mwanga"
+                },
+                {
+                    "city_name": "Hai"
+                },
+                {
+                    "city_name": "Moshi Rural District"
+                },
+                {
+                    "city_name": "Moshi Urban District"
+                },
+                {
+                    "city_name": "Siha"
+                }
+            ]
+        },
+        {
+            "province_name": "Kigoma Region",
+            "cities": [
+                {
+                    "city_name": "Kibondo"
+                },
+                {
+                    "city_name": "Kasulu"
+                },
+                {
+                    "city_name": "Kigoma Rural"
+                },
+                {
+                    "city_name": "Uvinza District"
+                },
+                {
+                    "city_name": "Kakonko District"
+                },
+                {
+                    "city_name": "Buhigwe"
+                },
+                {
+                    "city_name": "Kasulu Town"
+                },
+                {
+                    "city_name": "Kigoma Ujiji Municipal"
+                }
+            ]
+        },
+        {
+            "province_name": "Iringa Region",
+            "cities": [
+                {
+                    "city_name": "Mufindi"
+                },
+                {
+                    "city_name": "Iringa Rural District"
+                },
+                {
+                    "city_name": "Kilolo District"
+                },
+                {
+                    "city_name": "Iringa Urban District"
+                },
+                {
+                    "city_name": "Mafinga Town Council"
+                }
+            ]
+        },
+        {
+            "province_name": "Dodoma Region",
+            "cities": [
+                {
+                    "city_name": "Mpwapwa"
+                },
+                {
+                    "city_name": "Kondoa"
+                },
+                {
+                    "city_name": "Chamwino"
+                },
+                {
+                    "city_name": "Bahi District"
+                },
+                {
+                    "city_name": "Kongwa"
+                },
+                {
+                    "city_name": "Dodoma Urban District"
+                },
+                {
+                    "city_name": "Chemba"
+                }
+            ]
+        },
+        {
+            "province_name": "Dar es Salaam Region",
+            "cities": [
+                {
+                    "city_name": "Temeke"
+                },
+                {
+                    "city_name": "Kinondoni"
+                },
+                {
+                    "city_name": "Ilala"
+                }
+            ]
+        },
+        {
+            "province_name": "Arusha Region",
+            "cities": [
+                {
+                    "city_name": "Ngorongoro"
+                },
+                {
+                    "city_name": "Monduli District"
+                },
+                {
+                    "city_name": "Meru"
+                },
+                {
+                    "city_name": "Arusha District"
+                },
+                {
+                    "city_name": "Longido District"
+                },
+                {
+                    "city_name": "Karatu District"
+                },
+                {
+                    "city_name": "Arusha City"
+                }
+            ]
+        },
+        {
+            "province_name": "Manyara Region",
+            "cities": [
+                {
+                    "city_name": "Mbulu"
+                },
+                {
+                    "city_name": "Kiteto"
+                },
+                {
+                    "city_name": "Hanang District"
+                },
+                {
+                    "city_name": "Babati District"
+                },
+                {
+                    "city_name": "Simanjiro"
+                },
+                {
+                    "city_name": "Babati Town"
+                }
+            ]
+        },
+        {
+            "province_name": "Ruvuma Region",
+            "cities": [
+                {
+                    "city_name": "Tunduru"
+                },
+                {
+                    "city_name": "Songea"
+                },
+                {
+                    "city_name": "Mbinga"
+                },
+                {
+                    "city_name": "Namtumbo"
+                },
+                {
+                    "city_name": "Nyasa"
+                },
+                {
+                    "city_name": "Songea Municipal"
+                }
+            ]
+        },
+        {
+            "province_name": "Mtwara Region",
+            "cities": [
+                {
+                    "city_name": "Newala"
+                },
+                {
+                    "city_name": "Mtwara"
+                },
+                {
+                    "city_name": "Masasi"
+                },
+                {
+                    "city_name": "Nanyumbu District"
+                },
+                {
+                    "city_name": "Tandahimba"
+                },
+                {
+                    "city_name": "Masasi Town"
+                },
+                {
+                    "city_name": "Mtwara Urban"
+                }
+            ]
+        },
+        {
+            "province_name": "Simiyu Region",
+            "cities": [
+                {
+                    "city_name": "Maswa District"
+                },
+                {
+                    "city_name": "Bariadi"
+                },
+                {
+                    "city_name": "Meatu"
+                },
+                {
+                    "city_name": "Busega"
+                },
+                {
+                    "city_name": "Itilima"
+                }
+            ]
+        },
+        {
+            "province_name": "Geita Region",
+            "cities": [
+                {
+                    "city_name": "Geita"
+                },
+                {
+                    "city_name": "Bukombe District"
+                },
+                {
+                    "city_name": "Chato District"
+                },
+                {
+                    "city_name": "Mbogwe"
+                },
+                {
+                    "city_name": "Nyang'hwale"
+                }
+            ]
+        },
+        {
+            "province_name": "Katavi Region",
+            "cities": [
+                {
+                    "city_name": "Mpanda"
+                },
+                {
+                    "city_name": "Mlele"
+                },
+                {
+                    "city_name": "Mpanda Town"
+                }
+            ]
+        },
+        {
+            "province_name": "Njombe Region",
+            "cities": [
+                {
+                    "city_name": "Njombe District Council"
+                },
+                {
+                    "city_name": "Makete"
+                },
+                {
+                    "city_name": "Ludewa"
+                },
+                {
+                    "city_name": "Makambako Town"
+                },
+                {
+                    "city_name": "Njombe Town"
+                },
+                {
+                    "city_name": "Wanging'ombe"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "country_name": "Liechtenstein",
+    "country_id": "LI",
+    "provinces": [
+        {
+            "province_name": "Vaduz",
+            "cities": []
+        },
+        {
+            "province_name": "Triesenberg",
+            "cities": []
+        },
+        {
+            "province_name": "Triesen",
+            "cities": []
+        },
+        {
+            "province_name": "Schellenberg",
+            "cities": []
+        },
+        {
+            "province_name": "Schaan",
+            "cities": []
+        },
+        {
+            "province_name": "Ruggell",
+            "cities": []
+        },
+        {
+            "province_name": "Planken",
+            "cities": []
+        },
+        {
+            "province_name": "Mauren",
+            "cities": []
+        },
+        {
+            "province_name": "Gamprin",
+            "cities": []
+        },
+        {
+            "province_name": "Eschen",
+            "cities": []
+        },
+        {
+            "province_name": "Balzers",
+            "cities": []
+        }
+    ]
+}

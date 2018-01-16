@@ -1,0 +1,2362 @@
+{
+    "country_name": "Latvia",
+    "country_id": "LV",
+    "provinces": [
+        {
+            "province_name": "Ventspils Municipality",
+            "cities": [
+                {
+                    "city_name": "Piltenes pagasts"
+                },
+                {
+                    "city_name": "Puzes pagasts"
+                },
+                {
+                    "city_name": "Piltene"
+                },
+                {
+                    "city_name": "Ziru pagasts"
+                },
+                {
+                    "city_name": "Zleku pagasts"
+                },
+                {
+                    "city_name": "Popes pagasts"
+                },
+                {
+                    "city_name": "Ances pagasts"
+                },
+                {
+                    "city_name": "Jurkalnes pagasts"
+                },
+                {
+                    "city_name": "Targales pagasts"
+                },
+                {
+                    "city_name": "Ugales pagasts"
+                },
+                {
+                    "city_name": "Usmas pagasts"
+                },
+                {
+                    "city_name": "Uzavas pagasts"
+                },
+                {
+                    "city_name": "Varves pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ventspils",
+            "cities": [
+                {
+                    "city_name": "Ventspils"
+                }
+            ]
+        },
+        {
+            "province_name": "Valmiera",
+            "cities": [
+                {
+                    "city_name": "Valmiera"
+                }
+            ]
+        },
+        {
+            "province_name": "Valka Municipality",
+            "cities": [
+                {
+                    "city_name": "Karku pagasts"
+                },
+                {
+                    "city_name": "Ergemes pagasts"
+                },
+                {
+                    "city_name": "Valkas pagasts"
+                },
+                {
+                    "city_name": "Vijciema pagasts"
+                },
+                {
+                    "city_name": "Zvartavas pagasts"
+                },
+                {
+                    "city_name": "Valka"
+                }
+            ]
+        },
+        {
+            "province_name": "Tukuma novads",
+            "cities": [
+                {
+                    "city_name": "Degoles pagasts"
+                },
+                {
+                    "city_name": "Dzukstes pagasts"
+                },
+                {
+                    "city_name": "Irlavas pagasts"
+                },
+                {
+                    "city_name": "Jaunsatu pagasts"
+                },
+                {
+                    "city_name": "Pures pagasts"
+                },
+                {
+                    "city_name": "Semes pagasts"
+                },
+                {
+                    "city_name": "Slampes pagasts"
+                },
+                {
+                    "city_name": "Tukums"
+                },
+                {
+                    "city_name": "Tumes pagasts"
+                },
+                {
+                    "city_name": "Zentenes pagasts"
+                },
+                {
+                    "city_name": "Lestenes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Talsi Municipality",
+            "cities": [
+                {
+                    "city_name": "Strazdes pagasts"
+                },
+                {
+                    "city_name": "Talsi"
+                },
+                {
+                    "city_name": "Valdemarpils"
+                },
+                {
+                    "city_name": "Ives pagasts"
+                },
+                {
+                    "city_name": "Abavas pagasts"
+                },
+                {
+                    "city_name": "Arlavas pagasts"
+                },
+                {
+                    "city_name": "Balgales pagasts"
+                },
+                {
+                    "city_name": "Gibulu pagasts"
+                },
+                {
+                    "city_name": "Kulciema pagasts"
+                },
+                {
+                    "city_name": "Laidzes pagasts"
+                },
+                {
+                    "city_name": "Laucienes pagasts"
+                },
+                {
+                    "city_name": "Libagu pagasts"
+                },
+                {
+                    "city_name": "Lubes pagasts"
+                },
+                {
+                    "city_name": "Sabile"
+                },
+                {
+                    "city_name": "Stende"
+                },
+                {
+                    "city_name": "Valdgales pagasts"
+                },
+                {
+                    "city_name": "Vandzenes pagasts"
+                },
+                {
+                    "city_name": "Virbu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Saldus Municipality",
+            "cities": [
+                {
+                    "city_name": "Saldus"
+                },
+                {
+                    "city_name": "Ezeres pagasts"
+                },
+                {
+                    "city_name": "Jaunauces pagasts"
+                },
+                {
+                    "city_name": "Jaunlutrinu pagasts"
+                },
+                {
+                    "city_name": "Kursisu pagasts"
+                },
+                {
+                    "city_name": "Lutrinu pagasts"
+                },
+                {
+                    "city_name": "Nigrandes pagasts"
+                },
+                {
+                    "city_name": "Novadnieku pagasts"
+                },
+                {
+                    "city_name": "Pampalu pagasts"
+                },
+                {
+                    "city_name": "Rubas pagasts"
+                },
+                {
+                    "city_name": "Saldus pagasts"
+                },
+                {
+                    "city_name": "Skedes pagasts"
+                },
+                {
+                    "city_name": "Vadakstes pagasts"
+                },
+                {
+                    "city_name": "Zanas pagasts"
+                },
+                {
+                    "city_name": "Zirnu pagasts"
+                },
+                {
+                    "city_name": "Zvardes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Riga",
+            "cities": [
+                {
+                    "city_name": "Riga"
+                }
+            ]
+        },
+        {
+            "province_name": "Rezeknes Novads",
+            "cities": [
+                {
+                    "city_name": "Cornajas pagasts"
+                },
+                {
+                    "city_name": "Naglu pagasts"
+                },
+                {
+                    "city_name": "Audrinu pagasts"
+                },
+                {
+                    "city_name": "Berzgales pagasts"
+                },
+                {
+                    "city_name": "Dricanu pagasts"
+                },
+                {
+                    "city_name": "Feimanu pagasts"
+                },
+                {
+                    "city_name": "Gaigalavas pagasts"
+                },
+                {
+                    "city_name": "Griskanu pagasts"
+                },
+                {
+                    "city_name": "Ilzeskalna pagasts"
+                },
+                {
+                    "city_name": "Kantinieku pagasts"
+                },
+                {
+                    "city_name": "Kaunatas pagasts"
+                },
+                {
+                    "city_name": "Lendzu pagasts"
+                },
+                {
+                    "city_name": "Luznavas pagasts"
+                },
+                {
+                    "city_name": "Makonkalna pagasts"
+                },
+                {
+                    "city_name": "Maltas pagasts"
+                },
+                {
+                    "city_name": "Nautrenu pagasts"
+                },
+                {
+                    "city_name": "Ozolaines pagasts"
+                },
+                {
+                    "city_name": "Ozolmuizas pagasts"
+                },
+                {
+                    "city_name": "Pusas pagasts"
+                },
+                {
+                    "city_name": "Rikavas pagasts"
+                },
+                {
+                    "city_name": "Sakstagala pagasts"
+                },
+                {
+                    "city_name": "Silmalas pagasts"
+                },
+                {
+                    "city_name": "Stolerovas pagasts"
+                },
+                {
+                    "city_name": "Struzanu pagasts"
+                },
+                {
+                    "city_name": "Veremu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Rezekne",
+            "cities": [
+                {
+                    "city_name": "Rezekne"
+                }
+            ]
+        },
+        {
+            "province_name": "Preili Municipality",
+            "cities": [
+                {
+                    "city_name": "Preili"
+                },
+                {
+                    "city_name": "Saunas pagasts"
+                },
+                {
+                    "city_name": "Aizkalnes pagasts"
+                },
+                {
+                    "city_name": "Pelecu pagasts"
+                },
+                {
+                    "city_name": "Preilu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ogres novads",
+            "cities": [
+                {
+                    "city_name": "Ogre"
+                },
+                {
+                    "city_name": "Keipenes pagasts"
+                },
+                {
+                    "city_name": "Krapes pagasts"
+                },
+                {
+                    "city_name": "Lauberes pagasts"
+                },
+                {
+                    "city_name": "Madlienas pagasts"
+                },
+                {
+                    "city_name": "Mazozolu pagasts"
+                },
+                {
+                    "city_name": "Mengeles pagasts"
+                },
+                {
+                    "city_name": "Ogresgala pagasts"
+                },
+                {
+                    "city_name": "Suntazu pagasts"
+                },
+                {
+                    "city_name": "Taurupes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Madona Municipality",
+            "cities": [
+                {
+                    "city_name": "Aronas pagasts"
+                },
+                {
+                    "city_name": "Barkavas pagasts"
+                },
+                {
+                    "city_name": "Berzaunes pagasts"
+                },
+                {
+                    "city_name": "Dzelzavas pagasts"
+                },
+                {
+                    "city_name": "Kalsnavas pagasts"
+                },
+                {
+                    "city_name": "Laudonas pagasts"
+                },
+                {
+                    "city_name": "Lazdonas pagasts"
+                },
+                {
+                    "city_name": "Sarkanu pagasts"
+                },
+                {
+                    "city_name": "Liezeres pagasts"
+                },
+                {
+                    "city_name": "Madona"
+                },
+                {
+                    "city_name": "Marcienas pagasts"
+                },
+                {
+                    "city_name": "Metrienas pagasts"
+                },
+                {
+                    "city_name": "Osupes pagasts"
+                },
+                {
+                    "city_name": "Praulienas pagasts"
+                },
+                {
+                    "city_name": "Vestienas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ludzas novads",
+            "cities": [
+                {
+                    "city_name": "Brigu pagasts"
+                },
+                {
+                    "city_name": "Cirmas pagasts"
+                },
+                {
+                    "city_name": "Isnaudas pagasts"
+                },
+                {
+                    "city_name": "Istras pagasts"
+                },
+                {
+                    "city_name": "Ludza"
+                },
+                {
+                    "city_name": "Nirzas pagasts"
+                },
+                {
+                    "city_name": "Nuksu pagasts"
+                },
+                {
+                    "city_name": "Pildas pagasts"
+                },
+                {
+                    "city_name": "Purenu pagasts"
+                },
+                {
+                    "city_name": "Rundenu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Limbazu novads",
+            "cities": [
+                {
+                    "city_name": "Katvaru pagasts"
+                },
+                {
+                    "city_name": "Limbazi"
+                },
+                {
+                    "city_name": "Limbazu pagasts"
+                },
+                {
+                    "city_name": "Pales pagasts"
+                },
+                {
+                    "city_name": "Skultes pagasts"
+                },
+                {
+                    "city_name": "Umurgas pagasts"
+                },
+                {
+                    "city_name": "Vidrizu pagasts"
+                },
+                {
+                    "city_name": "Vilkenes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Liepaja",
+            "cities": [
+                {
+                    "city_name": "Liepaja"
+                }
+            ]
+        },
+        {
+            "province_name": "Kuldigas novads",
+            "cities": [
+                {
+                    "city_name": "Snepeles pagasts"
+                },
+                {
+                    "city_name": "Ivandes pagasts"
+                },
+                {
+                    "city_name": "Edoles pagasts"
+                },
+                {
+                    "city_name": "Gudenieku pagasts"
+                },
+                {
+                    "city_name": "Pelcu pagasts"
+                },
+                {
+                    "city_name": "Kabiles pagasts"
+                },
+                {
+                    "city_name": "Kuldiga"
+                },
+                {
+                    "city_name": "Kurmales pagasts"
+                },
+                {
+                    "city_name": "Laidu pagasts"
+                },
+                {
+                    "city_name": "Padures pagasts"
+                },
+                {
+                    "city_name": "Rendas pagasts"
+                },
+                {
+                    "city_name": "Rumbas pagasts"
+                },
+                {
+                    "city_name": "Turlavas pagasts"
+                },
+                {
+                    "city_name": "Varmes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Kraslavas novads",
+            "cities": [
+                {
+                    "city_name": "Aulejas pagasts"
+                },
+                {
+                    "city_name": "Indras pagasts"
+                },
+                {
+                    "city_name": "Izvaltas pagasts"
+                },
+                {
+                    "city_name": "Kalniesu pagasts"
+                },
+                {
+                    "city_name": "Kaplavas pagasts"
+                },
+                {
+                    "city_name": "Kombulu pagasts"
+                },
+                {
+                    "city_name": "Kraslava"
+                },
+                {
+                    "city_name": "Kraslavas pagasts"
+                },
+                {
+                    "city_name": "Piedrujas pagasts"
+                },
+                {
+                    "city_name": "Robeznieku pagasts"
+                },
+                {
+                    "city_name": "Skaistas pagasts"
+                },
+                {
+                    "city_name": "Udrisu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Jurmala",
+            "cities": [
+                {
+                    "city_name": "Jurmala"
+                }
+            ]
+        },
+        {
+            "province_name": "Jelgavas novads",
+            "cities": [
+                {
+                    "city_name": "Kalnciema pagasts"
+                },
+                {
+                    "city_name": "Elejas pagasts"
+                },
+                {
+                    "city_name": "Gludas pagasts"
+                },
+                {
+                    "city_name": "Jaunsvirlaukas pagasts"
+                },
+                {
+                    "city_name": "Lielplatones pagasts"
+                },
+                {
+                    "city_name": "Livberzes pagasts"
+                },
+                {
+                    "city_name": "Platones pagasts"
+                },
+                {
+                    "city_name": "Sesavas pagasts"
+                },
+                {
+                    "city_name": "Svetes pagasts"
+                },
+                {
+                    "city_name": "Valgundes pagasts"
+                },
+                {
+                    "city_name": "Vilces pagasts"
+                },
+                {
+                    "city_name": "Vircavas pagasts"
+                },
+                {
+                    "city_name": "Zalenieku pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Jelgava",
+            "cities": [
+                {
+                    "city_name": "Jelgava"
+                }
+            ]
+        },
+        {
+            "province_name": "Jekabpils Municipality",
+            "cities": [
+                {
+                    "city_name": "Abelu pagasts"
+                },
+                {
+                    "city_name": "Dignajas pagasts"
+                },
+                {
+                    "city_name": "Dunavas pagasts"
+                },
+                {
+                    "city_name": "Kalna pagasts"
+                },
+                {
+                    "city_name": "Leimanu pagasts"
+                },
+                {
+                    "city_name": "Rubenes pagasts"
+                },
+                {
+                    "city_name": "Zasas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Gulbenes novads",
+            "cities": [
+                {
+                    "city_name": "Gulbene"
+                },
+                {
+                    "city_name": "Belavas pagasts"
+                },
+                {
+                    "city_name": "Daukstu pagasts"
+                },
+                {
+                    "city_name": "Druvienas pagasts"
+                },
+                {
+                    "city_name": "Galgauskas pagasts"
+                },
+                {
+                    "city_name": "Jaungulbenes pagasts"
+                },
+                {
+                    "city_name": "Lejasciema pagasts"
+                },
+                {
+                    "city_name": "Ligo pagasts"
+                },
+                {
+                    "city_name": "Litenes pagasts"
+                },
+                {
+                    "city_name": "Lizuma pagasts"
+                },
+                {
+                    "city_name": "Rankas pagasts"
+                },
+                {
+                    "city_name": "Stamerienas pagasts"
+                },
+                {
+                    "city_name": "Stradu pagasts"
+                },
+                {
+                    "city_name": "Tirzas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Dobeles novads",
+            "cities": [
+                {
+                    "city_name": "Dobele"
+                },
+                {
+                    "city_name": "Berzes pagasts"
+                },
+                {
+                    "city_name": "Annenieku pagasts"
+                },
+                {
+                    "city_name": "Auru pagasts"
+                },
+                {
+                    "city_name": "Bikstu pagasts"
+                },
+                {
+                    "city_name": "Dobeles pagasts"
+                },
+                {
+                    "city_name": "Jaunberzes pagasts"
+                },
+                {
+                    "city_name": "Krimunu pagasts"
+                },
+                {
+                    "city_name": "Naudites pagasts"
+                },
+                {
+                    "city_name": "Penkules pagasts"
+                },
+                {
+                    "city_name": "Zebrenes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Daugavpils municipality",
+            "cities": [
+                {
+                    "city_name": "Ambelu pagasts"
+                },
+                {
+                    "city_name": "Bikernieku pagasts"
+                },
+                {
+                    "city_name": "Demenes pagasts"
+                },
+                {
+                    "city_name": "Dubnas pagasts"
+                },
+                {
+                    "city_name": "Kalkunes pagasts"
+                },
+                {
+                    "city_name": "Kalupes pagasts"
+                },
+                {
+                    "city_name": "Laucesas pagasts"
+                },
+                {
+                    "city_name": "Liksnas pagasts"
+                },
+                {
+                    "city_name": "Malinovas pagasts"
+                },
+                {
+                    "city_name": "Medumu pagasts"
+                },
+                {
+                    "city_name": "Naujenes pagasts"
+                },
+                {
+                    "city_name": "Nicgales pagasts"
+                },
+                {
+                    "city_name": "Salienas pagasts"
+                },
+                {
+                    "city_name": "Skrudalienas pagasts"
+                },
+                {
+                    "city_name": "Sventes pagasts"
+                },
+                {
+                    "city_name": "Tabores pagasts"
+                },
+                {
+                    "city_name": "Vaboles pagasts"
+                },
+                {
+                    "city_name": "Vecsalienas pagasts"
+                },
+                {
+                    "city_name": "Visku pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Daugavpils",
+            "cities": [
+                {
+                    "city_name": "Daugavpils"
+                }
+            ]
+        },
+        {
+            "province_name": "Cesu Novads",
+            "cities": [
+                {
+                    "city_name": "Cesis"
+                },
+                {
+                    "city_name": "Vaives pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Bauskas Novads",
+            "cities": [
+                {
+                    "city_name": "Bauska"
+                },
+                {
+                    "city_name": "Brunavas pagasts"
+                },
+                {
+                    "city_name": "Ceraukstes pagasts"
+                },
+                {
+                    "city_name": "Codes pagasts"
+                },
+                {
+                    "city_name": "Davinu pagasts"
+                },
+                {
+                    "city_name": "Gailisu pagasts"
+                },
+                {
+                    "city_name": "Islices pagasts"
+                },
+                {
+                    "city_name": "Mezotnes pagasts"
+                },
+                {
+                    "city_name": "Vecsaules pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Balvu Novads",
+            "cities": [
+                {
+                    "city_name": "Balvu pagasts"
+                },
+                {
+                    "city_name": "Berzkalnes pagasts"
+                },
+                {
+                    "city_name": "Berzpils pagasts"
+                },
+                {
+                    "city_name": "Briezuciema pagasts"
+                },
+                {
+                    "city_name": "Krisjanu pagasts"
+                },
+                {
+                    "city_name": "Kubulu pagasts"
+                },
+                {
+                    "city_name": "Lazdulejas pagasts"
+                },
+                {
+                    "city_name": "Tilzas pagasts"
+                },
+                {
+                    "city_name": "Vectilzas pagasts"
+                },
+                {
+                    "city_name": "Viksnas pagasts"
+                },
+                {
+                    "city_name": "Balvi"
+                }
+            ]
+        },
+        {
+            "province_name": "Aluksnes Novads",
+            "cities": [
+                {
+                    "city_name": "Markalnes pagasts"
+                },
+                {
+                    "city_name": "Aluksne"
+                },
+                {
+                    "city_name": "Alsviku pagasts"
+                },
+                {
+                    "city_name": "Annas pagasts"
+                },
+                {
+                    "city_name": "Ilzenes pagasts"
+                },
+                {
+                    "city_name": "Pededzes pagasts"
+                },
+                {
+                    "city_name": "Jaunaluksnes pagasts"
+                },
+                {
+                    "city_name": "Jaunannas pagasts"
+                },
+                {
+                    "city_name": "Jaunlaicenes pagasts"
+                },
+                {
+                    "city_name": "Kalncempju pagasts"
+                },
+                {
+                    "city_name": "Liepnas pagasts"
+                },
+                {
+                    "city_name": "Malienas pagasts"
+                },
+                {
+                    "city_name": "Malupes pagasts"
+                },
+                {
+                    "city_name": "Veclaicenes pagasts"
+                },
+                {
+                    "city_name": "Zeltinu pagasts"
+                },
+                {
+                    "city_name": "Ziemera pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Aizkraukles novads",
+            "cities": [
+                {
+                    "city_name": "Aizkraukle"
+                },
+                {
+                    "city_name": "Aizkraukles pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Dundagas Novads",
+            "cities": [
+                {
+                    "city_name": "Dundagas pagasts"
+                },
+                {
+                    "city_name": "Kolkas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Alsungas Novads",
+            "cities": [
+                {
+                    "city_name": "Alsungas novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Pavilostas Novads",
+            "cities": [
+                {
+                    "city_name": "Pavilosta"
+                },
+                {
+                    "city_name": "Sakas pagasts"
+                },
+                {
+                    "city_name": "Vergales pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Nicas Novads",
+            "cities": [
+                {
+                    "city_name": "Nicas pagasts"
+                },
+                {
+                    "city_name": "Otanku pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Rucavas Novads",
+            "cities": [
+                {
+                    "city_name": "Dunikas pagasts"
+                },
+                {
+                    "city_name": "Rucavas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Grobinas Novads",
+            "cities": [
+                {
+                    "city_name": "Bartas pagasts"
+                },
+                {
+                    "city_name": "Gaviezes pagasts"
+                },
+                {
+                    "city_name": "Grobinas pagasts"
+                },
+                {
+                    "city_name": "Medzes pagasts"
+                },
+                {
+                    "city_name": "Grobina"
+                }
+            ]
+        },
+        {
+            "province_name": "Durbes Novads",
+            "cities": [
+                {
+                    "city_name": "Durbe"
+                },
+                {
+                    "city_name": "Dunalkas pagasts"
+                },
+                {
+                    "city_name": "Durbes pagasts"
+                },
+                {
+                    "city_name": "Tadaiku pagasts"
+                },
+                {
+                    "city_name": "Vecpils pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Aizputes Novads",
+            "cities": [
+                {
+                    "city_name": "Aizpute"
+                },
+                {
+                    "city_name": "Aizputes pagasts"
+                },
+                {
+                    "city_name": "Ciravas pagasts"
+                },
+                {
+                    "city_name": "Kalvenes pagasts"
+                },
+                {
+                    "city_name": "Kazdangas pagasts"
+                },
+                {
+                    "city_name": "Lazas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Priekules Novads",
+            "cities": [
+                {
+                    "city_name": "Bunkas pagasts"
+                },
+                {
+                    "city_name": "Gramzdas pagasts"
+                },
+                {
+                    "city_name": "Kaletu pagasts"
+                },
+                {
+                    "city_name": "Priekules pagasts"
+                },
+                {
+                    "city_name": "Virgas pagasts"
+                },
+                {
+                    "city_name": "Priekule"
+                }
+            ]
+        },
+        {
+            "province_name": "Vainodes Novads",
+            "cities": [
+                {
+                    "city_name": "Embutes pagasts"
+                },
+                {
+                    "city_name": "Vainodes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Skrundas Novads",
+            "cities": [
+                {
+                    "city_name": "Skrunda"
+                },
+                {
+                    "city_name": "Rudbarzu pagasts"
+                },
+                {
+                    "city_name": "Nikraces pagasts"
+                },
+                {
+                    "city_name": "Ranku pagasts"
+                },
+                {
+                    "city_name": "Skrundas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Brocenu Novads",
+            "cities": [
+                {
+                    "city_name": "Blidenes pagasts"
+                },
+                {
+                    "city_name": "Broceni"
+                },
+                {
+                    "city_name": "Cieceres pagasts"
+                },
+                {
+                    "city_name": "Gaiku pagasts"
+                },
+                {
+                    "city_name": "Remtes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Rojas Novads",
+            "cities": [
+                {
+                    "city_name": "Rojas novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Kandavas Novads",
+            "cities": [
+                {
+                    "city_name": "Ceres pagasts"
+                },
+                {
+                    "city_name": "Kandava"
+                },
+                {
+                    "city_name": "Kandavas pagasts"
+                },
+                {
+                    "city_name": "Matkules pagasts"
+                },
+                {
+                    "city_name": "Vanes pagasts"
+                },
+                {
+                    "city_name": "Zantes pagasts"
+                },
+                {
+                    "city_name": "Zemites pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Auces Novads",
+            "cities": [
+                {
+                    "city_name": "Auce"
+                },
+                {
+                    "city_name": "Benes pagasts"
+                },
+                {
+                    "city_name": "Iles pagasts"
+                },
+                {
+                    "city_name": "Lielauces pagasts"
+                },
+                {
+                    "city_name": "Ukru pagasts"
+                },
+                {
+                    "city_name": "Vecauces pagasts"
+                },
+                {
+                    "city_name": "Vitinu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Jaunpils Novads",
+            "cities": [
+                {
+                    "city_name": "Viesatu pagasts"
+                },
+                {
+                    "city_name": "Jaunpils pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Engures Novads",
+            "cities": [
+                {
+                    "city_name": "Engures pagasts"
+                },
+                {
+                    "city_name": "Lapmezciema pagasts"
+                },
+                {
+                    "city_name": "Smardes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Tervetes Novads",
+            "cities": [
+                {
+                    "city_name": "Augstkalnes pagasts"
+                },
+                {
+                    "city_name": "Bukaisu pagasts"
+                },
+                {
+                    "city_name": "Tervetes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ozolnieku Novads",
+            "cities": [
+                {
+                    "city_name": "Cenu pagasts"
+                },
+                {
+                    "city_name": "Salgales pagasts"
+                },
+                {
+                    "city_name": "Ozolnieku pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Rundales Novads",
+            "cities": [
+                {
+                    "city_name": "Svitenes pagasts"
+                },
+                {
+                    "city_name": "Viesturu pagasts"
+                },
+                {
+                    "city_name": "Rundales pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Babites Novads",
+            "cities": [
+                {
+                    "city_name": "Babites pagasts"
+                },
+                {
+                    "city_name": "Salas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Marupes Novads",
+            "cities": [
+                {
+                    "city_name": "Marupes novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Olaines Novads",
+            "cities": [
+                {
+                    "city_name": "Olaine"
+                },
+                {
+                    "city_name": "Olaines pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Iecavas Novads",
+            "cities": [
+                {
+                    "city_name": "Iecavas novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Kekavas Novads",
+            "cities": [
+                {
+                    "city_name": "Balozi"
+                },
+                {
+                    "city_name": "Daugmales pagasts"
+                },
+                {
+                    "city_name": "Kekavas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Salaspils Novads",
+            "cities": [
+                {
+                    "city_name": "Salaspils"
+                },
+                {
+                    "city_name": "Salaspils pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Baldones Novads",
+            "cities": [
+                {
+                    "city_name": "Baldones pagasts"
+                },
+                {
+                    "city_name": "Baldone"
+                }
+            ]
+        },
+        {
+            "province_name": "Stopinu Novads",
+            "cities": [
+                {
+                    "city_name": "Stopinu novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Carnikavas Novads",
+            "cities": [
+                {
+                    "city_name": "Carnikavas novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Adazu Novads",
+            "cities": [
+                {
+                    "city_name": "Adazu novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Garkalne Municipality",
+            "cities": [
+                {
+                    "city_name": "Garkalnes novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Vecumnieku Novads",
+            "cities": [
+                {
+                    "city_name": "Skaistkalnes pagasts"
+                },
+                {
+                    "city_name": "Barbeles pagasts"
+                },
+                {
+                    "city_name": "Kurmenes pagasts"
+                },
+                {
+                    "city_name": "Stelpes pagasts"
+                },
+                {
+                    "city_name": "Valles pagasts"
+                },
+                {
+                    "city_name": "Vecumnieku pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Keguma Novads",
+            "cities": [
+                {
+                    "city_name": "Birzgales pagasts"
+                },
+                {
+                    "city_name": "Kegums"
+                },
+                {
+                    "city_name": "Rembates pagasts"
+                },
+                {
+                    "city_name": "Tomes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Lielvardes Novads",
+            "cities": [
+                {
+                    "city_name": "Lielvarde"
+                },
+                {
+                    "city_name": "Lielvardes pagasts"
+                },
+                {
+                    "city_name": "Jumpravas pagasts"
+                },
+                {
+                    "city_name": "Ledmanes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Skriveru Novads",
+            "cities": [
+                {
+                    "city_name": "Skriveru novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Jaunjelgavas Novads",
+            "cities": [
+                {
+                    "city_name": "Daudzeses pagasts"
+                },
+                {
+                    "city_name": "Jaunjelgava"
+                },
+                {
+                    "city_name": "Jaunjelgavas pagasts"
+                },
+                {
+                    "city_name": "Seces pagasts"
+                },
+                {
+                    "city_name": "Serenes pagasts"
+                },
+                {
+                    "city_name": "Staburaga pagasts"
+                },
+                {
+                    "city_name": "Sunakstes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Neretas Novads",
+            "cities": [
+                {
+                    "city_name": "Mazzalves pagasts"
+                },
+                {
+                    "city_name": "Neretas pagasts"
+                },
+                {
+                    "city_name": "Pilskalnes pagasts"
+                },
+                {
+                    "city_name": "Zalves pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Viesites Novads",
+            "cities": [
+                {
+                    "city_name": "Viesite"
+                },
+                {
+                    "city_name": "Elksnu pagasts"
+                },
+                {
+                    "city_name": "Rites pagasts"
+                },
+                {
+                    "city_name": "Saukas pagasts"
+                },
+                {
+                    "city_name": "Viesites pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Salas Novads",
+            "cities": [
+                {
+                    "city_name": "Salas pagasts"
+                },
+                {
+                    "city_name": "Selpils pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Jekabpils",
+            "cities": [
+                {
+                    "city_name": "Jekabpils"
+                }
+            ]
+        },
+        {
+            "province_name": "Aknistes Novads",
+            "cities": [
+                {
+                    "city_name": "Aknistes pagasts"
+                },
+                {
+                    "city_name": "Asares pagasts"
+                },
+                {
+                    "city_name": "Garsenes pagasts"
+                },
+                {
+                    "city_name": "Akniste"
+                }
+            ]
+        },
+        {
+            "province_name": "Ilukstes Novads",
+            "cities": [
+                {
+                    "city_name": "Ilukste"
+                },
+                {
+                    "city_name": "Subate"
+                },
+                {
+                    "city_name": "Eglaines pagasts"
+                },
+                {
+                    "city_name": "Sederes pagasts"
+                },
+                {
+                    "city_name": "Bebrenes pagasts"
+                },
+                {
+                    "city_name": "Dvietes pagasts"
+                },
+                {
+                    "city_name": "Pilskalnes pagasts"
+                },
+                {
+                    "city_name": "Prodes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Varkavas Novads",
+            "cities": [
+                {
+                    "city_name": "Rozkalnu pagasts"
+                },
+                {
+                    "city_name": "Upmalas pagasts"
+                },
+                {
+                    "city_name": "Varkavas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Livanu Novads",
+            "cities": [
+                {
+                    "city_name": "Sutru pagasts"
+                },
+                {
+                    "city_name": "Rudzatu pagasts"
+                },
+                {
+                    "city_name": "Turku pagasts"
+                },
+                {
+                    "city_name": "Jersikas pagasts"
+                },
+                {
+                    "city_name": "Livani"
+                },
+                {
+                    "city_name": "Rozupes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Varaklanu Novads",
+            "cities": [
+                {
+                    "city_name": "Murmastienes pagasts"
+                },
+                {
+                    "city_name": "Varaklani"
+                },
+                {
+                    "city_name": "Varaklanu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Vilanu Novads",
+            "cities": [
+                {
+                    "city_name": "Deksares pagasts"
+                },
+                {
+                    "city_name": "Vilani"
+                },
+                {
+                    "city_name": "Sokolku pagasts"
+                },
+                {
+                    "city_name": "Vilanu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Riebinu Novads",
+            "cities": [
+                {
+                    "city_name": "Galenu pagasts"
+                },
+                {
+                    "city_name": "Riebinu pagasts"
+                },
+                {
+                    "city_name": "Rusonas pagasts"
+                },
+                {
+                    "city_name": "Silajanu pagasts"
+                },
+                {
+                    "city_name": "Silukalna pagasts"
+                },
+                {
+                    "city_name": "Stabulnieku pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Aglonas Novads",
+            "cities": [
+                {
+                    "city_name": "Kastulinas pagasts"
+                },
+                {
+                    "city_name": "Skeltovas pagasts"
+                },
+                {
+                    "city_name": "Aglonas pagasts"
+                },
+                {
+                    "city_name": "Graveru pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ciblas Novads",
+            "cities": [
+                {
+                    "city_name": "Blontu pagasts"
+                },
+                {
+                    "city_name": "Ciblas pagasts"
+                },
+                {
+                    "city_name": "Lidumnieku pagasts"
+                },
+                {
+                    "city_name": "Pusmucovas pagasts"
+                },
+                {
+                    "city_name": "Zvirgzdenes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Zilupes Novads",
+            "cities": [
+                {
+                    "city_name": "Zilupe"
+                },
+                {
+                    "city_name": "Lauderu pagasts"
+                },
+                {
+                    "city_name": "Pasienes pagasts"
+                },
+                {
+                    "city_name": "Zalesjes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Vilakas Novads",
+            "cities": [
+                {
+                    "city_name": "Kupravas pagasts"
+                },
+                {
+                    "city_name": "Vilaka"
+                },
+                {
+                    "city_name": "Mednevas pagasts"
+                },
+                {
+                    "city_name": "Skilbenu pagasts"
+                },
+                {
+                    "city_name": "Susaju pagasts"
+                },
+                {
+                    "city_name": "Vecumu pagasts"
+                },
+                {
+                    "city_name": "Ziguru pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Baltinavas Novads",
+            "cities": [
+                {
+                    "city_name": "Baltinavas novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Dagdas Novads",
+            "cities": [
+                {
+                    "city_name": "Andrupenes pagasts"
+                },
+                {
+                    "city_name": "Andzelu pagasts"
+                },
+                {
+                    "city_name": "Asunes pagasts"
+                },
+                {
+                    "city_name": "Berzinu pagasts"
+                },
+                {
+                    "city_name": "Dagda"
+                },
+                {
+                    "city_name": "Dagdas pagasts"
+                },
+                {
+                    "city_name": "Ezernieku pagasts"
+                },
+                {
+                    "city_name": "Kepovas pagasts"
+                },
+                {
+                    "city_name": "Konstantinovas pagasts"
+                },
+                {
+                    "city_name": "Skaunes pagasts"
+                },
+                {
+                    "city_name": "Svarinu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Karsavas Novads",
+            "cities": [
+                {
+                    "city_name": "Karsava"
+                },
+                {
+                    "city_name": "Golisevas pagasts"
+                },
+                {
+                    "city_name": "Malnavas pagasts"
+                },
+                {
+                    "city_name": "Merdzenes pagasts"
+                },
+                {
+                    "city_name": "Mezvidu pagasts"
+                },
+                {
+                    "city_name": "Salnavas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Rugaju Novads",
+            "cities": [
+                {
+                    "city_name": "Lazdukalna pagasts"
+                },
+                {
+                    "city_name": "Rugaju pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Cesvaines Novads",
+            "cities": [
+                {
+                    "city_name": "Cesvaine"
+                },
+                {
+                    "city_name": "Cesvaines pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Lubanas Novads",
+            "cities": [
+                {
+                    "city_name": "Indranu pagasts"
+                },
+                {
+                    "city_name": "Lubana"
+                }
+            ]
+        },
+        {
+            "province_name": "Krustpils Novads",
+            "cities": [
+                {
+                    "city_name": "Kuku pagasts"
+                },
+                {
+                    "city_name": "Atasienes pagasts"
+                },
+                {
+                    "city_name": "Krustpils pagasts"
+                },
+                {
+                    "city_name": "Mezares pagasts"
+                },
+                {
+                    "city_name": "Variesu pagasts"
+                },
+                {
+                    "city_name": "Vipes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Plavinu Novads",
+            "cities": [
+                {
+                    "city_name": "Plavinas"
+                },
+                {
+                    "city_name": "Aiviekstes pagasts"
+                },
+                {
+                    "city_name": "Klintaines pagasts"
+                },
+                {
+                    "city_name": "Vietalvas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Kokneses Novads",
+            "cities": [
+                {
+                    "city_name": "Irsu pagasts"
+                },
+                {
+                    "city_name": "Bebru pagasts"
+                },
+                {
+                    "city_name": "Kokneses pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ikskiles Novads",
+            "cities": [
+                {
+                    "city_name": "Ikskile"
+                },
+                {
+                    "city_name": "Tinuzu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ropazu Novads",
+            "cities": [
+                {
+                    "city_name": "Ropazu novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Incukalna Novads",
+            "cities": [
+                {
+                    "city_name": "Vangazi"
+                },
+                {
+                    "city_name": "Incukalna pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Krimuldas Novads",
+            "cities": [
+                {
+                    "city_name": "Krimuldas pagasts"
+                },
+                {
+                    "city_name": "Ledurgas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Siguldas Novads",
+            "cities": [
+                {
+                    "city_name": "Sigulda"
+                },
+                {
+                    "city_name": "Mores pagasts"
+                },
+                {
+                    "city_name": "Allazu pagasts"
+                },
+                {
+                    "city_name": "Siguldas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Ligatnes Novads",
+            "cities": [
+                {
+                    "city_name": "Ligatne"
+                },
+                {
+                    "city_name": "Ligatnes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Malpils Novads",
+            "cities": [
+                {
+                    "city_name": "Malpils novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Sejas Novads",
+            "cities": [
+                {
+                    "city_name": "Sejas novads"
+                }
+            ]
+        },
+        {
+            "province_name": "Saulkrastu Novads",
+            "cities": [
+                {
+                    "city_name": "Saulkrasti"
+                },
+                {
+                    "city_name": "Saulkrastu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Salacgrivas Novads",
+            "cities": [
+                {
+                    "city_name": "Ainazi"
+                },
+                {
+                    "city_name": "Ainazu pagasts"
+                },
+                {
+                    "city_name": "Liepupes pagasts"
+                },
+                {
+                    "city_name": "Salacgriva"
+                },
+                {
+                    "city_name": "Salacgrivas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Alojas Novads",
+            "cities": [
+                {
+                    "city_name": "Aloja"
+                },
+                {
+                    "city_name": "Alojas pagasts"
+                },
+                {
+                    "city_name": "Braslavas pagasts"
+                },
+                {
+                    "city_name": "Brivzemnieku pagasts"
+                },
+                {
+                    "city_name": "Staicele"
+                },
+                {
+                    "city_name": "Staiceles pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Nauksenu Novads",
+            "cities": [
+                {
+                    "city_name": "Konu pagasts"
+                },
+                {
+                    "city_name": "Nauksenu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Rujienas Novads",
+            "cities": [
+                {
+                    "city_name": "Rujiena"
+                },
+                {
+                    "city_name": "Lodes pagasts"
+                },
+                {
+                    "city_name": "Jeru pagasts"
+                },
+                {
+                    "city_name": "Ipiku pagasts"
+                },
+                {
+                    "city_name": "Vilpulkas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Mazsalacas Novads",
+            "cities": [
+                {
+                    "city_name": "Mazsalacas pagasts"
+                },
+                {
+                    "city_name": "Ramatas pagasts"
+                },
+                {
+                    "city_name": "Selu pagasts"
+                },
+                {
+                    "city_name": "Skankalnes pagasts"
+                },
+                {
+                    "city_name": "Mazsalaca"
+                }
+            ]
+        },
+        {
+            "province_name": "Burtnieku Novads",
+            "cities": [
+                {
+                    "city_name": "Burtnieku pagasts"
+                },
+                {
+                    "city_name": "Eveles pagasts"
+                },
+                {
+                    "city_name": "Matisu pagasts"
+                },
+                {
+                    "city_name": "Rencenu pagasts"
+                },
+                {
+                    "city_name": "Valmieras pagasts"
+                },
+                {
+                    "city_name": "Vecates pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Pargaujas Novads",
+            "cities": [
+                {
+                    "city_name": "Raiskuma pagasts"
+                },
+                {
+                    "city_name": "Stalbes pagasts"
+                },
+                {
+                    "city_name": "Straupes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Kocenu Novads",
+            "cities": [
+                {
+                    "city_name": "Berzaines pagasts"
+                },
+                {
+                    "city_name": "Diklu pagasts"
+                },
+                {
+                    "city_name": "Kocenu pagasts"
+                },
+                {
+                    "city_name": "Vaidavas pagasts"
+                },
+                {
+                    "city_name": "Zilakalna pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Amatas Novads",
+            "cities": [
+                {
+                    "city_name": "Amatas pagasts"
+                },
+                {
+                    "city_name": "Drabesu pagasts"
+                },
+                {
+                    "city_name": "Nitaures pagasts"
+                },
+                {
+                    "city_name": "Skujenes pagasts"
+                },
+                {
+                    "city_name": "Zaubes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Priekuli Municipality",
+            "cities": [
+                {
+                    "city_name": "Liepas pagasts"
+                },
+                {
+                    "city_name": "Marsnenu pagasts"
+                },
+                {
+                    "city_name": "Priekulu pagasts"
+                },
+                {
+                    "city_name": "Veselavas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Raunas Novads",
+            "cities": [
+                {
+                    "city_name": "Drustu pagasts"
+                },
+                {
+                    "city_name": "Raunas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Strencu Novads",
+            "cities": [
+                {
+                    "city_name": "Seda"
+                },
+                {
+                    "city_name": "Strenci"
+                },
+                {
+                    "city_name": "Jercenu pagasts"
+                },
+                {
+                    "city_name": "Planu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Beverinas Novads",
+            "cities": [
+                {
+                    "city_name": "Brengulu pagasts"
+                },
+                {
+                    "city_name": "Kauguru pagasts"
+                },
+                {
+                    "city_name": "Trikatas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Smiltenes Novads",
+            "cities": [
+                {
+                    "city_name": "Palsmanes pagasts"
+                },
+                {
+                    "city_name": "Smiltene"
+                },
+                {
+                    "city_name": "Smiltenes pagasts"
+                },
+                {
+                    "city_name": "Varinu pagasts"
+                },
+                {
+                    "city_name": "Bilskas pagasts"
+                },
+                {
+                    "city_name": "Blomes pagasts"
+                },
+                {
+                    "city_name": "Brantu pagasts"
+                },
+                {
+                    "city_name": "Grundzales pagasts"
+                },
+                {
+                    "city_name": "Launkalnes pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Jaunpiebalgas Novads",
+            "cities": [
+                {
+                    "city_name": "Zosenu pagasts"
+                },
+                {
+                    "city_name": "Jaunpiebalgas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Erglu Novads",
+            "cities": [
+                {
+                    "city_name": "Erglu pagasts"
+                },
+                {
+                    "city_name": "Jumurdas pagasts"
+                },
+                {
+                    "city_name": "Sausnejas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Vecpiebalgas Novads",
+            "cities": [
+                {
+                    "city_name": "Dzerbenes pagasts"
+                },
+                {
+                    "city_name": "Inesu pagasts"
+                },
+                {
+                    "city_name": "Kaives pagasts"
+                },
+                {
+                    "city_name": "Taurenes pagasts"
+                },
+                {
+                    "city_name": "Vecpiebalgas pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Apes Novads",
+            "cities": [
+                {
+                    "city_name": "Ape"
+                },
+                {
+                    "city_name": "Apes pagasts"
+                },
+                {
+                    "city_name": "Gaujienas pagasts"
+                },
+                {
+                    "city_name": "Trapenes pagasts"
+                },
+                {
+                    "city_name": "Viresu pagasts"
+                }
+            ]
+        },
+        {
+            "province_name": "Mersraga Novads",
+            "cities": [
+                {
+                    "city_name": "Mersraga novads"
+                }
+            ]
+        }
+    ]
+}

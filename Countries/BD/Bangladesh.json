@@ -1,0 +1,238 @@
+{
+    "country_name": "Bangladesh",
+    "country_id": "BD",
+    "provinces": [
+        {
+            "province_name": "Rajshahi Division",
+            "cities": [
+                {
+                    "city_name": "Naogaon"
+                },
+                {
+                    "city_name": "Joypurhat"
+                },
+                {
+                    "city_name": "Bogra"
+                },
+                {
+                    "city_name": "Chapai Nababganj"
+                },
+                {
+                    "city_name": "Rajshahi"
+                },
+                {
+                    "city_name": "Natore"
+                },
+                {
+                    "city_name": "Sirajganj"
+                },
+                {
+                    "city_name": "Pabna"
+                }
+            ]
+        },
+        {
+            "province_name": "Dhaka Division",
+            "cities": [
+                {
+                    "city_name": "Tangail"
+                },
+                {
+                    "city_name": "Gazipur"
+                },
+                {
+                    "city_name": "Kishoregonj"
+                },
+                {
+                    "city_name": "Narsingdi"
+                },
+                {
+                    "city_name": "Dhaka"
+                },
+                {
+                    "city_name": "Rajbari"
+                },
+                {
+                    "city_name": "Faridpur"
+                },
+                {
+                    "city_name": "Narayanganj"
+                },
+                {
+                    "city_name": "Munshiganj"
+                },
+                {
+                    "city_name": "Gopalganj"
+                },
+                {
+                    "city_name": "Shariatpur"
+                },
+                {
+                    "city_name": "Madaripur"
+                },
+                {
+                    "city_name": "Manikganj"
+                }
+            ]
+        },
+        {
+            "province_name": "Chittagong",
+            "cities": [
+                {
+                    "city_name": "Brahmanbaria"
+                },
+                {
+                    "city_name": "Comilla"
+                },
+                {
+                    "city_name": "Chandpur"
+                },
+                {
+                    "city_name": "Lakshmipur"
+                },
+                {
+                    "city_name": "Noakhali"
+                },
+                {
+                    "city_name": "Feni"
+                },
+                {
+                    "city_name": "Khagrachhari"
+                },
+                {
+                    "city_name": "Chittagong"
+                },
+                {
+                    "city_name": "Bandarban"
+                },
+                {
+                    "city_name": "Cox's Bazar"
+                },
+                {
+                    "city_name": "Rangamati"
+                }
+            ]
+        },
+        {
+            "province_name": "Khulna Division",
+            "cities": [
+                {
+                    "city_name": "Kushtia"
+                },
+                {
+                    "city_name": "Meherpur"
+                },
+                {
+                    "city_name": "Jhenaidah"
+                },
+                {
+                    "city_name": "Chuadanga"
+                },
+                {
+                    "city_name": "Magura"
+                },
+                {
+                    "city_name": "Jessore"
+                },
+                {
+                    "city_name": "Narail"
+                },
+                {
+                    "city_name": "Bagerhat"
+                },
+                {
+                    "city_name": "Khulna"
+                },
+                {
+                    "city_name": "Satkhira"
+                }
+            ]
+        },
+        {
+            "province_name": "Barisal Division",
+            "cities": [
+                {
+                    "city_name": "Barisal"
+                },
+                {
+                    "city_name": "Jhalokati"
+                },
+                {
+                    "city_name": "Bhola"
+                },
+                {
+                    "city_name": "Patuakhali"
+                },
+                {
+                    "city_name": "Barguna"
+                },
+                {
+                    "city_name": "Pirojpur"
+                }
+            ]
+        },
+        {
+            "province_name": "Sylhet Division",
+            "cities": [
+                {
+                    "city_name": "Sunamganj"
+                },
+                {
+                    "city_name": "Sylhet"
+                },
+                {
+                    "city_name": "Maulvibazar"
+                },
+                {
+                    "city_name": "Habiganj"
+                }
+            ]
+        },
+        {
+            "province_name": "Rangpur Division",
+            "cities": [
+                {
+                    "city_name": "Panchagarh"
+                },
+                {
+                    "city_name": "Thakurgaon"
+                },
+                {
+                    "city_name": "Dinajpur"
+                },
+                {
+                    "city_name": "Nilphamari Zila"
+                },
+                {
+                    "city_name": "Lalmonirhat District"
+                },
+                {
+                    "city_name": "Kurigram"
+                },
+                {
+                    "city_name": "Rangpur"
+                },
+                {
+                    "city_name": "Gaibandha"
+                }
+            ]
+        },
+        {
+            "province_name": "Mymensingh Division",
+            "cities": [
+                {
+                    "city_name": "Sherpur"
+                },
+                {
+                    "city_name": "Netrakona"
+                },
+                {
+                    "city_name": "Jamalpur"
+                },
+                {
+                    "city_name": "Mymensingh"
+                }
+            ]
+        }
+    ]
+}

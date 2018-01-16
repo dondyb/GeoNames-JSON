@@ -1,0 +1,278 @@
+{
+    "country_name": "Malaysia",
+    "country_id": "MY",
+    "provinces": [
+        {
+            "province_name": "Melaka",
+            "cities": []
+        },
+        {
+            "province_name": "Terengganu",
+            "cities": [
+                {
+                    "city_name": "Daerah Setiu"
+                },
+                {
+                    "city_name": "Daerah Besut"
+                }
+            ]
+        },
+        {
+            "province_name": "Selangor",
+            "cities": [
+                {
+                    "city_name": "Kuala Selangor"
+                },
+                {
+                    "city_name": "Klang"
+                },
+                {
+                    "city_name": "Kuala Langat"
+                },
+                {
+                    "city_name": "Sepang"
+                },
+                {
+                    "city_name": "Gombak"
+                },
+                {
+                    "city_name": "Hulu Selangor"
+                },
+                {
+                    "city_name": "Petaling"
+                },
+                {
+                    "city_name": "Hulu Langat"
+                },
+                {
+                    "city_name": "Sabak Bernam"
+                }
+            ]
+        },
+        {
+            "province_name": "Sarawak",
+            "cities": [
+                {
+                    "city_name": "Bahagian Kuching"
+                },
+                {
+                    "city_name": "Bahagian Sarikei"
+                },
+                {
+                    "city_name": "Bahagian Sri Aman"
+                },
+                {
+                    "city_name": "Bahagian Sibu"
+                },
+                {
+                    "city_name": "Bahagian Limbang"
+                },
+                {
+                    "city_name": "Bahagian Kapit"
+                },
+                {
+                    "city_name": "Bahagian Miri"
+                },
+                {
+                    "city_name": "Bahagian Bintulu"
+                },
+                {
+                    "city_name": "Bahagian Samarahan"
+                }
+            ]
+        },
+        {
+            "province_name": "Sabah",
+            "cities": [
+                {
+                    "city_name": "Bahagian Pantai Barat"
+                },
+                {
+                    "city_name": "Bahagian Sandakan"
+                },
+                {
+                    "city_name": "Bahagian Tawau"
+                },
+                {
+                    "city_name": "Bahagian Pedalaman"
+                },
+                {
+                    "city_name": "Bahagian Pantai Barat"
+                },
+                {
+                    "city_name": "Bahagian Kudat"
+                }
+            ]
+        },
+        {
+            "province_name": "Perlis",
+            "cities": []
+        },
+        {
+            "province_name": "Perak",
+            "cities": [
+                {
+                    "city_name": "Larut Matang & Selama"
+                },
+                {
+                    "city_name": "Daerah Kuala Kangsar"
+                },
+                {
+                    "city_name": "Daerah Kinta"
+                }
+            ]
+        },
+        {
+            "province_name": "Pahang",
+            "cities": [
+                {
+                    "city_name": "Temerluh"
+                },
+                {
+                    "city_name": "Bera"
+                },
+                {
+                    "city_name": "Daerah Jerantut"
+                },
+                {
+                    "city_name": "Cameron Highlands"
+                }
+            ]
+        },
+        {
+            "province_name": "Negeri Sembilan",
+            "cities": []
+        },
+        {
+            "province_name": "Kelantan",
+            "cities": [
+                {
+                    "city_name": "Tanah Merah"
+                },
+                {
+                    "city_name": "Kota Bharu"
+                },
+                {
+                    "city_name": "Jeli"
+                },
+                {
+                    "city_name": "Kuala Krai"
+                }
+            ]
+        },
+        {
+            "province_name": "Kuala Lumpur",
+            "cities": []
+        },
+        {
+            "province_name": "Pulau Pinang",
+            "cities": [
+                {
+                    "city_name": "Selatan"
+                },
+                {
+                    "city_name": "Daerah Timur Laut"
+                },
+                {
+                    "city_name": "Daerah Barat Daya"
+                },
+                {
+                    "city_name": "Utara"
+                },
+                {
+                    "city_name": "Barat Daya"
+                },
+                {
+                    "city_name": "Seberang Perai"
+                }
+            ]
+        },
+        {
+            "province_name": "Kedah",
+            "cities": [
+                {
+                    "city_name": "Langkawi"
+                },
+                {
+                    "city_name": "Kulim"
+                },
+                {
+                    "city_name": "Bandar Baharu"
+                },
+                {
+                    "city_name": "Baling"
+                },
+                {
+                    "city_name": "Yan"
+                },
+                {
+                    "city_name": "Kubang Pasu"
+                },
+                {
+                    "city_name": "Padang Terap"
+                },
+                {
+                    "city_name": "Pendang"
+                },
+                {
+                    "city_name": "Daerah Kota Setar"
+                },
+                {
+                    "city_name": "Kuala Muda"
+                },
+                {
+                    "city_name": "Naga Lilit"
+                },
+                {
+                    "city_name": "Bagan Sena"
+                },
+                {
+                    "city_name": "Bakai"
+                },
+                {
+                    "city_name": "Mahang"
+                }
+            ]
+        },
+        {
+            "province_name": "Johor",
+            "cities": [
+                {
+                    "city_name": "Daerah Batu Pahat"
+                },
+                {
+                    "city_name": "Daerah Pontian"
+                },
+                {
+                    "city_name": "Daerah Kota Tinggi"
+                },
+                {
+                    "city_name": "Daerah Johor Baharu"
+                },
+                {
+                    "city_name": "Daerah Keluang"
+                },
+                {
+                    "city_name": "Daerah Mersing"
+                },
+                {
+                    "city_name": "Daerah Segamat"
+                },
+                {
+                    "city_name": "Daerah Muar"
+                },
+                {
+                    "city_name": "Daerha Rompin"
+                }
+            ]
+        },
+        {
+            "province_name": "Labuan",
+            "cities": []
+        },
+        {
+            "province_name": "Putrajaya",
+            "cities": []
+        }
+    ]
+}

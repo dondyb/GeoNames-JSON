@@ -1,0 +1,134 @@
+{
+    "country_name": "Bahamas",
+    "country_id": "BS",
+    "provinces": [
+        {
+            "province_name": "San Salvador District",
+            "cities": []
+        },
+        {
+            "province_name": "Ragged Island District",
+            "cities": []
+        },
+        {
+            "province_name": "Berry Islands District",
+            "cities": []
+        },
+        {
+            "province_name": "New Providence District",
+            "cities": []
+        },
+        {
+            "province_name": "Mayaguana District",
+            "cities": []
+        },
+        {
+            "province_name": "Long Island",
+            "cities": []
+        },
+        {
+            "province_name": "Inagua",
+            "cities": []
+        },
+        {
+            "province_name": "Harbour Island District",
+            "cities": []
+        },
+        {
+            "province_name": "City of Freeport District",
+            "cities": []
+        },
+        {
+            "province_name": "Exuma District",
+            "cities": []
+        },
+        {
+            "province_name": "Cat Island",
+            "cities": []
+        },
+        {
+            "province_name": "Bimini District",
+            "cities": []
+        },
+        {
+            "province_name": "Acklins Island District",
+            "cities": []
+        },
+        {
+            "province_name": "Black Point District",
+            "cities": []
+        },
+        {
+            "province_name": "Central Abaco District",
+            "cities": []
+        },
+        {
+            "province_name": "Central Andros District",
+            "cities": []
+        },
+        {
+            "province_name": "Central Eleuthera District",
+            "cities": []
+        },
+        {
+            "province_name": "Crooked Island and Long Cay District",
+            "cities": []
+        },
+        {
+            "province_name": "East Grand Bahama District",
+            "cities": []
+        },
+        {
+            "province_name": "Grand Cay District",
+            "cities": []
+        },
+        {
+            "province_name": "Hope Town District",
+            "cities": []
+        },
+        {
+            "province_name": "Mangrove Cay",
+            "cities": []
+        },
+        {
+            "province_name": "Moore's Island District",
+            "cities": []
+        },
+        {
+            "province_name": "North Abaco District",
+            "cities": []
+        },
+        {
+            "province_name": "North Andros District",
+            "cities": []
+        },
+        {
+            "province_name": "North Eleuthera District",
+            "cities": []
+        },
+        {
+            "province_name": "Rum Cay",
+            "cities": []
+        },
+        {
+            "province_name": "South Abaco District",
+            "cities": []
+        },
+        {
+            "province_name": "South Andros",
+            "cities": []
+        },
+        {
+            "province_name": "South Eleuthera",
+            "cities": []
+        },
+        {
+            "province_name": "Spanish Wells District",
+            "cities": []
+        },
+        {
+            "province_name": "West Grand Bahama District",
+            "cities": []
+        }
+    ]
+}

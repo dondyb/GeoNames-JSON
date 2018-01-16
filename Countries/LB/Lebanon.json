@@ -1,0 +1,138 @@
+{
+    "country_name": "Lebanon",
+    "country_id": "LB",
+    "provinces": [
+        {
+            "province_name": "Mohafazat Mont-Liban",
+            "cities": [
+                {
+                    "city_name": "Caza du Kesrouane"
+                },
+                {
+                    "city_name": "Caza de Jbayl"
+                },
+                {
+                    "city_name": "Caza de Baabda"
+                },
+                {
+                    "city_name": "Caza du Chouf"
+                },
+                {
+                    "city_name": "Caza du Matn"
+                },
+                {
+                    "city_name": "Caza de Aaley"
+                },
+                {
+                    "city_name": "Metn District"
+                },
+                {
+                    "city_name": "Keserwan District"
+                }
+            ]
+        },
+        {
+            "province_name": "Beyrouth",
+            "cities": []
+        },
+        {
+            "province_name": "Mohafazat Liban-Nord",
+            "cities": [
+                {
+                    "city_name": "Caza de Zgharta"
+                },
+                {
+                    "city_name": "Caza de Trablous"
+                },
+                {
+                    "city_name": "Caza de Becharre"
+                },
+                {
+                    "city_name": "Caza de Koura"
+                },
+                {
+                    "city_name": "Caza de Batroun"
+                },
+                {
+                    "city_name": "Caza de Miniye-Danniye"
+                },
+                {
+                    "city_name": "Miniyeh-Danniyeh"
+                },
+                {
+                    "city_name": "Tripoli"
+                },
+                {
+                    "city_name": "Minie-Denniyeh"
+                }
+            ]
+        },
+        {
+            "province_name": "Mohafazat Liban-Sud",
+            "cities": [
+                {
+                    "city_name": "Caza de Tyr"
+                },
+                {
+                    "city_name": "Caza de Jezzine"
+                },
+                {
+                    "city_name": "Caza de Saida"
+                }
+            ]
+        },
+        {
+            "province_name": "Mohafazat Beqaa",
+            "cities": [
+                {
+                    "city_name": "Caza de Zahleh"
+                },
+                {
+                    "city_name": "Caza de Rachaiya"
+                },
+                {
+                    "city_name": "Caza de la Beqaa-Ouest"
+                }
+            ]
+        },
+        {
+            "province_name": "Mohafazat Nabatiye",
+            "cities": [
+                {
+                    "city_name": "Caza de Marjayoun"
+                },
+                {
+                    "city_name": "Caza de Hasbaiya"
+                },
+                {
+                    "city_name": "Caza de Bent Jbail"
+                },
+                {
+                    "city_name": "Caza de Nabatiye"
+                },
+                {
+                    "city_name": "Marjayoun"
+                }
+            ]
+        },
+        {
+            "province_name": "Mohafazat Aakkar",
+            "cities": [
+                {
+                    "city_name": "Caza de Aakkar"
+                }
+            ]
+        },
+        {
+            "province_name": "Mohafazat Baalbek-Hermel",
+            "cities": [
+                {
+                    "city_name": "Caza de Baalbek"
+                },
+                {
+                    "city_name": "Caza du Hermel"
+                }
+            ]
+        }
+    ]
+}

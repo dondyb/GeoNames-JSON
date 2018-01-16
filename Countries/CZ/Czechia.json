@@ -1,0 +1,370 @@
+{
+    "country_name": "Czechia",
+    "country_id": "CZ",
+    "provinces": [
+        {
+            "province_name": "Hlavni mesto Praha",
+            "cities": [
+                {
+                    "city_name": "Praha 1"
+                },
+                {
+                    "city_name": "Praha 2"
+                },
+                {
+                    "city_name": "Praha 3"
+                },
+                {
+                    "city_name": "Praha 4"
+                },
+                {
+                    "city_name": "Praha 5"
+                },
+                {
+                    "city_name": "Praha 6"
+                },
+                {
+                    "city_name": "Praha 7"
+                },
+                {
+                    "city_name": "Praha 8"
+                },
+                {
+                    "city_name": "Praha 9"
+                },
+                {
+                    "city_name": "Praha 10"
+                },
+                {
+                    "city_name": "Praha 11"
+                },
+                {
+                    "city_name": "Praha 12"
+                },
+                {
+                    "city_name": "Praha 13"
+                },
+                {
+                    "city_name": "Praha 14"
+                },
+                {
+                    "city_name": "Praha 15"
+                },
+                {
+                    "city_name": "Praha 16"
+                },
+                {
+                    "city_name": "Praha 17"
+                },
+                {
+                    "city_name": "Praha 18"
+                },
+                {
+                    "city_name": "Praha 19"
+                },
+                {
+                    "city_name": "Praha 20"
+                },
+                {
+                    "city_name": "Praha 21"
+                },
+                {
+                    "city_name": "Praha 22"
+                }
+            ]
+        },
+        {
+            "province_name": "Jihomoravsky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Znojmo"
+                },
+                {
+                    "city_name": "Okres Vyskov"
+                },
+                {
+                    "city_name": "Okres Hodonin"
+                },
+                {
+                    "city_name": "Okres Brno-Venkov"
+                },
+                {
+                    "city_name": "Mesto Brno"
+                },
+                {
+                    "city_name": "Okres Breclav"
+                },
+                {
+                    "city_name": "Okres Blansko"
+                }
+            ]
+        },
+        {
+            "province_name": "Jihocesky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Tabor"
+                },
+                {
+                    "city_name": "Okres Strakonice"
+                },
+                {
+                    "city_name": "Okres Prachatice"
+                },
+                {
+                    "city_name": "Okres Pisek"
+                },
+                {
+                    "city_name": "Okres Jindrichuv Hradec"
+                },
+                {
+                    "city_name": "Okres Cesky Krumlov"
+                },
+                {
+                    "city_name": "Okres Ceske Budejovice"
+                }
+            ]
+        },
+        {
+            "province_name": "Kraj Vysocina",
+            "cities": [
+                {
+                    "city_name": "Okres Zd'ar nad Sazavou"
+                },
+                {
+                    "city_name": "Okres Trebic"
+                },
+                {
+                    "city_name": "Okres Pelhrimov"
+                },
+                {
+                    "city_name": "Okres Jihlava"
+                },
+                {
+                    "city_name": "Okres Havlickuv Brod"
+                }
+            ]
+        },
+        {
+            "province_name": "Karlovarsky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Sokolov"
+                },
+                {
+                    "city_name": "Okres Karlovy Vary"
+                },
+                {
+                    "city_name": "Okres Cheb"
+                }
+            ]
+        },
+        {
+            "province_name": "Kralovehradecky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Trutnov"
+                },
+                {
+                    "city_name": "Okres Rychnov nad Kneznou"
+                },
+                {
+                    "city_name": "Okres Nachod"
+                },
+                {
+                    "city_name": "Okres Jicin"
+                },
+                {
+                    "city_name": "Okres Hradec Kralove"
+                }
+            ]
+        },
+        {
+            "province_name": "Liberecky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Semily"
+                },
+                {
+                    "city_name": "Okres Liberec"
+                },
+                {
+                    "city_name": "Okres Jablonec nad Nisou"
+                },
+                {
+                    "city_name": "Okres Ceska Lipa"
+                }
+            ]
+        },
+        {
+            "province_name": "Olomoucky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Sumperk"
+                },
+                {
+                    "city_name": "Okres Prostejov"
+                },
+                {
+                    "city_name": "Okres Prerov"
+                },
+                {
+                    "city_name": "Okres Olomouc"
+                },
+                {
+                    "city_name": "Okres Jesenik"
+                }
+            ]
+        },
+        {
+            "province_name": "Moravskoslezsky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Ostrava-Mesto"
+                },
+                {
+                    "city_name": "Okres Opava"
+                },
+                {
+                    "city_name": "Okres Novy Jicin"
+                },
+                {
+                    "city_name": "Okres Karvina"
+                },
+                {
+                    "city_name": "Okres Frydek-Mistek"
+                },
+                {
+                    "city_name": "Okres Bruntal"
+                }
+            ]
+        },
+        {
+            "province_name": "Pardubicky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Usti nad Orlici"
+                },
+                {
+                    "city_name": "Okres Svitavy"
+                },
+                {
+                    "city_name": "Okres Pardubice"
+                },
+                {
+                    "city_name": "Okres Chrudim"
+                }
+            ]
+        },
+        {
+            "province_name": "Plzensky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Tachov"
+                },
+                {
+                    "city_name": "Okres Rokycany"
+                },
+                {
+                    "city_name": "Okres Plzen-Sever"
+                },
+                {
+                    "city_name": "Okres Plzen-Mesto"
+                },
+                {
+                    "city_name": "Okres Plzen-Jih"
+                },
+                {
+                    "city_name": "Okres Klatovy"
+                },
+                {
+                    "city_name": "Okres Domazlice"
+                }
+            ]
+        },
+        {
+            "province_name": "Stredocesky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Rakovnik"
+                },
+                {
+                    "city_name": "Okres Pribram"
+                },
+                {
+                    "city_name": "Okres Praha-Zapad"
+                },
+                {
+                    "city_name": "Okres Praha-Vychod"
+                },
+                {
+                    "city_name": "Okres Nymburk"
+                },
+                {
+                    "city_name": "Okres Mlada Boleslav"
+                },
+                {
+                    "city_name": "Okres Melnik"
+                },
+                {
+                    "city_name": "Okres Kutna Hora"
+                },
+                {
+                    "city_name": "Okres Kolin"
+                },
+                {
+                    "city_name": "Okres Kladno"
+                },
+                {
+                    "city_name": "Okres Beroun"
+                },
+                {
+                    "city_name": "Okres Benesov"
+                }
+            ]
+        },
+        {
+            "province_name": "Ustecky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Usti nad Labem"
+                },
+                {
+                    "city_name": "Okres Teplice"
+                },
+                {
+                    "city_name": "Okres Most"
+                },
+                {
+                    "city_name": "Okres Louny"
+                },
+                {
+                    "city_name": "Okres Litomerice"
+                },
+                {
+                    "city_name": "Okres Decin"
+                },
+                {
+                    "city_name": "Okres Chomutov"
+                }
+            ]
+        },
+        {
+            "province_name": "Zlinsky kraj",
+            "cities": [
+                {
+                    "city_name": "Okres Vsetin"
+                },
+                {
+                    "city_name": "Okres Uherske Hradiste"
+                },
+                {
+                    "city_name": "Okres Kromeriz"
+                },
+                {
+                    "city_name": "Okres Zlin"
+                }
+            ]
+        }
+    ]
+}

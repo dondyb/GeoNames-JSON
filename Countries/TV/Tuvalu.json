@@ -1,0 +1,42 @@
+{
+    "country_name": "Tuvalu",
+    "country_id": "TV",
+    "provinces": [
+        {
+            "province_name": "Nui",
+            "cities": []
+        },
+        {
+            "province_name": "Nanumea",
+            "cities": []
+        },
+        {
+            "province_name": "Funafuti",
+            "cities": []
+        },
+        {
+            "province_name": "Niutao",
+            "cities": [
+                {
+                    "city_name": "Niulakita"
+                }
+            ]
+        },
+        {
+            "province_name": "Nanumanga",
+            "cities": []
+        },
+        {
+            "province_name": "Vaitupu",
+            "cities": []
+        },
+        {
+            "province_name": "Nukufetau",
+            "cities": []
+        },
+        {
+            "province_name": "Nukulaelae",
+            "cities": []
+        }
+    ]
+}

@@ -1,0 +1,720 @@
+{
+    "country_name": "Peru",
+    "country_id": "PE",
+    "provinces": [
+        {
+            "province_name": "Ucayali",
+            "cities": [
+                {
+                    "city_name": "Provincia de Coronel Portillo"
+                },
+                {
+                    "city_name": "Atalaya"
+                },
+                {
+                    "city_name": "Padre Abad"
+                },
+                {
+                    "city_name": "Purus"
+                }
+            ]
+        },
+        {
+            "province_name": "Tumbes",
+            "cities": [
+                {
+                    "city_name": "Provincia de Zarumilla"
+                },
+                {
+                    "city_name": "Provincia de Tumbes"
+                },
+                {
+                    "city_name": "Provincia de Contralmirante Villar"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de San Martin",
+            "cities": [
+                {
+                    "city_name": "Provincia de San Martin"
+                },
+                {
+                    "city_name": "Provincia de Rioja"
+                },
+                {
+                    "city_name": "Provincia de Moyobamba"
+                },
+                {
+                    "city_name": "Provincia de Mariscal Caceres"
+                },
+                {
+                    "city_name": "Provincia de Lamas"
+                },
+                {
+                    "city_name": "Provincia de Huallaga"
+                },
+                {
+                    "city_name": "Bellavista"
+                },
+                {
+                    "city_name": "El Dorado"
+                },
+                {
+                    "city_name": "Picota"
+                },
+                {
+                    "city_name": "Tocache"
+                }
+            ]
+        },
+        {
+            "province_name": "Piura",
+            "cities": [
+                {
+                    "city_name": "Provincia de Talara"
+                },
+                {
+                    "city_name": "Provincia de Sullana"
+                },
+                {
+                    "city_name": "Provincia de Piura"
+                },
+                {
+                    "city_name": "Provincia de Paita"
+                },
+                {
+                    "city_name": "Morropon"
+                },
+                {
+                    "city_name": "Provincia de Huancabamba"
+                },
+                {
+                    "city_name": "Provincia de Ayabaca"
+                },
+                {
+                    "city_name": "Sechura"
+                }
+            ]
+        },
+        {
+            "province_name": "Loreto",
+            "cities": [
+                {
+                    "city_name": "Provincia de Ucayali"
+                },
+                {
+                    "city_name": "Provincia de Requena"
+                },
+                {
+                    "city_name": "Provincia de Maynas"
+                },
+                {
+                    "city_name": "Provincia de Loreto"
+                },
+                {
+                    "city_name": "Provincia de Alto Amazonas"
+                },
+                {
+                    "city_name": "Mariscal Ramon Castilla"
+                },
+                {
+                    "city_name": "Datem Del Maranon"
+                }
+            ]
+        },
+        {
+            "province_name": "Lambayeque",
+            "cities": [
+                {
+                    "city_name": "Provincia de Lambayeque"
+                },
+                {
+                    "city_name": "Provincia de Ferrenafe"
+                },
+                {
+                    "city_name": "Provincia de Chiclayo"
+                }
+            ]
+        },
+        {
+            "province_name": "La Libertad",
+            "cities": [
+                {
+                    "city_name": "Provincia de Trujillo"
+                },
+                {
+                    "city_name": "Provincia de Santiago de Chuco"
+                },
+                {
+                    "city_name": "Provincia de Pataz"
+                },
+                {
+                    "city_name": "Provincia de Pacasmayo"
+                },
+                {
+                    "city_name": "Provincia de Otuzco"
+                },
+                {
+                    "city_name": "Provincia de Bolivar"
+                },
+                {
+                    "city_name": "Sanchez Carrion"
+                },
+                {
+                    "city_name": "Ascope"
+                },
+                {
+                    "city_name": "Chepen"
+                },
+                {
+                    "city_name": "Julcan"
+                },
+                {
+                    "city_name": "Gran Chimu"
+                },
+                {
+                    "city_name": "Viru"
+                }
+            ]
+        },
+        {
+            "province_name": "Region de Huanuco",
+            "cities": [
+                {
+                    "city_name": "Provincia de Pachitea"
+                },
+                {
+                    "city_name": "Provincia de Maranon"
+                },
+                {
+                    "city_name": "Provincia de Leoncio Prado"
+                },
+                {
+                    "city_name": "Provincia de Huanuco"
+                },
+                {
+                    "city_name": "Provincia de Huamalies"
+                },
+                {
+                    "city_name": "Provincia de Dos de Mayo"
+                },
+                {
+                    "city_name": "Provincia de Ambo"
+                },
+                {
+                    "city_name": "Huacaybamba"
+                },
+                {
+                    "city_name": "Puerto Inca"
+                },
+                {
+                    "city_name": "Lauricocha"
+                },
+                {
+                    "city_name": "Yarowilca"
+                }
+            ]
+        },
+        {
+            "province_name": "Cajamarca",
+            "cities": [
+                {
+                    "city_name": "Provincia de Santa Cruz"
+                },
+                {
+                    "city_name": "Provincia de San Miguel"
+                },
+                {
+                    "city_name": "Provincia de San Ignacio"
+                },
+                {
+                    "city_name": "Provincia de Jaen"
+                },
+                {
+                    "city_name": "Provincia de Hualgayoc"
+                },
+                {
+                    "city_name": "Provincia de Cutervo"
+                },
+                {
+                    "city_name": "Provincia de Contumaza"
+                },
+                {
+                    "city_name": "Provincia de Chota"
+                },
+                {
+                    "city_name": "Provincia de Celendin"
+                },
+                {
+                    "city_name": "Provincia de Cajamarca"
+                },
+                {
+                    "city_name": "Provincia de Cajabamba"
+                },
+                {
+                    "city_name": "San Marcos"
+                },
+                {
+                    "city_name": "San Pablo"
+                }
+            ]
+        },
+        {
+            "province_name": "Ancash",
+            "cities": [
+                {
+                    "city_name": "Provincia de Yungay"
+                },
+                {
+                    "city_name": "Provincia de Sihuas"
+                },
+                {
+                    "city_name": "Provincia de Santa"
+                },
+                {
+                    "city_name": "Provincia de Pomabamba"
+                },
+                {
+                    "city_name": "Provincia de Pallasca"
+                },
+                {
+                    "city_name": "Provincia de Mariscal Luzuriaga"
+                },
+                {
+                    "city_name": "Provincia de Huaylas"
+                },
+                {
+                    "city_name": "Provincia de Huarmey"
+                },
+                {
+                    "city_name": "Provincia de Huari"
+                },
+                {
+                    "city_name": "Provincia de Huaraz"
+                },
+                {
+                    "city_name": "Provincia de Corongo"
+                },
+                {
+                    "city_name": "Provincia de Casma"
+                },
+                {
+                    "city_name": "Provincia de Carhuaz"
+                },
+                {
+                    "city_name": "Provincia de Antonio Raymondi"
+                },
+                {
+                    "city_name": "Provincia de Aija"
+                },
+                {
+                    "city_name": "Provincia de Recuay"
+                },
+                {
+                    "city_name": "Provincia de Bolognesi"
+                },
+                {
+                    "city_name": "Asuncion"
+                },
+                {
+                    "city_name": "Carlos Fermin Fitzcarrald"
+                },
+                {
+                    "city_name": "Ocros"
+                }
+            ]
+        },
+        {
+            "province_name": "Amazonas",
+            "cities": [
+                {
+                    "city_name": "Provincia de Rodriguez de Mendoza"
+                },
+                {
+                    "city_name": "Provincia de Luya"
+                },
+                {
+                    "city_name": "Provincia de Chachapoyas"
+                },
+                {
+                    "city_name": "Provincia de Bongara"
+                },
+                {
+                    "city_name": "Provincia de Bagua"
+                },
+                {
+                    "city_name": "Condorcanqui"
+                },
+                {
+                    "city_name": "Utcubamba"
+                }
+            ]
+        },
+        {
+            "province_name": "Tacna",
+            "cities": [
+                {
+                    "city_name": "Provincia de Tarata"
+                },
+                {
+                    "city_name": "Provincia de Tacna"
+                },
+                {
+                    "city_name": "Candarave"
+                },
+                {
+                    "city_name": "Jorge Basadre"
+                }
+            ]
+        },
+        {
+            "province_name": "Puno",
+            "cities": [
+                {
+                    "city_name": "San Roman"
+                },
+                {
+                    "city_name": "Provincia de Sandia"
+                },
+                {
+                    "city_name": "Provincia de Puno"
+                },
+                {
+                    "city_name": "Provincia de Melgar"
+                },
+                {
+                    "city_name": "Provincia de Lampa"
+                },
+                {
+                    "city_name": "Provincia de Huancane"
+                },
+                {
+                    "city_name": "Provincia de Chucuito"
+                },
+                {
+                    "city_name": "Provincia de Carabaya"
+                },
+                {
+                    "city_name": "Provincia de Azangaro"
+                },
+                {
+                    "city_name": "El Collao"
+                },
+                {
+                    "city_name": "Moho"
+                },
+                {
+                    "city_name": "San Antonio De Putina"
+                },
+                {
+                    "city_name": "Yunguyo"
+                }
+            ]
+        },
+        {
+            "province_name": "Pasco",
+            "cities": [
+                {
+                    "city_name": "Provincia de Pasco"
+                },
+                {
+                    "city_name": "Provincia de Oxapampa"
+                },
+                {
+                    "city_name": "Provincia de Daniel Carrion"
+                }
+            ]
+        },
+        {
+            "province_name": "Departamento de Moquegua",
+            "cities": [
+                {
+                    "city_name": "Provincia de Mariscal Nieto"
+                },
+                {
+                    "city_name": "Provincia de Ilo"
+                },
+                {
+                    "city_name": "Provincia de General Sanchez Cerro"
+                }
+            ]
+        },
+        {
+            "province_name": "Madre de Dios",
+            "cities": [
+                {
+                    "city_name": "Provincia de Tambopata"
+                },
+                {
+                    "city_name": "Provincia de Tahuamanu"
+                },
+                {
+                    "city_name": "Provincia de Manu"
+                }
+            ]
+        },
+        {
+            "province_name": "Provincia de Lima",
+            "cities": []
+        },
+        {
+            "province_name": "Lima",
+            "cities": [
+                {
+                    "city_name": "Provincia de Yauyos"
+                },
+                {
+                    "city_name": "Provincia de Huarochiri"
+                },
+                {
+                    "city_name": "Provincia de Huaral"
+                },
+                {
+                    "city_name": "Provincia de Canta"
+                },
+                {
+                    "city_name": "Provincia de Canete"
+                },
+                {
+                    "city_name": "Provincia de Cajatambo"
+                },
+                {
+                    "city_name": "Barranca"
+                },
+                {
+                    "city_name": "Huaura"
+                },
+                {
+                    "city_name": "Oyon"
+                },
+                {
+                    "city_name": "Lima"
+                }
+            ]
+        },
+        {
+            "province_name": "Junin",
+            "cities": [
+                {
+                    "city_name": "Provincia de Yauli"
+                },
+                {
+                    "city_name": "Provincia de Tarma"
+                },
+                {
+                    "city_name": "Provincia de Satipo"
+                },
+                {
+                    "city_name": "Provincia de Junin"
+                },
+                {
+                    "city_name": "Provincia de Jauja"
+                },
+                {
+                    "city_name": "Provincia de Huancayo"
+                },
+                {
+                    "city_name": "Provincia de Concepcion"
+                },
+                {
+                    "city_name": "Chanchamayo"
+                },
+                {
+                    "city_name": "Provincia de Chupaca"
+                }
+            ]
+        },
+        {
+            "province_name": "Ica",
+            "cities": [
+                {
+                    "city_name": "Provincia de Ica"
+                },
+                {
+                    "city_name": "Provincia de Pisco"
+                },
+                {
+                    "city_name": "Provincia de Palpa"
+                },
+                {
+                    "city_name": "Provincia de Nazca"
+                },
+                {
+                    "city_name": "Provincia de Chincha"
+                }
+            ]
+        },
+        {
+            "province_name": "Huancavelica",
+            "cities": [
+                {
+                    "city_name": "Provincia de Tayacaja"
+                },
+                {
+                    "city_name": "Provincia de Huancavelica"
+                },
+                {
+                    "city_name": "Provincia de Castrovirreyna"
+                },
+                {
+                    "city_name": "Provincia de Angaraes"
+                },
+                {
+                    "city_name": "Provincia de Acobamba"
+                },
+                {
+                    "city_name": "Provincia de Churcampa"
+                },
+                {
+                    "city_name": "Huaytara"
+                }
+            ]
+        },
+        {
+            "province_name": "Cusco",
+            "cities": [
+                {
+                    "city_name": "Provincia de Urubamba"
+                },
+                {
+                    "city_name": "Provincia de Quispicanchis"
+                },
+                {
+                    "city_name": "Provincia de Paucartambo"
+                },
+                {
+                    "city_name": "Provincia de Paruro"
+                },
+                {
+                    "city_name": "Provincia de La Convencion"
+                },
+                {
+                    "city_name": "Provincia de Espinar"
+                },
+                {
+                    "city_name": "Provincia de Cusco"
+                },
+                {
+                    "city_name": "Provincia de Chumbivilcas"
+                },
+                {
+                    "city_name": "Provincia de Canchis"
+                },
+                {
+                    "city_name": "Provincia de Canas"
+                },
+                {
+                    "city_name": "Provincia de Calca"
+                },
+                {
+                    "city_name": "Provincia de Anta"
+                },
+                {
+                    "city_name": "Provincia de Acomayo"
+                }
+            ]
+        },
+        {
+            "province_name": "Callao",
+            "cities": [
+                {
+                    "city_name": "Callao"
+                }
+            ]
+        },
+        {
+            "province_name": "Ayacucho",
+            "cities": [
+                {
+                    "city_name": "Provincia de Victor Fajardo"
+                },
+                {
+                    "city_name": "Provincia de Parinacochas"
+                },
+                {
+                    "city_name": "Provincia de Lucanas"
+                },
+                {
+                    "city_name": "Provincia de La Mar"
+                },
+                {
+                    "city_name": "Provincia de Huanta"
+                },
+                {
+                    "city_name": "Provincia de Huamanga"
+                },
+                {
+                    "city_name": "Provincia de Cangallo"
+                },
+                {
+                    "city_name": "Provincia de Sucre"
+                },
+                {
+                    "city_name": "Provincia de Huanca Sancos"
+                },
+                {
+                    "city_name": "Provincia de Vilcas Huaman"
+                },
+                {
+                    "city_name": "Paucar Del Sara Sara"
+                }
+            ]
+        },
+        {
+            "province_name": "Arequipa",
+            "cities": [
+                {
+                    "city_name": "Provincia de La Union"
+                },
+                {
+                    "city_name": "Provincia de Islay"
+                },
+                {
+                    "city_name": "Provincia de Condesuyos"
+                },
+                {
+                    "city_name": "Provincia de Caylloma"
+                },
+                {
+                    "city_name": "Provincia de Castilla"
+                },
+                {
+                    "city_name": "Provincia de Caraveli"
+                },
+                {
+                    "city_name": "Provincia de Camana"
+                },
+                {
+                    "city_name": "Provincia de Arequipa"
+                }
+            ]
+        },
+        {
+            "province_name": "Apurimac",
+            "cities": [
+                {
+                    "city_name": "Provincia de Grau"
+                },
+                {
+                    "city_name": "Provincia de Cotabambas"
+                },
+                {
+                    "city_name": "Provincia de Aymaraes"
+                },
+                {
+                    "city_name": "Provincia de Antabamba"
+                },
+                {
+                    "city_name": "Provincia de Andahuaylas"
+                },
+                {
+                    "city_name": "Provincia de Abancay"
+                },
+                {
+                    "city_name": "Chincheros"
+                }
+            ]
+        }
+    ]
+}
